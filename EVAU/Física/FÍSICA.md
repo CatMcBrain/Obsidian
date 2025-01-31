@@ -1,3 +1,2 @@
-
 ## Temario
 ### [[Gravitación]]
