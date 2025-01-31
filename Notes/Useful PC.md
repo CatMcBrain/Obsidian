@@ -37,6 +37,7 @@ _____________________
 - (iriun webcam)
 - (musicbee)
 - (OBS)
+- ([QuickShare](https://www.geeksforgeeks.org/restore-win-missing-background-apps/))
 
 ## Windows 11 old context menu
 **Restore the old Context Menu in Windows 11**
