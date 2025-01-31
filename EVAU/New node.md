@@ -1,4 +1,4 @@
 Yup
 
-[[Temario]] [link](google.com)
+[[Temario]]
 
