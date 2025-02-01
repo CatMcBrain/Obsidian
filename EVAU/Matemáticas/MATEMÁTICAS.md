@@ -12,4 +12,8 @@
 	- ### [[Superficie Esférica]]
 - ### [[Análisis]]
 	- ### [[Funciones]]
-		- 
+		- ### [[Límites]]
+		- ### [[Derivadas]]
+	- ### [[Integrales]]
+		- [[Áreas Delimitadas]]
+- ### [[Estadística]]
