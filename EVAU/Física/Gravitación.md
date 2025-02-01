@@ -2,4 +2,4 @@
 
 - ## Fórmulas
 
-**Momento angular:** $|\\vec{}|$
+**Momento angular:** $|\vec{L}|=r m v$
