@@ -13,4 +13,3 @@
 	- ### [[Óptica Geométrica]]
 - ### [[Física Moderna]]
 
-[[^]]
