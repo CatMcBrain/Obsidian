@@ -7,3 +7,10 @@
 **Tercera Ley Kepler (ELIPSE):** 
 
 
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.1 - 17.46pm.writing"
+}
+```
