@@ -1,7 +1,4 @@
 #Star 
-
-[(UAM)](https://www.adcym.es/documentos/M25/UAM/TEMARIO/Temario-matematicas.pdf)
-
 ## Temario 
 
 - ### [[Álgebra]]

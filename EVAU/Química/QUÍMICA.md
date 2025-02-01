@@ -1,5 +1,4 @@
 #Star 
-
 ## Temario
 
 - ### [[Estructura, Propiedades, Enlace]]
