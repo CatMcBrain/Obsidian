@@ -7,5 +7,9 @@
 	- ### [[Sistemas de Ecuaciones]]
 - ### [[Geometría]]
 	- ### [[Vectores]]
-	- ### [[Ecuaciones de la Recta]]
-	- ### [[]]
+	- ### [[Ecuaciones de la Recta, Posiciones]]
+	- ### [[Áreas y Volúmenes]]
+	- ### [[Superficie Esférica]]
+- ### [[Análisis]]
+	- ### [[Funciones]]
+		- 
