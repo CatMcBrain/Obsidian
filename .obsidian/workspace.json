@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVAU/Física/Notas Gravitación.md",
+                "file": "EVAU/Física/Gravitación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas Gravitación"
+              "title": "Gravitación"
+            }
+          },
+          {
+            "id": "cb20baaf2d60c2ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -214,9 +224,9 @@
   },
   "active": "49c07b2a8efa665a",
   "lastOpenFiles": [
-    "EVAU/Física/Gravitación.md",
     "EVAU/Física/Problemas Gravitación.md",
     "EVAU/Física/Notas Gravitación.md",
+    "EVAU/Física/Gravitación.md",
     "Pasted Image 20250202133935_784.png",
     "Gravitación^70268a.md",
     "EVAU/Física/FÍSICA.md",
