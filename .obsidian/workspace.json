@@ -37,12 +37,14 @@
             "id": "07c1a827d7b3af0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "EVAU/Física/Problemas Gravitación.md"
+                "file": "EVAU/Física/Gravitación.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Gravitación"
+              "icon": "lucide-file",
+              "title": "Gravitación"
             }
           },
           {
@@ -232,18 +234,18 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "9519416c759d2a22",
+  "active": "07c1a827d7b3af0e",
   "lastOpenFiles": [
+    "EVAU/Física/FÍSICA.md",
+    "EVAU/Física/Problemas Gravitación.md",
     "Snippets/formula.txt",
     "Snippets/New Text Document.txt",
     "Snippets",
-    "EVAU/Física/Problemas Gravitación.md",
     "EVAU/Física/Gravitación.md",
     "EVAU/Física/Notas Gravitación.md",
     "conflict-files-obsidian-git.md",
     "Pasted Image 20250202133935_784.png",
     "Gravitación^70268a.md",
-    "EVAU/Física/FÍSICA.md",
     "Ink/Writing/2025.2.1 - 17.46pm.writing",
     "Ink/Writing",
     "Ink/Drawing/2025.2.1 - 17.44pm.drawing",
@@ -255,7 +257,6 @@
     "Excalidraw/Drawing 2025-02-01 14.37.50.excalidraw.md",
     "EVAU/Inglés/INGLÉS.md",
     "Excalidraw",
-    "Ink/Writing/2025.2.1 - 14.37pm.writing",
     "Campo eléctrico.md",
     "Gravitación.md",
     "EVAU/EVAU.md",
