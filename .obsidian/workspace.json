@@ -43,7 +43,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +216,11 @@
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "233571386dc3e9d7",
   "lastOpenFiles": [
     "EVAU/Física/Problemas Gravitación.md",
     "conflict-files-obsidian-git.md",
