@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Problemas Gravitación"
             }
+          },
+          {
+            "id": "7064e02ac677f3f2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "EVAU/Física/Problemas Gravitación.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problemas Gravitación"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,11 +220,11 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "3d2593fc887b6133",
+  "active": "7064e02ac677f3f2",
   "lastOpenFiles": [
+    "EVAU/Física/FÍSICA.md",
     "EVAU/Física/Gravitación.md",
     "EVAU/Física/Problemas Gravitación.md",
-    "EVAU/Física/FÍSICA.md",
     "Ink/Writing/2025.2.1 - 17.46pm.writing",
     "Ink/Writing",
     "Ink/Drawing/2025.2.1 - 17.44pm.drawing",
