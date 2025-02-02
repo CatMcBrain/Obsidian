@@ -1,4 +1,4 @@
-### [[Problemas Gravitación]]  [[#^71f3b8]]
+### [[Problemas Gravitación]]  
 
 - ## Fórmulas
 
