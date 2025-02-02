@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "accentColor": "#bf91ee",
+  "enabledCssSnippets": [
+    "no-underline"
+  ]
+}
