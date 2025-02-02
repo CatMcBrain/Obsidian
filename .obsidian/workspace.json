@@ -37,12 +37,12 @@
             "id": "ed6fd35a914f3808",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted Image 20250202191710_280.png"
+                "file": "EVAU/Matemáticas/Problemas Álgebra.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250202191710_280"
+              "icon": "excalidraw-icon",
+              "title": "Problemas Álgebra"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "ed6fd35a914f3808",
   "lastOpenFiles": [
-    "EVAU/Matemáticas/Problemas Álgebra.md",
     "Pasted Image 20250202191710_280.png",
+    "EVAU/Matemáticas/Problemas Álgebra.md",
     "EVAU/Matemáticas/Álgebra.md",
     "EVAU/Matemáticas/MATEMÁTICAS.md",
     "Excalidraw",
