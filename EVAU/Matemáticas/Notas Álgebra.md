@@ -3,4 +3,7 @@
 	-  **Cuadrada**
 	-  **Rg = máx**
 
-- Para estudiar **RANGO** de matriz con **lambda**
+- Para estudiar **RANGO** de matriz con **lambda**:
+	- 1) Calcular determinante e igualar a 0
+	- 2) Ver para lambda =0, >0, <0
+	- 3) Si el nuevo determinante es =0
