@@ -1,1 +1,1 @@
-$\boxed{(...)}$
+$\boxed{<% tp.file.cursor(1) %>}$
