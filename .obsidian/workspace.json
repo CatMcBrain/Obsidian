@@ -55,7 +55,8 @@
               "title": "Problemas Gravitación"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,10 +232,10 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3d2593fc887b6133",
   "lastOpenFiles": [
-    "EVAU/Física/Gravitación.md",
     "EVAU/Física/Problemas Gravitación.md",
+    "EVAU/Física/Gravitación.md",
     "Gravitación^70268a.md",
     "EVAU/Física/FÍSICA.md",
     "Ink/Writing/2025.2.1 - 17.46pm.writing",

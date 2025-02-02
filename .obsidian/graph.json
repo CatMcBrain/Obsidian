@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#Prob  ",
+      "color": {
+        "a": 1,
+        "rgb": 14509156
+      }
     }
   ],
   "collapse-display": false,
@@ -33,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 200,
   "scale": 0.7427167232495664,
-  "close": true
+  "close": false
 }
