@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "aee6aca506e21d45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "EVAU/Matemáticas/Problemas Álgebra.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problemas Álgebra"
+            }
+          },
+          {
+            "id": "ed6fd35a914f3808",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20250202191710_280.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250202191710_280"
+            }
+          },
+          {
             "id": "233571386dc3e9d7",
             "type": "leaf",
             "state": {
@@ -59,7 +83,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,11 +260,15 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ed6fd35a914f3808",
   "lastOpenFiles": [
+    "EVAU/Matemáticas/Problemas Álgebra.md",
+    "Pasted Image 20250202191710_280.png",
+    "EVAU/Matemáticas/Álgebra.md",
+    "EVAU/Matemáticas/MATEMÁTICAS.md",
+    "Excalidraw",
     "EVAU/Química/QUÍMICA.md",
     "EVAU/Física/FÍSICA.md",
-    "EVAU/Matemáticas/MATEMÁTICAS.md",
     "EVAU/Física/Problemas Gravitación.md",
     "EVAU/Física/Gravitación.md",
     "Snippets/formula.txt",
@@ -259,7 +288,6 @@
     "Pasted Image 20250201133805_084.png",
     "Excalidraw/Drawing 2025-02-01 14.37.50.excalidraw.md",
     "EVAU/Inglés/INGLÉS.md",
-    "Excalidraw",
     "Campo eléctrico.md",
     "Gravitación.md",
     "EVAU/EVAU.md",
@@ -274,13 +302,10 @@
     "Main/EVAU/Física/FÍSICA.md",
     "Main/EVAU/EVAU.md",
     "Main/back.png",
-    "google.com.md",
-    "link.md",
     "Main/publish/attachments/vercel-project-id.png",
     "Main/publish/attachments/vercel-create-token.png",
     "Main/publish/attachments/vercel-account-id.png",
     "Main/publish/attachments/publish-dir-yml.png",
-    "Main/publish/attachments/how-linked-blog-starter-works.png",
-    "Main/publish/attachments/github-secrets-vercel.png"
+    "Main/publish/attachments/how-linked-blog-starter-works.png"
   ]
 }
