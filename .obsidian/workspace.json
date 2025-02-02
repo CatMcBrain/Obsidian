@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "EVAU/Física/Problemas Gravitación.md"
+                "file": "EVAU/Física/Gravitación.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Gravitación"
+              "icon": "lucide-file",
+              "title": "Gravitación"
             }
           }
         ]
@@ -197,8 +199,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "EVAU/Física/Gravitación.md",
     "EVAU/Física/Problemas Gravitación.md",
+    "EVAU/Física/Gravitación.md",
     "EVAU/Física/FÍSICA.md",
     "Ink/Writing/2025.2.1 - 17.46pm.writing",
     "Ink/Writing",

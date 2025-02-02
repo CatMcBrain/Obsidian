@@ -4,7 +4,7 @@
 
 **Momento angular:** $|\vec{L}|=r m v$  ^70268a
 
-**Tercera Ley Kepler (ELIPSE):** $v =\frac{2\pi r}{T}$
+**Tercera Ley Kepler (ELIPSE):** $T^{2}=\frac$
 
 
 ```handwritten-ink
