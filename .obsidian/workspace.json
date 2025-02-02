@@ -43,8 +43,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "07c1a827d7b3af0e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "EVAU/Física/Notas Gravitación.md",
     "EVAU/Física/Problemas Gravitación.md",
