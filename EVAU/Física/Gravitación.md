@@ -7,7 +7,6 @@
 **Tercera Ley Kepler (ELIPSE):** $v =\frac{2\pi r}{T}$
 
 
-
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.3",
