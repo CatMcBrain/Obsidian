@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "EVAU/Física/Problemas Gravitación.md"
+                "file": "EVAU/Matemáticas/MATEMÁTICAS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Gravitación"
+              "icon": "lucide-file",
+              "title": "MATEMÁTICAS"
             }
           },
           {
@@ -235,9 +237,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "EVAU/Física/Gravitación.md",
+    "EVAU/Química/QUÍMICA.md",
     "EVAU/Física/FÍSICA.md",
+    "EVAU/Matemáticas/MATEMÁTICAS.md",
     "EVAU/Física/Problemas Gravitación.md",
+    "EVAU/Física/Gravitación.md",
     "Snippets/formula.txt",
     "Snippets/New Text Document.txt",
     "Snippets",
@@ -259,8 +263,6 @@
     "Campo eléctrico.md",
     "Gravitación.md",
     "EVAU/EVAU.md",
-    "EVAU/Química/QUÍMICA.md",
-    "EVAU/Matemáticas/MATEMÁTICAS.md",
     "EVAU/Lengua/LENGUA.md",
     "EVAU/Filosofía/FILOSOFÍA.md",
     "EVAU/Untitled.md",

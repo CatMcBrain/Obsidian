@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "MATEMÁTICAS",
+      "path": "EVAU/Matemáticas/MATEMÁTICAS.md"
+    },
+    {
+      "basename": "QUÍMICA",
+      "path": "EVAU/Química/QUÍMICA.md"
+    },
+    {
+      "basename": "FÍSICA",
+      "path": "EVAU/Física/FÍSICA.md"
+    },
+    {
       "basename": "Problemas Gravitación",
       "path": "EVAU/Física/Problemas Gravitación.md"
     },
     {
       "basename": "Gravitación",
       "path": "EVAU/Física/Gravitación.md"
-    },
-    {
-      "basename": "FÍSICA",
-      "path": "EVAU/Física/FÍSICA.md"
     },
     {
       "basename": "Notas Gravitación",
@@ -31,14 +39,6 @@
     {
       "basename": "EVAU",
       "path": "EVAU/EVAU.md"
-    },
-    {
-      "basename": "QUÍMICA",
-      "path": "EVAU/Química/QUÍMICA.md"
-    },
-    {
-      "basename": "MATEMÁTICAS",
-      "path": "EVAU/Matemáticas/MATEMÁTICAS.md"
     },
     {
       "basename": "LENGUA",
