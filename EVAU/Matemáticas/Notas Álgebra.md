@@ -3,12 +3,13 @@
 	-  **Cuadrada**
 	-  **Rg = máx**
 
-- **ESTUDIO DE RANGO**
-	- 1) 
+- **ESTUDIO DE RANGO**  (ej. 3x3)^b388b7
+	- 1) Calcular **determinante**: si es = 0, rango _baja_
+	-  2) 
 
 - Para estudiar **RANGO** de matriz con **lambda**: ^dd4366
 	- 1) Calcular **determinante e igualar a 0**
-	- 2) Estudiar invididual para **lambda** =0, >0, <0 
+	- 2) Estudiar invididual para **lambda** =0, >0, <0 [[Notas Álgebra#^b388b7|(Ver)]]
 	
 - Estudiar **SISTEMA** (con matriz ampliada): ([[Problemas Álgebra#^an6OtXMB|Ejercicio]])
 	- 1) Hallar 
