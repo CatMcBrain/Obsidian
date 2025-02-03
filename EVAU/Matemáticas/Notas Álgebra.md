@@ -9,6 +9,6 @@
 	- 3) Si el nuevo determinante es =0, el **rango baja**
 	- 4) Para verificar **rg exacto**, divido elemento por elemento de dos filas. Si no dan la misma cifra, son **LI**
 	
-- Estudiar **SISTEMA** (con matriz ampliada):
+- Estudiar **SISTEMA** (con matriz ampliada): ([[Problemas Álgebra#^an6OtXMB|Ejercicio]])
 	- 1) Hallar una **submatriz** cuadrada y hacer su determinante para **resolver "a"**
 	- 2) Estudiar **rango** del sistema entero para cada valor hallado de "a"
