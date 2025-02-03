@@ -10,4 +10,5 @@
 	- 4) Para verificar **rg exacto**, divido elemento por elemento de dos filas. Si no dan la misma cifra, son **LI**
 	
 - Estudiar **SISTEMA** (con matriz ampliada):
-	- 1) Hallar una submatriz cuadrada
+	- 1) Hallar una **submatriz** cuadrada y hacer su determinante para **resolver "a"**
+	- 2) Estudiar **rango** del sistema entero para cada valor hallado de "a"
