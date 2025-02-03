@@ -4,8 +4,9 @@
 	-  **Rg = máx**
 
 - **ESTUDIO DE RANGO**  (ej. 3x3)^b388b7
-	- 1) Calcular **determinante**: si es = 0, rango _baja_
-	-  2) 
+	- 1) Calcular **determinante**: si es =0, rango _baja_ ($\leq 2$ )
+	- 2) Calcular determinante de **submatriz**$^1$: si es =0, rango _baja_ ($= 1$ )
+	$^1$ Para calcular una 
 
 - Para estudiar **RANGO** de matriz con **lambda**: ^dd4366
 	- 1) Calcular **determinante e igualar a 0**
