@@ -13,6 +13,6 @@
 	- 2) Estudiar invididual para **lambda** =0, >0, <0 [[Notas Álgebra#^b388b7|(Ver)]]
 	
 - Estudiar **SISTEMA** (con matriz ampliada): ([[Problemas Álgebra#^an6OtXMB|Ejercicio]])
-	- 1) Hallar 
+	- 1) Hallar **rango de A sin**
 	- 1) Hallar una **submatriz** cuadrada y hacer su determinante para **resolver "a"**
-	- 2) Estudiar **rango** del sistema entero para cada valor hallado de "a", y para valores$\neq$
+	- 2) Estudiar **rango** del sistema entero para **cada valor hallado** de "a", y para valores$\neq$ de los hallados. [[Notas Álgebra#^b388b7|(Ver)]]
