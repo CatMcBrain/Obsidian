@@ -25,5 +25,6 @@
 ```
 
 		$(n = \text{número de incógnitas})$
+		<sub>Para hallar el rg de la matriz ampliada, se hace una submatriz (3x3) de la misma (3x4) que contenga la columna de la ampliada (la que tiene la incógnita "a")</sub>
 
 - 
