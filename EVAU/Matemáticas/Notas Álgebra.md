@@ -26,5 +26,6 @@
 ```
 
 			$(n = \text{número de incógnitas})$
+	<font color="#c0504d">Truco: Realizar el determinante de "A*" en función de "a", y así luego sólo debemos sutituir para cada valor (MÁS RÁPIDO)</font>
 
 - 
