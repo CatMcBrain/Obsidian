@@ -24,3 +24,6 @@
 }
 ```
 
+		$(n = \text{número de incógnitas})$
+
+- 
