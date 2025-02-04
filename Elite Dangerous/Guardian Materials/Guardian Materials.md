@@ -12,4 +12,4 @@
 
 ![[3hi67aish1j11.webp]]
 
-- 
+- To **follow coordinates**, check HUD in orbital flight mode, close to the planet.
