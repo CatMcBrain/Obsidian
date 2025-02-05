@@ -3,4 +3,4 @@
 
 - [Anti Xeno Initiative](https://antixenoinitiative.com/)
 
-Written in PC
+MOBILE
