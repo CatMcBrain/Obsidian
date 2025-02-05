@@ -8,7 +8,8 @@
 
 ## Obelisk patterns
 
-(Synuefe NL-N C23-4 B 3) -> **Coordinates:** 48.1808, -48.3718
+(Synuefe NL-N C23-4 B 3) -> **ANCIENT RUINS 1
+**Coordinates:** 48.1808, -48.3718
 
 ![[3hi67aish1j11.webp]]
 
