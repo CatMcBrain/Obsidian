@@ -3,4 +3,4 @@
 
 - [Anti Xeno Initiative](https://antixenoinitiative.com/)
 
-MOBILE
+PC
