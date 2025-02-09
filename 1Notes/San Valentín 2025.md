@@ -114,5 +114,6 @@
 (Primera vez que nos decimos novio y novia)
 ![[Pasted image 20250210001532.png]]
 ![[Pasted image 20250210001548.png]]
+![[Pasted image 20250210001806.png]]
 
 
