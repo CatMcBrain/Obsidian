@@ -42,3 +42,7 @@
 ![[Pasted image 20250209202117.png]]
 19/12/2024 - Mi tren hacia casita :)
 ![[WhatsApp Image 2024-12-19 at 11.00.06_d82bfe63.jpg]]
+19/12/2024 - La primera vez que viajo solo y...
+![[Pasted image 20250209202516.png]]
+20/12/2024 - Antes de dormir la primera noche
+![[Pasted image 20250209202614.png]]
