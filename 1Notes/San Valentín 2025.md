@@ -14,3 +14,6 @@
 ![[Pasted image 20250209194715.png]]
 27/10/2024 - Captura imposible
 ![[WhatsApp Image 2024-10-27 at 02.27.43_799facc7.jpg]]
+27/10/2024 - Excusa de mi cumpleaños para menc
+
+![[WhatsApp Image 2024-10-27 at 23.31.07_aeb3851a.jpg]]
