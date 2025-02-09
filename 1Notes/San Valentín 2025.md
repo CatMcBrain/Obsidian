@@ -117,5 +117,7 @@
 ![[Pasted image 20250210001806.png]]
 (Un momento calentito el mismo día. Somos el uno para el otro)
 ![[Pasted image 20250210002142.png]]
+(Me hace tan feliz que te guste esto de mí también)
+![[Pasted image 20250210002312.png]]
 
 
