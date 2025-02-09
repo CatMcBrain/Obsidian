@@ -8,3 +8,5 @@
 ![[Pasted image 20250209193506.png]]
 24/10/2024 - NO TIREES
 ![[Pasted image 20250209193819.png]]
+26/10/2024 - Primera captura juntos
+![[WhatsApp Image 2024-10-26 at 23.18.56_e6676de8.jpg]]
