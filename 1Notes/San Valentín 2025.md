@@ -49,3 +49,7 @@
 20/12/2024 - Noria
 ![[WhatsApp Image 2024-12-20 at 19.23.07_7e5a0cb1.jpg]]
 21/12/2024 - Despedida segunda noche
+![[Pasted image 20250209202821.png]]
+![[Pasted image 20250209202904.png]]
+![[Pasted image 20250209202925.png]]
+![[Pasted image 20250209202959.png]]
