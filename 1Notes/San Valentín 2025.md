@@ -30,3 +30,5 @@
 ![[Pasted image 20250209200649.png]]
 02/11/2024 - Jumpscare
 ![[Pasted image 20250209201001.png]]
+06/11/2024 - Yo de Changli (ME SINTIÓ TAN BIEN ESE MENSAJE)
+![[Pasted image 20250209201250.png]]
