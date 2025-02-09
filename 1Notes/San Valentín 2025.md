@@ -2,7 +2,8 @@
 ## WhatsApp
 
 ### 28/9/2024 - Primeros mensajes
-![[Pasted image 20250209191924.png]]28/9/2024 - Primer "buenas noches"
+![[Pasted image 20250209191924.png]]
+### 28/9/2024 - Primer "buenas noches"
 ![[Pasted image 20250209192512.png]]
 ### 21/10/2024 - Con 5 de ellos
 ![[Pasted image 20250209193506.png]]
@@ -24,6 +25,7 @@
 ![[WhatsApp Image 2024-10-29 at 23.42.51_c0412316.jpg]]
 ### 30/10/2024 - Fotitos Halloween
 ![[Pasted image 20250209200246.png]]
+(Me hizo tanta ilusión mandarte en la que voy de gatita y que te gustase, cosas )
 ### 31/10/2024 - Primera invitación
 ![[Pasted image 20250209200528.png]]
 ### 31/10/2024 - Después de vernos en Halloween
@@ -71,7 +73,8 @@
 ![[Pasted image 20250209204048.png]]
 ![[Pasted image 20250209204126.png]]
 ![[WhatsApp Image 2024-12-24 at 02.58.46_a157e2a6.jpg]]
-![[Pasted image 20250209204518.png]]### 25/12/2024 - Mi chica
+![[Pasted image 20250209204518.png]]
+### 25/12/2024 - Mi chica
 ![[Pasted image 20250209205156.png]]
 ![[Pasted image 20250209205212.png]]
 ### 26/12/2024 - Primer Te Amo
