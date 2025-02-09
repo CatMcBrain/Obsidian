@@ -18,3 +18,5 @@
 ![[Pasted image 20250209195655.png]]
 27/10/2024 - Abracitooo
 ![[WhatsApp Image 2024-10-27 at 23.31.07_aeb3851a.jpg]]
+28/10/2024 - Gracias por jugar conmigo
+![[Pasted image 20250209195922.png]]
