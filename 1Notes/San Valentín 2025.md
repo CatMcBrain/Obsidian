@@ -119,5 +119,7 @@
 ![[Pasted image 20250210002142.png]]
 (Me hace tan feliz que te guste esto de mí también)
 ![[Pasted image 20250210002312.png]]
+(Que me ibas a tratar como una princesa me decías JIJI)
+![[Pasted image 20250210002503.png]]
 
 
