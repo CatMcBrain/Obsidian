@@ -44,5 +44,8 @@
 ![[WhatsApp Image 2024-12-19 at 11.00.06_d82bfe63.jpg]]
 19/12/2024 - La primera vez que viajo solo y...
 ![[Pasted image 20250209202516.png]]
-20/12/2024 - Antes de dormir la primera noche
+20/12/2024 - Despedida primera noche
 ![[Pasted image 20250209202614.png]]
+20/12/2024 - Noria
+![[WhatsApp Image 2024-12-20 at 19.23.07_7e5a0cb1.jpg]]
+21/12/2024 - Despedida segunda noche
