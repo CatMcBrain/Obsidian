@@ -92,3 +92,4 @@
 ![[Pasted image 20250209225940.png]]
 (La cara con la que me estabas dejando en la cena de año nuevo)
 ![[WhatsApp Image 2024-12-31 at 23.05.13_11f68670.jpg]]
+(La llamada de feliz Año Nuevo que tuvimos después fue tan importante para mí)
