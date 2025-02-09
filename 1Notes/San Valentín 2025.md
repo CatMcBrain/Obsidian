@@ -130,5 +130,7 @@
 ![[WhatsApp Image 2025-01-07 at 01.36.44_9d0c37ad.jpg]]
 (Y nuestro fondito)
 ![[WhatsApp Image 2025-01-07 at 01.52.18_08fe5fd2.jpg]]
+(Estoy tan orgulloso de tí)
+![[Pasted image 20250210003320.png]]
 
 
