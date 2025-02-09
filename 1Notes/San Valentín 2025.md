@@ -57,4 +57,6 @@
 ![[Pasted image 20250209203056.png]]
 21/12/2024 - Ruinas
 ![[WhatsApp Image 2024-12-21 at 13.54.24_3a0e714f.jpg]]
-22/12/2024 - 
+22/12/2024 - Tercera Noche
+![[Pasted image 20250209203256.png]]
+23/12/2024 - 
