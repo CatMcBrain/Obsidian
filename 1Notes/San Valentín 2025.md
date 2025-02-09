@@ -40,3 +40,5 @@
 ![[Pasted image 20250209202020.png]]
 12/12/2024 - Hablando de One Piece
 ![[Pasted image 20250209202117.png]]
+19/12/2024 - Mi tren hacia casita :)
+![[WhatsApp Image 2024-12-19 at 11.00.06_d82bfe63.jpg]]
