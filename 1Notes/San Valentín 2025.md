@@ -86,6 +86,9 @@
 29/12/2024 - Primer "Mensajito"
 ![[Pasted image 20250209225242.png]]
 ![[Pasted image 20250209225310.png]]
-Y más tarde hablaste sobre tu "problema" (para mí no lo es). Me hizo mucha ilusión.
+(Y más tarde hablaste sobre tu "problema" (para mí no lo es). Me hizo mucha ilusión.)
+
 31/12/2024 - Primera fotito de perfil
 ![[Pasted image 20250209225940.png]]
+(La cara con la que me estabas dejando en la cena de año nuevo)
+![[WhatsApp Image 2024-12-31 at 23.05.13_11f68670.jpg]]
