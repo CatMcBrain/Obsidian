@@ -28,3 +28,5 @@
 ![[Pasted image 20250209200528.png]]
 31/10/2024 - Después de vernos en Halloween
 ![[Pasted image 20250209200649.png]]
+02/11/2024 - Jumpscare
+![[Pasted image 20250209201001.png]]
