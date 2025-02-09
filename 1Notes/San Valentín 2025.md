@@ -53,3 +53,8 @@
 ![[Pasted image 20250209202904.png]]
 ![[Pasted image 20250209202925.png]]
 ![[Pasted image 20250209202959.png]]
+21/12/2024 - Primer Te Quiero
+![[Pasted image 20250209203056.png]]
+21/12/2024 - Ruinas
+![[WhatsApp Image 2024-12-21 at 13.54.24_3a0e714f.jpg]]
+22/12/2024 - 
