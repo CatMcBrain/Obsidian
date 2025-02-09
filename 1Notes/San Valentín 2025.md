@@ -38,3 +38,5 @@
 ![[WhatsApp Image 2024-11-25 at 21.13.09_14b6dcd3.jpg]]
 12/12/2024 - Tickets a Galicia
 ![[Pasted image 20250209202020.png]]
+12/12/2024 - Hablando de One Piece
+![[Pasted image 20250209202117.png]]
