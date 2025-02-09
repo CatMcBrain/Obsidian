@@ -106,3 +106,5 @@
 (Adoro hablar de nuestra vida juntitos)
 ![[Pasted image 20250210000558.png]]
 ![[Pasted image 20250210000735.png]]
+(Más fotitos de pareja)
+![[WhatsApp Image 2025-01-03 at 22.18.51_f045c46c.jpg]]
