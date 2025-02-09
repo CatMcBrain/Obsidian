@@ -32,3 +32,5 @@
 ![[Pasted image 20250209201001.png]]
 06/11/2024 - Yo de Changli (ME SINTIÓ TAN BIEN ESE MENSAJE)
 ![[Pasted image 20250209201250.png]]
+11/11/2024 - Fotito de pareja
+![[WhatsApp Image 2024-11-11 at 02.22.17_98838893.jpg]]
