@@ -82,3 +82,4 @@
 ![[Pasted image 20250209220932.png]]
 28/12/2024 - Billetes Madrid
 ![[Pasted image 20250209224803.png]]
+![[Pasted image 20250209225058.png]]
