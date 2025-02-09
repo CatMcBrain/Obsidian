@@ -74,3 +74,5 @@
 ![[Pasted image 20250209204518.png]]25/12/2024 - Mi chica
 ![[Pasted image 20250209205156.png]]
 ![[Pasted image 20250209205212.png]]
+26/12/2024 - Primer Te Amo
+![[Pasted image 20250209205408.png]]
