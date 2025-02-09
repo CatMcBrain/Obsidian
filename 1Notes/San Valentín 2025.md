@@ -109,3 +109,9 @@
 (Más fotitos de pareja, y nuestro paseíto en góndola)
 ![[WhatsApp Image 2025-01-03 at 22.18.51_f045c46c.jpg]]
 ![[WhatsApp Image 2025-01-03 at 23.26.36_66d1ea21.jpg]]
+![[WhatsApp Image 2025-01-03 at 23.53.56_cd2c0cd1.jpg]]
+![[WhatsApp Image 2025-01-04 at 00.01.10_7a61fee2.jpg]]
+(Primera vez que nos decimos novio y novia)
+![[Pasted image 20250210001532.png]]
+![[Pasted image 20250210001548.png]]
+
