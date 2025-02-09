@@ -26,3 +26,5 @@
 ![[Pasted image 20250209200246.png]]
 31/10/2024 - Primera invitación
 ![[Pasted image 20250209200528.png]]
+31/10/2024 - Después de vernos en Halloween
+![[Pasted image 20250209200649.png]]
