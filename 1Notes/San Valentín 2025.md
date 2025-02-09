@@ -59,7 +59,7 @@
 ![[WhatsApp Image 2024-12-21 at 13.54.24_3a0e714f.jpg]]
 22/12/2024 - Tercera Noche
 ![[Pasted image 20250209203256.png]]
-23/12/2024 - **Busqué foto de despedida, pero luego me acordé de que dormimos juntitos**
+23/12/2024 - **Busqué foto de despedida, pero luego me acordé de que dormimos juntitos.** (Y es aniversario 0 :])
 
 23/12/2024 - Viaje
 ![[Pasted image 20250209203530.png]]
@@ -76,3 +76,4 @@
 ![[Pasted image 20250209205212.png]]
 26/12/2024 - Primer Te Amo
 ![[Pasted image 20250209205408.png]]
+![[Pasted image 20250209205431.png]]
