@@ -78,3 +78,5 @@
 ![[Pasted image 20250209205408.png]]
 ![[Pasted image 20250209205431.png]]
 27/12/2024 - Mi amor
+![[Pasted image 20250209220751.png]]
+![[Pasted image 20250209220932.png]]
