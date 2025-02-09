@@ -68,3 +68,5 @@
 ![[Pasted image 20250209203814.png]]
 ![[Pasted image 20250209203846.png]]
 ![[Pasted image 20250209203947.png]]
+![[Pasted image 20250209204048.png]]
+![[Pasted image 20250209204126.png]]
