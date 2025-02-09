@@ -70,3 +70,4 @@
 ![[Pasted image 20250209203947.png]]
 ![[Pasted image 20250209204048.png]]
 ![[Pasted image 20250209204126.png]]
+![[WhatsApp Image 2024-12-24 at 02.58.46_a157e2a6.jpg]]
