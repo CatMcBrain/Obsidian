@@ -83,3 +83,6 @@
 28/12/2024 - Billetes Madrid
 ![[Pasted image 20250209224803.png]]
 ![[Pasted image 20250209225058.png]]
+29/12/2024 - Primer "Mensajito"
+![[Pasted image 20250209225242.png]]
+![[Pasted image 20250209225310.png]]
