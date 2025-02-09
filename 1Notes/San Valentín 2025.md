@@ -34,3 +34,5 @@
 ![[Pasted image 20250209201250.png]]
 11/11/2024 - Fotito de pareja
 ![[WhatsApp Image 2024-11-11 at 02.22.17_98838893.jpg]]
+25/11/2024 - Grabando MH World
+![[WhatsApp Image 2024-11-25 at 21.13.09_14b6dcd3.jpg]]
