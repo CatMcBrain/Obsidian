@@ -63,7 +63,7 @@
 
 23/12/2024 - Viaje
 ![[Pasted image 20250209203530.png]]
-24/12/2024 - Noche solo en Madrid. Hablando en stream
+24/12/2024 - Noche solos cada uno. Hablando en stream
 ![[Pasted image 20250209203731.png]]
 ![[Pasted image 20250209203814.png]]
 ![[Pasted image 20250209203846.png]]
@@ -71,3 +71,4 @@
 ![[Pasted image 20250209204048.png]]
 ![[Pasted image 20250209204126.png]]
 ![[WhatsApp Image 2024-12-24 at 02.58.46_a157e2a6.jpg]]
+![[Pasted image 20250209204518.png]]
