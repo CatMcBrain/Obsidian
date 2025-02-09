@@ -66,3 +66,5 @@
 24/12/2024 - Noche solo en Madrid. Hablando en stream
 ![[Pasted image 20250209203731.png]]
 ![[Pasted image 20250209203814.png]]
+![[Pasted image 20250209203846.png]]
+![[Pasted image 20250209203947.png]]
