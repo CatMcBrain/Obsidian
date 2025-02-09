@@ -20,3 +20,5 @@
 ![[WhatsApp Image 2024-10-27 at 23.31.07_aeb3851a.jpg]]
 28/10/2024 - Gracias por jugar conmigo
 ![[Pasted image 20250209195922.png]]
+30/10/2024 - Captura WuWA
+![[WhatsApp Image 2024-10-29 at 23.42.51_c0412316.jpg]]
