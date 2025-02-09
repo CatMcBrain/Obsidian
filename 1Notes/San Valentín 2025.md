@@ -111,7 +111,7 @@
 ![[WhatsApp Image 2025-01-03 at 23.26.36_66d1ea21.jpg]]
 ![[WhatsApp Image 2025-01-03 at 23.53.56_cd2c0cd1.jpg]]
 ![[WhatsApp Image 2025-01-04 at 00.01.10_7a61fee2.jpg]]
-### 04/02/2025 - Primera vez que nos decimos novio y novia)
+### 04/01/2025 - Primera vez que nos decimos novio y novia)
 ![[Pasted image 20250210001532.png]]
 ![[Pasted image 20250210001548.png]]
 ![[Pasted image 20250210001806.png]]
@@ -122,9 +122,13 @@
 (Que me ibas a tratar como una princesa me decías JIJI)
 ![[Pasted image 20250210002503.png]]
 
-### 05/02/2025 - Mi casita
+### 05/01/2025 - Mi casita
 ![[Pasted image 20250210002812.png]]
 (Me encantó cuando dijiste que los gatitos eran **nuestros** niños)
 ![[Pasted image 20250210002916.png]]
+### 07/01/2025 - Florecitas
+![[WhatsApp Image 2025-01-07 at 01.36.44_9d0c37ad.jpg]]
+(Y nuestro fondito)
+![[WhatsApp Image 2025-01-07 at 01.52.18_08fe5fd2.jpg]]
 
 
