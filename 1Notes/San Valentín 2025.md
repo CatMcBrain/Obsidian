@@ -25,7 +25,7 @@
 ![[WhatsApp Image 2024-10-29 at 23.42.51_c0412316.jpg]]
 ### 30/10/2024 - Fotitos Halloween
 ![[Pasted image 20250209200246.png]]
-(Me hizo tanta ilusión mandarte en la que voy de gatita y que te gustase, cosas )
+(Me hizo tanta ilusión mandarte en la que voy de gatita y que te gustase, cosas así no me la imagino enseñándoselo a nadie nunca, pero tú me das esa seguridad <3)
 ### 31/10/2024 - Primera invitación
 ![[Pasted image 20250209200528.png]]
 ### 31/10/2024 - Después de vernos en Halloween
