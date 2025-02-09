@@ -80,3 +80,4 @@
 27/12/2024 - Mi amor
 ![[Pasted image 20250209220751.png]]
 ![[Pasted image 20250209220932.png]]
+28/12/2024 - Billetes Madrid
