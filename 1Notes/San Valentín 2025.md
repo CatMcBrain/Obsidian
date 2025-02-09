@@ -122,5 +122,9 @@
 (Que me ibas a tratar como una princesa me decías JIJI)
 ![[Pasted image 20250210002503.png]]
 
-### 05/02/2025 - Nuestros niños
+### 05/02/2025 - Mi casita
+![[Pasted image 20250210002812.png]]
+(Me encantó cuando dijiste que los gatitos eran **nuestros** niños)
+![[Pasted image 20250210002916.png]]
+
 
