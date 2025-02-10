@@ -202,3 +202,9 @@
 ![[Pasted image 20250210021145.png]]
 (Y me encanta que te acuerdes de mí)
 ![[Pasted image 20250210021311.png]]
+### 02/02/2025 - Mi chef
+![[Pasted image 20250210021406.png]]
+(Tus cartitas, awww)
+![[WhatsApp Image 2025-02-02 at 18.34.57_7ce8e480.jpg]]
+![[WhatsApp Image 2025-02-02 at 18.40.34_7ac0ad9a.jpg]]
+(Me encanta que me enseñes cositas, y me encanta enseñarte cositas. Me hace tan feliz)
