@@ -146,3 +146,5 @@
 ![[Pasted image 20250210011715.png]]
 ![[Pasted image 20250210011731.png]]
 
+### 15/01/2024 - Siempre me haces sentir bien, hasta con mis explosiones emocionales sin sentido
+![[Pasted image 20250210013228.png]]
