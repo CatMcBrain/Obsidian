@@ -156,4 +156,13 @@
 (El cumple de mi madre)
 ![[WhatsApp Image 2025-01-17 at 22.34.53_5332a537.jpg]]
 ![[WhatsApp Image 2025-01-17 at 22.34.53_4d26c701.jpg]]
+![[WhatsApp Image 2025-01-18 at 21.50.00_15663887.jpg]]
 (Hotpot)
+![[20250118_140316.jpg]]
+(Mis marquitas)
+![[20250120_103832.jpg]]
+(Atocha)
+![[WhatsApp Image 2025-01-19 at 15.12.43_4189256b.jpg]]
+![[WhatsApp Image 2025-01-19 at 15.12.43_5a9db3ae.jpg]]
+(Tu pijamita)
+![[WhatsApp Image 2025-01-19 at 17.11.18_f11d470b.jpg]]
