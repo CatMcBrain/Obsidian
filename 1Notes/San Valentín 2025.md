@@ -183,4 +183,7 @@
 ![[WhatsApp Image 2025-01-22 at 20.05.41_209c554c.jpg]]
 (MI CHIQUIII)
 ![[WhatsApp Image 2025-01-22 at 23.33.13_384cf2c9.jpg]]
-
+### 23/01/2025 - No sabes lo que me haces con estas cosas JIJI
+![[Pasted image 20250210015717.png]]
+![[Pasted image 20250210015736.png]]
+(ES TODO TUYO, SUCCIONA TODO LO QUE QUIERAS)
