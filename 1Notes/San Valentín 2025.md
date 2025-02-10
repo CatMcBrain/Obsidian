@@ -213,4 +213,6 @@
 ![[WhatsApp Image 2025-02-03 at 15.22.02_a5a2e2e3.jpg]]
 ### 07/02/2025 - Mi Estrellita, lo más bonito del universo
 ![[Pasted image 20250210021820.png]]
-
+### 09/02/2025 - Me hace sentir TAN TAN bien cuando me cuidas y me hablas cariñoso <3
+![[Pasted image 20250210022034.png]]
+### HOY 10/02/2025 - Aquí estoy
