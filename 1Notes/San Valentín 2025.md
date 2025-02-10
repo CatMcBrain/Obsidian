@@ -77,6 +77,8 @@
 ### 25/12/2024 - Mi chica
 ![[Pasted image 20250209205156.png]]
 ![[Pasted image 20250209205212.png]]
+(Hice lo que pude en el poco tiempo que tuve para el dibujo de Teto, pero me hizo mucha ilusión que te gustase)
+![[Feliz_Navidad_Cielo[1].png]]
 ### 26/12/2024 - Primer Te Amo
 ![[Pasted image 20250209205408.png]]
 ![[Pasted image 20250209205431.png]]
