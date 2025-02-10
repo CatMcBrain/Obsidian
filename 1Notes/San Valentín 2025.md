@@ -194,4 +194,6 @@
 ### 26/01/2025 - Me dejas blandito y feliz tan fácilmente
 ![[Pasted image 20250210020525.png]]
 ### 28/01/2025 - ME PARECE ADORABLE CÓMO ME HICISTE
-![[Pasted image 20250210020745.png]]
+![[WhatsApp Image 2025-01-28 at 12.50.42_9a435c9f.jpg]]
+### 01/02/2025 - Fotitos de Kafka
+(Igual te parece insignificante, pero fotos así femeninas no se las mandaría a nadie, y que hasta me diga)
