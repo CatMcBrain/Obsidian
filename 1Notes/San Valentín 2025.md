@@ -211,4 +211,6 @@
 ![[Pasted image 20250210021551.png]]
 ### 03/02/2025 - Tu camisetita
 ![[WhatsApp Image 2025-02-03 at 15.22.02_a5a2e2e3.jpg]]
+### 07/02/2025 - Mi Estrellita, lo más bonito del universo
+![[Pasted image 20250210021820.png]]
 
