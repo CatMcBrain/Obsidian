@@ -207,4 +207,8 @@
 (Tus cartitas, awww)
 ![[WhatsApp Image 2025-02-02 at 18.34.57_7ce8e480.jpg]]
 ![[WhatsApp Image 2025-02-02 at 18.40.34_7ac0ad9a.jpg]]
-(Me encanta que me enseñes cositas, y me encanta enseñarte cositas. Me hace tan feliz)
+(Me encanta que me enseñes cositas, y me encanta enseñarte cositas. Me hace tan feliz. Y me hace infinita ilusión que te interesen mis cositas)
+![[Pasted image 20250210021551.png]]
+### 03/02/2025 - Tu camisetita
+![[WhatsApp Image 2025-02-03 at 15.22.02_a5a2e2e3.jpg]]
+
