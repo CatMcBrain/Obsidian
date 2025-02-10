@@ -63,6 +63,8 @@
 ![[Pasted image 20250209203256.png]]
 ### 23/12/2024 - **Busqué foto de despedida, pero luego me acordé de que dormimos juntitos.** (Y es aniversario 0 :])
 
+(Esta playlist me recuerda tanto a esa noche tan especial, y el Horizon también: https://www.youtube.com/watch?v=1wOAhRAqb40&list=PLvrQ3O76ver0seLdYNQ-c0IDXl6t1-Bs7)
+
 ### 23/12/2024 - Viaje
 ![[Pasted image 20250209203530.png]]
 ### 24/12/2024 - Noche solos cada uno. Hablando en stream
