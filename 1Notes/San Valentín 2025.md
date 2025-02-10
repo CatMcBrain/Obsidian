@@ -191,3 +191,5 @@
 ![[Pasted image 20250210020119.png]]
 ### 24/01/2025 - Te adoro eternamente
 ![[Pasted image 20250210020348.png]]
+### 26/01/2025 - Me dejas blandito y feliz tan fácilmente
+![[Pasted image 20250210020525.png]]
