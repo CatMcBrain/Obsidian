@@ -138,4 +138,6 @@
 ![[Pasted image 20250210011123.png]]
 ![[Pasted image 20250210011219.png]]
 ![[Pasted image 20250210011306.png]]
+![[Pasted image 20250210011349.png]]
+![[Pasted image 20250210011421.png]]
 
