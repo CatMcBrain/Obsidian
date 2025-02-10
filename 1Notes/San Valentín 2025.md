@@ -215,5 +215,6 @@
 ![[Pasted image 20250210021820.png]]
 ### 09/02/2025 - Me hace sentir TAN TAN bien cuando me cuidas y me hablas cariñoso <3
 ![[Pasted image 20250210022034.png]]
-### HOY 10/02/2025 - Aquí estoy, leyendo el WhatsApp desde el primer mensaje, y mi corazoncito no podría estar á
+### HOY 10/02/2025 - Aquí estoy, leyendo el WhatsApp desde el primer mensaje, y mi corazoncito no podría estar más contento. Ahora nos pondremos en Discord y a dormir juntitos.
 ![[WIN_20250210_02_22_31_Pro.jpg]]
+**Te amo, mi Estrellita, eternamente <3**
