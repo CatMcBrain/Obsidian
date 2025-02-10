@@ -193,3 +193,5 @@
 ![[Pasted image 20250210020348.png]]
 ### 26/01/2025 - Me dejas blandito y feliz tan fácilmente
 ![[Pasted image 20250210020525.png]]
+### 28/01/2025 - ME PARECE ADORABLE CÓMO ME HICISTE
+![[Pasted image 20250210020745.png]]
