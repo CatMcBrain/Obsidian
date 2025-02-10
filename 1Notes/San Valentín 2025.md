@@ -215,4 +215,5 @@
 ![[Pasted image 20250210021820.png]]
 ### 09/02/2025 - Me hace sentir TAN TAN bien cuando me cuidas y me hablas cariñoso <3
 ![[Pasted image 20250210022034.png]]
-### HOY 10/02/2025 - Aquí estoy
+### HOY 10/02/2025 - Aquí estoy, leyendo el WhatsApp desde el primer mensaje, y mi corazoncito no podría estar á
+![[WIN_20250210_02_22_31_Pro.jpg]]
