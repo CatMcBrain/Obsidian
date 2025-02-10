@@ -200,3 +200,5 @@
 ![[WhatsApp Image 2025-02-01 at 11.47.05_adf8cc1b.jpg]]
 ![[WhatsApp Image 2025-02-01 at 11.49.03_2ab26265.jpg]]
 ![[Pasted image 20250210021145.png]]
+(Y me encanta que te acuerdes de mí)
+![[Pasted image 20250210021311.png]]
