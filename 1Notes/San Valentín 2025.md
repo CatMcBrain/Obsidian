@@ -186,4 +186,4 @@
 ### 23/01/2025 - No sabes lo que me haces con estas cosas JIJI
 ![[Pasted image 20250210015717.png]]
 ![[Pasted image 20250210015736.png]]
-(ES TODO TUYO, SUCCIONA TODO LO QUE QUIERAS)
+(ES TODO TUYO, SUCCIONA TODO LO QUE QUIERAS POR FAVOR)
