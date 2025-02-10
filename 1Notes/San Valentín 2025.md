@@ -169,8 +169,17 @@
 (Conjuntaditos)
 ![[WhatsApp Image 2025-01-20 at 14.02.12_8198df3e.jpg]]
 ![[WhatsApp Image 2025-01-20 at 14.02.14_415f8984.jpg]]
+(Cuerpazo)
+
 (Mojaditos)
 ![[WhatsApp Image 2025-01-21 at 17.07.36_27170819.jpg]]
 ![[WhatsApp Image 2025-01-21 at 17.07.36_43c8480c.jpg]]
 (Demonios y Ángeles)
 ![[WhatsApp Image 2025-01-21 at 18.46.37_40a60146.jpg]]
+(Arte)
+![[WhatsApp Image 2025-01-22 at 00.06.53_09abd751.jpg]]
+![[WhatsApp Image 2025-01-22 at 00.06.53_885513ba.jpg]]
+### 22/01/2025 A la vuelta, quise revivir por lo que pasamos
+![[WhatsApp Image 2025-01-22 at 20.05.41_209c554c.jpg]]
+(MI CHIQUIII)
+![[WhatsApp Image 2025-01-22 at 23.33.13_384cf2c9.jpg]]
