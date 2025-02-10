@@ -134,4 +134,6 @@
 ![[Pasted image 20250210003320.png]]
 
 ### 10/01/2025 Me hiciste sentir tan bien y me quitaste tantas inseguridades en minutos
+![[Pasted image 20250210011050.png]]
+![[Pasted image 20250210011123.png]]
 
