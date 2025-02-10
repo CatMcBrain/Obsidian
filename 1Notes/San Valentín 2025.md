@@ -189,3 +189,5 @@
 ![[Pasted image 20250210015736.png]]
 (Me encanta todo lo bonito que me dices, siento lo mismo <3)
 ![[Pasted image 20250210020119.png]]
+### 24/01/2025 - Te adoro eternamente
+![[Pasted image 20250210020348.png]]
