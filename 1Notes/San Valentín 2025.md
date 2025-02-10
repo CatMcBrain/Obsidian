@@ -151,4 +151,8 @@
 ### 15/01/2024 - Siempre me haces sentir bien, hasta con mis explosiones emocionales sin sentido
 ![[Pasted image 20250210013228.png]]
 ### 16/01/2025 Prácticamente no hay mensajes hasta el 22, y me ha puesto una sonrisa. Fue nuestro tiempo en Madrid
-
+ (El día que me fui a la uni)
+![[WhatsApp Image 2025-01-17 at 16.41.39_51a240e2.jpg]]
+(El cumple de mi madre)
+![[WhatsApp Image 2025-01-17 at 22.34.53_5332a537.jpg]]
+![[WhatsApp Image 2025-01-17 at 22.34.53_4d26c701.jpg]]
