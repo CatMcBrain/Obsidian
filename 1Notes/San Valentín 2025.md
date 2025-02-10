@@ -184,6 +184,8 @@
 (MI CHIQUIII)
 ![[WhatsApp Image 2025-01-22 at 23.33.13_384cf2c9.jpg]]
 ### 23/01/2025 - No sabes lo que me haces con estas cosas JIJI
+(ES TODO TUYO, SUCCIONA TODO LO QUE QUIERAS POR FAVOR)
 ![[Pasted image 20250210015717.png]]
 ![[Pasted image 20250210015736.png]]
-(ES TODO TUYO, SUCCIONA TODO LO QUE QUIERAS POR FAVOR)
+(Me encanta todo lo bonito que me dices, siento lo mismo <3)
+![[Pasted image 20250210020119.png]]
