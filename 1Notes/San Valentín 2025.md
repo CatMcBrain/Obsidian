@@ -196,4 +196,7 @@
 ### 28/01/2025 - ME PARECE ADORABLE CÓMO ME HICISTE
 ![[WhatsApp Image 2025-01-28 at 12.50.42_9a435c9f.jpg]]
 ### 01/02/2025 - Fotitos de Kafka
-(Igual te parece insignificante, pero fotos así femeninas no se las mandaría a nadie, y que hasta me diga)
+(Igual te parece insignificante, pero fotos así femeninas no se las mandaría a nadie, y que hasta me digas cumplidos aquí me hace infinitamente feliz. Te amo <3)
+![[WhatsApp Image 2025-02-01 at 11.47.05_adf8cc1b.jpg]]
+![[WhatsApp Image 2025-02-01 at 11.49.03_2ab26265.jpg]]
+![[Pasted image 20250210021145.png]]
