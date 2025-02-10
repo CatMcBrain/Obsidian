@@ -150,4 +150,5 @@
 
 ### 15/01/2024 - Siempre me haces sentir bien, hasta con mis explosiones emocionales sin sentido
 ![[Pasted image 20250210013228.png]]
-### 16/01/2025
+### 16/01/2025 Prácticamente no hay mensajes hasta el 22, y me ha puesto una sonrisa. Fue nuestro tiempo en Madrid
+
