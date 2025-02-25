@@ -1,4 +1,6 @@
 ### [[Problemas Eléctrico]]
 
-[[Notas Eléctrico]]
+- ## Fórmulas
 
+**Campo Eléctrico:** $\boxed{\vec{E}=k\frac{q}{r^2}\vec{u_r}}$
+**Fuerza Eléctrica:**
