@@ -1,6 +1,6 @@
 #Notes 
 
-- **Trabajo realizado por fuerza electroestática** al llevar partícula desde infinito hasta un punto: $W$
+- **Trabajo realizado por fuerza electroestática** al llevar partícula desde infinito hasta un punto: $W_{inf\rightarrow P }=-\Delta Ep = V_{inf}$
 ## Dudas
 
 ### **Energía Electroestática:**
