@@ -9,4 +9,4 @@
 
 **Órbitas <font color="#548dd4">circulares</font>:** $\boxed{Ec=-\frac{1}{2}Ep}$ ; $\boxed{F_{g} = F_{cin}}$ ; $\boxed{v=\frac{2\pi r}{T}}$ ^e8513b
 
-**Fuerza centrípeta:** $\boxed{F_c=\frac{mv^2}}$
+**Fuerza centrípeta:** $\boxed{F_c=\frac{mv^2}{r}}$ ^f6af0a
