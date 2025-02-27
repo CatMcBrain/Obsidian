@@ -8,4 +8,4 @@
 - Tener en cuenta la **dirección de la Corriente** cuando usamos el vector $\vec{L}$ [[Problemas Magnético#^x4Dd5qyZ| [EJEMPLO] ]]
 
 
-(Recordar [[Fórmulas Generales#^afd4b4|Circunferencia]], [[Fórmulas Generales#^b49cc2|Producto vec.]])
+(Recordar [[Fórmulas Generales#^afd4b4|Circunferencia]], [[Fórmulas Generales#^b49cc2|Producto vec.]], [[Fórmulas Generales#^6469c6|MCU]])
