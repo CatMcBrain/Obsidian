@@ -1,4 +1,4 @@
 #Notas
 
 - **Módulo fuerza por UD. DE LONGITUD:** 
-	Partimos de Laplace y despejamos "l" $|\vec{Fm}|=I\; l\; B\rightarrow \boxed{\frac{Fm}{l}=I\cdot B}$ ^be40cc
+	Partimos de [[Campo Magnético#^b92ba2|Laplace]] y despejamos "l" $|\vec{Fm}|=I'\; l\; B\rightarrow \boxed{\frac{Fm}{l}=I'\cdot B}$ ^be40cc
