@@ -6,4 +6,5 @@
 	-> En trayectoria **circular**: $Fm=F_{centrípeta}$
 
 **Campo:** $\boxed{\vec{B}=\frac{\mu_0 I}{2\pi r}\vec{u_r}}$
-**Relación [[Campo Eléctrico#^3c25a3|Potencial]] y Energía**
+	**Relación [[Campo Eléctrico#^3c25a3|Potencial y Energía]]:** $\boxed{q\Delta V=U}$
+	 
