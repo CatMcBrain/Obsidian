@@ -7,4 +7,4 @@
 
 - Para **circulares**, también sirve: $Ec=-\frac{1}{2}Ep$ , $F_{cin}=F_{g}$  o [[Gravitación#^e8513b|deducción velocidad]] ^235246
 
-- Cuando "hablamos de un **punto exacto**", no
+- Cuando "hablamos de un **punto exacto**" en una órbita, normalmente nos sirve usar $\boxed{Em_1=Em_2}$
