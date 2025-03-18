@@ -10,6 +10,9 @@
 	A la hora de mirar enlaces de compuestos con más de dos átomos (ej. $COCl_2$), mirar individualmente cada enlace ($C-O\, ;\, C-Cl$).
 
 - **Intra-** (dentro) e **Inter-** (entre)
+
+- **TRPECV:**
+	-> Átomo 
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
