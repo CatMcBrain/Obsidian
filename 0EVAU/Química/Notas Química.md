@@ -12,4 +12,6 @@
 
 ### Problemas con intensidades, carga y tiempo
 
-Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$  , metiendo en *Q* el número de **electrones intercambiados**. *I* era un dato, y tenía que hallar el tiempo.
+Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$ . Me han dado peso de Ag que quiero depositar, y lo voy a pasar a moles para hallar luego los **moles de electrones** usando la estequiometría de la reacción (en este caso 1:1).
+
+Uso la constante de Faraday (en datos del examen) 
