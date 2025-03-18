@@ -15,7 +15,7 @@
 
 ## Casos extraños
 
-### Problemas con intensidades, carga y tiempo
+### Problemas con intensidades, carga y tiempo [[Ejercicios Química#^Pqo7S1Td|(Ejercicio)]]
 
 Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$ . Me han dado peso de Ag que quiero depositar, y lo voy a pasar a moles para hallar luego los **moles de electrones** necesarios usando la estequiometría de la reacción (en este caso 1:1).
 
