@@ -3,7 +3,7 @@
 
 - **Afinidad electrónica:** Energía liberada al añadir un $e^-$ al átomo en forma gaseosa.
 
-- Ej **Enlace metálico**: $$
+- Ej.) **Enlace metálico** entre $Na \;\text{y}\; Na -> Na$ , y no $\sout{Na}$
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
