@@ -14,6 +14,9 @@
 - **TRPECV:**
 	-> Átomo **CENTRAL:** + n${^os}$ de enlaces y - e$_{neg}$
 	-> Fijarse en pares libres [[trpecv.jpg|(img.)]]
+
+- **Hibridación:**
+	-> sp
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
