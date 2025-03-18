@@ -12,7 +12,8 @@
 - **Intra-** (dentro) e **Inter-** (entre)
 
 - **TRPECV:**
-	-> Átomo 
+	-> Átomo **CENTRAL:** + n${^os}$ de enlaces y - e$_{neg}$
+	
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
