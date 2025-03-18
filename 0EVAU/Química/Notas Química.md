@@ -12,4 +12,4 @@
 
 ### Problemas con intensidades, carga y tiempo
 
-Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$  , metiendo en *Q* el número de 
+Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$  , metiendo en *Q* el número de **electrones intercambiados**. *I* era un dato, y tenía que hallar el tiempo.
