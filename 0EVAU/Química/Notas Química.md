@@ -13,7 +13,7 @@
 
 - **TRPECV:**
 	-> Átomo **CENTRAL:** + n${^os}$ de enlaces y - e$_{neg}$
-	
+	-> Fijarse en pares libres
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
