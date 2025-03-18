@@ -5,7 +5,8 @@
 
 - Ej.) **Enlace metálico** entre $Na \;\text{y}\; Na \rightarrow \text{\textbf{Na}}$ , y no $\textcolor{red}{\cancel{Na_2}}$
 	- **Covalente:** comparten electrones
-	- **Iónico[[ionico.jpg|$^$]]:** Diferencia de electronegatividad grande. Transferencia de $e^-$
+	- **Iónico:** Diferencia de electronegatividad grande. Transferencia de $e^-$ [[ionico.jpg|(img)]]
+	A la hora de mirar enlaces de compuestos con más de dos átomos (ej. $COCl_2$), mirar individual
 
 - **Intra-** (dentro) e **Inter-** (entre)
 ## Pilas
