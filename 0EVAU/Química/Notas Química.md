@@ -1,4 +1,7 @@
 
+## Propiedades
+
+- **Afinidad electrónica:** Energía liberada al añadir un $e^-$ al átomo en forma gaseosa.
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
