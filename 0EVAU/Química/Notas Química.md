@@ -5,12 +5,12 @@
 
 - Ej.) **Enlace metálico** entre $Na \;\text{y}\; Na \rightarrow \text{\textbf{Na}}$ , y no $\textcolor{red}{\cancel{Na_2}}$
 
-
+- **Intra-** (dentro) e **Inter-** (entre)
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
 	-> Sustancias con **mayor potencial de reducción** se reducen $\boxed{E^o_{án}<E^o_{cát}}$
-	-> **Electrodo** en el ánodo debe ser capaz de **oxidarse** $\boxed{E^o_{án}<E^o_{disol\; án}}$
+	-> **Electrodo** en el ánodo debe ser capaz de **oxidarse** $\boxed{E^o_{án}<E^o_{disol.\; án}}$
 	
 - Cuando algo **SE OXIDA**, pierde **electrones** (pasa a un estado de oxidación mayor)
 	$Cu\rightarrow Cu^{2+}$ ; $NO^{3-}\; \rightarrow NO\; \; \textcolor{blue}{\scriptstyle (N^{5+} \text{pasa a } N^{2+})}$
