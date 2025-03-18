@@ -16,7 +16,9 @@
 	-> Fijarse en pares libres [[trpecv.jpg|(img.)]]
 
 - **Hibridación:**
-	-> sp
+	-> **sp3:** 4 enlaces (todos sencillos)
+	-> **sp2**: 3 enlaces
+	-> **sp:** 2 enlaces
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
