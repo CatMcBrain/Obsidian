@@ -5,7 +5,7 @@
 
 - Ej.) **Enlace metálico** entre $Na \;\text{y}\; Na \rightarrow \text{\textbf{Na}}$ , y no $\textcolor{red}{\cancel{Na_2}}$
 	- **Covalente:** comparten electrones
-	- **Iónico:** Diferencia de electronegatividad grande
+	- **Iónico:** Diferencia de electronegatividad grande. Transferencia de $e^-$
 
 - **Intra-** (dentro) e **Inter-** (entre)
 ## Pilas
