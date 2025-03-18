@@ -2,6 +2,8 @@
 ## Propiedades
 
 - **Afinidad electrónica:** Energía liberada al añadir un $e^-$ al átomo en forma gaseosa.
+
+- El **enlace metálico** es una uniónen
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
