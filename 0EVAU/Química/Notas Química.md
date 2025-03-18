@@ -19,6 +19,9 @@
 	-> **sp3:** 4 enlaces (todos sencillos)
 	-> **sp2**: 3 enlaces
 	-> **sp:** 2 enlaces
+
+- **Born-Haber:**
+![[Pasted image 20250318205526.png]]
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
