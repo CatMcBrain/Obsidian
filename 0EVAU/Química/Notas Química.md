@@ -7,3 +7,9 @@
 - SÓLO se disuelven **iones**
 	\# <font color="#1f497d">En una pregunta nos decían</font> "*¿$Ag$ metálica se disuelve en $HNO_3$?*" <font color="#1f497d">, y era necesario comparar </font> $E^o_{reducc}$ <font color="#1f497d">para saber si la</font> $Ag$ <font color="#1f497d">se oxidaba, es decir</font> $Ag^o\rightarrow Ag^+$.
 - Antes de **SUMAR semirreacciones**  para hacer la **IÓNICA** (global), hay que igualar el número de **electrones** en ambas, multiplicando si fuese necesario.
+
+## Casos extraños
+
+### Problemas con intensidades, carga y tiempo
+
+Encontrados en un ejercicio de pilas. Usaré $\boxed{Q=I\cdot t}$  , metiendo en *Q* el número de 
