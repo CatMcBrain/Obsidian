@@ -5,4 +5,5 @@
 - Cuando algo **SE OXIDA**, pierde **electrones** (pasa a un estado de oxidación mayor)
 	$Cu\rightarrow Cu^{2+}$
 - SÓLO se disuelven **iones**
+	# En una pregunta nos decían "*¿$Ag$ metálica se disuelve en $HNO_3$?*", y era necesario comparar $E^o_{reducc}$ para 
 
