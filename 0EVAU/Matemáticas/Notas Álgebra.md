@@ -28,4 +28,3 @@
 			$(n = \text{número de incógnitas})$
 			<span style="color: crimson; font-size:13px"><b>Truco:</b> Realizar el determinante de "A*" en función de "a", y así luego sólo debemos sutituir para cada valor.</span>
 
-- 
