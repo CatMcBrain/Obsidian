@@ -5,3 +5,4 @@
 - Cuando algo **SE OXIDA**, pierde **electrones** (pasa a un estado de oxidación mayor)
 	$Cu\rightarrow Cu^{2+}$
 - SÓLO se disuelven **iones**
+
