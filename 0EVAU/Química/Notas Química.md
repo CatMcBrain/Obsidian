@@ -38,8 +38,8 @@
 
 ## Orgánica
 
-- Conocer **REACCIONES**
-
+- Productos **mayoritarios**
+	-> **ADICIÓN:** donde más H haya (Markovnikov)
 
 ## Casos extraños
 
