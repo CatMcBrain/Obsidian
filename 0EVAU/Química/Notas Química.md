@@ -38,6 +38,7 @@
 
 ## Orgánica
 
+- Recordar **REACCIONES** (ver folio)
 - Productos **mayoritarios**
 	-> **ADICIÓN:** H va donde más H haya (Markovnikov). Cl/Br en posición más sustituida.
 	-> **ELIMINACIÓN:** = se forma donde haya menos H (Saytzeff). *\[van con H2SO4\]*
