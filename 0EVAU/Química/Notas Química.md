@@ -50,7 +50,7 @@
 
 ## Equilibrios
 
-- **Constante:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}$
+- **Constantes:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}\;\; ; \;\; \boxed{Kp=\frac{}}$
 - 
 
 ___________
