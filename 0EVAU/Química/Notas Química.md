@@ -47,6 +47,12 @@
 
 - "Deshidratación" = "Eliminación"
 
+
+## Equilibrios
+
+- **Constante:** $\boxed{Kc=\frac{[C]}}$
+
+___________
 ## Casos extraños
 
 ### Problemas con intensidades, carga y tiempo [[Ejercicios Química#^yzu4AFMf|(Ejercicio)]]
