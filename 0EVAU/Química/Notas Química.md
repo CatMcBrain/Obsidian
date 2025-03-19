@@ -55,7 +55,7 @@
 - **Cálculos con presiones:** $\boxed{Kp=Kc(RT)^{\Delta n_{gas}}}\;\; ; \;\; \boxed{p_i=p_T\cdot\chi_i=p_T\cdot\frac{n_i}{n_T}}$ 
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
-	$\boxed{\Delta H^o_{f\, (Tot)=\sum n\cdot\Delta H^o_{f\, (prod) - \sum n\cdot \Delta H^o_{f\, (prod)}}}$
+	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
 	
 
 
