@@ -45,6 +45,8 @@
 
 - Cuando nos pidan productos, tener en cuenta formas **CIS** y **TRANS** , que se suelen formar de manera racémica
 
+- "Deshidratación" = "Eliminación"
+
 ## Casos extraños
 
 ### Problemas con intensidades, carga y tiempo [[Ejercicios Química#^yzu4AFMf|(Ejercicio)]]
