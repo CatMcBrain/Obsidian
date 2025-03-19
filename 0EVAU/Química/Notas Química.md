@@ -40,7 +40,8 @@
 
 - Productos **mayoritarios**
 	-> **ADICIÓN:** H va donde más H haya (Markovnikov). Cl/Br en posición más sustituida.
-	-> **ELIMINACIÓN:** = se forma donde haya menos H (Saytzeff). \[H2SO4\]
+	-> **ELIMINACIÓN:** = se forma donde haya menos H (Saytzeff). *\[van conH2SO4\]*
+	
 
 ## Casos extraños
 
