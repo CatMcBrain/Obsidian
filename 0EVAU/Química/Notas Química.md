@@ -53,7 +53,10 @@
 - En las constantes **sólo entran gases**
 - **Constantes:** $\textcolor{gray}{aA+bB\rightarrow cD+dD}\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}\;\; ; \;\; \boxed{Kp=\frac{p_C^c\cdot p_D^d}{p_A^a\cdot p_B^b}}$
 - **Cálculos con presiones:** $\boxed{Kp=Kc(RT)^{\Delta n_{gas}}}\;\; ; \;\; \boxed{p_i=p_T\cdot\chi_i=p_T\cdot\frac{n_i}{n_T}}$ 
-- La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$
+
+- La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
+	$\boxed{\Delta H^o_{f\, (Tot)=\sum n\cdot\Delta H^o_{f\, (prod) - \sum n\cdot \Delta H^o_{f\, (prod)}}}$
+	
 
 
 ___________
