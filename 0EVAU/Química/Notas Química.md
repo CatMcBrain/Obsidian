@@ -36,6 +36,11 @@
 	
 - Antes de **SUMAR semirreacciones**  para hacer la **IÓNICA** (global), hay que igualar el número de **electrones** en ambas, multiplicando si fuese necesario.
 
+## Orgánica
+
+- Conocer **REACCIONES**
+
+
 ## Casos extraños
 
 ### Problemas con intensidades, carga y tiempo [[Ejercicios Química#^yzu4AFMf|(Ejercicio)]]
