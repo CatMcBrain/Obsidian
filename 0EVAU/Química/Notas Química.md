@@ -50,8 +50,8 @@
 
 ## Equilibrios
 
-- **Constantes:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}\;\; ; \;\; \boxed{Kp=\frac{}}$
-- 
+- **Constantes:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}\;\; ; \;\; \boxed{Kp=\frac{p_C^c\cdot p_D^d}{p_A^a\cdot p_B^b}}$
+- ****
 
 ___________
 ## Casos extraños
