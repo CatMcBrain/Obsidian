@@ -57,7 +57,7 @@
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
 	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
 
-- Cuando pidan escribir 
+- Para hallar **concentraciones** de sustancias a partir del pH en un equilibrio, si son ácidos serán proporcionales a la $[H_3O^+]$, pero  para las bases lo será a $[OH^-]$, por lo que tendremos que usar: $[H_3O^+]$
 
 
 ___________
