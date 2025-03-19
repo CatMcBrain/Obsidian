@@ -56,7 +56,8 @@
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
 	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
-	
+
+- Cuando pidan escribir 
 
 
 ___________
