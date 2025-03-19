@@ -50,7 +50,8 @@
 
 ## Equilibrios
 
-- **Constante:** $\boxed{Kc=\frac{[C]}}$
+- **Constante:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}$
+- 
 
 ___________
 ## Casos extraños
