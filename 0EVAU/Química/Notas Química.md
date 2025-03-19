@@ -51,7 +51,9 @@
 ## Equilibrios
 
 - **Constantes:** $aA+bB\rightarrow cD+dD\; \; ; \; \; \boxed{Kc=\frac{[C]^c\cdot [D]^d}{[A]^a\cdot [B]^b}}\;\; ; \;\; \boxed{Kp=\frac{p_C^c\cdot p_D^d}{p_A^a\cdot p_B^b}}$
-- **Cálculos con presiones:** $\boxed{Kp=Kc(RT)^{\Delta n_{gas}}}\;\; ; \;\; \boxed{p_i=p_T\cdot\Xi_i=p_T\cdot\frac{n_i}{n_}}$ 
+- **Cálculos con presiones:** $\boxed{Kp=Kc(RT)^{\Delta n_{gas}}}\;\; ; \;\; \boxed{p_i=p_T\cdot\chi_i=p_T\cdot\frac{n_i}{n_T}}$ 
+
+
 
 ___________
 ## Casos extraños
