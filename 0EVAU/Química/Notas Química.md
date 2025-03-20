@@ -72,7 +72,7 @@
 
 - <font color="#1f497d">(Específico)</font> Si tenemos Kp **a una T** y nos piden calcular la misma **a otra T**, comparar ambas por si podemos sacar una relación (ej. $32=Kp=K'p^2 \rightarrow K'p=\sqrt 32$)
 
-- Para calcular ****
+- Para calcular **pH en equilibrio**, usar $C_o$ y ver la concentración de $OH^-$ ó $H_3O^+$. Después, usar que $pH=-log[H_3O^+]$ 
 
 ______
 
