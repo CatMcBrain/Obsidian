@@ -50,6 +50,7 @@
 
 - "Deshidratación" = "Eliminación"
 
+- <font color="#d83931">IMPORTANTE:</font> Para reacciones de **Eliminación de HALUROS**, el agente ser
 
 ## Equilibrios
 
