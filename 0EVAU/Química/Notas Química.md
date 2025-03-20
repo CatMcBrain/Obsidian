@@ -43,7 +43,7 @@
 	
 - Antes de **SUMAR semirreacciones**  para hacer la **IÓNICA** (global), hay que igualar el número de **electrones** en ambas, multiplicando si fuese necesario.
 
-- **NO PUEDEN HIDROLIZAR** compuestos provenientes de **ácidos fuertes y bases fuertes**, como el NaCl (viene de NaOH y HCl)
+- **NO PUEDEN HIDROLIZAR** compuestos provenientes de **ácidos fuertes y bases fuertes,** como el NaCl (viene de NaOH y HCl).
 
 ## Orgánica
 
