@@ -62,6 +62,8 @@
 
 - Para calcular **CONCENTRACIONES en equilibrio**, usar dato de Kp o Kc e igualar a concentraciones hechas con la reacción (ej. $Kc=36=\frac{(2-x)(2-x)}{2x}^2$)
 
+- Cuando $\Delta n_{gas}=0$ entre reactivos y productos, **Kc = Kp**
+
 ______
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
