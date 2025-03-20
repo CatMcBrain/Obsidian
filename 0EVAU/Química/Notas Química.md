@@ -50,7 +50,7 @@
 
 - "Deshidratación" = "Eliminación"
 
-- <font color="#d83931">IMPORTANTE:</font> Para reacciones de **Eliminación de HALUROS**, el agente ser
+- <font color="#d83931">IMPORTANTE:</font> Para reacciones de **Eliminación de HALUROS**, el agente será una base (en eliminación de **ALCOHOLES** es un ácido como $H_2SO_4$).
 
 ## Equilibrios
 
