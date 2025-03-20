@@ -60,7 +60,7 @@
 - **Kp y Kc** indican la relación entre reactivos y productos. Si aumenta Kp, es que se forman **MÁS PRODUCTOS** 
 	Una Kp/Kc < 1 implica que hay más **reactivos** que productos
 
-- Para calcular **CONCENTRACIONES en equilibrio**, usar dato de Kp o Kc e igualar a concentraciones hechas con la reacción (ej. $Kc=36=\frac{(2x)^2}{(2-x)(2-x)}$)
+- Para calcular **MOLES en equilibrio (con las concentraciones)**, usar dato de Kp o Kc e igualar a concentraciones hechas con la reacción (ej. $Kc=36=\frac{(2x)^2}{(2-x)(2-x)}$)
 
 - Cuando $\Delta n_{gas}=0$ entre reactivos y productos, **Kc = Kp**
 
