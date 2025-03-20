@@ -61,6 +61,8 @@
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
 	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
 
+- Para ejercicios de **TERMO**, se usan coeficientes **FRACCIONARIOS**, no enteros
+
 - Para hallar **concentraciones** de sustancias a partir del **pH** en un equilibrio, si son ácidos serán proporcionales a la $[H_3O^+]$ (siguiendo la estequiometría), pero  para las bases lo será a $[OH^-]$, por lo que tendremos que usar: $\boxed{[H_3O^+]\cdot [OH^-]=10^{-14}}$
 
 
