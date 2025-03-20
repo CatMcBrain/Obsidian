@@ -10,7 +10,7 @@
 
 - Para estudiar **RANGO** de matriz con **lambda**: ^dd4366
 	- 1) Calcular **determinante e igualar a 0**
-	- 2) Estudiar invididual para **lambda** =0, >0, <0 [[Notas Álgebra#^b388b7|(Ver)]]
+	- 2) Estudiar individual para **lambda** =0, >0, <0 [[Notas Álgebra#^b388b7|(Ver)]]
 	
 - Estudiar **SISTEMA** (con matriz ampliada **"A*"**): [[Problemas Álgebra#^an6OtXMB|(Ejercicio)]]
 	- 1) Hallar **rango de A sin ampliar** (para comparar luego en el estudio de rango)
