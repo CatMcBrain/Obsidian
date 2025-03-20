@@ -24,7 +24,7 @@
 
 ![[Pasted image 20250318205526.png]]
 
-- Cuando piden 
+- Cuando piden **anión más estable** de un elemento, éste será aquel que tenga la configuración de gas noble. Será **catión** o **anión** dependiendo de la tendencia del elemento.
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
