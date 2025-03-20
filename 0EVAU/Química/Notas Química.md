@@ -12,7 +12,7 @@
 - **Intra-** (dentro) e **Inter-** (entre)
 
 - **TRPECV:**
-	-> Átomo **CENTRAL:** + n${^os}$ de enlaces y - e$_{neg}$
+	-> Átomo **CENTRAL:** el de mayor nde enlaces y - e$_{neg}$
 	-> Fijarse en pares libres [[trpecv.jpg|(img.)]]
 
 - **Hibridación:**
