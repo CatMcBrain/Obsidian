@@ -64,7 +64,7 @@
 
 - Cuando $\Delta n_{gas}=0$ entre reactivos y productos, **Kc = Kp**
 
-- <font color="#1f497d">(Específico)</font> Si tenemos Kp **a una T** y nos piden calcular la misma **a otra T**, comparar ambas por si podemos sacar una relación (ej. $Kp=$)
+- <font color="#1f497d">(Específico)</font> Si tenemos Kp **a una T** y nos piden calcular la misma **a otra T**, comparar ambas por si podemos sacar una relación (ej. $32=Kp=K'p^2 \rightarrow K'p=\sqrt 32$)
 
 ______
 
