@@ -21,7 +21,10 @@
 	-> **sp:** 2 enlaces
 
 - **Born-Haber:**
+
 ![[Pasted image 20250318205526.png]]
+
+- Cuando piden 
 ## Pilas
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
