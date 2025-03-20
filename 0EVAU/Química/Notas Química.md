@@ -64,6 +64,8 @@
 - Para ejercicios de **TERMO**, se usan coeficientes **FRACCIONARIOS**, no enteros
 	- En el cálculo de $\Delta H_r^o$ , $\Delta S_r^o$ o $\Delta G_r^o$ se **multiplicará** por los coeficientes fraccionarios. 
 
+- Si $\Delta G$ es **negativa** (libera energía), la reacción es **ESPONTÁNEA**
+
 - Para hallar **concentraciones** de sustancias a partir del **pH** en un equilibrio, si son ácidos serán proporcionales a la $[H_3O^+]$ (siguiendo la estequiometría), pero  para las bases lo será a $[OH^-]$, por lo que tendremos que usar: $\boxed{[H_3O^+]\cdot [OH^-]=10^{-14}}$
 
 
