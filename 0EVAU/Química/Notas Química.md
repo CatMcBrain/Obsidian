@@ -62,7 +62,7 @@
 	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
 
 - Para ejercicios de **TERMO**, se usan coeficientes **FRACCIONARIOS**, no enteros
-	- En el cálculo de $\Delta H_r$ , $\Delta S_r$ se **multiplicarán** por los coeficientes. 
+	- En el cálculo de $\Delta H_r^o$ , $\Delta S_r^o$ o $\Delta G_r^o$ se **multiplicará** por los coeficientes fraccionarios. 
 
 - Para hallar **concentraciones** de sustancias a partir del **pH** en un equilibrio, si son ácidos serán proporcionales a la $[H_3O^+]$ (siguiendo la estequiometría), pero  para las bases lo será a $[OH^-]$, por lo que tendremos que usar: $\boxed{[H_3O^+]\cdot [OH^-]=10^{-14}}$
 
