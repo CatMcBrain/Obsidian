@@ -14,8 +14,8 @@
 	
 - Estudiar **SISTEMA** (con matriz ampliada **"A*"**): [[Problemas Álgebra#^an6OtXMB|(Ejercicio)]]
 	- 1) Hallar **rango de A sin ampliar** (para comparar luego en el estudio de rango)
-	- 2) Hallar una **submatriz** cuadrada y hacer su determinante para **resolver "a"**
-	- 3) Estudiar **rango** [[Notas Álgebra#^b388b7|(Ver)]]  del sistema entero para **cada valor hallado** de "a", y para valores$\neq$ de los hallados.
+	- 2) Hallar una **submatriz** de la ampliada y hacer su determinante para **resolver "a"**
+	- 3) Estudiar **rango** [[Notas Álgebra#^b388b7|(Ver)]]  del sistema entero para **cada valor hallado** de "a", y para valores $\neq$ de los hallados.
 		- 3.1) Para hallar el **rg de la matriz ampliada**, se hace una submatriz (3x3) de la misma (3x4) que contenga la columna de la ampliada (la que tiene la incógnita "a")
 			$\downarrow$
 ```handwritten-ink
