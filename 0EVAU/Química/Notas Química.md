@@ -72,6 +72,8 @@
 
 - <font color="#1f497d">(Específico)</font> Si tenemos Kp **a una T** y nos piden calcular la misma **a otra T**, comparar ambas por si podemos sacar una relación (ej. $32=Kp=K'p^2 \rightarrow K'p=\sqrt 32$)
 
+- Para calcular ****
+
 ______
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
