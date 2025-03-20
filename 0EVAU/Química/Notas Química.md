@@ -60,6 +60,10 @@
 - **Kp y Kc** indican la relación entre reactivos y productos. Si aumenta Kp, es que se forman **MÁS PRODUCTOS** 
 	Una Kp/Kc < 1 implica que hay más **reactivos** que productos
 
+- Para calcular **CONCENTRACIONES en equilibrio**, usar dato de Kp o Kc e igualar a concentraciones hechas con la reacción (ej. $Kc=36$)
+
+______
+
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
 	$\boxed{\Delta H^o_{f (Tot)}=\sum n\cdot\Delta H^o_{f(prod)} - \sum n\cdot \Delta H^o_{f (reac)}}$
 
