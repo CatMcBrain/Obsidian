@@ -31,5 +31,4 @@
 
 ## Resolver sistema mediante matrices
 
-- Plantear **sistema** en forma de matriz
-- 
+![[Pasted image 20250320185528.png]]
