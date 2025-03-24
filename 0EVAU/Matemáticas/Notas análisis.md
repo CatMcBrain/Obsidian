@@ -17,7 +17,7 @@
 - Cuando hay un **VALOR ABSOLUTO**, desglosar la función:
 	$f(x)=\frac{|x|}{x^2+1}=\left\{\begin{array}{}\frac{x}{x^2+1}\; si\; x\geq 0\\ \frac{\textcolor{red}{-}x}{x^2+1}\; si\; x<0 \end{array}\right.$
 
-- **PUNTOS DE INTERÉS** para el crecimiento:
+- **PUNTOS DE INTERÉS** para el crecimiento (poner intervalos abiertos):
 	- Asíntotas
 	- Dominio
 	- x resueltas para $f'(x)=0$
