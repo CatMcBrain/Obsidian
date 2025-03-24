@@ -14,7 +14,7 @@
 
 - Monotonía = Crecimiento
 
-- Cuando hay un **VALOR ABSOLUTO**, desglosar la función:
+- Cuando hay un **VALOR ABSOLUTO**, desglosar la función PARA TODO:
 	$f(x)=\frac{|x|}{x^2+1}=\left\{\begin{array}{}\frac{x}{x^2+1}\; si\; x\geq 0\\ \frac{\textcolor{red}{-}x}{x^2+1}\; si\; x<0 \end{array}\right.$
 
 - **PUNTOS DE INTERÉS** para el crecimiento (poner intervalos abiertos):
@@ -25,4 +25,4 @@
 
 ## Área acotada entre función y recta
 
-- Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y)
+- Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y$)
