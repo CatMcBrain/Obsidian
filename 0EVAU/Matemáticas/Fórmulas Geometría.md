@@ -6,6 +6,7 @@
 - **RECTA:**
 	$\hookrightarrow$ <u>Paramétrica:</u> $\left\{ \begin{array}{} x=x_o+a\lambda\\ y=y_o+b\lambda\\ z=z_o+c\lambda\end{array}\right.$
 	$\hookrightarrow$ <u>Contínua:</u> $\frac{x-x_0}{a}=\frac{y-y_0}{b}=\frac{z-z_o}{c}$
+
   
 
 ## Cálculos
