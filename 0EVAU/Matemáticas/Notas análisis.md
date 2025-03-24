@@ -7,3 +7,4 @@
 - Si al hacer límites que tienden a $\infty$ hay una fracción con dos incógnitas del **mismo grado** ($\frac{3x^3-1}{2x^3-x}$), el resultado serán los  **coeficientes** ($\frac{3}{2}$).
 
 - **Tg en un punto (a,b):** $\boxed{y-f(a)=f'(a)(x-a)}$
+
