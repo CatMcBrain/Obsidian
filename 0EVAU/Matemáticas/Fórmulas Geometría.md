@@ -17,7 +17,7 @@ $\boxed{\pi\parallel\pi '}:$ $\pi '$ será igual que $\pi$, variando sólo **D**
 
 $\boxed{Corte\; r\; y\; \pi}:$  Sustituyo paramétricas de **r** en ecuación de $\pi$,  y el resultado de $\lambda$ lo sustituyo en las paramétricas para hallar **x, y, z**.
 
-$\boxed{\text{Recta que pasa por P y P'}}:$ El vector director será el que une ambos puntos, y escogemos uno de los dos para sustituir a *a, b, c*. 
+$\boxed{\text{Recta que pasa por P y P'}}:$ El vector director será el que une ambos puntos, y escogemos uno de los dos para sustituir a *xo, b, c*. 
 
 ```handdrawn-ink
 {
