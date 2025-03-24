@@ -1,11 +1,11 @@
-
+ 
 ## Formas
 
 - **PLANO:** $\pi : Ax+By+Cz+D=0$
 
 - **RECTA:**
-	$\hookrightarrow\; \left{ \begin{array}{} x+a\lambda\\ y+b\lambda\\ z+c\lambda\end{array}\right.$
-	  
+	$\hookrightarrow$ <u>Paramétricas:</u> $\left\{ \begin{array}{} x+a\lambda\\ y+b\lambda\\ z+c\lambda\end{array}\right.$
+  
 
 ## Cálculos
 
