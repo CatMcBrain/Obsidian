@@ -30,4 +30,4 @@ $\boxed{\text{Recta que pasa por P y P'}}:$ El vector director será el que une 
 ```
 
 
-$\boxed{\text{P' simétrico a P respecto a }\pi}:$ saco **r** $\perp$ 
+$\boxed{\text{P' simétrico a P respecto a }\pi}:$ saco **r** $\perp \pi$ que contenga a P (su $\vec{u_r}=\vec{u_\pi}$) . Hallo **corte** entre **r** y $\pi$. 	
