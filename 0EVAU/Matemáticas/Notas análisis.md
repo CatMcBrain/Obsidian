@@ -15,4 +15,4 @@
 - Monotonía = Crecimiento
 
 - Cuando hay un **VALOR ABSOLUTO**, desglosar la función:
-	$f{x}=\frac{|x|}{x^2+1}\left\{\begin{array}\frac{x}{x^2+1}\; si\, x\geq 0\\ frac{\textcolor{red}{-}x}{x^2+1}\; si  \end{array}\right.$
+	$f(x)=\frac{|x|}{x^2+1}=\left\{\begin{array}{}\frac{x}{x^2+1}\; si\; x\geq 0\\ \frac{\textcolor{red}{-}x}{x^2+1}\; si\; x<0 \end{array}\right.$
