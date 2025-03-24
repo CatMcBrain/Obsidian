@@ -7,5 +7,4 @@
 
 
 $\boxed{\pi\parallel\pi '}:$ $\pi '$ será igual que $\pi$, variando sólo **D** $\rightarrow [\pi ': Ax+By+Cz+\textcolor{red}{D'}=0]$
-
-	$\hookrightarrow$
+	$\hookrightarrow$ Nos piden también que $\boxed{\pi'\ni P}, sustituyo 
