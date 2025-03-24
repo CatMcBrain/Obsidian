@@ -12,6 +12,7 @@
 
 ## Cálculos
 
+$\boxed{}$
 
 $\boxed{\pi\parallel\pi '}:$ $\pi '$ será igual que $\pi$, variando sólo **D** $\rightarrow [\pi ': Ax+By+Cz+\textcolor{red}{D'}=0]$
 	$\hookrightarrow$ Nos piden también que $\boxed{\pi'\ni P}$, sustituyo $x,\, y,\, z$ por las coordenadas del punto para resolver la nueva $\textcolor{red}{D'}\;\rightarrow AP_x+BP_y+CP_z+D'=0$
@@ -30,4 +31,4 @@ $\boxed{\text{Recta que pasa por P y P'}}:$ El vector director será el que une 
 ```
 
 
-$\boxed{\text{P' simétrico a P respecto a }\pi}:$ saco **r** $\perp \pi$ que contenga a P (su $\vec{u_r}=\vec{u_\pi}$) . Hallo **corte** entre **r** y $\pi$. 	
+$\boxed{\text{P' simétrico a P respecto a }\pi}:$ saco **r** $\perp \pi$ que contenga a P (su $\vec{u_r}=\vec{u_\pi}$) . Hallo **corte** entre **r** y $\pi$, que coincidirá con el punto medio ($P_x$). Hallo P' aprovechando $P_x$: $\frac{P+P'}{2}=P_x$ 	
