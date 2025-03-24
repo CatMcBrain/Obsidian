@@ -4,7 +4,7 @@
 - **PLANO:** $\pi : Ax+By+Cz+D=0$
 
 - **RECTA:**
-	
+	$\hookrightarrow\; \left{ $  
 
 ## Cálculos
 
