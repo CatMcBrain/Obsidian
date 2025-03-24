@@ -21,3 +21,8 @@
 	- Asíntotas
 	- Dominio
 	- x resueltas para $f'(x)=0$
+
+
+## Área acotada entre función y recta
+
+- Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y)
