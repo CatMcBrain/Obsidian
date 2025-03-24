@@ -9,3 +9,5 @@
 - **Tg en un punto (a,b):** $\boxed{y-f(a)=f'(a)(x-a)}$
 
 - La **PENDIENTE** de una recta **tg** de una función es la derivada de esta ($f'(a)$)
+
+- <font color="#c0504d">CUIDADO:</font> Tras resolver una incógnita
