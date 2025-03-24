@@ -13,3 +13,6 @@
 - <font color="#c0504d">CUIDADO:</font> Tras resolver una **incógnita**, **COMPROBARLA** luego en la ecuación inicial, porque a veces es una "solución falsa". 
 
 - Monotonía = Crecimiento
+
+- Cuando hay un **VALOR ABSOLUTO**, desglosar la función:
+	$f{x}=\frac{|x|}{x^2+1}\left\{\begin{array}\frac{x} \end{array}\right.$
