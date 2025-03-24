@@ -10,4 +10,4 @@
 
 - La **PENDIENTE** de una recta **tg** de una función es la derivada de esta ($f'(a)$)
 
-- <font color="#c0504d">CUIDADO:</font> Tras resolver una incógnita
+- <font color="#c0504d">CUIDADO:</font> Tras resolver una **incógnita**, **COMPROBARLA** luego en la ecuación inicial, porque a veces es una "solución falsa". 
