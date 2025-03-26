@@ -22,6 +22,8 @@
 	- Dominio
 	- x resueltas para $f'(x)=0$
 
+- Si un **máx/mín** coincide que es el punto más **alto/bajo** de una función entera (cuidado que no termine en creciente/decreciente), se llaman **ABSOLUTOS**.
+
 
 ## Área acotada entre función y recta
 
