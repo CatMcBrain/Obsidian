@@ -26,4 +26,4 @@
 ## Área acotada entre función y recta
 
 - Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y$)
-- Ver los **recintos** que engloban los puntos de corte
+- Ver el **recinto** que engloban los puntos de corte
