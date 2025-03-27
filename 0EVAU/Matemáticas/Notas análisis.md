@@ -23,7 +23,7 @@
 	- x resueltas para $f'(x)=0$
 
 - Si un **máx/mín** coincide que es el punto más **alto/bajo** de una función entera (cuidado que no termine en creciente/decreciente), se llaman **ABSOLUTOS**.
-	!!! A la hora de indicar el máx/mín, es $\boxed{(x,f(x))}$, y no $\cancel{\textcolor{red}{(x,)}}$
+	<font color="#d83931">!!! A la hora de indicar el máx/mín, es</font> $\boxed{(x,f(x))}$ , <font color="#d83931">y no </font>$\cancel{\textcolor{red}{(x,f'(x))}}$
 
 ## Área acotada entre función y recta
 
