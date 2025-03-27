@@ -29,3 +29,5 @@
 
 - Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y$)
 - Ver el **recinto** que engloban los puntos de corte
+
+$\resizebox{!}{1.6\mylen}{!}$
