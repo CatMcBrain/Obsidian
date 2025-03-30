@@ -25,6 +25,13 @@
 - Si un **máx/mín** coincide que es el punto más **alto/bajo** de una función entera (cuidado que no termine en creciente/decreciente), se llaman **ABSOLUTOS**.
 	<font color="#d83931"><span style="font-size:20; font-weight:bold">!!! </span>A la hora de indicar el máx/mín, es</font> $\boxed{(x,f(x))}$ , <font color="#d83931">y no </font>$\cancel{\textcolor{red}{(x,f'(x))}}$
 
+
+## Periodicidad
+
+- Aislar **x** $\textcolor{blue}{f(x)=sen(2x)\rightarrow =sen\, 2(x)}$
+- 
+
+
 ## Área acotada entre función y recta
 
 - Calcular **puntos de corte** (igualo la fn. y la recta $f(x)=y$)
