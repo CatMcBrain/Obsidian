@@ -29,8 +29,8 @@
 ## Periodicidad
 
 - Aislar **x**: $\textcolor{blue}{f(x)=sen(2x)\rightarrow =sen\, 2(x)}$
-- Sustituir por "x + T" (**periodicidad**): $\textcolor{blue}{f(x)=sen\, 2(x+T)=sen(2x+T)}$
-- 
+- Sustituir por "x + T" (**periodicidad**): $\textcolor{blue}{f(x)=sen\, 2(x+T)=sen(2x+2T)}$
+- Igualar a la función inicial añadiendo
 
 
 ## Área acotada entre función y recta
