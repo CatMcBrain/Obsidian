@@ -26,11 +26,18 @@
 	<font color="#d83931"><span style="font-size:20; font-weight:bold">!!! </span>A la hora de indicar el máx/mín, es</font> $\boxed{(x,f(x))}$ , <font color="#d83931">y no </font>$\cancel{\textcolor{red}{(x,f'(x))}}$
 
 
+
+## Trigonométricas
+
+- **NO ASÍNTOTAS**
+- Coseno **par**, seno **impar**
 ## Periodicidad
 
 - Aislar **x**: $\textcolor{blue}{f(x)=sen(2x)\rightarrow =sen\, 2(x)}$
 - Sustituir por "x + T" (**periodicidad**): $\textcolor{blue}{f(x)=sen\, 2(x+T)=sen(2x+2T)}$
-- Igualar a la función inicial añadiendo "$+2\pi$" tras x: $\textcolor{blue}{sen(2x)}\textcolor{red}{+\pi}\textcolor{blue}{)=sen(2x+T)\rightarrow \boxed{T=1}}$
+- Igualar a la función inicial añadiendo "$+2\pi$" tras x: $\textcolor{blue}{sen(2x}\textcolor{red}{+\pi}\textcolor{blue}{)=sen(2x+T)\rightarrow \boxed{T=1}}$
+
+
 
 
 ## Área acotada entre función y recta
