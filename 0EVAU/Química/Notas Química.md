@@ -25,7 +25,7 @@
 ![[Pasted image 20250318205526.png]]
 
 - Cuando piden **anión más estable** de un elemento, éste será aquel que tenga la configuración de gas noble. Será **catión** o **anión** dependiendo de la tendencia del elemento.
-## Pilas
+## Pilas y Rédox
 
 - En **ánodo**, se oxida. En **cátodo**, se reduce.
 	-> Sustancias con **mayor potencial de reducción** se reducen $\boxed{E^o_{án}<E^o_{cát}}$
@@ -44,6 +44,8 @@
 - Antes de **SUMAR semirreacciones**  para hacer la **IÓNICA** (global), hay que igualar el número de **electrones** en ambas, multiplicando si fuese necesario.
 
 - **NO PUEDEN HIDROLIZAR** compuestos provenientes de **ácidos fuertes y bases fuertes,** como el NaCl (viene de NaOH y HCl).
+
+- **SEMIRREACIONES**: Siempre disociar en <font color="#d83931">iones</font> para las semirreacciones de oxidación y reducción
 
 ## Orgánica
 
