@@ -2,7 +2,7 @@
 ## Formas
 
 - **PLANO:** $\pi : Ax+By+Cz+D=0$
-	$\hookrightarrow$ **Normal**: $\vec{u_\pi}=(A,B,C$
+	$\hookrightarrow$ **Normal**: $\vec{u_\pi}=(A,B,C)$
 
 - **RECTA:**
 	$\hookrightarrow$ <u>Paramétrica:</u> $\left\{ \begin{array}{} x=x_o+a\lambda\\ y=y_o+b\lambda\\ z=z_o+c\lambda\end{array}\right.$
