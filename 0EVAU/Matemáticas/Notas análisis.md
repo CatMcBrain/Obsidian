@@ -30,7 +30,7 @@
 
 - Aislar **x**: $\textcolor{blue}{f(x)=sen(2x)\rightarrow =sen\, 2(x)}$
 - Sustituir por "x + T" (**periodicidad**): $\textcolor{blue}{f(x)=sen\, 2(x+T)=sen(2x+2T)}$
-- Igualar a la función inicial añadiendo "$+2\pi$" tras x: $\textcolor{blue}{sen(2x)}\textcolor{red}{}$
+- Igualar a la función inicial añadiendo "$+2\pi$" tras x: $\textcolor{blue}{sen(2x)}\textcolor{red}{+\pi}\textcolor{blue}{)=sen(2x+T)\rightarrow \boxed{T=1}}$
 
 
 ## Área acotada entre función y recta
