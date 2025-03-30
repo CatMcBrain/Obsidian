@@ -3,3 +3,5 @@
 		Saco un plano $\pi '$  paralelo a $\pi$ que también contenga a P.
 		Calculo el punto de corte entre $\pi '$ y s (le llamo P')
 		La **recta** será la que pase por P y P'
+
+- Para **CONFIRMAR TRIÁNGULO** (3 puntos), tengo que verificar que dos de sus vectores no son proporcionales 
