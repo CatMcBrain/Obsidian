@@ -5,4 +5,4 @@ Platón defiende el conocimiento **objetivo** y lo fundamenta en el existencia d
 
 Platón afirma que ambos mundos están **relacionados**, a cada clase de objeto en el mundo sensible le corresponde una idea. <span style="color: #0070c0;">Por tanto, las ideas son la esencia verdadera de cada objeto, y éste la refleja aunque de manera imperfecta.</span> Las ideas son **objetivas, transcendentes y ordenadas**,  y sin ellas no sería posible el conocimiento científico. La **idea suprema** de la que parte el resto es la del **bien**.
 
-
+En su obra **"Timeo"**, Platón explica el **origen** del
