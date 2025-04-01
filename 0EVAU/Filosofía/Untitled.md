@@ -1,5 +1,4 @@
 <div class="block-language-latex">
-    ```
 \documentclass[]{article}
 
 %%%%%%%%%%%%%%%%%%%
@@ -99,5 +98,5 @@ left justified & center & right justified \\ \hline
 3.4678 & 6.14159 & 1239
 \end{tabular}
 \end{center}
-```
 </div>
+
