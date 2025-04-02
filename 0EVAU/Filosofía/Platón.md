@@ -17,6 +17,7 @@ El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,
 ___
 
 ```tikz  
+\begin{document}
 \usetikzlibrary{shapes.geometric, arrows}  
 
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]  
@@ -38,5 +39,7 @@ ___
     \draw [arrow] (decision.east) -- (process2.west) node[midway, above] {Yes};  
     \draw [arrow] (decision.south) -- (end.north) node[midway, right] {No};  
 \end{tikzpicture}  
+\end{document}
 ```  
+
 
