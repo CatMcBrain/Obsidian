@@ -1,1 +1,1 @@
-<span style="background-color: #EAD7C0; font-weight: bold;"><% tp.file.cursor(1) %></span>
+<mark style="background-color: #EAD7C0;"><b><% tp.file.cursor(1) %></b></mark>
