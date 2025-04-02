@@ -8,4 +8,4 @@ Platón afirma que ambos mundos están **relacionados**, a cada clase de objeto 
 En su obra **"Timeo"**, Platón explica el **origen** del mundo sensible y habla del **demiurgo** (divinidad), quien ordenó el caos tomando como modelo el bien.
 
 ___
-Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el sensible, y también defenderá el **dualismo antropomórfico**: <span style="color: #0070c0;"></span>
+Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el sensible, y también defenderá el **dualismo antropomórfico**: <span style="color: #0070c0;">El hombre es cuerpo, pero sobre todo alma, que al encarnarse en el cuerpo olvida las ideas.</span>
