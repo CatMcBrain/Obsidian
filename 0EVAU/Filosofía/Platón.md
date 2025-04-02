@@ -25,10 +25,7 @@ ___
 \usetikzlibrary{cd}  
 
 \begin{tikzcd}  
-    Start \arrow[d] \\  
-    Step 1 \arrow[d] \\  
-    Decision? \arrow[r, "Yes"] \arrow[d, swap, "No"] & Step 2 \arrow[d] \\  
-    End  
+
 \end{tikzcd}  
 \end{document}
 ```  
