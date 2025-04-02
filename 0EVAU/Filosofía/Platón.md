@@ -24,14 +24,12 @@ ___
 
 \usetikzlibrary{cd}  
 
-\begin{center}  
 \begin{tikzcd}  
-    \text{Start} \arrow[d] \\  
-    \text{Step 1} \arrow[d] \\  
-    \text{Decision?} \arrow[r, "Yes"] \arrow[d, "No"] & \text{Step 2} \arrow[d] \\  
-    \text{End}  
+    Start \arrow[d] \\  
+    Step 1 \arrow[d] \\  
+    Decision? \arrow[r, "Yes"] \arrow[d, swap, "No"] & Step 2 \arrow[d] \\  
+    End  
 \end{tikzcd}  
-\end{center}  
 \end{document}
 ```  
 
