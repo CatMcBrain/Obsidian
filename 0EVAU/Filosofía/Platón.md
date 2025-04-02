@@ -25,8 +25,7 @@ ___
 \usetikzlibrary{cd}  
 
 \begin{tikzcd}  
-    \text{Start} \arrow[d] \\
-    \text{End}  
+    A \arrow[r] & B\arrow[r] & C
 \end{tikzcd}  
 \end{document}
 ```  
