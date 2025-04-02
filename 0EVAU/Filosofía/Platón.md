@@ -9,10 +9,3 @@ Platón afirma que ambos mundos están **==relacionados==**, a cada clase de obj
 ___
 Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el sensible, y también defenderá el ==**dualismo antropomórfico**==: <span style="color: #0070c0;">El hombre es cuerpo, pero sobre todo alma, que al encarnarse en el cuerpo olvida las ideas.</span> Estas pueden ser **==recordadas==** a través de lo sensible (anamnesis).  
 
-<ul style="border-left: 2px solid gray; padding-left: 10px; list-style: none;">
-  <li>
-    This is an indented block of text.<br>
-    The vertical line runs continuously along the indented space.<br>
-    You can put multiple lines here.
-  </li>
-</ul>
