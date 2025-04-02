@@ -1,1 +1,1 @@
-<ul><li><% tp.file.cursor(1) %></li></ul>
+<ul><li><% tp.file.selection() ? tp.file.selection() : tp.file.cursor(1) %></li></ul>
