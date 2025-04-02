@@ -7,3 +7,4 @@ Platón afirma que ambos mundos están **relacionados**, a cada clase de objeto 
 
 En su obra **"Timeo"**, Platón explica el **origen** del mundo sensible y habla del **demiurgo** (divinidad), quien ordenó el caos tomando como modelo el bien.
 
+___
