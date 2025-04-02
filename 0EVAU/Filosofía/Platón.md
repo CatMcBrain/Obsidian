@@ -13,3 +13,30 @@ ___
 El ==**conocimiento sensible**==, opinión, se basa en la apariencia de las cosas, y se divide en **dos grados:** <span style="color: #0070c0;">El inferior es la <b><u>IMAGINACIÓN</u></b> o conjetura (eikasía), que se basa en las imágenes de la realidad. El siguiente grado es la <b><u>CREENCIA</u></b> (pistis), cuyo objeto son las cosas sensibles de la manera en la que son percibidas.</span>
 
 El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,  y también comprende **dos grados:** <span style="color: #0070c0;">La inferior recibe el nombre de <u><b>PENSAMIENTO</b></u> o conocimiento discursivo, y se ocupa de los objetos matemáticos. Por encima de este grado está la <b><u>NOESIS</u></b>,  que es el conocimiento cuyo objeto son las ideas, con objetivo final de  conocer la idea de <b><mark>Bien</mark></b>, de la que derivan el resto de ideas y hace que posean esencia y existencia. Platón identifica a esta idea con el Sol, y es el principio sobre el que se sustenta toda la realidad y conocimiento,</span>
+
+___
+
+```tikz  
+\usetikzlibrary{shapes.geometric, arrows}  
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]  
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!20]  
+\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=yellow!30]  
+\tikzstyle{arrow} = [thick,->,>=stealth]  
+
+\begin{tikzpicture}  
+    % Nodes  
+    \node (start) [startstop] {Start};  
+    \node (process1) [process, below of=start, yshift=-1.5cm] {Step 1};  
+    \node (decision) [decision, below of=process1, yshift=-2cm] {Choice?};  
+    \node (process2) [process, right of=decision, xshift=4cm] {Step 2};  
+    \node (end) [startstop, below of=decision, yshift=-2cm] {End};  
+
+    % Arrows  
+    \draw [arrow] (start) -- (process1);  
+    \draw [arrow] (process1) -- (decision);  
+    \draw [arrow] (decision.east) -- (process2.west) node[midway, above] {Yes};  
+    \draw [arrow] (decision.south) -- (end.north) node[midway, right] {No};  
+\end{tikzpicture}  
+```  
+
