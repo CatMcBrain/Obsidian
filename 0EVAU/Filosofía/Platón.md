@@ -10,5 +10,5 @@ ___
 Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el sensible, y también defenderá el ==**dualismo antropomórfico**==: <span style="color: #0070c0;">El hombre es cuerpo, pero sobre todo alma, que al encarnarse en el cuerpo olvida las ideas.</span> Estas pueden ser **==recordadas==** a través de lo sensible (anamnesis).  <ul><li>Para poder llegar a las ideas, Platón propone el método de la <b><mark>dialéctica</mark>,</b><span style="color: #0070c0;"> que es un proceso ascendente con distintos grados en el que se parte de lo <b>sensible</b>, que proporciona una opinión, y a través de reflexión se llega al conocimiento <b>inteligible</b> (ideas), que es la verdadera ciencia.</span></li></ul>
 
 ___
-
+El ==**conocimiento sensible**== se basa en la apariencia de las cosas, y se divide en **dos grados:**
 
