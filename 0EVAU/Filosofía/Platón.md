@@ -18,14 +18,17 @@ ___
 
 ```tikz  
 \begin{document}
+\usepackage{tikz-cd}
 \usetikzlibrary{cd}  
 
+\begin{center}  
 \begin{tikzcd}  
     \text{Start} \arrow[d] \\  
     \text{Step 1} \arrow[d] \\  
     \text{Decision?} \arrow[r, "Yes"] \arrow[d, "No"] & \text{Step 2} \arrow[d] \\  
     \text{End}  
 \end{tikzcd}  
+\end{center}  
 \end{document}
 ```  
 
