@@ -18,27 +18,14 @@ ___
 
 ```tikz  
 \begin{document}
-\usetikzlibrary{shapes.geometric, arrows}  
+\usetikzlibrary{cd}  
 
-\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]  
-\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!20]  
-\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=yellow!30]  
-\tikzstyle{arrow} = [thick,->,>=stealth]  
-
-\begin{tikzpicture}  
-    % Nodes  
-    \node (start) [startstop] {Start};  
-    \node (process1) [process, below of=start, yshift=-1.5cm] {Step 1};  
-    \node (decision) [decision, below of=process1, yshift=-2cm] {Choice?};  
-    \node (process2) [process, right of=decision, xshift=4cm] {Step 2};  
-    \node (end) [startstop, below of=decision, yshift=-2cm] {End};  
-
-    % Arrows  
-    \draw [arrow] (start) -- (process1);  
-    \draw [arrow] (process1) -- (decision);  
-    \draw [arrow] (decision.east) -- (process2.west) node[midway, above] {Yes};  
-    \draw [arrow] (decision.south) -- (end.north) node[midway, right] {No};  
-\end{tikzpicture}  
+\begin{tikzcd}  
+    \text{Start} \arrow[d] \\  
+    \text{Step 1} \arrow[d] \\  
+    \text{Decision?} \arrow[r, "Yes"] \arrow[d, "No"] & \text{Step 2} \arrow[d] \\  
+    \text{End}  
+\end{tikzcd}  
 \end{document}
 ```  
 
