@@ -12,4 +12,5 @@ Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el
 ___
 El ==**conocimiento sensible**== se basa en la apariencia de las cosas, y se divide en **dos grados:** <span style="color: #0070c0;">El inferior es la <b>IMAGINACIÓN</b> o conjetura (eikasía), que se basa en las imágenes de la realidad. El siguiente grado es la <b>CREENCIA</b> (pistis), cuyo objeto son las cosas sensibles de la manera en la que son percibidas.</span>
 
-El **==conocimiento racional==** se basa 
+El **==conocimiento racional==** se basa en las ideas,  
+      b  b
