@@ -15,20 +15,8 @@ El ==**conocimiento sensible**==, opinión, se basa en la apariencia de las cosa
 El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,  y también comprende **dos grados:** <span style="color: #0070c0;">La inferior recibe el nombre de <u><b>PENSAMIENTO</b></u> o conocimiento discursivo, y se ocupa de los objetos matemáticos. Por encima de este grado está la <b><u>NOESIS</u></b>,  que es el conocimiento cuyo objeto son las ideas, con objetivo final de  conocer la idea de <b><mark>Bien</mark></b>, de la que derivan el resto de ideas y hace que posean esencia y existencia. Platón identifica a esta idea con el Sol, y es el principio sobre el que se sustenta toda la realidad y conocimiento.</span>
 
 ___
-
-```tikz  
-\usepackage{tikz-cd}
-\usepackage{amsmath}
-
-\begin{document}
-
-\usetikzlibrary{cd}  
-
-\begin{tikzcd}  
-    & B \arrow[rd] & \\
-    A \arrow[ru] \arrow[r] \arrow [rd] & C & D
-\end{tikzcd}  
-\end{document}
-```  
+![[Pasted image 20250403113706.png]]
 
 
+
+## 
