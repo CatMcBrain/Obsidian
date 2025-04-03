@@ -27,5 +27,7 @@ ___
 Platón explica en **Timeo** el origen del mundo sensible, y también habla de la **==divinidad==** (demiurgo), el ordenador del caos primitivo. <span style="color: #0070c0;">El demiurgo no ha creado el mundo de la nada, sino que ha actuado sobre una <b><u>materia caótica</u></b> ya existente y la ha llevado al orden. Ha obrado con el <b><u>fin</u></b> de configurar el mejor mundo posible, tomando como modelo el <b><u>Bien</u></b>, que es a su vez fuente de ser y de verdad; es el fundamento por el cual las cosas sensibles tienen realidad y sentido.</span>
 
 ___
+![[Pasted image 20250403165712.png]]
 
+## 
 
