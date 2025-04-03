@@ -31,6 +31,7 @@ ___
 
 ## El problema del Ser Humano
 
-El **==dualismo==** establecido por Platón entre el mundo sensible e inteligible se traducen en el ser humano en el dualismo entre **cuerpo y alma**, que son las dos realidades heterogéneas que componen al **hombre**: <span style="color: #0070c0;">un alma eterna encarcelada en un cuerpo. El alma es del mundo inteligible, mientras que el cuerpo es del sensible. El <b>lugar natural</b> del alma es el mundo inteligible, y busca liberarse de los lazos que la atan a lo sensible, por ello la unión entre cuerpo y alma es accidental.</span>
+El **==dualismo==** establecido por Platón entre el mundo sensible e inteligible se traducen en el ser humano en el dualismo entre **==cuerpo y alma==**, que son las dos realidades heterogéneas que componen al **hombre**: <span style="color: #0070c0;">un alma eterna encarcelada en un cuerpo. El alma es del mundo inteligible, mientras que el cuerpo es del sensible. El <b>lugar natural</b> del alma es el mundo inteligible, y busca liberarse de los lazos que la atan a lo sensible, por ello la unión entre cuerpo y alma es accidental.</span>
 
 ___
+El **==alma==** consta de **tres partes** distintas: <span style="color: #0070c0;">La <b><u>RACIONAL</u></b></span>
