@@ -39,4 +39,4 @@ El **==alma==** consta de **tres partes** distintas: <span style="color: #0070c0
 ___
 Para **==probar la inmortalidad==** del alma Platón enunció cuatro pruebas, siendo las más significativas la de la **reminiscencia** y la **simplicidad**.
 
-La prueba de la **==REMINISCENCIA==**
+La prueba de la <b><u><mark>REMINISCENCIA</mark></u></b> se basa en la idea de que el alma ya existía antes del nacimiento. <span style="color: #0070c0;">Cada persona tiene una percepción </span>
