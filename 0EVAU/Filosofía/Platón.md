@@ -24,3 +24,5 @@ ___
 
 ## Problema de Dios
 
+Platón explica en **==Timeo==** el origen del mundo sensible, y también habla de la divinidad (demiurgo), el ordenador del caos primitivo.
+
