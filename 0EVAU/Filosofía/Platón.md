@@ -31,4 +31,4 @@ ___
 
 ## El problema del Ser Humano
 
-El **==dualismo==**
+El **==dualismo==** establecido por Platón entre el mundo sensible e inteligible se traducen en el ser humano en el dualismo entre **cuerpo y alma**, que son las dos realidades que componen al **hombre**. 
