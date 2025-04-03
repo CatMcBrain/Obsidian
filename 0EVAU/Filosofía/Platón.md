@@ -1,5 +1,5 @@
 
-## Conocimiento y Realidad
+## Problema del Conocimiento y Realidad
 
 Platón **defiende** el ==conocimiento **objetivo**== y lo fundamenta en el existencia de **==ideas==**, es decir, realidades inmateriales e ideales. <font color="#0070c0">Afirma que, además de la realidad objetiva y sensible, existe una realidad inteligible basada en nuestra percepción e ideas. Esta teoría, la más importante de Platón, es la <b>Teoría de las ideas</b>.</font> 
 
@@ -18,8 +18,9 @@ ___
 La ==**dialéctica es**== camino en el conocimiento y la libertad. <span style="color: #0070c0;">Saber y conocer es buscar la verdad y librarse de las opiniones. Un <b>conocimiento pleno de las ideas</b>, de la idea de Bien, llevaría también a la perfección moral, honestidad y al compromiso político por el bien común.</span>
 
 ___
-![[Pasted image 20250403113706.png]]
+![[Pasted image 20250403120500.png]]
 
 
 
-## 
+## Problema de Dios
+
