@@ -16,20 +16,5 @@ El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,
 
 ___
 
-```tikz  
-\usepackage{tikz-cd}
-\usepackage{amsmath}
-
-\begin{document}
-
-\usetikzlibrary{cd}  
-
-\begin{tikzcd}
-  & B & \\
-A \arrow[ru] \arrow[r] \arrow[rd] & C & \\
-  & D &
-\end{tikzcd} 
-\end{document}
-```  
 
 
