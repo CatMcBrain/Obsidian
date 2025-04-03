@@ -24,10 +24,11 @@ ___
 
 \usetikzlibrary{cd}  
 
-\begin{tikzcd}  
-    & B \arrow[rd] & \\
-    A \arrow[ru] \arrow[r] \arrow [rd] & C & D
-\end{tikzcd}  
+\begin{tikzcd}
+  & B & \\
+A \arrow[ru] \arrow[r] \arrow[rd] & C & \\
+  & D &
+\end{tikzcd} 
 \end{document}
 ```  
 
