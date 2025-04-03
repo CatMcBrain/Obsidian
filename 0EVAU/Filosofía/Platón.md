@@ -26,7 +26,7 @@ ___
 
 \begin{tikzcd}  
     & B \arrow[rd] & \\
-    A \arrow[ru] \arrow[r] \arrow [rd]
+    A \arrow[ru] \arrow[r] \arrow [rd] & C & D
 \end{tikzcd}  
 \end{document}
 ```  
