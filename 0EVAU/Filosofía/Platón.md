@@ -17,7 +17,6 @@ El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,
 ___
 
 
-
 ___
 ![[Pasted image 20250403113706.png]]
 
