@@ -31,3 +31,4 @@ ___
 
 ## El problema del Ser Humano
 
+El **==dualismo==**
