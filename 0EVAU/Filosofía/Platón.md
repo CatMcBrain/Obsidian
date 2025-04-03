@@ -37,3 +37,4 @@ ___
 El **==alma==** consta de **tres partes** distintas: <span style="color: #0070c0;">La <b><u>RACIONAL</u></b> es inmortal, y consiste en conocer y dirigir las otras dos partes del alma para realizar el bien y la justicia, correspondiéndole la virtud de la <b>prudencia</b>. La <b><u>IRASCIBLE</u></b> contiene el valor y voluntad, y le corresponde la virtud de la <b>fortaleza</b>. Y la <b><u>APETITIVA</u></b>, difícil de guiar, representa el deseo y su virtud es la <b>templanza</b>. Sólo el alma racional es <b>inmortal</b>, las otras dos partes desaparecen cuando el cuerpo muere, ya que son <b><u>propias de éste</u></b>.</span>
 
 ___
+Para **==probar la inmortalidad==** del alma
