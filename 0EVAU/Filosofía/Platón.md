@@ -29,5 +29,5 @@ Platón explica en **Timeo** el origen del mundo sensible, y también habla de l
 ___
 ![[Pasted image 20250403165712.png]]
 
-## 
+## El problema del Ser Humano
 
