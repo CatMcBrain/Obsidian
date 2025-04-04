@@ -42,3 +42,7 @@ Para **==probar la inmortalidad==** del alma Platón enunció cuatro pruebas, si
 La prueba de la <b><u><mark>REMINISCENCIA</mark></u></b> se basa en la idea de que el alma ya existía **antes** del nacimiento. <span style="color: #0070c0;">Cada persona tiene una percepción de la idea absoluta de <b>Bondad</b>, cosa que se puede observar a la hora de escoger una acción mejor entre acciones buenas. Esta idea de la Bondad ha de ser <b>previa</b>, ya que en el mundo sensible no existen tales ideas absolutas; por tanto, el alma contempló estas ideas en el mundo inteligible, <b>antes</b> de la existencia del cuerpo.</span>
 
 La prueba de la <b><u><mark>SIMPLICIDAD</mark></u></b> se basa en que todo lo que tiene **partes** <span style="color: #0070c0;">está sujeto a nacimiento, cambio y muerte. Los elementos que forman algo <b>no desaparecen</b>, pero pueden  <b>disgregarse</b> (muerte) o <b>congregarse</b>. Y esto es lo que ocurre con el cuerpo y alma.</span> 
+___
+![[Pasted image 20250404163324.png]]
+
+## Problema de la Moral o Ética
