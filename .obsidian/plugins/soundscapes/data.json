@@ -6,60 +6,428 @@
   "customSoundscapes": [],
   "myMusicIndex": [
     {
-      "fileName": "1 - Frameshift & Starports OST - Elite Dangerous.mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\1 - Frameshift & Starports OST - Elite Dangerous.mp3",
-      "title": "Frameshift & Starports OST",
-      "artist": "Elite Dangerous",
-      "duration": 2204.4473469387754
+      "fileName": "[01] - Inside the Wall.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[01] - Inside the Wall.mp3",
+      "title": "[01] - Inside the Wall",
+      "duration": 199.31428571428572
     },
     {
-      "fileName": "2 - Galaxy Map OST - Elite Dangerous.mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\2 - Galaxy Map OST - Elite Dangerous.mp3",
-      "title": "Galaxy Map OST",
-      "artist": "Elite Dangerous",
-      "duration": 420.2057142857143
+      "fileName": "[02] - Dead City.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[02] - Dead City.mp3",
+      "title": "[02] - Dead City",
+      "duration": 310.2040816326531
     },
     {
-      "fileName": "3 - Elite_ Dangerous _ Controlled thargoid system _ Supercruise theme.mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\3 - Elite_ Dangerous _ Controlled thargoid system _ Supercruise theme.mp3",
-      "title": "Elite: Dangerous | Controlled thargoid system | Supercruise theme",
-      "duration": 252.70857142857142
+      "fileName": "[03] - Follow the Light.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[03] - Follow the Light.mp3",
+      "title": "[03] - Follow the Light",
+      "duration": 297.7697959183673
     },
     {
-      "fileName": "4 - Elite Dangerous Soundtrack _ Squadron Menu Music [Extended].mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\4 - Elite Dangerous Soundtrack _ Squadron Menu Music [Extended].mp3",
-      "title": "Elite Dangerous Soundtrack | Squadron Menu Music [Extended]",
-      "duration": 398.94204081632654
+      "fileName": "[04] - Intruder.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[04] - Intruder.mp3",
+      "title": "[04] - Intruder",
+      "duration": 208.19591836734693
     },
     {
-      "fileName": "5 - Elite Dangerous_ Earth (Stellar Cartography Map Ambience).mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\5 - Elite Dangerous_ Earth (Stellar Cartography Map Ambience).mp3",
-      "title": "Elite Dangerous: Earth (Stellar Cartography Map Ambience)",
-      "duration": 539.5591836734694
+      "fileName": "[05] - Guardian.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[05] - Guardian.mp3",
+      "title": "[05] - Guardian",
+      "duration": 208.14367346938775
     },
     {
-      "fileName": "6 - Elite Dangerous_ Stars (Stellar Cartography Map Ambience).mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\6 - Elite Dangerous_ Stars (Stellar Cartography Map Ambience).mp3",
-      "title": "Elite Dangerous: Stars (Stellar Cartography Map Ambience)",
-      "duration": 314.82775510204084
+      "fileName": "[06] - The Notebooks.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[06] - The Notebooks.mp3",
+      "title": "[06] - The Notebooks",
+      "duration": 223.52979591836734
     },
     {
-      "fileName": "7 - High tech docking bay ambience - Elite Dangerous.mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\7 - High tech docking bay ambience - Elite Dangerous.mp3",
-      "title": "High tech docking bay ambience",
-      "artist": "Elite Dangerous",
-      "duration": 1223.5232653061225
+      "fileName": "[07] - Slums.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[07] - Slums.mp3",
+      "title": "[07] - Slums",
+      "duration": 458.44897959183675
     },
     {
-      "fileName": "Starport Space (ambient space sounds, no music) - Elite Dangerous Ambience.mp3",
-      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Starport Space (ambient space sounds, no music) - Elite Dangerous Ambience.mp3",
-      "title": "Starport Space (ambient space sounds, no music)",
-      "artist": "Elite Dangerous Ambience",
-      "duration": 3603.696326530612
+      "fileName": "[08] - Rooftops.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[08] - Rooftops.mp3",
+      "title": "[08] - Rooftops",
+      "duration": 562.4946938775511
+    },
+    {
+      "fileName": "[09] - Town Square.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[09] - Town Square.mp3",
+      "title": "[09] - Town Square",
+      "duration": 388.3624489795918
+    },
+    {
+      "fileName": "[10] - Communication.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[10] - Communication.mp3",
+      "title": "[10] - Communication",
+      "duration": 176.14367346938775
+    },
+    {
+      "fileName": "[11] - Secret Lab.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[11] - Secret Lab.mp3",
+      "title": "[11] - Secret Lab",
+      "duration": 133.64244897959185
+    },
+    {
+      "fileName": "[12] - Dead End.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[12] - Dead End.mp3",
+      "title": "[12] - Dead End",
+      "duration": 249.6261224489796
+    },
+    {
+      "fileName": "[13] - Raft.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[13] - Raft.mp3",
+      "title": "[13] - Raft",
+      "duration": 196.93714285714285
+    },
+    {
+      "fileName": "[14] - Fuse.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[14] - Fuse.mp3",
+      "title": "[14] - Fuse",
+      "duration": 211.1738775510204
+    },
+    {
+      "fileName": "[15] - Roberto is Out.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[15] - Roberto is Out.mp3",
+      "title": "[15] - Roberto is Out",
+      "duration": 128.73142857142858
+    },
+    {
+      "fileName": "[16] - Sewers.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[16] - Sewers.mp3",
+      "title": "[16] - Sewers",
+      "duration": 345.41714285714284
+    },
+    {
+      "fileName": "[17] - Hatching.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[17] - Hatching.mp3",
+      "title": "[17] - Hatching",
+      "duration": 527.6995918367347
+    },
+    {
+      "fileName": "[18] - Ant Village.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[18] - Ant Village.mp3",
+      "title": "[18] - Ant Village",
+      "duration": 401.21469387755104
+    },
+    {
+      "fileName": "[19] - Mildly Important Information (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[19] - Mildly Important Information (busker version).mp3",
+      "title": "[19] - Mildly Important Information (busker version)",
+      "duration": 26.200816326530614
+    },
+    {
+      "fileName": "[20] - Outlaws.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[20] - Outlaws.mp3",
+      "title": "[20] - Outlaws",
+      "duration": 542.5110204081633
+    },
+    {
+      "fileName": "[21] - Trash Zone.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[21] - Trash Zone.mp3",
+      "title": "[21] - Trash Zone",
+      "duration": 322.92571428571426
+    },
+    {
+      "fileName": "[22] - Rikonium.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[22] - Rikonium.mp3",
+      "title": "[22] - Rikonium",
+      "duration": 194.58612244897958
+    },
+    {
+      "fileName": "[23] - Cells.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[23] - Cells.mp3",
+      "title": "[23] - Cells",
+      "duration": 271.54285714285714
+    },
+    {
+      "fileName": "[24] - Stealth.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[24] - Stealth.mp3",
+      "title": "[24] - Stealth",
+      "duration": 323.7355102040816
+    },
+    {
+      "fileName": "[25] - Courtyard.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[25] - Courtyard.mp3",
+      "title": "[25] - Courtyard",
+      "duration": 163.5265306122449
+    },
+    {
+      "fileName": "[26] - Last Night.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[26] - Last Night.mp3",
+      "title": "[26] - Last Night",
+      "duration": 230.11265306122448
+    },
+    {
+      "fileName": "[27] - Clean City.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[27] - Clean City.mp3",
+      "title": "[27] - Clean City",
+      "duration": 177.6326530612245
+    },
+    {
+      "fileName": "[28] - Control Room.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[28] - Control Room.mp3",
+      "title": "[28] - Control Room",
+      "duration": 370.70367346938775
+    },
+    {
+      "fileName": "[29] - Daybreak.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD1\\[29] - Daybreak.mp3",
+      "title": "[29] - Daybreak",
+      "duration": 427.2848979591837
+    },
+    {
+      "fileName": "[01] - Cool Down.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[01] - Cool Down.mp3",
+      "title": "[01] - Cool Down",
+      "duration": 85.62938775510204
+    },
+    {
+      "fileName": "[02] - The Way you Compute Tonight.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[02] - The Way you Compute Tonight.mp3",
+      "title": "[02] - The Way you Compute Tonight",
+      "duration": 49.711020408163265
+    },
+    {
+      "fileName": "[03] - Step on my Shard.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[03] - Step on my Shard.mp3",
+      "title": "[03] - Step on my Shard",
+      "duration": 94.14530612244899
+    },
+    {
+      "fileName": "[04] - Tomorrows.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[04] - Tomorrows.mp3",
+      "title": "[04] - Tomorrows",
+      "duration": 70.76571428571428
+    },
+    {
+      "fileName": "[05] - Sterilize.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[05] - Sterilize.mp3",
+      "title": "[05] - Sterilize",
+      "duration": 123.92489795918367
+    },
+    {
+      "fileName": "[06] - Safe Mode.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[06] - Safe Mode.mp3",
+      "title": "[06] - Safe Mode",
+      "duration": 60.55183673469388
+    },
+    {
+      "fileName": "[07] - Velocity Regression.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[07] - Velocity Regression.mp3",
+      "title": "[07] - Velocity Regression",
+      "duration": 147.27836734693878
+    },
+    {
+      "fileName": "[08] - Docking Ring.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[08] - Docking Ring.mp3",
+      "title": "[08] - Docking Ring",
+      "duration": 119.84979591836735
+    },
+    {
+      "fileName": "[09] - The Kindness of Strangers.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[09] - The Kindness of Strangers.mp3",
+      "title": "[09] - The Kindness of Strangers",
+      "duration": 106.13551020408163
+    },
+    {
+      "fileName": "[10] - Refresh.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[10] - Refresh.mp3",
+      "title": "[10] - Refresh",
+      "duration": 76.35591836734694
+    },
+    {
+      "fileName": "[11] - Eliza.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[11] - Eliza.mp3",
+      "title": "[11] - Eliza",
+      "duration": 100.12734693877552
+    },
+    {
+      "fileName": "[12] - Critical Systems.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[12] - Critical Systems.mp3",
+      "title": "[12] - Critical Systems",
+      "duration": 82.12897959183674
+    },
+    {
+      "fileName": "[13] - Petite Valse (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[13] - Petite Valse (busker version).mp3",
+      "title": "[13] - Petite Valse (busker version)",
+      "duration": 37.14612244897959
+    },
+    {
+      "fileName": "[14] - Ballad of the Lonely Robot (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[14] - Ballad of the Lonely Robot (busker version).mp3",
+      "title": "[14] - Ballad of the Lonely Robot (busker version)",
+      "duration": 42.65795918367347
+    },
+    {
+      "fileName": "[15] - _untitled_ (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[15] - _untitled_ (busker version).mp3",
+      "title": "[15] - _untitled_ (busker version)",
+      "duration": 19.80081632653061
+    },
+    {
+      "fileName": "[16] - The Way you Compute Tonight (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[16] - The Way you Compute Tonight (busker version).mp3",
+      "title": "[16] - The Way you Compute Tonight (busker version)",
+      "duration": 48.03918367346939
+    },
+    {
+      "fileName": "[17] - Tomorrows (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[17] - Tomorrows (busker version).mp3",
+      "title": "[17] - Tomorrows (busker version)",
+      "duration": 45.16571428571429
+    },
+    {
+      "fileName": "[18] - Cool Down (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[18] - Cool Down (busker version).mp3",
+      "title": "[18] - Cool Down (busker version)",
+      "duration": 74.50122448979592
+    },
+    {
+      "fileName": "[19] - Midtown.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[19] - Midtown.mp3",
+      "title": "[19] - Midtown",
+      "duration": 250.14857142857142
+    },
+    {
+      "fileName": "[20] - (unreadable music) (busker version).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[20] - (unreadable music) (busker version).mp3",
+      "title": "[20] - (unreadable music) (busker version)",
+      "duration": 28.73469387755102
+    },
+    {
+      "fileName": "[21] - A Sphere of Blue Light on a Marble Floor with Waves Coming from Every Direction..mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[21] - A Sphere of Blue Light on a Marble Floor with Waves Coming from Every Direction..mp3",
+      "title": "[21] - A Sphere of Blue Light on a Marble Floor with Waves Coming from Every Direction.",
+      "duration": 224.94040816326532
+    },
+    {
+      "fileName": "[22] - Uwazumosurikae.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[22] - Uwazumosurikae.mp3",
+      "title": "[22] - Uwazumosurikae",
+      "duration": 170.13551020408164
+    },
+    {
+      "fileName": "[23] - Bushido Calculus.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[23] - Bushido Calculus.mp3",
+      "title": "[23] - Bushido Calculus",
+      "duration": 101.56408163265306
+    },
+    {
+      "fileName": "[24] - Ominous Music.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[24] - Ominous Music.mp3",
+      "title": "[24] - Ominous Music",
+      "duration": 216.47673469387755
+    },
+    {
+      "fileName": "[25] - Loud Music.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[25] - Loud Music.mp3",
+      "title": "[25] - Loud Music",
+      "duration": 159.47755102040816
+    },
+    {
+      "fileName": "[26] - Radio Edit (radio edit).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[26] - Radio Edit (radio edit).mp3",
+      "title": "[26] - Radio Edit (radio edit)",
+      "duration": 83.27836734693878
+    },
+    {
+      "fileName": "[27] - Computational Song.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[27] - Computational Song.mp3",
+      "title": "[27] - Computational Song",
+      "duration": 131.39591836734695
+    },
+    {
+      "fileName": "[28] - Error-22.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[28] - Error-22.mp3",
+      "title": "[28] - Error-22",
+      "duration": 128.2873469387755
+    },
+    {
+      "fileName": "[29] - Pressure Suit.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[29] - Pressure Suit.mp3",
+      "title": "[29] - Pressure Suit",
+      "duration": 154.14857142857142
+    },
+    {
+      "fileName": "[30] - Suitcase.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[30] - Suitcase.mp3",
+      "title": "[30] - Suitcase",
+      "duration": 132.31020408163266
+    },
+    {
+      "fileName": "[31] - Sound of Something Falling.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[31] - Sound of Something Falling.mp3",
+      "title": "[31] - Sound of Something Falling",
+      "duration": 58.14857142857143
+    },
+    {
+      "fileName": "[32] - Placeholder World.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[32] - Placeholder World.mp3",
+      "title": "[32] - Placeholder World",
+      "duration": 74.13551020408163
+    },
+    {
+      "fileName": "[33] - I am a Satellite.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[33] - I am a Satellite.mp3",
+      "title": "[33] - I am a Satellite",
+      "duration": 58.14857142857143
+    },
+    {
+      "fileName": "[34] - Static Sleep Loop.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[34] - Static Sleep Loop.mp3",
+      "title": "[34] - Static Sleep Loop",
+      "duration": 64.99265306122449
+    },
+    {
+      "fileName": "[35] - Binary Sunset.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[35] - Binary Sunset.mp3",
+      "title": "[35] - Binary Sunset",
+      "duration": 130.14204081632653
+    },
+    {
+      "fileName": "[36] - L_DF_OF_.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[36] - L_DF_OF_.mp3",
+      "title": "[36] - L_DF_OF_",
+      "duration": 212.1404081632653
+    },
+    {
+      "fileName": "[37] - Baby Download.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[37] - Baby Download.mp3",
+      "title": "[37] - Baby Download",
+      "duration": 203.10204081632654
+    },
+    {
+      "fileName": "[38] - Self-Destruct Sequence Initiated.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[38] - Self-Destruct Sequence Initiated.mp3",
+      "title": "[38] - Self-Destruct Sequence Initiated",
+      "duration": 79.96081632653062
+    },
+    {
+      "fileName": "[39] - Default Club Sound.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[39] - Default Club Sound.mp3",
+      "title": "[39] - Default Club Sound",
+      "duration": 195.44816326530614
+    },
+    {
+      "fileName": "[40] - Ugly Megamix.mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[40] - Ugly Megamix.mp3",
+      "title": "[40] - Ugly Megamix",
+      "duration": 532.3232653061225
+    },
+    {
+      "fileName": "[41] - Dummy Code Segment (see below).mp3",
+      "fullPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray\\CD2\\[41] - Dummy Code Segment (see below).mp3",
+      "title": "[41] - Dummy Code Segment (see below)",
+      "duration": 63.89551020408163
     }
   ],
-  "myMusicFolderPath": "C:\\MyPrograms\\Obsidian\\Music",
+  "myMusicFolderPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray",
   "reindexFrequency": "never",
   "myMusicShuffle": false,
-  "currentTrackIndex": 6
+  "currentTrackIndex": 8
 }
