@@ -1,4 +1,4 @@
 #Star 
 
-[[Platón]]
+[[Platón (Antigua)]]
 
