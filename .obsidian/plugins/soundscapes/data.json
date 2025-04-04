@@ -1,5 +1,5 @@
 {
-  "soundscape": "CUSTOM_225c0a43-7fc9-4bb9-9b50-31f6a6152171",
+  "soundscape": "MY_MUSIC",
   "volume": 25,
   "autoplay": false,
   "scrollSongTitle": true,
@@ -10,7 +10,11 @@
       "tracks": [
         {
           "name": "The Guardian",
-          "id": "https://www.youtube.com/watch?v=2EPZTwVzAfc&list=PLUVDfcJiV5p8P_g80fT8LanjaqwzbxBIq&index=5"
+          "id": "2EPZTwVzAfc&list=PLUVDfcJiV5p8P_g80fT8LanjaqwzbxBIq&index=5"
+        },
+        {
+          "name": "Vibe",
+          "id": "Afyrlhg9I_A"
         }
       ]
     }
@@ -440,5 +444,5 @@
   "myMusicFolderPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray",
   "reindexFrequency": "never",
   "myMusicShuffle": false,
-  "currentTrackIndex": 0
+  "currentTrackIndex": 4
 }
