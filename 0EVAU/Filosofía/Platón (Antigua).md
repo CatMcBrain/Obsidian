@@ -11,15 +11,15 @@ ___
 Al igual que Pitágoras, Platón valora más el **conocimiento racional** que el sensible, y también defenderá el ==**dualismo antropomórfico**==: <span style="color: #0070c0;">El hombre es cuerpo, pero sobre todo alma, que al encarnarse en el cuerpo olvida las ideas.</span> Estas pueden ser **==recordadas==** a través de lo sensible (anamnesis).  <ul><li>Para poder llegar a las ideas, Platón propone el método de la <b><mark>dialéctica</mark>,</b><span style="color: #0070c0;"> que es un proceso ascendente con distintos grados en el que se parte de lo <b>sensible</b>, que proporciona una opinión, y a través de reflexión se llega al conocimiento <b>inteligible</b> (ideas), que es la verdadera ciencia.</span></li></ul>
 
 ___
-El ==**conocimiento sensible**==, opinión, se basa en la apariencia de las cosas, y se divide en **dos grados:** <span style="color: #0070c0;">El inferior es la <b><u>IMAGINACIÓN</u></b> o conjetura (eikasía), que se basa en las imágenes percibidas de la realidad, y el siguiente grado es la <b><u>CREENCIA</u></b> (pistis), que trata son los objetos sensibles mismos.</span>
+El ==**conocimiento sensible**==, opinión, se basa en la **apariencia** de las cosas, y se divide en **dos grados:** <span style="color: #0070c0;">El inferior es la <b><u>IMAGINACIÓN</u></b> o conjetura (eikasía), que se basa en las imágenes percibidas de la realidad, y el siguiente grado es la <b><u>CREENCIA</u></b> (pistis), que trata de los objetos sensibles mismos.</span>
 
-El **==conocimiento racional==**, que proporciona ciencia, se basa en las ideas,  y también comprende **dos grados:** <span style="color: #0070c0;">La inferior recibe el nombre de <u><b>PENSAMIENTO</b></u> o conocimiento discursivo, y se ocupa de los objetos matemáticos. Por encima de este grado está la <b><u>NOESIS</u></b>,  que es el conocimiento cuyo objeto son las ideas, con objetivo final de  conocer la idea de <b><mark>Bien</mark></b>, de la que derivan el resto de ideas y hace que posean esencia y existencia. Platón identifica a esta idea con el Sol, y es el principio sobre el que se sustenta toda la realidad y conocimiento.</span>
+El **==conocimiento racional==**, que proporciona ciencia, se basa en las **ideas**,  y también comprende **dos grados:** <span style="color: #0070c0;">La inferior recibe el nombre de <u><b>PENSAMIENTO</b></u> o conocimiento discursivo, y se ocupa de los objetos matemáticos. Por encima de este grado está la <b><u>NOESIS</u></b>,  que es el conocimiento cuyo objeto son las ideas, con objetivo final de  conocer la idea de <b><mark>Bien</mark></b>, de la que derivan el resto de ideas y hace que posean esencia y existencia. Platón identifica a esta idea con el Sol, y es el principio sobre el que se sustenta toda la realidad y conocimiento.</span>
 
 ___
 La ==**dialéctica es**== camino en el conocimiento y la libertad. <span style="color: #0070c0;">Saber y conocer es buscar la verdad y librarse de las opiniones. Un <b>conocimiento pleno de las ideas</b>, de la idea de Bien, llevaría también a la perfección moral, honestidad y al compromiso político por el bien común.</span>
 
 ___
-![[Pasted image 20250403120500.png]]
+![[Pasted image 20250404175432.png]]
 
 
 
