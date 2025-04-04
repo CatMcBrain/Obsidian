@@ -13,7 +13,17 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Soundscapes: My Music",
+      "Open quick switcher",
+      "Create new canvas",
+      "Open today's daily note",
+      "Open Git source control",
+      "Templater",
+      "Advanced Tables Toolbar",
+      "Open Importer",
+      "Toggle custom sorting"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
