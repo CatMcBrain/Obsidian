@@ -4,7 +4,15 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-save",
+      "name": "Git: Commit-and-sync",
+      "mode": "6f00560b33ed7371",
+      "color": "#cf61e5"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
