@@ -202,7 +202,6 @@
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -210,6 +209,7 @@
       "obsidian-importer:Open Importer": false,
       "custom-sort:Toggle custom sorting": false,
       "vscode-editor:Create Code File": false,
+      "templates:Insert template": false,
       "hide-folders:Show hidden folders": false
     }
   },
