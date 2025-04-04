@@ -1,6 +1,6 @@
 {
   "soundscape": "MY_MUSIC",
-  "volume": 25,
+  "volume": 12,
   "autoplay": false,
   "scrollSongTitle": true,
   "customSoundscapes": [
@@ -444,5 +444,5 @@
   "myMusicFolderPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray",
   "reindexFrequency": "never",
   "myMusicShuffle": false,
-  "currentTrackIndex": 4
+  "currentTrackIndex": 5
 }
