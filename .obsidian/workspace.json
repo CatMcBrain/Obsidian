@@ -33,7 +33,8 @@
               "title": "Platón-Esquemas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,11 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "37cbbdf8b7a22c27",
   "lastOpenFiles": [
+    "0EVAU/Filosofía/Platón (Antigua).md",
     "Attachments/Pasted image 20250404175432.png",
     "0EVAU/Filosofía/Platón-Esquemas.md",
-    "0EVAU/Filosofía/Platón (Antigua).md",
     "Attachments/Pasted image 20250404163324.png",
     "fonts/Stray-Regular.otf",
     "fonts",
@@ -252,7 +253,6 @@
     "Attachments/20250319_122056.jpg",
     "Attachments/Pasted image 20250318205526.png",
     "Attachments/20250318_205103.jpg",
-    "Attachments/20250318_201246.jpg",
     "Notes/Useful PC.md",
     "Notes/Useful PC [conflicted].md",
     "1Notes/Notes.md",
