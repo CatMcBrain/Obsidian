@@ -1,9 +1,15 @@
 {
-  "soundscape": "MY_MUSIC",
+  "soundscape": "lofi",
   "volume": 25,
   "autoplay": false,
   "scrollSongTitle": true,
-  "customSoundscapes": [],
+  "customSoundscapes": [
+    {
+      "id": "225c0a43-7fc9-4bb9-9b50-31f6a6152171",
+      "name": "My Relaxing",
+      "tracks": []
+    }
+  ],
   "myMusicIndex": [
     {
       "fileName": "[01] - Inside the Wall.mp3",
@@ -429,5 +435,5 @@
   "myMusicFolderPath": "C:\\MyPrograms\\Obsidian\\Music\\Stray",
   "reindexFrequency": "never",
   "myMusicShuffle": false,
-  "currentTrackIndex": 8
+  "currentTrackIndex": 0
 }
