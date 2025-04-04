@@ -1,0 +1,6 @@
+.cm-hmd-indented-code {
+font-size: var(--font-text-size) !important;
+font-family: var(--font-text) !important;
+color: var(--text-normal)!important;
+background-color: transparent !important;
+}

@@ -1,0 +1,11 @@
+/* Space-Themed Background with Lower Opacity */
+canvas {
+    background-color: rgba(22, 22, 22, 0.4) !important; /* Dark background, but slightly transparent */
+    background-image: 
+        radial-gradient(2px 2px at 10% 20%, rgba(255, 255, 255, 0.6), transparent),
+        radial-gradient(1.5px 1.5px at 30% 40%, rgba(255, 255, 255, 0.4), transparent),
+        radial-gradient(2px 2px at 50% 60%, rgba(255, 255, 255, 0.5), transparent),
+        radial-gradient(1px 1px at 70% 80%, rgba(255, 255, 255, 0.3), transparent),
+        radial-gradient(1.5px 1.5px at 85% 90%, rgba(255, 255, 255, 0.4), transparent),
+        linear-gradient(134deg, rgba(72, 54, 153, 0.4) 0%, rgba(6, 1, 28, 0.4) 100%);
+    background-blend-mode: hue;

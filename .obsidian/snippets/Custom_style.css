@@ -1,0 +1,8 @@
+ul {
+  border-left: 2px solid gray;
+  padding-left: 10px;
+  list-style: none;
+}
+mark {
+  background-color: #EAD7C0;
+}

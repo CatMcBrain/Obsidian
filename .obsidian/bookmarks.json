@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1742325387582,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742325387582,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1742325387583,
+              "path": "Attachments/trpecv.jpg",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\Attachments"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
