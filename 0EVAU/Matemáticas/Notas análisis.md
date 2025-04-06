@@ -32,7 +32,7 @@
 - **NO ASÍNTOTAS**
 - Coseno **par**, seno **impar**
 
-- Para comprobar cosas o re (como máx ,mín, etc) usar tanto $2\pi$ como $0$.
+- Para comprobar cosas o resolver una ecuación =0 ... (como máx ,mín, etc) usar tanto $2\pi$ como $0$.
 ## Periodicidad
 
 - Aislar **x**: $\textcolor{blue}{f(x)=sen(2x)\rightarrow =sen\, 2(x)}$
