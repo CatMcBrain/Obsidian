@@ -4,15 +4,7 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "obsidian-git:push",
-      "icon": "lucide-save",
-      "name": "Git: Commit-and-sync",
-      "mode": "6f00560b33ed7371",
-      "color": "#cf61e5"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -21,17 +13,7 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": [
-      "Soundscapes: My Music",
-      "Open quick switcher",
-      "Create new canvas",
-      "Open today's daily note",
-      "Open Git source control",
-      "Templater",
-      "Advanced Tables Toolbar",
-      "Open Importer",
-      "Toggle custom sorting"
-    ]
+    "leftRibbon": []
   },
   "spacing": 8,
   "advancedToolbar": {

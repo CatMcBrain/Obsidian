@@ -1,32 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Notas Química",
-      "path": "0EVAU/Química/Notas Química.md"
-    },
-    {
-      "basename": "Notas Análisis",
-      "path": "0EVAU/Matemáticas/Notas Análisis.md"
-    },
-    {
-      "basename": "Notas Gravitación",
-      "path": "0EVAU/Física/Notas Gravitación.md"
-    },
-    {
-      "basename": "Platón-Esquemas",
-      "path": "0EVAU/Filosofía/Platón-Esquemas.md"
-    },
-    {
-      "basename": "Platón (Antigua)",
-      "path": "0EVAU/Filosofía/Platón (Antigua).md"
+      "basename": "Notas análisis",
+      "path": "0EVAU/Matemáticas/Notas análisis.md"
     },
     {
       "basename": "FILOSOFÍA",
       "path": "0EVAU/Filosofía/FILOSOFÍA.md"
     },
     {
+      "basename": "Platón",
+      "path": "0EVAU/Filosofía/Platón.md"
+    },
+    {
+      "basename": "Drawing 2025-04-03 11.03.53.excalidraw",
+      "path": "0EVAU/Filosofía/Drawing 2025-04-03 11.03.53.excalidraw.md"
+    },
+    {
       "basename": "Notas Geometría",
       "path": "0EVAU/Matemáticas/Notas Geometría.md"
+    },
+    {
+      "basename": "Notas Análisis",
+      "path": "0EVAU/Matemáticas/Notas Análisis.md"
     },
     {
       "basename": "Notas Álgebra",
@@ -35,6 +31,14 @@
     {
       "basename": "Problemas Álgebra",
       "path": "0EVAU/Matemáticas/Problemas Álgebra.md"
+    },
+    {
+      "basename": "Notas Gravitación",
+      "path": "0EVAU/Física/Notas Gravitación.md"
+    },
+    {
+      "basename": "Notas Química",
+      "path": "0EVAU/Química/Notas Química.md"
     },
     {
       "basename": "Fórmulas Geometría",
@@ -195,10 +199,6 @@
     {
       "basename": "Notas Gravitación",
       "path": "EVAU/Física/Notas Gravitación.md"
-    },
-    {
-      "basename": "Problemas Gravitación",
-      "path": "EVAU/Física/Problemas Gravitación.md"
     }
   ],
   "omittedPaths": [],
