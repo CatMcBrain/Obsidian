@@ -10,3 +10,5 @@
 ## Física
 
 - **Índice refracción medio:** $\boxed{n=\frac{c}{v}}$
+- La **FRECUENCIA NO CAMBIA** de un medio a otro $\textcolor{red}{(!!)}$
+- Por el **vacío o aire** la **velocidad de propagación**
