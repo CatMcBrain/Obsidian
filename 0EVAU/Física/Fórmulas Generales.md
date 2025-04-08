@@ -5,7 +5,7 @@
 
 **Producto Vectorial:** $\vec{A}\times\vec{B}=\begin{vmatrix}i&j&k\\A1&A2&A3\\B1&B2&B3\end{vmatrix}$ ^b49cc2
 
-**J a eV:** $\boxed{1\, J=1.6\cdot 10^{-19}\, eV}$
+**eV a J:** $\boxed{1\, eV=1.6\cdot 10^{-19}\, J}$
 ## Movimientos
 
 ### MCU
