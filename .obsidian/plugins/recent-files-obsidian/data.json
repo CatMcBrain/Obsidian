@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Notas Óptica",
+      "path": "0EVAU/Física/Notas Óptica.md"
+    },
+    {
       "basename": "Notas Eléctrico",
       "path": "0EVAU/Física/Notas Eléctrico.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Problemas Álgebra",
       "path": "EVAU/Matemáticas/Problemas Álgebra.md"
-    },
-    {
-      "basename": "Notas Gravitación",
-      "path": "EVAU/Física/Notas Gravitación.md"
     }
   ],
   "omittedPaths": [],
