@@ -1,3 +1,3 @@
 
 
-- El **SIGNO** negativo de las convergentes está a la derecha
+- El **SIGNO** negativo (donde se pone **"PRIMA"**) de las convergentes está a la derecha 
