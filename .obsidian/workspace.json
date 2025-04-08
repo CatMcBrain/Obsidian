@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Notas Eléctrico.md",
+                "file": "0EVAU/Física/Fórmulas Generales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas Eléctrico"
+              "title": "Fórmulas Generales"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "44bc0cfb3886375f",
   "lastOpenFiles": [
+    "0EVAU/Física/FÍSICA.md",
+    "0EVAU/Física/Notas Eléctrico.md",
     "0EVAU/Química/Notas Química.md",
     "0EVAU/Matemáticas/Notas Análisis.md",
     "0EVAU/Física/Notas Gravitación.md",
@@ -245,7 +247,6 @@
     "0EVAU/Física/Campo Magnético.md",
     "Notes/Games/Elite Dangerous/Guardian Materials/Guardian Materials.md",
     "Notes/Games/Elite Dangerous/Resources.md",
-    "Notes/Games/Elite Dangerous/Elite Dangerous.md",
-    "0EVAU/Física/FÍSICA.md"
+    "Notes/Games/Elite Dangerous/Elite Dangerous.md"
   ]
 }
