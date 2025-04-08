@@ -8,3 +8,5 @@
 - Para **circulares**, también sirve: $\boxed{Ec=-\frac{1}{2}Ep}$ , que viene de $\boxed{F_{cen}=F_{g}}$  [[Gravitación#^e8513b|(circulares)]] ^235246
 
 - Cuando "hablamos de un **punto exacto**" en una órbita, normalmente nos sirve usar $\boxed{Em_1=Em_2}$
+
+- "E necesaria para que **abandone campo grav.**" $\rightarrow Em=0$

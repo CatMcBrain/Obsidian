@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Gravitación.md",
+                "file": "0EVAU/Física/Notas Gravitación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gravitación"
+              "title": "Notas Gravitación"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "8f705d971d57895c",
   "lastOpenFiles": [
+    "0EVAU/Física/Gravitación.md",
     "0EVAU/Física/Notas Gravitación.md",
     "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Física/Notas Óptica.md",
@@ -261,7 +262,6 @@
     "Attachments/20250318_205103.jpg",
     "Notes/Useful PC.md",
     "Notes/Useful PC [conflicted].md",
-    "1Notes/Notes.md",
-    "0EVAU/Física/Campo Magnético.md"
+    "1Notes/Notes.md"
   ]
 }
