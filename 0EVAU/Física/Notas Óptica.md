@@ -13,4 +13,4 @@
 - La **FRECUENCIA NO CAMBIA** de un medio a otro $\textcolor{red}{(!!)}$
 - Por el **vacío o aire** la **velocidad de propagación** es $\boxed{c}$
 
-- **Ángulo crítico:** 
+- **Ángulo crítico:** $\boxed{n_1\, sen\,\theta_{crit}=n_2\, sen\, 90^o}$ 
