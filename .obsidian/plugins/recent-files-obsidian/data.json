@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Notas Óptica",
-      "path": "0EVAU/Física/Notas Óptica.md"
+      "basename": "Platón (Antigua)",
+      "path": "0EVAU/Filosofía/Platón (Antigua).md"
+    },
+    {
+      "basename": "Platón-Esquemas",
+      "path": "0EVAU/Filosofía/Platón-Esquemas.md"
     },
     {
       "basename": "Notas Ondas",
       "path": "0EVAU/Física/Notas Ondas.md"
+    },
+    {
+      "basename": "Notas Óptica",
+      "path": "0EVAU/Física/Notas Óptica.md"
     },
     {
       "basename": "Notas Magnético",
@@ -191,14 +199,6 @@
     {
       "basename": "Problemas Gravitación",
       "path": "0EVAU/Física/Problemas Gravitación.md"
-    },
-    {
-      "basename": "LENGUA",
-      "path": "0EVAU/Lengua/LENGUA.md"
-    },
-    {
-      "basename": "MATEMÁTICAS",
-      "path": "EVAU/Matemáticas/MATEMÁTICAS.md"
     }
   ],
   "omittedPaths": [],
