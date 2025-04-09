@@ -47,3 +47,6 @@ ___
 ![[Pasted image 20250404163324.png]]
 
 ## Problema de la Moral o Ética
+
+
+
