@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -213,9 +214,9 @@
   },
   "active": "f810a8b9421167ca",
   "lastOpenFiles": [
-    "show.png",
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
+    "show.png",
     "0EVAU/Física/Notas Ondas.md",
     "0EVAU/Física/Notas Óptica.md",
     "0EVAU/Física/Notas Magnético.md",
@@ -257,7 +258,6 @@
     "0EVAU/Química/QUÍMICA.md",
     "0EVAU/Química/Ejercicios Química.md",
     "Attachments/20250319_122056.jpg",
-    "Attachments/Pasted image 20250318205526.png",
-    "Attachments/20250318_205103.jpg"
+    "Attachments/Pasted image 20250318205526.png"
   ]
 }
