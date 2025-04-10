@@ -33,7 +33,8 @@
               "title": "Platón-Esquemas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "f810a8b9421167ca",
+  "active": "4250f98a17f34076",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
+    "0EVAU/Filosofía/Platón-Esquemas.md",
     "show.png",
     "0EVAU/Física/Notas Ondas.md",
     "0EVAU/Física/Notas Óptica.md",
