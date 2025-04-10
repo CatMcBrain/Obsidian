@@ -11,12 +11,14 @@
             "id": "f810a8b9421167ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Problemas Eléctrico.md"
+                "file": "0EVAU/Física/Campo Eléctrico.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Eléctrico"
+              "icon": "lucide-file",
+              "title": "Campo Eléctrico"
             }
           }
         ]
@@ -199,6 +201,7 @@
   },
   "active": "f810a8b9421167ca",
   "lastOpenFiles": [
+    "0EVAU/Física/Problemas Eléctrico.md",
     "0EVAU/Física/Notas Eléctrico.md",
     "0EVAU/Física/Campo Eléctrico.md",
     "0EVAU/Física/Notas Gravitación.md",
