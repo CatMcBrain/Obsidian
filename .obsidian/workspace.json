@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "b1ce7196e7c21cea",
+  "active": "3ab9416d00328dff",
   "lastOpenFiles": [
-    "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Física/Campo Magnético.md",
+    "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Física/Notas Magnético.md",
     "0EVAU/Física/Notas Eléctrico.md",
     "0EVAU/Física/Campo Eléctrico.md",
