@@ -7,3 +7,5 @@
 - Para **CONFIRMAR TRIÁNGULO** (3 puntos), tengo que verificar que dos de sus vectores no son proporcionales (puntos no alineados): $\vec{AB}=k\vec{AC}$ (**igualar** coordenada a coordenada y ver si no coincide k $\rightarrow$ no proporcionales)
 
 - Para ver si **DOS VECTORES PARALELOS**, comprobar si son combinación lineal: $\vec{AB}=\lambda\;\vec{CD}$
+
+- **Distancia entre dos rectas:** coger punto de una recta y aplicar **fórmula** de distancia <span style="color: #0070c0;">punto-recta</span>
