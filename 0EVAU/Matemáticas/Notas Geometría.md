@@ -9,3 +9,4 @@
 - Para ver si **DOS VECTORES PARALELOS**, comprobar si son combinación lineal: $\vec{AB}=\lambda\;\vec{CD}$
 
 - **Distancia entre dos rectas:** coger punto de una recta y aplicar **fórmula** de distancia <span style="color: #0070c0;">punto-recta</span>
+
