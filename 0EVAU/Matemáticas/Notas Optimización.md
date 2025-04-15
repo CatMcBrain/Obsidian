@@ -5,3 +5,5 @@
 - Trato la ecuación como función y busco el máximo (ej. $f(x)=(2+x)(5000-500x)$)
 	$\rightarrow\; (\text{haciendo que }f'(x)=0)$
 
+![[20250415_182756.jpg]]
+
