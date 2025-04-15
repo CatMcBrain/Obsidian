@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1839589903ee2d",
+        "id": "bffefe0c78c2b1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f780250d456fda95",
+            "id": "49fb5010a6e3e496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Matemáticas/Notas Geometría.md",
+                "file": "0EVAU/Física/Campo Eléctrico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas Geometría"
+              "title": "Campo Eléctrico"
             }
           },
           {
-            "id": "6d4dea77207a34d1",
+            "id": "555961b17fa046ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Matemáticas/Geometría.md",
+                "file": "0EVAU/Física/Notas Eléctrico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometría"
+              "title": "Notas Eléctrico"
             }
           }
         ]
@@ -213,17 +213,17 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "f780250d456fda95",
+  "active": "49fb5010a6e3e496",
   "lastOpenFiles": [
+    "0EVAU/Física/Notas Eléctrico.md",
+    "0EVAU/Física/Campo Eléctrico.md",
     "0EVAU/Matemáticas/Geometría.md",
     "0EVAU/Matemáticas/Notas Geometría.md",
-    "0EVAU/Física/Campo Eléctrico.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Física/Notas Magnético.md",
     "0EVAU/Física/Campo Magnético.md",
-    "0EVAU/Física/Notas Eléctrico.md",
     "0EVAU/Física/Problemas Eléctrico.md",
     "0EVAU/Física/Notas Gravitación.md",
     "0EVAU/Física/Gravitación.md",
