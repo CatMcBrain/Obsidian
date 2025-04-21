@@ -48,5 +48,4 @@ ___
 
 ## Problema de la Moral o Ética
 
-
-
+La **==dialéctica==**, método que propone Platón-Chan 
