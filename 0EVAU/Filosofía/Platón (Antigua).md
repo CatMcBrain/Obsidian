@@ -48,4 +48,4 @@ ___
 
 ## Problema de la Moral o Ética
 
-Para la **==dialéctica==**, método que propone Platón para llegar al conocimiento de las ideas, 
+Para la **==dialéctica==**, método que propone Platón para llegar al conocimiento de las ideas, es necesaria también la **virtud** 
