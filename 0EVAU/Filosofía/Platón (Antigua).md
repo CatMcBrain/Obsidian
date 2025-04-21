@@ -50,4 +50,4 @@ ___
 
 Para la **==dialéctica==**, método que propone Platón para llegar al conocimiento de las ideas, es necesaria también la **virtud**, que es un camino hacia el Bien y la Justicia.
 
-
+Según Platón
