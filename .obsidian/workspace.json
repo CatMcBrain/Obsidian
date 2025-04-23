@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "9bbcd8a7f52f8d67",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "8c003605e7bbfa5a",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Platón-Esquemas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +224,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "cf510fd22f867da8",
+  "active": "9bbcd8a7f52f8d67",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
+    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Matemáticas/Notas Optimización.md",
     "0EVAU/Matemáticas/MATEMÁTICAS.md",
     "Attachments/20250415_182756.jpg",
