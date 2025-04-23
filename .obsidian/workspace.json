@@ -37,12 +37,14 @@
             "id": "acb6861be1452e1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Problemas Magnético.md"
+                "file": "0EVAU/Física/FÍSICA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Magnético"
+              "icon": "lucide-file",
+              "title": "FÍSICA"
             }
           }
         ],
@@ -226,6 +228,7 @@
   },
   "active": "acb6861be1452e1f",
   "lastOpenFiles": [
+    "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Física/Campo Magnético.md",
     "0EVAU/Física/Notas Magnético.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
@@ -237,7 +240,6 @@
     "0EVAU/Física/Campo Eléctrico.md",
     "0EVAU/Matemáticas/Geometría.md",
     "0EVAU/Matemáticas/Notas Geometría.md",
-    "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Física/Problemas Eléctrico.md",
     "0EVAU/Física/Notas Gravitación.md",
     "0EVAU/Física/Gravitación.md",
