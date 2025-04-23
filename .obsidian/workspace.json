@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "9bbcd8a7f52f8d67",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
             "id": "8c003605e7bbfa5a",
             "type": "leaf",
             "state": {
@@ -44,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "Platón-Esquemas"
             }
+          },
+          {
+            "id": "acb6861be1452e1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0EVAU/Física/Problemas Magnético.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problemas Magnético"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,8 +224,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "9bbcd8a7f52f8d67",
+  "active": "acb6861be1452e1f",
   "lastOpenFiles": [
+    "0EVAU/Física/Campo Magnético.md",
+    "0EVAU/Física/Notas Magnético.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Matemáticas/Notas Optimización.md",
@@ -236,8 +238,6 @@
     "0EVAU/Matemáticas/Geometría.md",
     "0EVAU/Matemáticas/Notas Geometría.md",
     "0EVAU/Física/Problemas Magnético.md",
-    "0EVAU/Física/Notas Magnético.md",
-    "0EVAU/Física/Campo Magnético.md",
     "0EVAU/Física/Problemas Eléctrico.md",
     "0EVAU/Física/Notas Gravitación.md",
     "0EVAU/Física/Gravitación.md",
