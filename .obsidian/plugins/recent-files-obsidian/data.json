@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Morfología",
+      "path": "0EVAU/Lengua/Morfología.md"
+    },
+    {
+      "basename": "LENGUA",
+      "path": "0EVAU/Lengua/LENGUA.md"
+    },
+    {
       "basename": "Comentario de Texto",
       "path": "0EVAU/Lengua/Comentario de Texto.md"
     },
     {
       "basename": "Platón-Esquemas",
       "path": "0EVAU/Filosofía/Platón-Esquemas.md"
-    },
-    {
-      "basename": "LENGUA",
-      "path": "0EVAU/Lengua/LENGUA.md"
     },
     {
       "basename": "Notas Magnético",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20250227110049_344",
       "path": "Attachments/Pasted Image 20250227110049_344.png"
-    },
-    {
-      "basename": "Pasted Image 20250225115206_051",
-      "path": "Attachments/Pasted Image 20250225115206_051.png"
     }
   ],
   "omittedPaths": [],
