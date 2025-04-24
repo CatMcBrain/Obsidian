@@ -1,3 +1,3 @@
 #Star 
 
-[[Rasgos Lingüísticos]]
+[[Comentario de Texto]]
