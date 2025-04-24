@@ -5,6 +5,6 @@ Sacar un punto Q extra de la recta en cuesti√≥n, hacer el vector QP y aplicar f√
 
 ## Plano que contiene $\vec{r}\, ,\; \vec{s}$
 
-$\left|\begin{array}\vec{ur}&\vec{us}&x-P1\\- &- & y-P2\\- &- & z-P3\end{array}\right|$
+$\boxed{\left|\begin{array}\vec{ur}&\vec{us}&x-P1\\- &- & y-P2\\- &- & z-P3\end{array}\right|=0}$
 
-Siendo P un punto de cualquiera de 
+Siendo P un punto de cualquiera de las rectas.
