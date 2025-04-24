@@ -1,8 +1,5 @@
 
-- Tema
-- Características
-- Tipo de texto 
+- **Tipo de texto** siempre Expositivo-argumentativo 
+- **Tema** (breve)
 
-## Tipo
-
-- **Ensayo Humanístico**
+- ### Ca
