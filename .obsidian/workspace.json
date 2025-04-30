@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ce9bb4d7fdcdae",
+        "id": "06e95212525d48da",
         "type": "tabs",
         "children": [
           {
-            "id": "c53a8a4d0ad80e5b",
+            "id": "1e54ad761ab92ad6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Problemas Magnético.md"
+                "file": "0EVAU/Filosofía/Platón (Antigua).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Magnético"
+              "icon": "lucide-file",
+              "title": "Platón (Antigua)"
             }
           }
         ]
@@ -197,7 +199,7 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "ae430007c2a8c612",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
     "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Lengua/Comentario de Texto.md",
