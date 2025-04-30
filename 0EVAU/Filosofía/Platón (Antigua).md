@@ -1,4 +1,4 @@
-	[[Platón-Esquemas|(Esquemas)]]
+[[Platón-Esquemas|(Esquemas)]]
 
 ## Problema del Conocimiento y Realidad
 
