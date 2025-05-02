@@ -54,4 +54,4 @@ ___
 Platón afirmaba que el **alma** estaba dividida en ==**PARTES**==: la **racional** (que piensa), que debe guiar a la **irascible** (que siente) y ambas dominar a la **apetitiva** (deseos sensibles). Para conseguir la <u><mark><b>armonía</b></mark></u> o salud del alma, es necesario que la parte **racional gobierne** sobre lo irracional. 
 
 ___
-Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del **==INTELECTUALISMO MORAL==**, que distingue la **virtud** del **conocimiento**. Esta tesis dicta que 
+Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del **==INTELECTUALISMO MORAL==**, que distingue la **virtud** del **conocimiento**. Esta tesis dicta que sólo el hombre que llega al **conocimiento de las ideas** y de la idea del **Bien** mediante la dialéctica, puede **==obrar bien==**. Es decir, un hombre **d** 
