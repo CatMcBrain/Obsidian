@@ -12,21 +12,7 @@
     ]
   ],
   "packageCache": [
-    {
-      "26/main.aux": 1,
-      "33/cmr10.vf": 1,
-      "26/pd1enc.dfu": 1,
-      "26/hyperref.cfg": 1,
-      "26/rerunfilecheck.cfg": 1,
-      "26/gettitlestring.cfg": 1,
-      "26/main.out": 1,
-      "33/cmr17.vf": 1,
-      "33/cmr12.vf": 1,
-      "33/cmbx12.vf": 1,
-      "33/cmtt10.vf": 1,
-      "33/cmmi10.vf": 1,
-      "33/cmr7.vf": 1
-    },
+    {},
     {
       "10/swiftlatexpdftex.fmt": "/tex/swiftlatexpdftex.fmt",
       "26/article.cls": "/tex/article.cls",
