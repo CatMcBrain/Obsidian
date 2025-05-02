@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Platón (Antigua)"
             }
-          }
-        ]
-      },
-      {
-        "id": "c2bfccb5dd48871f",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4bc8893c14f83b08",
             "type": "leaf",
@@ -218,8 +212,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "4bc8893c14f83b08",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250502175213.png",
+    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Lengua/Comentario de Texto.md",
@@ -228,7 +224,6 @@
     "0EVAU/Matemáticas/Notas Geometría.md",
     "0EVAU/Lengua/Morfología Esquema.md",
     "0EVAU/Lengua/Morfología.md",
-    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Física/Notas Magnético.md",
     "0EVAU/Física/Campo Magnético.md",
     "0EVAU/Física/FÍSICA.md",
@@ -262,7 +257,6 @@
     "Snippets/html_Highlight.txt",
     "Snippets/html_Bold.txt",
     "0EVAU/Filosofía/Platón.pandoc.md",
-    "0EVAU/Filosofía/Untitled.md",
     "Attachments/Pasted image 20250320185528.png",
     "Attachments/trpecv.jpg",
     "Attachments/20250319_122056.jpg"

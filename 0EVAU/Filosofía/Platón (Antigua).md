@@ -59,3 +59,8 @@ Platón afirmaba que el **alma** estaba dividida en ==**PARTES**==: la **raciona
 
 ___
 Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del **==INTELECTUALISMO MORAL==**, que distingue la **virtud** del **conocimiento**. Esta tesis dicta que sólo el hombre que llega al **conocimiento de las ideas** y de la idea del **Bien** mediante la dialéctica, puede **==obrar bien==**. Es decir, un hombre **debe conocer el Bien para realizarlo**.
+
+![[Pasted image 20250502175213.png]]
+
+## Sociedad o Política. El Estado
+
