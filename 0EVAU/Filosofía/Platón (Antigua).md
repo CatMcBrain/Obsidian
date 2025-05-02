@@ -54,5 +54,5 @@ ___
 Platón afirmaba que el **alma** estaba dividida en ==**PARTES**==: la **racional** (que piensa), que debe guiar a la **irascible** (que siente) y ambas dominar a la **apetitiva** (deseos sensibles). Para conseguir la <u><mark><b>armonía</b></mark></u> o salud del alma, es necesario que la parte **racional gobierne** sobre lo irracional. 
 
 ___
-Platón
+Platón aceptaba 
 
