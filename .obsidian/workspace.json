@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "c2bfccb5dd48871f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc8893c14f83b08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0EVAU/Filosofía/Platón-Esquemas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Platón-Esquemas"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,14 +218,14 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "1e54ad761ab92ad6",
+  "active": "4bc8893c14f83b08",
   "lastOpenFiles": [
+    "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Lengua/Comentario de Texto.md",
     "0EVAU/Lengua/LENGUA.md",
     "0EVAU/Matemáticas/Geometría.md",
     "0EVAU/Matemáticas/Notas Geometría.md",
-    "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Lengua/Morfología Esquema.md",
     "0EVAU/Lengua/Morfología.md",
     "0EVAU/Filosofía/Platón-Esquemas.md",
