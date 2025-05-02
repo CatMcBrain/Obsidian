@@ -47,14 +47,6 @@
       "key": "C"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "="
-    }
-  ],
   "templater-obsidian:Snippets/formula.txt": [
     {
       "modifiers": [
@@ -125,6 +117,14 @@
         "Alt"
       ],
       "key": "U"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
     }
   ]
 }
