@@ -19,7 +19,7 @@ ___
 La ==**dialéctica es**== camino en el conocimiento y la libertad. <span style="color: #0070c0;">Saber y conocer es buscar la verdad y librarse de las opiniones. Un <b>conocimiento pleno de las ideas</b>, de la idea de Bien, llevaría también a la perfección moral, honestidad y al compromiso político por el bien común.</span>
 
 ___
-![[Pasted image 20250404175432.png]]
+![[Pasted image 20250502180438.png]]
 
 
 
