@@ -25,12 +25,12 @@
             "id": "4bc8893c14f83b08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "0EVAU/Filosofía/Platón-Esquemas.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Platón-Esquemas"
+              "icon": "excalidraw-icon",
+              "title": "Platón-Esquemas"
             }
           }
         ],
