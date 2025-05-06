@@ -25,16 +25,15 @@
             "id": "4bc8893c14f83b08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "0EVAU/Filosofía/Platón-Esquemas.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Platón-Esquemas"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Platón-Esquemas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +212,7 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "ca7ec46f01458bf1",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
