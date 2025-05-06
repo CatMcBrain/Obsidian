@@ -25,12 +25,12 @@
             "id": "4bc8893c14f83b08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "0EVAU/Filosofía/Platón-Esquemas.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Platón-Esquemas"
+              "icon": "excalidraw-icon",
+              "title": "Platón-Esquemas"
             }
           }
         ]
@@ -212,10 +212,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "1e54ad761ab92ad6",
+  "active": "63431b1e7b9ed743",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Platón-Esquemas.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
+    "0EVAU/Filosofía/Platón-Esquemas.md",
     "Attachments/Pasted image 20250502180438.png",
     "Attachments/Pasted image 20250502175213.png",
     "0EVAU/Física/Problemas Magnético.md",
