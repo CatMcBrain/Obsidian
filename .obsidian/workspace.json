@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Filosofía/Platón (Antigua).md",
+                "file": "0EVAU/Física/Gravitación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Platón (Antigua)"
+              "title": "Gravitación"
             }
           },
           {
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -214,6 +213,7 @@
   },
   "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
+    "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "Attachments/Pasted image 20250502180438.png",
@@ -239,7 +239,6 @@
     "0EVAU/Física/Notas Óptica.md",
     "0EVAU/Física/Notas Ondas.md",
     "show.png",
-    "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Química/Notas Química.md",
     "0EVAU/Matemáticas/Notas Análisis.md",
     "Attachments/Pasted image 20250404175432.png",
