@@ -78,6 +78,7 @@
 - Para calcular **pH en equilibrio**, usar $C_o$ y ver la concentración de $OH^-$ ó $H_3O^+$. Después, usar que $pH=-log[H_3O^+]$ 
 
 - **Ks** pequeña $\rightarrow$ <u>poco soluble</u>
+	- (ej. $BaSO_4$) Si $[Ba^{2+}]\cdot[]$
 ______
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
