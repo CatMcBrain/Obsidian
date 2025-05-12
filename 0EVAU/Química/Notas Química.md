@@ -102,6 +102,8 @@ ______
 	- **Ácido/Base Fuerte:** se iguala $[H_3O^+]=[HA]$
 	- **Débil:** es necesario hacer tabla
 
+- **Constante de Disociación:** $K_a$ ; **Grado de Disociación:** $\alpha$ 
+
 ___________
 ## Casos extraños
 
