@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Notas Química"
             }
+          },
+          {
+            "id": "d8683d76ae4ebeb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +210,9 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "1e54ad761ab92ad6",
+  "active": "d8683d76ae4ebeb2",
   "lastOpenFiles": [
+    "0EVAU/Química/Notas Química.md",
     "0EVAU/Química/QUÍMICA.md",
     "0EVAU/Física/Gravitación.md",
     "0EVAU/Física/Fórmulas Generales.md",
@@ -228,7 +240,6 @@
     "0EVAU/Física/Notas Óptica.md",
     "0EVAU/Física/Notas Ondas.md",
     "show.png",
-    "0EVAU/Química/Notas Química.md",
     "0EVAU/Matemáticas/Notas Análisis.md",
     "Attachments/Pasted image 20250404175432.png",
     "Attachments/Pasted image 20250404163324.png",
