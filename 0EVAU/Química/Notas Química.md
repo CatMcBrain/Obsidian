@@ -96,6 +96,9 @@ ______
 
 - Para hallar **concentraciones** de sustancias a partir del **pH** en un equilibrio, si son ácidos serán proporcionales a la $[H_3O^+]$ (siguiendo la estequiometría), pero  para las bases lo será a $[OH^-]$, por lo que tendremos que usar: $\boxed{[H_3O^+]\cdot [OH^-]=10^{-14}}$
 
+## Ácido - Base
+
+- A la hora de **calcular pH de una disolu**
 
 ___________
 ## Casos extraños
