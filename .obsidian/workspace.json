@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Notas Química"
             }
-          },
-          {
-            "id": "d8683d76ae4ebeb2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +199,10 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "d8683d76ae4ebeb2",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
-    "0EVAU/Química/Notas Química.md",
     "0EVAU/Química/QUÍMICA.md",
+    "0EVAU/Química/Notas Química.md",
     "0EVAU/Física/Gravitación.md",
     "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
