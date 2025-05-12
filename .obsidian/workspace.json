@@ -11,14 +11,22 @@
             "id": "1e54ad761ab92ad6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "0EVAU/Química/Notas Química.md",
-                "mode": "source",
-                "source": false
+                "file": "0EVAU/Química/Ejercicios Química.md"
               },
+              "icon": "excalidraw-icon",
+              "title": "Ejercicios Química"
+            }
+          },
+          {
+            "id": "49215e88635a18f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notas Química"
+              "title": "New tab"
             }
           }
         ]
@@ -202,8 +210,9 @@
   "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
     "0EVAU/Química/Ejercicios Química.md",
-    "Attachments/20250512_105621.jpg",
+    "Attachments/20250512_132730.jpg",
     "0EVAU/Química/Notas Química.md",
+    "Attachments/20250512_105621.jpg",
     "0EVAU/Química/QUÍMICA.md",
     "0EVAU/Física/Gravitación.md",
     "0EVAU/Física/Fórmulas Generales.md",
@@ -231,7 +240,6 @@
     "0EVAU/Física/Notas Óptica.md",
     "0EVAU/Física/Notas Ondas.md",
     "show.png",
-    "0EVAU/Matemáticas/Notas Análisis.md",
     "Attachments/Pasted image 20250404175432.png",
     "Attachments/Pasted image 20250404163324.png",
     "fonts/Stray-Regular.otf",
@@ -239,7 +247,6 @@
     "New folder",
     "Attachments/Pasted image 20250403165712.png",
     "Attachments/Pasted image 20250403120500.png",
-    "Attachments/Pasted image 20250403113706.png",
     "My code file.tex",
     "Snippets/html_Underline.txt",
     "Snippets/html_underline.txt",
