@@ -98,7 +98,9 @@ ______
 
 ## Ácido - Base
 
-- A la hora de **calcular pH de una disolu**
+- A la hora de **calcular [ ] de una disolución con pH**, si el compuesto es:
+	- **Ácido/Base Fuerte:** se iguala $[H_3O^+]=[HA]$
+	- **Débil:** es necesario hacer tabla
 
 ___________
 ## Casos extraños
