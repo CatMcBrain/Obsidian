@@ -79,6 +79,9 @@
 
 - **Ks** pequeña $\rightarrow$ <u>poco soluble</u>
 	- (ej. $BaSO_4$) Si $[Ba^{2+}]\cdot[SO_4^{2-}]\,>\,Ks$ , <span style="color: red;">precipita</span> 
+
+
+- '#' $[\;\;\;] = \frac{n}{V}=\frac{P}{RT}$
 ______
 
 - La $\Delta H_f$ de compuestos en su estado **estándar** ($O_2$, $C_{(grafito)}$) es siempre **CERO**
