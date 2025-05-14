@@ -104,6 +104,9 @@ ______
 
 - **Constante de Disociación:** $K_a$ ; **Grado de Disociación:** $\alpha$ 
 
+- Para ver cuántos L de $H_2O$ hay que añadir para **DILUIR** hasta conseguir cierto pH:
+ej) Tengo pH=
+
 ___________
 ## Casos extraños
 
