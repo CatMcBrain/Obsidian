@@ -107,7 +107,7 @@ ______
 - Para ver cuántos L de $H_2O$ hay que añadir para **DILUIR** hasta conseguir cierto pH:
 	ej) Tengo pH=2 , quiero pH = 5.
 		- Calculo mol de $H_3O^+$ que tengo (con el pH=2), y concentración que quiero (con pH=5)
-		- Igualo: $[deseada]\, M$
+		- Igualo: $[deseada]\, M =\frac{mol\; que\; tengo}{x\; Volumen}$  y despejo el volumen
 
 ___________
 ## Casos extraños
