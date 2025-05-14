@@ -109,6 +109,8 @@ ______
 		- Calculo mol de $H_3O^+$ que tengo (con el pH=2), y concentración que quiero (con pH=5)
 		- Igualo: $[deseada]\, M =\frac{mol\; que\; tengo}{x\; Volumen}$  y despejo el volumen
 
+ - En **EQUILIBRIO DE SOLUBILIDAD**, la fase del precipitado está siempre en exceso (a la hora de hacer la tabla con "$s$")
+
 ___________
 ## Casos extraños
 
