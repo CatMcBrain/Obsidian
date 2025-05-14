@@ -71,8 +71,6 @@
 
 - Para calcular **MOLES en equilibrio (con las concentraciones)**, usar dato de Kp o Kc e igualar a concentraciones hechas con la reacción (ej. $Kc=36=\frac{(2x)^2}{(2-x)(2-x)}$)
 
-- Cuando $\Delta n_{gas}=0$ entre reactivos y productos, **Kc = Kp**
-
 - <font color="#1f497d">(Específico)</font> Si tenemos Kp **a una T** y nos piden calcular la misma **a otra T**, comparar ambas por si podemos sacar una relación (ej. $32=Kp=K'p^2 \rightarrow K'p=\sqrt 32$)
 
 - Para calcular **pH en equilibrio**, usar $C_o$ y ver la concentración de $OH^-$ ó $H_3O^+$. Después, usar que $pH=-log[H_3O^+]$ 
