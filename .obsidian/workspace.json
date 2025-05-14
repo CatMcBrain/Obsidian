@@ -11,12 +11,14 @@
             "id": "1e54ad761ab92ad6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0EVAU/Física/Problemas Magnético.md"
+                "file": "0EVAU/Química/QUÍMICA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problemas Magnético"
+              "icon": "lucide-file",
+              "title": "QUÍMICA"
             }
           },
           {
@@ -209,19 +211,23 @@
   },
   "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
-    "0EVAU/Física/Notas Eléctrico.md",
+    "0EVAU/Física/Notas Ondas.md",
     "0EVAU/Química/Notas Química.md",
+    "0EVAU/Química/QUÍMICA.md",
+    "0EVAU/Física/Notas Óptica.md",
+    "0EVAU/Física/Problemas Eléctrico.md",
+    "0EVAU/Física/Campo Eléctrico.md",
+    "0EVAU/Física/Problemas Magnético.md",
+    "0EVAU/Física/Notas Eléctrico.md",
     "0EVAU/Química/Ejercicios Química.md",
     "Attachments/20250512_132730.jpg",
     "Attachments/20250512_105621.jpg",
-    "0EVAU/Química/QUÍMICA.md",
     "0EVAU/Física/Gravitación.md",
     "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Platón-Esquemas.md",
     "Attachments/Pasted image 20250502180438.png",
     "Attachments/Pasted image 20250502175213.png",
-    "0EVAU/Física/Problemas Magnético.md",
     "0EVAU/Lengua/Comentario de Texto.md",
     "0EVAU/Lengua/LENGUA.md",
     "0EVAU/Matemáticas/Geometría.md",
@@ -234,11 +240,7 @@
     "0EVAU/Matemáticas/Notas Optimización.md",
     "0EVAU/Matemáticas/MATEMÁTICAS.md",
     "Attachments/20250415_182756.jpg",
-    "0EVAU/Física/Campo Eléctrico.md",
-    "0EVAU/Física/Problemas Eléctrico.md",
     "0EVAU/Física/Notas Gravitación.md",
-    "0EVAU/Física/Notas Óptica.md",
-    "0EVAU/Física/Notas Ondas.md",
     "show.png",
     "Attachments/Pasted image 20250404175432.png",
     "Attachments/Pasted image 20250404163324.png",
