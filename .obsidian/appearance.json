@@ -9,5 +9,6 @@
     "Custom_style",
     "font",
     "stray"
-  ]
+  ],
+  "showRibbon": true
 }
