@@ -3,12 +3,34 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
-  "leftRibbon": [],
+  "fileMenu": [
+    {
+      "id": "file-explorer:open",
+      "icon": "lucide-files",
+      "name": "Files: Show file explorer",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-save",
+      "name": "Git: Commit-and-sync",
+      "mode": "any",
+      "color": "#e07eed"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "file-explorer:open",
+      "icon": "lucide-files",
+      "name": "Files: Show file explorer",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
