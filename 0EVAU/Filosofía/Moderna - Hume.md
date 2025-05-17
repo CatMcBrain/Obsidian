@@ -12,4 +12,5 @@ Hume está de acuerdo con la **==noción tradicional de la moralidad==**. Su fun
 
 La distinción entre el bien y el mal no procede de la razón, sino del sentimiento, la moral es algo más sentido que pensado.
 
+El juicio moral se deriva de una acción que produce un sentimiento: al sentir que algo es agradable, lo consideramos bueno. Esto es el 
 ___
