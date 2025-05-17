@@ -2,6 +2,6 @@
 
 - [[Antigua - Platón|(ANTIGUA)]] Platón: Ética Y Moral
 
-- (MODERNA) Hume: Ética Y Moral
+- [[Moderna - Hume|(MODERNA)]] Hume: Ética Y Moral
 
-- (CONTEMPORÁNEA) Nietzsche: Dios
+- [[Contemporánea - Nietzsche|(CONTEMPORÁNEA)]] Nietzsche: Dios
