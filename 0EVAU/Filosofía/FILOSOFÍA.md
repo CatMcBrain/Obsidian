@@ -1,9 +1,7 @@
 #Star 
 
-[[Platón (Antigua)]]
+- [[Antigua - Platón|(ANTIGUA)]] Platón: Ética Y Moral
 
-- ANTIGUA/MEDIEVAL: Ética Y Moral/Política
+- (MODERNA) Ética Y Moral
 
-- MODERNA: Ética Y Moral
-
-- CONTEMPORÁNEA: Dios/Ser Humano
+- (CONTEMPORÁNEA) Dios/Ser Humano
