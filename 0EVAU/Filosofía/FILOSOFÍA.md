@@ -4,4 +4,4 @@
 
 - (MODERNA) Hume: Ética Y Moral
 
-- (CONTEMPORÁNEA) Dios/Ser Humano
+- (CONTEMPORÁNEA) Nietzsche: Dios
