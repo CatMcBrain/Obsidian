@@ -1,4 +1,4 @@
-## Problema de la Moral o Ética
+## Problema de la Ética y Moral
 
 Se puede apreciar que la filosofía de Platón tiene una **==INTENCIÓN ÉTICA Y POLÍTICA==**.  
 

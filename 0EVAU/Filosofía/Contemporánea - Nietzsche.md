@@ -1,5 +1,5 @@
 
-## Problema de 
+## Problema de Dios
 
 Nietzsche es **==crítico ante el problema de Dios==**. Para él, el tema más importante es la **moral,** que se ha fundamentado en **Dios**, el concepto más **falso**.
 
