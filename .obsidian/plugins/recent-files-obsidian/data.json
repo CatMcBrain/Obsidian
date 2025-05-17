@@ -5,6 +5,10 @@
       "path": "0EVAU/Filosofía/Moderna - Hume.md"
     },
     {
+      "basename": "Contemporánea - Nietzsche",
+      "path": "0EVAU/Filosofía/Contemporánea - Nietzsche.md"
+    },
+    {
       "basename": "FILOSOFÍA",
       "path": "0EVAU/Filosofía/FILOSOFÍA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20250307171158_828",
       "path": "Attachments/Pasted Image 20250307171158_828.png"
-    },
-    {
-      "basename": "Pasted Image 20250227190917_357",
-      "path": "Attachments/Pasted Image 20250227190917_357.png"
     }
   ],
   "omittedPaths": [],
