@@ -5,3 +5,8 @@
 - (MODERNA) Ética Y Moral
 
 - (CONTEMPORÁNEA) Dios/Ser Humano
+- ANTIGUA/MEDIEVAL: Ética Y Moral/Política
+
+- MODERNA: Realidad Y Conocimiento/Ética Y Moral
+
+- CONTEMPORÁNEA: Dios/Ser Humano

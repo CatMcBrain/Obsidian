@@ -5,6 +5,10 @@
       "path": "0EVAU/Filosofía/FILOSOFÍA.md"
     },
     {
+      "basename": "Antigua - Platón",
+      "path": "0EVAU/Filosofía/Antigua - Platón.md"
+    },
+    {
       "basename": "Platón (Antigua)",
       "path": "0EVAU/Filosofía/Platón (Antigua).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20250227175409_983",
       "path": "Attachments/Pasted Image 20250227175409_983.png"
-    },
-    {
-      "basename": "Pasted Image 20250227123505_677",
-      "path": "Attachments/Pasted Image 20250227123505_677.png"
     }
   ],
   "omittedPaths": [],
