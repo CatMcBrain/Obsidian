@@ -1,16 +1,9 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [
-    {
-      "id": "file-explorer:open",
-      "icon": "lucide-files",
-      "name": "Files: Show file explorer",
-      "mode": "any"
-    }
-  ],
+  "fileMenu": [],
   "leftRibbon": [
     {
       "id": "obsidian-git:push",
@@ -18,12 +11,7 @@
       "name": "Git: Commit-and-sync",
       "mode": "any",
       "color": "#e07eed"
-    }
-  ],
-  "rightRibbon": [],
-  "titleBar": [],
-  "statusBar": [],
-  "pageHeader": [
+    },
     {
       "id": "file-explorer:open",
       "icon": "lucide-files",
@@ -31,6 +19,10 @@
       "mode": "any"
     }
   ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {

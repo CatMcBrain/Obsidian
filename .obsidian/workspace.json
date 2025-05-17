@@ -168,23 +168,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "cmdr:Files: Show file explorer": false,
       "switcher:Open quick switcher": true,
       "soundscapes:Soundscapes: My Music": true,
       "canvas:Create new canvas": true,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": true,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": true,
+      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": true,
       "custom-sort:Toggle custom sorting": true,
       "vscode-editor:Create Code File": true,
-      "templates:Insert template": true,
-      "hide-folders:Show hidden folders": false
+      "hide-folders:Show hidden folders": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
   "active": "1e54ad761ab92ad6",
