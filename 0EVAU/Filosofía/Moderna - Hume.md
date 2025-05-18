@@ -19,4 +19,4 @@ El **fundamento** de las cualidades morales se encuentra en la **==utilidad para
 
 La utilidad social es lo que **determina la bondad** de nuestros actos, pero no se reduce tampoco al mero egoísmo.
 
-Los seres humanos tenemos un sentimiento común de empatía que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
+Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
