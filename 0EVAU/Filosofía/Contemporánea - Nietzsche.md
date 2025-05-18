@@ -8,7 +8,7 @@ Considera la **moral cristiana** la mayor decadencia, ya que **==impuso una inve
 ___
 Según Nietzsche el inicio de esta "Rebelión de los esclavos" **==comenzó en el Judaísmo==**, donde el **amado de Dios** (el "bueno") era el pobre y el desgraciado.
 
-El **==cristianismo continuó==**
+El **==cristianismo continuó==** la rebelión hasta conseguir que lo bueno se identificase 
 
 ___
 
