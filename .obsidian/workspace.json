@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
+                "file": "0EVAU/Filosofía/Moderna - Hume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Contemporánea - Nietzsche"
+              "title": "Backlinks for Moderna - Hume"
             }
           },
           {
@@ -245,11 +245,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "8a154a412c21b042",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/Antigua - Platón.md",
+    "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Química/Notas Química.md",
