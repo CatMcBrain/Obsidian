@@ -12,7 +12,9 @@ El **==cristianismo continuó==** la rebelión hasta conseguir que se identifiqu
 
 ___
 
-El **==nihilismo==** es la historia de una **decadencia**, una permanente negación de los auténticos valores de la vida. La decadencia se corresponde con la muerte de Dios, la eliminación del fundamento de aquellos valores. La sentencia "Dios ha muerto", es el concepto del ser supremo que carece de sentido, el hombre  ha dejado de creer en él. El resultado es un escepticismo ante la moral donde Dios desaparece y queda la  nada.
+El **==nihilismo==** es la historia de una **decadencia**, una permanente **negación de los auténticos valores** de la vida.
+
+La decadencia se corresponde con la **==muerte de Dios,==** la eliminación del **fundamento** de aquellos valores. La sentencia <u>"<b>Dios ha muerto"</b></u>, supone que el ser supremo **carece de sentido**, el hombre  ha dejado de creer en él. El resultado es un escepticismo ante la moral donde Dios desaparece y queda la  nada.
 
 La muerte de Dios es la máxima expresión del nihilismo. Ante él hay dos opciones, permanecer en él  llenarlo con nuevos valores que afirmen la vida en su totalidad.
 
