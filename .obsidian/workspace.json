@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0EVAU/Filosofía/Moderna - Hume.md",
+                "file": "0EVAU/Filosofía/Antigua - Platón.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Moderna - Hume"
+              "title": "Backlinks for Antigua - Platón"
             }
           },
           {
@@ -245,11 +245,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "1e54ad761ab92ad6",
+  "active": "2ff65bb830210963",
   "lastOpenFiles": [
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
-    "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/Moderna - Hume.md",
+    "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Química/Notas Química.md",
