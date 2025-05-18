@@ -18,4 +18,4 @@ La decadencia se corresponde con la **==muerte de Dios,==** la eliminación del 
 
 La muerte de Dios es la **máxima expresión** del nihilismo. Ante él hay dos **==opciones==**, <u>permanecer</u> en él o <u>llenarlo</u> con nuevos valores que afirmen la vida en su totalidad.
 
-Nietzsche **==opta por la superación del nihilismo==**, por la creación de valores que dan sentido al hombre y a la vida. Lleva a cabo una **transmutación** de aquellos valores que nos condujeron a la nada. Se trata de una tarea de creación,  propia de la voluntad, de un nuevo tipo de hombre; el superhombre.  
+Nietzsche **==opta por la superación del nihilismo==**, por la creación de valores que dan sentido al hombre y a la vida. Lleva a cabo una **transmutación** de aquellos valores que nos condujeron a la nada. Se trata de una tarea de creación,  propia de la voluntad de un nuevo tipo de hombre capaz de superarse a sí mismo y a la naturaleza: el **==superhombre==**.  
