@@ -5,7 +5,7 @@ Nietzsche es **==crítico ante el problema de Dios==**. Para él, el tema más i
 
 Considera la **moral cristiana** la mayor decadencia, ya que **==impuso una inversión de los valores morales==**. Los valores morales auténticos, los de los **señores** fueron suplantados por los de los **esclavos**, que fueron impuestos. 
 
-Según Nietzsche el inicio de esta "Rebelión de los escal"
+Según Nietzsche el inicio de esta "Rebelión de los esclavos" **==comenzó en el Judaísmo==**, donde el **amado de Dios** (el "bueno") era el pobre y el desgraciado.
 
 La **moral impuesta** es la de esclavos. Los valores **morales auténticos** la poseen la moral de señores, que son suplantados como inversión moral llamada "Rebelión de los esclavos". Su inicio se da en el Judaísmo,  donde el amado de Dios, el bueno, es el pobre o enfermo. El cristianismo continúa la rebelión hasta identificar lo bueno como lo desinteresado del mundo terrenal, de sí mismo, esto se convierte en idea fija  de la moral europea que supone la mayor aversión contra la vida.
 
