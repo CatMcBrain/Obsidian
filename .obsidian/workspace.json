@@ -225,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "homepage:Open homepage": false,
       "cmdr:Files: Show file explorer": false,
       "switcher:Open quick switcher": true,
