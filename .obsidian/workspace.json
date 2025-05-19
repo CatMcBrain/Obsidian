@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,10 +246,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "2ff65bb830210963",
+  "active": "1e54ad761ab92ad6",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/Antigua - Platón.md",
+    "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
