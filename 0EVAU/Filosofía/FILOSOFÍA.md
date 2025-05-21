@@ -5,3 +5,7 @@
 - [[Moderna - Hume|(MODERNA)]] Hume: Ética Y Moral
 
 - [[Contemporánea - Nietzsche|(CONTEMPORÁNEA)]] Nietzsche: Dios
+
+___
+[[(FULL)]]
+

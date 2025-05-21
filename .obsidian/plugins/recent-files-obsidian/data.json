@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "(FULL)",
+      "path": "0EVAU/Filosofía/(FULL).md"
+    },
+    {
       "basename": "Platón (Antigua)",
       "path": "0EVAU/Filosofía/Platón (Antigua).md"
-    },
-    {
-      "basename": "Antigua - Platón",
-      "path": "0EVAU/Filosofía/Antigua - Platón.md"
-    },
-    {
-      "basename": "Contemporánea - Nietzsche",
-      "path": "0EVAU/Filosofía/Contemporánea - Nietzsche.md"
     },
     {
       "basename": "Moderna - Hume",
@@ -19,6 +15,14 @@
     {
       "basename": "FILOSOFÍA",
       "path": "0EVAU/Filosofía/FILOSOFÍA.md"
+    },
+    {
+      "basename": "Antigua - Platón",
+      "path": "0EVAU/Filosofía/Antigua - Platón.md"
+    },
+    {
+      "basename": "Contemporánea - Nietzsche",
+      "path": "0EVAU/Filosofía/Contemporánea - Nietzsche.md"
     },
     {
       "basename": "Notas Química",
@@ -195,10 +199,6 @@
     {
       "basename": "Elite Dangerous",
       "path": "Notes/Games/Elite Dangerous/Elite Dangerous.md"
-    },
-    {
-      "basename": "Pasted Image 20250307171158_828",
-      "path": "Attachments/Pasted Image 20250307171158_828.png"
     }
   ],
   "omittedPaths": [],
