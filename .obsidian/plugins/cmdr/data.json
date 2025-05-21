@@ -17,6 +17,13 @@
       "icon": "lucide-files",
       "name": "Files: Show file explorer",
       "mode": "any"
+    },
+    {
+      "id": "outline:open",
+      "icon": "lucide-list",
+      "name": "Outline: Show outline",
+      "mode": "any",
+      "color": "#f3884f"
     }
   ],
   "rightRibbon": [],
