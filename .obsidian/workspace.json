@@ -49,8 +49,7 @@
               "title": "Moderna - Hume"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,21 +177,6 @@
             }
           },
           {
-            "id": "db3d265d8c987493",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Main/TEST.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of TEST"
-            }
-          },
-          {
             "id": "8a8ee0baddbce7f8",
             "type": "leaf",
             "state": {
@@ -202,7 +186,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,10 +217,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "6b553b5b172695f0",
+  "active": "45eb09dcec99bbef",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/(FULL).md",
+    "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
     "0EVAU/Filosofía/Platón (Antigua).md",
