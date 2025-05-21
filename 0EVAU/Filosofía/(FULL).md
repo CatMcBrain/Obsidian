@@ -6,7 +6,7 @@ Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamen
 
 En su teoría más importante, la **Teoría de las Ideas**, afirma que existen **==dos mundos:==**
 
-El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos
+El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos, la realidad física formada por seres materiales. Y el <u><b>mundo inteligible</b></u>, constituido por realidades inmutables que sólo se pueden captar por nuestra mente: las **ideas.**
 
 ___
 Las ==ideas son== **objetivas, transcendentes y ordenadas**,  y sin ellas no sería posible el conocimiento científico. La **idea suprema** de la que parte el resto es la del ==**bien**==.
