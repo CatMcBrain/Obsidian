@@ -3,13 +3,13 @@
 ## Problema del Conocimiento y Realidad
 
 Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales.
-
+jjjjjjjjj
 En su teoría más importante, la **Teoría de las Ideas**, afirma que existen **==dos mundos:==**
 
 El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos, la realidad física formada por seres materiales. Y el <u><b>mundo inteligible</b></u>, constituido por realidades inmutables que sólo se pueden captar por nuestra mente: las **ideas.**
 
 ___
-Las ==ideas son== **esencias**, es decir que definen lo que son las cosas. Son entidades **objetivas e independientes**, y no conceptos de la mente de cada individuo. Son el **objetivo del pensamiento**, y gracias a ellas es posible la ciencia. Son **eternas e inmutables**, como el "ser de Parménides". Y están **jerarquizadas**, partiendo todas las ideas de la suprema, la idea del **==bien==**.
+Las ==ideas son== **esencias**, es decir que definen lo que son las cosas. Son entidades **objetivas e independientes**, y no conceptos de la mente de cada individuo. Son el **objetivo del pensamiento**, y gracias a ellas es posible la ciencia. Son **eternas e inmutables**, como el "ser de Parménides". Y están **jerarquizadas**, partiendo todas las ideas de la suprema, la idea del **==bien==**.m,
 <ul>En su obra <mark style="background-color: #EAD7C0;"><b>Timeo</b></mark>, Platón explica el <b>origen</b> del mundo sensible y habla del demiurgo (divinidad), quien ordenó la materia caótica tomando como modelo el bien.</ul>
 
 Platón afirma que ambas realidades están **==relacionadas==**, a cada clase de objeto en el mundo sensible le corresponde una idea. <span style="color: #0070c0;">Por tanto, las ideas son la esencia verdadera de cada objeto, y éste la refleja aunque de manera imperfecta.</span> 
