@@ -2,10 +2,13 @@
 # Antigua - Platón
 ## Problema del Conocimiento y Realidad
 
-Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales. <font color="#0070c0">Afirma que, además de la realidad sensible, existe una realidad inteligible basada en nuestra percepción e ideas. Esta teoría, la más importante de Platón, es la <b>Teoría de las ideas</b>.</font> 
+Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales.
 
-En el **==mundo sensible==**
+En su teoría más importante, la **Teoría de las Ideas**, afirma que existen **==dos mundos:==**
 
+El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos
+
+___
 Las ==ideas son== **objetivas, transcendentes y ordenadas**,  y sin ellas no sería posible el conocimiento científico. La **idea suprema** de la que parte el resto es la del ==**bien**==.
 <ul>En su obra <mark style="background-color: #EAD7C0;"><b>Timeo</b></mark>, Platón explica el <b>origen</b> del mundo sensible y habla del demiurgo (divinidad), quien ordenó el caos tomando como modelo el bien.</ul>
 
