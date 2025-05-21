@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0EVAU/Filosofía/Antigua - Platón.md",
+                "file": "0EVAU/Filosofía/Moderna - Hume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antigua - Platón"
+              "title": "Moderna - Hume"
             }
           },
           {
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -233,11 +232,11 @@
   },
   "active": "45eb09dcec99bbef",
   "lastOpenFiles": [
+    "0EVAU/Filosofía/Platón (Antigua).md",
+    "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
-    "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
-    "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Química/Notas Química.md",
     "0EVAU/Física/Notas Gravitación.md",
     "0EVAU/Física/FÍSICA.md",
