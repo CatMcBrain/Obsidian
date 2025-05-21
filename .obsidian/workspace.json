@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +203,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "6b553b5b172695f0",
+  "active": "b72fe7d76fa6d361",
   "lastOpenFiles": [
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/(FULL).md",
