@@ -2,17 +2,14 @@
 # Antigua - Platón
 ## Problema del Conocimiento y Realidad
 
-Platón **defiende** el ==conocimiento **objetivo**== y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales. <font color="#0070c0">Afirma que, además de la realidad sensible, existe una realidad inteligible basada en nuestra percepción e ideas. Esta teoría, la más importante de Platón, es la <b>Teoría de las ideas</b>.</font> 
+Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales. <font color="#0070c0">Afirma que, además de la realidad sensible, existe una realidad inteligible basada en nuestra percepción e ideas. Esta teoría, la más importante de Platón, es la <b>Teoría de las ideas</b>.</font> 
+
+En el **==mundo sensible==**
 
 Las ==ideas son== **objetivas, transcendentes y ordenadas**,  y sin ellas no sería posible el conocimiento científico. La **idea suprema** de la que parte el resto es la del ==**bien**==.
 <ul>En su obra <mark style="background-color: #EAD7C0;"><b>Timeo</b></mark>, Platón explica el <b>origen</b> del mundo sensible y habla del demiurgo (divinidad), quien ordenó el caos tomando como modelo el bien.</ul>
 
 Platón afirma que ambas realidades están **==relacionadas==**, a cada clase de objeto en el mundo sensible le corresponde una idea. <span style="color: #0070c0;">Por tanto, las ideas son la esencia verdadera de cada objeto, y éste la refleja aunque de manera imperfecta.</span> 
-
-___
-El ==**conocimiento sensible**==, opinión, se basa en la **apariencia** de las cosas, y se divide en **dos grados:** <span style="color: #0070c0;">El inferior es la <b><u>IMAGINACIÓN</u></b> o conjetura (eikasía), que se basa en las imágenes percibidas de la realidad, y el siguiente grado es la <b><u>CREENCIA</u></b> (pistis), que trata de los objetos sensibles mismos.</span>
-
-El **==conocimiento racional==**, que proporciona ciencia, se basa en las **ideas**,  y también comprende **dos grados:** <span style="color: #0070c0;">La inferior recibe el nombre de <u><b>PENSAMIENTO</b></u> o conocimiento discursivo, y se ocupa de los objetos matemáticos. Por encima de este grado está la <b><u>NOESIS</u></b>,  que es el conocimiento cuyo objeto son las ideas, con objetivo final de  conocer la idea de <b><mark>Bien</mark></b>, de la que derivan el resto de ideas y hace que posean esencia y existencia. Platón identifica a esta idea con el Sol, y es el principio sobre el que se sustenta toda la realidad y conocimiento.</span>
 
 ___
 
