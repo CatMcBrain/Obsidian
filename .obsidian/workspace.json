@@ -49,7 +49,8 @@
               "title": "Moderna - Hume"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +231,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "45eb09dcec99bbef",
+  "active": "6b553b5b172695f0",
   "lastOpenFiles": [
-    "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Moderna - Hume.md",
+    "0EVAU/Filosofía/Platón (Antigua).md",
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
     "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
