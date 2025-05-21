@@ -9,7 +9,9 @@ En su teoría más importante, la **Teoría de las Ideas**, afirma que existen *
 El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos, la realidad física formada por seres materiales. Y el <u><b>mundo inteligible</b></u>, constituido por realidades inmutables que sólo se pueden captar por nuestra mente: las **ideas.**
 
 ___
-Las ==ideas son== **objetivas, transcendentes y ordenadas**,  y sin ellas no sería posible el conocimiento científico. La **idea suprema** de la que parte el resto es la del ==**bien**==.
+Las ==ideas son== **esencias**, es decir que 
+
+La **idea suprema** de la que parte el resto es la del ==**bien**==.
 <ul>En su obra <mark style="background-color: #EAD7C0;"><b>Timeo</b></mark>, Platón explica el <b>origen</b> del mundo sensible y habla del demiurgo (divinidad), quien ordenó el caos tomando como modelo el bien.</ul>
 
 Platón afirma que ambas realidades están **==relacionadas==**, a cada clase de objeto en el mundo sensible le corresponde una idea. <span style="color: #0070c0;">Por tanto, las ideas son la esencia verdadera de cada objeto, y éste la refleja aunque de manera imperfecta.</span> 
