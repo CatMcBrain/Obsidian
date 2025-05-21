@@ -1,4 +1,4 @@
-
+ 
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
