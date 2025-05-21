@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "06e95212525d48da",
+        "id": "de09f778693394df",
         "type": "tabs",
         "children": [
           {
-            "id": "11b53177d5069bdb",
+            "id": "45eb09dcec99bbef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0EVAU/Filosofía/FILOSOFÍA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FILOSOFÍA"
-            }
-          },
-          {
-            "id": "1e54ad761ab92ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0EVAU/Filosofía/Moderna - Hume.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moderna - Hume"
-            }
-          },
-          {
-            "id": "8a154a412c21b042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contemporánea - Nietzsche"
-            }
-          },
-          {
-            "id": "2ff65bb830210963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0EVAU/Filosofía/Antigua - Platón.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antigua - Platón"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +198,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "1e54ad761ab92ad6",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
     "0EVAU/Filosofía/Antigua - Platón.md",
     "0EVAU/Filosofía/Contemporánea - Nietzsche.md",
