@@ -3,7 +3,7 @@
 ## Problema del Conocimiento y Realidad
 
 Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales.
-jjjjjjjjj
+
 En su teoría más importante, la **Teoría de las Ideas**, afirma que existen **==dos mundos:==**
 
 El <b><u>mundo sensible</u></b>, que es el que conocemos a través de los sentidos, la realidad física formada por seres materiales. Y el <u><b>mundo inteligible</b></u>, constituido por realidades inmutables que sólo se pueden captar por nuestra mente: las **ideas.**
