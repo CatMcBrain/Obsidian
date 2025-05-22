@@ -35,7 +35,8 @@
     "Snippets/html_Highlight.txt",
     "Snippets/html_Important.txt",
     "Snippets/tab.txt",
-    "Snippets/html_Underline.txt"
+    "Snippets/html_Underline.txt",
+    "Snippets/line.txt"
   ],
   "startup_templates": [
     ""
