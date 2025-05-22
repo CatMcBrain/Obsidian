@@ -52,7 +52,7 @@ Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del
 
 ## Problema de la Moral
 
-La **==crítica a la moral==** es la que más preocupa a Nietzsche. 
+La **==crítica a la moral==** es la que más preocupa a Nietzsche, especialmente relacionada con la **moral cristiana** 
 
 ## Problema de Dios
 
