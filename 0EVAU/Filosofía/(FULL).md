@@ -54,6 +54,9 @@ Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del
 
 La **==crítica a la moral==** es la que más preocupa a Nietzsche, especialmente relacionada con la **moral cristiana**.
 
+<div class="line">*Dios*</div>
+
+
 ## Problema de Dios
 
 Nietzsche es **==crítico ante el problema de Dios==**. Para él, el tema más importante es la **moral,** que se ha fundamentado en **Dios**, el concepto más **falso**.
@@ -99,8 +102,6 @@ El **fundamento** de las cualidades morales se encuentra en la **==utilidad para
 La utilidad social es lo que **determina la bondad** de nuestros actos, pero no se reduce tampoco al mero egoísmo.
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
-
-<hr class="line">
 
 ## Problema de Dios
 
