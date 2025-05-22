@@ -134,5 +134,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "templater-obsidian:Snippets/line.txt": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
   ]
 }
