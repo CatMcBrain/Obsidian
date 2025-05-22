@@ -77,6 +77,9 @@ Nietzsche **==opta por la superación del nihilismo==**, por la creación de val
 
 ## Problema del ser humano
 
+A
+
+
 # Moderna - Hume
 
 ## Problema de la Ética y Moral
