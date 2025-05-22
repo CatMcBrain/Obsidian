@@ -182,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
       "soundscapes:Soundscapes: My Music": true,
