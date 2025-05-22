@@ -54,7 +54,7 @@ Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del
 
 La **==crítica a la moral==** es la que más preocupa a Nietzsche, especialmente relacionada con la **moral cristiana**.
 
-Considera la **moral cristiana** la mayor decadencia, ya que **==impuso una inversión de los valores morales==**. Los valores morales auténticos, los de los **señores** (quienes crean ) fueron suplantados por los de los **esclavos**, que fueron impuestos. 
+Considera la **moral cristiana** la mayor decadencia, ya que **==impuso una inversión de los valores morales==**. Los valores morales auténticos, los de los **señores** <span style="color: #0070c0;">(quienes crean sus propios valores sin buscar aprobación)</span> fueron suplantados por los de los **esclavos** <span style="color: #0070c0;">(que)</span>, que fueron impuestos. 
 
 ___
 Según Nietzsche el inicio de esta "Rebelión de los esclavos" **==comenzó en el Judaísmo==**, donde el **amado de Dios** (el "bueno") era el pobre y el desgraciado.
