@@ -54,13 +54,14 @@ Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del
 
 La **==crítica a la moral==** es la que más preocupa a Nietzsche, especialmente relacionada con la **moral cristiana**.
 
-<div class="line">*Dios*</div>
+<div class="line">*Compartido*</div>
 
 
 ## Problema de Dios
 
 Nietzsche es **==crítico ante el problema de Dios==**. Para él, el tema más importante es la **moral,** que se ha fundamentado en **Dios**, el concepto más **falso**.
 
+<div class="line">*Compartido*</div>
 Considera la **moral cristiana** la mayor decadencia, ya que **==impuso una inversión de los valores morales==**. Los valores morales auténticos, los de los **señores** fueron suplantados por los de los **esclavos**, que fueron impuestos. 
 
 ___
