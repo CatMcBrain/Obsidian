@@ -54,8 +54,7 @@ Platón comparte con <span style="color: #0070c0;">Sócrates</span> la tesis del
 
 La **==crítica a la moral==** es la que más preocupa a Nietzsche, especialmente relacionada con la **moral cristiana**.
 
-<div class="line">*Compartido*</div>
-
+<div class="line">*</div>
 
 ## Problema de Dios
 
