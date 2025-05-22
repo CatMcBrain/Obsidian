@@ -100,11 +100,7 @@ La utilidad social es lo que **determina la bondad** de nuestros actos, pero no 
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
 
-.markdown-preview-view hr {
 
-border: none;
-
-bord
 
 ## Problema de Dios
 
