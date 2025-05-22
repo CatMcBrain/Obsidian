@@ -81,7 +81,10 @@ Para Nietzsche, la **==muerte de Dios==** deja al ser humano solo, sin valores. 
 
 El **==superhombre==** representa un nuevo tipo de ser humano con plena **autonomía moral**. Es el que crea nuevos valores y da sentido a la vida terrenal. Es una figura inspirada en **Dionisos**, y él mismo realizará la **transmutación de valores**. 
 
+___
 Para llegar a ser superhombre, el espíritu pasa por **==tres transformaciones==**: **camello**, **león**  y **niño**.
+
+Posee la **==inocencia de un niño==**, moviéndose por instinto, sin prejuicios morales 
 
 Este nuevo ser acepta el **eterno retorno**, la idea de que su vida se repetirá infinitamente. Esta doctrina, central en _Así habló Zaratustra_, es la prueba máxima de amor a la vida: vivir como si todo se repitiera eternamente.
 
