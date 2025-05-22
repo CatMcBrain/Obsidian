@@ -84,9 +84,10 @@ El **==superhombre==** representa un nuevo tipo de ser humano con plena **autono
 ___
 Para llegar a ser superhombre, el espíritu pasa por **==tres transformaciones==**: **camello**, **león**  y **niño**.
 
-Posee la **==inocencia de un niño==**, moviéndose por instinto, sin prejuicios morales 
+Posee la **==inocencia de un niño==**, moviéndose por **instinto**, sin **prejuicios** morales y viendo la vida como algo **nuevo y excitante**.
 
-Este nuevo ser acepta el **eterno retorno**, la idea de que su vida se repetirá infinitamente. Esta doctrina, central en _Así habló Zaratustra_, es la prueba máxima de amor a la vida: vivir como si todo se repitiera eternamente.
+___
+El superhombre acepta el ==**eterno retorno**==, la idea de que su vida se repetirá infinitamente. Esta doctrina, central en _Así habló Zaratustra_, es la prueba máxima de amor a la vida: vivir como si todo se repitiera eternamente.
 
 Con esto, Nietzsche niega toda idea de otro mundo, como el “más allá” cristiano o el “transmundo” platónico. Solo existe este mundo, y huir de él es rechazar la vida. Así, el eterno retorno expresa la **afirmación radical del presente y de la existencia tal como es**.
 
