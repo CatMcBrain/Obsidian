@@ -1,6 +1,6 @@
-4
+
 # Antigua - Platón
-## Problema del Conocimiento y Realidad
+## Problema del Realidad
 
 Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales.
 
