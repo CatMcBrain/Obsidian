@@ -13,4 +13,6 @@
 
 ### Gauss:
 
+- Para superficies, igualar $\int \vec{E}\vec{dS} = \frac{Q_{enc}}{\epsilon_o}$ , y usar $\vec{dS}$ adecuado.
+- **Esfera** = fórmula normal de $\vec{E}$
 
