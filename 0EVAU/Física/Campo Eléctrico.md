@@ -11,3 +11,6 @@
 
 **Trabajo:** $\boxed{W_{inf\rightarrow P}=-\Delta E_p}$
 
+### Gauss:
+
+
