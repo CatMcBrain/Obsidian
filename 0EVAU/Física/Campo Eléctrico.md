@@ -15,5 +15,5 @@
 
 - Para superficies, **igualar** $\int \vec{E}\vec{dS} = \frac{Q_{enc}}{\epsilon_o}$ , y usar $\vec{dS}$ adecuado.
 - **Esfera** = fórmula normal de $\vec{E}$.
-- **Plano** = cilindro $\rightarrow \int_{lat} \vec{E}\vec{dS} + \int_{tapa\; 1} \vec{E}\vec{dS} + \int \vec{E}\vec{dS}$
+- **Plano** = cilindro $\rightarrow \cancel{\int_{lat} \vec{E}\vec{dS}} + \int_{tapa\; 1} \vec{E}\vec{dS} + \int_{tapa\; 2} \vec{E}\vec{dS} = 2|\vec{E}|\pi r^2$
 
