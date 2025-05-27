@@ -79,7 +79,7 @@ Nietzsche **==opta por la superación del nihilismo==**, por la creación de val
 
 Para Nietzsche, la **==muerte de Dios==** deja al ser humano solo, sin valores. En este vacío, el hombre debe dejar actuar su **voluntad de poder,** su capacidad creativa, para superarse a sí mismo y dar lugar al **superhombre**.
 
-El **==superhombre==** representa un nuevo tipo de ser humano con plena **autonomía moral**. Es el que crea nuevos valores y da sentido a la vida terrenal. Es una figura inspirada en **Dionisos**, y él mismo realizará la **transmutación de valores**. 
+El **==superhombre==** representa un nuevo tipo de ser humano con plena **autonomía moral**. Es el que crea nuevos valores y da sentido a la vida terrenal. Es una figura inspirada en **Dioniso**, y él mismo realizará la **transmutación de valores**. 
 
 ___
 Para llegar a ser superhombre, el espíritu pasa por **==tres transformaciones==**: **camello**, **león**  y **niño**.
