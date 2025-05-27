@@ -87,7 +87,7 @@ Para llegar a ser superhombre, el espíritu pasa por **==tres transformaciones==
 El superhombre posee la **==inocencia de un niño==**, moviéndose por **instinto**, sin **prejuicios** morales, **más allá del bien y del mal** y viendo la vida como algo **nuevo y excitante**.
 
 ___
-El superhombre acepta el ==**eterno retorno**==, la idea de que su vida se repetirá infinitamente. Este concepto fundamental en la **obra** de Nietzsche "_Así habló Zaratustra_". Es la prueba máxima de **afirmación** a la vida, con todas sus consecuencias: <span style="color: #0070c0;">vivir como si todo se repitiera eternamente</span>.
+El superhombre acepta el ==**eterno retorno**==, la idea de que su vida se repetirá infinitamente, concepto fundamental en la **obra** de Nietzsche "_Así habló Zaratustra_". Es la prueba máxima de **afirmación** a la vida, con todas sus consecuencias: <span style="color: #0070c0;">vivir como si todo se repitiera eternamente</span>.
 
 Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá” cristiano o el “transmundo” platónico. Solo existe este mundo, y huir de él es rechazar la vida. Así, el eterno retorno expresa el **deseo de que todo sea eterno**, la eternización del presente.
 
