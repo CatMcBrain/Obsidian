@@ -4,7 +4,7 @@
 
 Platón **defiende** el ==conocimiento **objetivo**== y universal, y lo fundamenta en la existencia de **==ideas==**, es decir, realidades inmateriales e ideales.
 
-Las ==ideas son== **esencias**, es decir que definen lo que son las cosas. Son entidades **objetivas e independientes**, y no conceptos de la mente de cada individuo. Son el **objetivo del pensamiento**, y gracias a ellas es posible la ciencia. Son **eternas e inmutables**, como el "ser de Parménides". Y están **jerarquizadas**, partiendo todas las ideas de la suprema, la idea del **==bien==**.
+Las ==ideas son== **esencias**, es decir que definen lo que son las cosas. Son entidades **objetivas e independientes**, y no conceptos de la mente de cada individuo. Son la **finalidad del pensamiento**, y gracias a ellas es posible la <u>ciencia</u>. Son **eternas e inmutables**, como el "ser de Parménides". Y están **jerarquizadas**, partiendo todas las ideas de la suprema, la idea del **==bien==**.
 <ul>En su obra <mark style="background-color: #EAD7C0;"><b>Timeo</b></mark>, Platón explica el <b>origen</b> del mundo sensible y habla del demiurgo (divinidad), quien ordenó la materia caótica tomando como modelo el bien.</ul>
 
 ___
