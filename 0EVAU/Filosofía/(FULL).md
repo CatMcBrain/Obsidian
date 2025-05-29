@@ -107,7 +107,7 @@ Hume no está dispuesto a **==aceptar nada de lo que no se tenga impresiones==**
 Para nosotros, Dios no es más que un **misterio**, y toda investigación sólo resulta en **incertidumbre y más dudas**, por ello, Hume defiende una **actitud escéptica**.
 
 ___
-En su obra **Diálogos sobre la religió**
+En su obra **Diálogos sobre la religión natural**, afirma que el sentimiento religioso proviene de las **==emociones==**, del miedo a la **muerte** y a lo **desconocido**. Para <b><u>compensar</u></b> estos sentimientos, el ser humano produce ideas de dioses, hér
 
 ## Problema de la Ética y Moral
 
