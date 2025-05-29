@@ -100,6 +100,10 @@ Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá
 
 # Moderna - Hume
 
+## Problema de Dios
+
+Hume no está dispuesto a **==aceptar nada que no tenga in==**
+
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
@@ -121,13 +125,5 @@ El **fundamento** de las cualidades morales se encuentra en la **==utilidad para
 La utilidad social es lo que **determina la bondad** de nuestros actos, pero no se reduce tampoco al mero egoísmo.
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
-
-## Problema de Dios
-
-
-
-
-
-
 
 ## Problema del conocimiento-realidad
