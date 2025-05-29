@@ -109,6 +109,9 @@ Para nosotros, Dios no es más que un **misterio**, y toda investigación sólo 
 ___
 En su obra **Diálogos sobre la religión natural**, afirma que el sentimiento religioso proviene de las **==emociones==**, del miedo a la **muerte** y a lo **desconocido**. Para <b><u>compensar</u></b> estos sentimientos, el ser humano produce ideas de dioses y héroes que le sirven para superar esos miedos y garantizar el bien.
 
+___
+Afirma que las religiones en su origen son **==politeístas==**, tolerantes, y no tienen problemas para multiplicar sus 
+
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
