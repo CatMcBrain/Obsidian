@@ -106,6 +106,9 @@ Hume no está dispuesto a **==aceptar nada de lo que no se tenga impresiones==**
 
 Para nosotros, Dios no es más que un **misterio**, y toda investigación sólo resulta en **incertidumbre y más dudas**, por ello, Hume defiende una **actitud escéptica**.
 
+___
+En su obra **Diálogos sobre la religió**
+
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
