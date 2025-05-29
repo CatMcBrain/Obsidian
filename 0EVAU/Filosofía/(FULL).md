@@ -102,7 +102,7 @@ Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá
 
 ## Problema de Dios
 
-Hume no está dispuesto a **==aceptar nada que no tenga in==**
+Hume no está dispuesto a **==aceptar nada que no tenga impresiones==** (que no proviene de una experiencia directa), 
 
 ## Problema de la Ética y Moral
 
