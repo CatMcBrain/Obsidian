@@ -110,7 +110,9 @@ ___
 En su obra **Diálogos sobre la religión natural**, afirma que el sentimiento religioso proviene de las **==emociones==**, del miedo a la **muerte** y a lo **desconocido**. Para <b><u>compensar</u></b> estos sentimientos, el ser humano produce ideas de dioses y héroes que le sirven para superar esos miedos y garantizar el bien.
 
 ___
-Afirma que las religiones en su origen son **==politeístas==**, tolerantes, y no tienen problemas en multiplicar sus dioses.
+Afirma que las religiones en su origen son **==politeístas==**, son tolerantes y no tienen problemas en multiplicar sus dioses, ya que derivan principalmente de la compensación de los miedos.
+
+En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior
 
 ## Problema de la Ética y Moral
 
