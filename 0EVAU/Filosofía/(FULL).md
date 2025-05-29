@@ -19,13 +19,13 @@ ___
 
 ## El problema del Ser Humano
 
-El **==dualismo==** establecido por Platón entre el mundo sensible e inteligible se traducen en el ser humano en el dualismo entre **==cuerpo y alma==**, que son las dos realidades heterogéneas que componen al **hombre**: <span style="color: #0070c0;">un alma eterna encarcelada en un cuerpo. El <b>lugar natural</b> del alma es el mundo inteligible, y busca liberarse de los lazos que la atan a lo sensible, por ello la unión entre cuerpo y alma es accidental.</span>
+El **==dualismo==** establecido por Platón entre el mundo sensible e inteligible se traduce en el ser humano en el dualismo entre **==cuerpo y alma==**, que son las dos realidades heterogéneas que componen al **hombre**: <span style="color: #0070c0;">un alma eterna encarcelada en un cuerpo. El <b>lugar natural</b> del alma es el mundo inteligible, y busca liberarse de los lazos que la atan a lo sensible, por ello la unión entre cuerpo y alma es accidental.</span>
 
 ___
 El **==alma==** consta de **tres partes** distintas: <span style="color: #0070c0;"><p>La <b><u>RACIONAL</u></b> (prudencia) consiste en conocer y dirigir las otras dos partes del alma para realizar el bien y la justicia.<p> La <b><u>IRASCIBLE</u></b> (fortaleza) contiene el valor y voluntad.<p> Y la <b><u>APETITIVA</u></b> (templanza), difícil de guiar, representa el deseo. </span>Sólo el alma racional es <b>inmortal</b>, las otras dos partes desaparecen cuando el cuerpo muere, ya que son <b><u>propias de éste</u></b>.
 
 ___
-Para **==probar la inmortalidad==** del alma Platón enunció cuatro pruebas, siendo las más significativas la de la **reminiscencia** y la **simplicidad**.
+Para **==probar la inmortalidad==** del alma Platón enunció múltiples pruebas, siendo las más significativas la de la **reminiscencia** y la **simplicidad**.
 
 La prueba de la <b><u><mark>REMINISCENCIA</mark></u></b> se basa en la idea de que el alma ya existía **antes** del nacimiento. <span style="color: #0070c0;">Cada persona tiene una percepción del <b>Bien</b>, cosa que se puede observar a la hora de escoger una acción mejor entre acciones buenas. Esta idea ha de ser <b>previa</b>, por tanto, el alma contempló estas ideas en el mundo inteligible, <b>antes</b> de la existencia del cuerpo.</span>
 
