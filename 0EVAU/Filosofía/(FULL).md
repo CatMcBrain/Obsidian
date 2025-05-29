@@ -92,6 +92,12 @@ El superhombre acepta el ==**eterno retorno**==, la idea de que su vida se repet
 Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá” cristiano o el “transmundo” platónico. Solo existe este mundo, y huir de él es rechazar la vida. Así, el eterno retorno expresa el **deseo de que todo sea eterno**, la eternización del presente.
 
 
+# Moderna - Rousseau
+
+## Problema del Ser Humano
+
+
+
 # Moderna - Hume
 
 ## Problema de la Ética y Moral
