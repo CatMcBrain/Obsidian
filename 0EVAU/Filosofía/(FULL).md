@@ -120,22 +120,15 @@ Hume piensa que, aunque la religión es una **==ilusión==**, las personas puede
 
 ## Problema del conocimiento-realidad
 
-David Hume busca delimitar el alcance del conocimiento humano, basándose en un empirismo radical. Para él, conocer es tener _percepciones_, que se dividen en _impresiones_ (más vivas e intensas, como las sensaciones directas) e _ideas_ (más débiles, derivadas de las impresiones).
+Hume pretende señalar los límites del conocimiento humano y de la razón. Considera que conocer es tener ideas, aunque sustituye el término “idea” por el de “percepción”. Distingue dos tipos de percepciones: _impresiones_, que tienen mayor viveza e intensidad, e _ideas_, más apagadas y que derivan siempre de impresiones. Ambas pueden ser simples o complejas, y su origen puede estar en la _sensación_ (proveniente de los sentidos) o en la _reflexión_ (proveniente de la mente, como pasiones y emociones).
 
-Estas percepciones pueden ser simples o complejas y provienen de la _sensación_ (a través de los sentidos) o de la _reflexión_ (emociones, sentimientos). Además, las ideas se asocian según tres principios: _semejanza_, _contigüidad espacio-temporal_ y _causalidad_.
+Las ideas se relacionan entre sí por unos principios que explican su _asociación_: _semejanza_, _contigüidad espacio-temporal_ y _causalidad_. Con base en esto, Hume distingue dos tipos de conocimiento: las _relaciones de ideas_, propias de la lógica y las matemáticas, cuyo valor depende solo del principio de no contradicción; y los _conocimientos de hechos_, que se basan en la contigüidad y la causalidad. Estos no admiten demostración, solo pruebas y probabilidades, ya que su contrario siempre es concebible.
 
-Hume distingue dos tipos de conocimiento:
+Hume analiza la _causalidad_, que el racionalismo veía como una conexión necesaria entre causa y efecto. Pero para él, solo son válidas las ideas que proceden de impresiones sensibles, y no hay impresión de conexión necesaria. Por tanto, lo que llamamos causa no es más que un fenómeno que precede a otro de forma constante. La creencia en la causalidad es fruto de la costumbre y del hábito psicológico.
 
-1. **Relaciones de ideas**: propias de la lógica y las matemáticas, son verdades universales basadas en el principio de no contradicción.
-    
-2. **Cuestiones de hecho**: propias del conocimiento empírico, se basan en la experiencia y la causalidad, pero no pueden demostrarse con certeza, solo con probabilidad.
-    
+Con esta crítica, los grandes ámbitos de la realidad quedan sin fundamento: el mundo externo, Dios y el yo. No hay impresión del yo, ni la causalidad permite ir más allá de las percepciones. Así, el empirismo radical de Hume lleva a un escepticismo, ya que solo podemos conocer nuestras percepciones.
 
-Hume critica la idea de causalidad como una conexión necesaria. Afirma que no proviene de una impresión sensible, por lo que no puede considerarse una idea válida. Lo que llamamos causa es solo la costumbre de observar que un fenómeno sigue regularmente a otro. Así, la causalidad es una creencia basada en el hábito, no en una necesidad objetiva.
-
-Esta crítica tiene consecuencias profundas: si no podemos demostrar la existencia de una conexión necesaria, tampoco podemos justificar la existencia del mundo externo, de Dios ni del yo como sustancia pensante. Esto conduce a un escepticismo, ya que no podemos conocer nada más allá de nuestras percepciones.
-
-Por último, Hume rechaza también la idea de _sustancia_, pues no tenemos ninguna impresión de ella. Solo percibimos cualidades, y la sustancia sería simplemente un conjunto de estas reunidas por nuestra mente bajo un mismo nombre.
+También niega el concepto de _sustancia_, clave en la filosofía tradicional. Aplicando su criterio de verdad, solo existen percepciones con origen en la experiencia sensible. Como solo tenemos impresiones de cualidades y no de sustancias, concluye que la sustancia es solo un conjunto de cualidades que la mente une bajo un nombre.
 
 ## Problema de la Ética y Moral
 
