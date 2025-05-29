@@ -112,7 +112,10 @@ En su obra **Diálogos sobre la religión natural**, afirma que el sentimiento r
 ___
 Afirma que las religiones en su origen son **==politeístas==**, son tolerantes y no tienen problemas en multiplicar sus dioses, ya que derivan principalmente de la compensación de los miedos.
 
-En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior
+En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior en el que se postula un solo dios visto como perfecto, exclusivo y verdadero, siendo más dogmáticas e **intolerantes**.
+
+___
+
 
 ## Problema de la Ética y Moral
 
