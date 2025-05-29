@@ -117,6 +117,26 @@ En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior en el 
 ___
 Hume piensa que, aunque la religión es una **==ilusión==**, las personas pueden mantener cierta fe sin caer en fanatismo. Aunque sea necesario vivir como si existiese, saber que la religión es **ilusoria** nos protege del dogmatismo y nos lleva a una actitud más **tolerante**.
 
+
+## Problema del conocimiento-realidad
+
+David Hume busca delimitar el alcance del conocimiento humano, basándose en un empirismo radical. Para él, conocer es tener _percepciones_, que se dividen en _impresiones_ (más vivas e intensas, como las sensaciones directas) e _ideas_ (más débiles, derivadas de las impresiones).
+
+Estas percepciones pueden ser simples o complejas y provienen de la _sensación_ (a través de los sentidos) o de la _reflexión_ (emociones, sentimientos). Además, las ideas se asocian según tres principios: _semejanza_, _contigüidad espacio-temporal_ y _causalidad_.
+
+Hume distingue dos tipos de conocimiento:
+
+1. **Relaciones de ideas**: propias de la lógica y las matemáticas, son verdades universales basadas en el principio de no contradicción.
+    
+2. **Cuestiones de hecho**: propias del conocimiento empírico, se basan en la experiencia y la causalidad, pero no pueden demostrarse con certeza, solo con probabilidad.
+    
+
+Hume critica la idea de causalidad como una conexión necesaria. Afirma que no proviene de una impresión sensible, por lo que no puede considerarse una idea válida. Lo que llamamos causa es solo la costumbre de observar que un fenómeno sigue regularmente a otro. Así, la causalidad es una creencia basada en el hábito, no en una necesidad objetiva.
+
+Esta crítica tiene consecuencias profundas: si no podemos demostrar la existencia de una conexión necesaria, tampoco podemos justificar la existencia del mundo externo, de Dios ni del yo como sustancia pensante. Esto conduce a un escepticismo, ya que no podemos conocer nada más allá de nuestras percepciones.
+
+Por último, Hume rechaza también la idea de _sustancia_, pues no tenemos ninguna impresión de ella. Solo percibimos cualidades, y la sustancia sería simplemente un conjunto de estas reunidas por nuestra mente bajo un mismo nombre.
+
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
