@@ -104,7 +104,7 @@ Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá
 
 Hume no está dispuesto a **==aceptar nada de lo que no se tenga impresiones==** (que no proviene de una experiencia directa), y **de Dios no se poseen impresiones**. Además, no se puede demostrar su existencia por el principio de **causalidad**, ni se puede saber nada de Dios.
 
-Para
+Para nosotros, Dios no es más que un **misterio**, y toda investigación sólo resulta en **incertidumbre y más dudas**, por ello, Hume defiende una **actitud escéptica**.
 
 ## Problema de la Ética y Moral
 
