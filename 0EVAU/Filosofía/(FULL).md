@@ -115,7 +115,7 @@ Afirma que las religiones en su origen son **==politeístas==**, son tolerantes 
 En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior en el que se postula un solo dios visto como perfecto, exclusivo y verdadero, siendo más dogmáticas e **intolerantes**.
 
 ___
-Hume, aunque cree que la religión es una ilusión, piensa que las personas pueden mantener cierta fe sin caer en fanatismo. Saber que la religión es racional nos protege del dogmatismo y nos lleva a una actitud más **tolerante**.
+Hume, aunque cree que la religión es una **==ilusión==**, piensa que las personas pueden mantener cierta fe sin caer en fanatismo. Aunque sea necesario vivir como si existiese, saber que la religión es **ilusoria** nos protege del dogmatismo y nos lleva a una actitud más **tolerante**.
 
 ## Problema de la Ética y Moral
 
