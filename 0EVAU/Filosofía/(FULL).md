@@ -117,19 +117,6 @@ En cambio, las **==monoteístas==** aparecen tras un desarrollo posterior en el 
 ___
 Hume piensa que, aunque la religión es una **==ilusión==**, las personas pueden mantener cierta fe sin caer en fanatismo. Aunque sea necesario vivir como si existiese, saber que la religión es **ilusoria** nos protege del dogmatismo y nos lleva a una actitud más **tolerante**.
 
-
-## Problema del conocimiento-realidad
-
-Hume pretende señalar los límites del conocimiento humano y de la razón. Considera que conocer es tener ideas, aunque sustituye el término “idea” por el de “percepción”. Distingue dos tipos de percepciones: _impresiones_, que tienen mayor viveza e intensidad, e _ideas_, más apagadas y que derivan siempre de impresiones. Ambas pueden ser simples o complejas, y su origen puede estar en la _sensación_ (proveniente de los sentidos) o en la _reflexión_ (proveniente de la mente, como pasiones y emociones).
-
-Las ideas se relacionan entre sí por unos principios que explican su _asociación_: _semejanza_, _contigüidad espacio-temporal_ y _causalidad_. Con base en esto, Hume distingue dos tipos de conocimiento: las _relaciones de ideas_, propias de la lógica y las matemáticas, cuyo valor depende solo del principio de no contradicción; y los _conocimientos de hechos_, que se basan en la contigüidad y la causalidad. Estos no admiten demostración, solo pruebas y probabilidades, ya que su contrario siempre es concebible.
-
-Hume analiza la _causalidad_, que el racionalismo veía como una conexión necesaria entre causa y efecto. Pero para él, solo son válidas las ideas que proceden de impresiones sensibles, y no hay impresión de conexión necesaria. Por tanto, lo que llamamos causa no es más que un fenómeno que precede a otro de forma constante. La creencia en la causalidad es fruto de la costumbre y del hábito psicológico.
-
-Con esta crítica, los grandes ámbitos de la realidad quedan sin fundamento: el mundo externo, Dios y el yo. No hay impresión del yo, ni la causalidad permite ir más allá de las percepciones. Así, el empirismo radical de Hume lleva a un escepticismo, ya que solo podemos conocer nuestras percepciones.
-
-También niega el concepto de _sustancia_, clave en la filosofía tradicional. Aplicando su criterio de verdad, solo existen percepciones con origen en la experiencia sensible. Como solo tenemos impresiones de cualidades y no de sustancias, concluye que la sustancia es solo un conjunto de cualidades que la mente une bajo un nombre.
-
 ## Problema de la Ética y Moral
 
 Hume mantiene que las **distinciones morales no se derivan de la razón**, sino del sentimiento **moral**.
@@ -152,3 +139,4 @@ La utilidad social es lo que **determina la bondad** de nuestros actos, pero no 
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
 
+## Problema del conocimiento-realidad
