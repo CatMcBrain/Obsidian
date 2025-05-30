@@ -141,4 +141,3 @@ Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a 
 
 ## Problema del conocimiento
 
-	
