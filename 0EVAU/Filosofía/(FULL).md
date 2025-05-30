@@ -130,7 +130,7 @@ Hume está de acuerdo con la **==noción tradicional de la moralidad==**. Su fun
 
 La **distinción entre el bien y el mal** no procede de la razón, sino del sentimiento, la moral es algo más sentido que pensado.
 
-El **juicio** moral se deriva de una acción que produce un sentimiento: al sentir que algo es agradable, lo consideramos bueno. Esto es el *emotivismo moral*.\
+El **juicio** moral se deriva de una acción que produce un sentimiento: al sentir que algo es agradable, lo consideramos bueno. Esto es el *emotivismo moral*.
 
 ___
 El **fundamento** de las cualidades morales se encuentra en la **==utilidad para la sociedad==**.
@@ -139,4 +139,4 @@ La utilidad social es lo que **determina la bondad** de nuestros actos, pero no 
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
 
-## Problema del conocimiento-realidad
+## Problema del conocimiento
