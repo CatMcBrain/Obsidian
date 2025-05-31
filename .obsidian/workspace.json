@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "(FULL)"
             }
+          },
+          {
+            "id": "68c1f4760dfb2052",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0EVAU/Física/Drawing 2025-05-31 18.42.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-31 18.42.15.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -204,11 +218,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "4909fab4954e6025",
+  "active": "68c1f4760dfb2052",
   "lastOpenFiles": [
+    "0EVAU/Filosofía/(FULL).md",
+    "0EVAU/Física/Drawing 2025-05-31 18.42.15.excalidraw.md",
     "0EVAU/Física/Campo Eléctrico.md",
     "0EVAU/Química/Notas Química.md",
-    "0EVAU/Filosofía/(FULL).md",
     "0EVAU/Filosofía/Moderna - Hume.md",
     "0EVAU/Física/Fórmulas Generales.md",
     "0EVAU/Física/Gravitación.md",
@@ -233,7 +248,6 @@
     "0EVAU/Física/Notas Ondas.md",
     "0EVAU/Física/Notas Óptica.md",
     "0EVAU/Física/Problemas Eléctrico.md",
-    "0EVAU/Física/Problemas Magnético.md",
     "Attachments/20250512_132730.jpg",
     "Attachments/20250512_105621.jpg",
     "Attachments/Pasted image 20250502180438.png",
