@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "(FULL)"
             }
-          },
-          {
-            "id": "68c1f4760dfb2052",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0EVAU/Física/Drawing 2025-05-31 18.42.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-31 18.42.15.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +205,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "68c1f4760dfb2052",
+  "active": "4909fab4954e6025",
   "lastOpenFiles": [
     "0EVAU/Física/Drawing 2025-05-31 18.42.15.excalidraw.md",
     "0EVAU/Filosofía/(FULL).md",
