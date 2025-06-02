@@ -147,4 +147,4 @@ ___
 Propuso una **==reforma==** para devolver al ser humano a su estado natural, centrándose en varios ámbitos. 
 Por un lado, era necesario un <u><b>contrato social</b></u> que garantice la libertad e igualdad.
 
-Por otro lado, era necesario una <b><u>reforma de la educación</u></b>, ya que las 
+Por otro lado, era necesario una <b><u>reforma de la educación</u></b>, ya que las prácticas educativas restringían la libertad del alumno, y era necesaria dirigirla mejor para educar la piedad y el amor al prójimo y a uno mismo. El **maestro debe proteger al niño** de los males de la sociedad, centrándose en la moral, la justicia y la vida.
