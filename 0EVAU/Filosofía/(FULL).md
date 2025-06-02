@@ -144,4 +144,4 @@ Con la **propiedad privada** **==desaparece la igualdad==** y surge la esclavitu
 Se **==corrompió la moral==**, instaurándose vicios y desprecio a la virtud, y aumentando nuestro orgullo y ambición. Por esto Rousseau **cuestiona** la idea de que el progreso sea bueno para el hombre.
 
 ___
-Propuso una **==reforma==** 
+Propuso una **==reforma==** para devolver al ser humano a su estado natural, centrándose en varios ámbitos. Por un lado, era necesario un <u><b>contrato social</b></u>
