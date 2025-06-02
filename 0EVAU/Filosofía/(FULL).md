@@ -35,7 +35,7 @@ ___
 
 ## Problema de la Moral o Ética
 
-La **==dialéctica==** es un método para llegar a las ideas, pero para ella es necesaria también la **virtud**, que es un camino hacia el Bien y la Justicia. 
+La **==dialéctica==** es un método para llegar a las ideas, pero para ella es necesaria también la **virtud**, que es uxn camino hacia el Bien y la Justicia. 
 
 Además, según Platón,  un **==hombre aislado==** no puede ser bueno ni sabio sin la ayuda del **==Estado==**, ya que existe una **correlación entre alma y Estado**. <span style="color: #0070c0;">El alma y la ciudad tienen la misma estructura, por eso la ética conduce a la política.</span> <span style="color: gray;">Con esto, se puede observar que la filosofía de Platón tiene intención ética y política.</span>
 ___
