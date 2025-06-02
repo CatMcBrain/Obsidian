@@ -138,4 +138,7 @@ Rousseau critica a la **==sociedad por ser fuente de los males==** del ser human
 
 Originalmente, cuando el hombre vivía en la **==naturaleza==** eran libres, bondadosos y felices. El "buen salvaje" era pacífico y buscaba satisfacer sus necesidades básicas, y tenía sentimiento de piedad. <span style="color: gray;">(al contrario de Hobbes)</span>
 
-Con la **propiedad privada** **==desaparece al==**
+___
+Con la **propiedad privada** **==desaparece la igualdad==** y surge la esclavitud e injusticia. El ser humano se aleja de su sencillez primitiva y se progresó la razón y las ciencias se instauraron vicios y desprecio a la virtud.
+
+Esto aument
