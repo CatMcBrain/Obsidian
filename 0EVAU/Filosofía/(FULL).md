@@ -136,4 +136,5 @@ Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a 
 
 Rousseau critica a la **==sociedad por ser fuente de los males==** del ser humano. 
 
-Originalmente, cuando el hombre vivía en la **==naturaleza==** eran libres, bondadosos y felices. El "buen salvaje" era pacífico y buscaba satisfacer sus necesidades básicas, y tenía sentimiento de piedad.
+Originalmente, cuando el hombre vivía en la **==naturaleza==** eran libres, bondadosos y felices. El "buen salvaje" era pacífico y buscaba satisfacer sus necesidades básicas, y tenía sentimiento de piedad. <span style="color: gray;">(al contrario de Hobbes)</span>
+
