@@ -135,3 +135,5 @@ Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a 
 ## Problema del Ser Humano
 
 Rousseau critica a la **==sociedad por ser fuente de los males==** del ser humano. 
+
+Originalmente, cuando el hombre vivía en la **==naturaleza==** 
