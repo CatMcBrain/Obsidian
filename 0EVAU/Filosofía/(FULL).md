@@ -89,12 +89,6 @@ El superhombre acepta el ==**eterno retorno**==, la idea de que su vida se repet
 Con esto, Nietzsche **==niega toda idea de otro mundo==**, como el “más allá” cristiano o el “transmundo” platónico. Solo existe este mundo, y huir de él es rechazar la vida. Así, el eterno retorno expresa el **deseo de que todo sea eterno**, la eternización del presente.
 
 
-# Moderna - Rousseau
-
-## Problema del Ser Humano
-
-
-
 # Moderna - Hume
 
 ## Problema de Dios
@@ -136,5 +130,8 @@ La utilidad social es lo que **determina la bondad** de nuestros actos, pero no 
 
 Los seres humanos tenemos un sentimiento común de **empatía** que nos lleva a experimentar placer o dolor al observar determinadas situaciones.
 
-## Problema del conocimiento
+# Moderna - Rousseau
 
+## Problema del Ser Humano
+
+Rousseau critica a la **==sociedad por ser fuente de los males==** del ser humano. 
