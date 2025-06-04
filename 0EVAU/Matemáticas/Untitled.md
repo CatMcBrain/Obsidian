@@ -1,104 +1,179 @@
-# 🧮 Geometría Analítica – Resumen Exprés EVAU
-
-## 📌 ELEMENTOS BÁSICOS
-
-- **Punto**: \( P(x, y, z) \)
-- **Vector**: \( \vec{v} = (v_1, v_2, v_3) \)
+# ✏️ Ejercicios Tipo EVAU – Geometría Analítica (con fórmulas en $$)
 
 ---
 
-## ✅ CONSTRUIR UNA RECTA
+## 📘 Ejercicio 1: Plano que pasa por tres puntos
 
-### 1. **Recta que pasa por un punto y tiene un vector dirección**
+**Enunciado:**  
+Halla la ecuación general del plano que pasa por los puntos  
+$$ A(1, 0, 2),\quad B(0, 1, 1),\quad C(2, 1, 3) $$
 
-**Datos**: Punto \( P \), vector dirección \( \vec{v} \)  
-**Ecuación paramétrica**:
+**Solución:**
 
-\[
-r: \begin{cases}
-x = x_0 + v_1 t \\
-y = y_0 + v_2 t \\
-z = z_0 + v_3 t
+1. Calcula dos vectores:  
+   $$ \vec{AB} = B - A = (-1, 1, -1) $$  
+   $$ \vec{AC} = C - A = (1, 1, 1) $$
+
+2. Vector normal:  
+$$
+\vec{n} = \vec{AB} \times \vec{AC} =
+\begin{vmatrix}
+\vec{i} & \vec{j} & \vec{k} \\
+-1 & 1 & -1 \\
+1 & 1 & 1
+\end{vmatrix}
+= (2,\ 0,\ -2)
+$$
+
+3. Usa el punto \( A(1, 0, 2) \):
+
+$$
+2(x - 1) + 0(y - 0) - 2(z - 2) = 0 \Rightarrow 2x - 2z + 2 = 0
+$$
+
+✅ **Solución final:**  
+$$
+\boxed{2x - 2z + 2 = 0}
+$$
+
+---
+
+## 📘 Ejercicio 2: Recta que pasa por dos puntos
+
+**Enunciado:**  
+Halla la ecuación paramétrica de la recta que pasa por  
+$$ A(1, 2, 3),\quad B(4, -1, 2) $$
+
+**Solución:**
+
+1. Vector dirección:  
+   $$ \vec{v} = \overrightarrow{AB} = (3, -3, -1) $$
+
+2. Ecuación paramétrica:
+
+$$
+\begin{cases}
+x = 1 + 3t \\
+y = 2 - 3t \\
+z = 3 - t
 \end{cases}
-\quad \text{(con \( P = (x_0, y_0, z_0) \), \( \vec{v} = (v_1, v_2, v_3) \))}
-\]
+$$
+
+✅ **Solución final:**
+
+$$
+\boxed{
+r(t):
+\begin{cases}
+x = 1 + 3t \\
+y = 2 - 3t \\
+z = 3 - t
+\end{cases}
+}
+$$
 
 ---
 
-### 2. **Recta que pasa por dos puntos \( A \) y \( B \)**
+## 📘 Ejercicio 3: Punto pertenece a un plano
 
-- Vector dirección: \( \vec{v} = \overrightarrow{AB} = B - A \)
-- Usas \( A \) como punto base
-- Ecuación paramétrica como en el caso anterior
+**Enunciado:**  
+¿El punto $$ P(2, -1, 3) $$ pertenece al plano  
+$$ \pi: x - 2y + z - 1 = 0 $$?
 
----
+**Solución:**
 
-### 3. **Recta intersección de dos planos**
+Sustituimos:
 
-- Dados dos planos \( \pi_1 \) y \( \pi_2 \)
-- Vector dirección: \( \vec{v}_r = \vec{n}_1 \times \vec{n}_2 \)
-- Encuentra un punto común resolviendo el sistema de las ecuaciones de los planos (puedes fijar una variable)
+$$
+2 - 2(-1) + 3 - 1 = 2 + 2 + 3 - 1 = 6 \neq 0
+$$
 
----
-
-## ✅ CONSTRUIR UN PLANO
-
-### 1. **Plano que pasa por un punto y tiene un vector normal**
-
-**Datos**: Punto \( P = (x_0, y_0, z_0) \), normal \( \vec{n} = (a, b, c) \)  
-**Ecuación**:
-
-\[
-a(x - x_0) + b(y - y_0) + c(z - z_0) = 0
-\]
-
-O bien:
-
-\[
-ax + by + cz + d = 0 \quad \text{(encuentras \( d \) usando el punto)}
-\]
+❌ **No pertenece** al plano.
 
 ---
 
-### 2. **Plano que pasa por tres puntos \( A, B, C \)**
+## 📘 Ejercicio 4: Recta perpendicular a un plano
 
-- Vectores: \( \vec{u} = \overrightarrow{AB} \), \( \vec{v} = \overrightarrow{AC} \)
-- Vector normal: \( \vec{n} = \vec{u} \times \vec{v} \)
-- Usa \( A \) y aplica la fórmula del plano anterior
+**Enunciado:**  
+Halla la ecuación de la recta perpendicular al plano  
+$$ \pi: 2x - y + 3z + 4 = 0 $$  
+y que pasa por el punto $$ P(1, 2, -1) $$.
+
+**Solución:**
+
+- Vector dirección de la recta = vector normal del plano:  
+  $$ \vec{v} = (2, -1, 3) $$
+
+- Punto: $$ P(1, 2, -1) $$
+
+Ecuación:
+
+$$
+\boxed{
+r(t):
+\begin{cases}
+x = 1 + 2t \\
+y = 2 - t \\
+z = -1 + 3t
+\end{cases}
+}
+$$
+
+---
+
+## 📘 Ejercicio 5: Intersección de dos planos
+
+**Enunciado:**  
+Halla la recta intersección de los planos:
+
+$$
+\pi_1: x + y + z = 1 \\
+\pi_2: 2x - y + z = 3
+$$
+
+**Solución:**
+
+1. Vectores normales:  
+   $$ \vec{n}_1 = (1, 1, 1),\quad \vec{n}_2 = (2, -1, 1) $$
+
+   Vector dirección de la recta:  
+   $$
+   \vec{v} = \vec{n}_1 \times \vec{n}_2 =
+   \begin{vmatrix}
+   \vec{i} & \vec{j} & \vec{k} \\
+   1 & 1 & 1 \\
+   2 & -1 & 1
+   \end{vmatrix}
+   = (2, 1, -3)
+   $$
+
+2. Buscar punto común: fija $$ z = 0 $$
+
+Sistema:
+
+$$
+\begin{cases}
+x + y = 1 \\
+2x - y = 3
+\end{cases}
+\Rightarrow x = \frac{4}{3},\quad y = -\frac{1}{3}
+$$
+
+→ Punto: $$ P\left(\frac{4}{3}, -\frac{1}{3}, 0\right) $
+
+3. Ecuación de la recta:
+
+$$
+\boxed{
+r(t):
+\begin{cases}
+x = \frac{4}{3} + 2t \\
+y = -\frac{1}{3} + t \\
+z = -3t
+\end{cases}
+}
+$$
 
 ---
 
-### 3. **Plano que contiene una recta y es perpendicular a otra**
-
-- Usa un punto de la recta y su vector dirección
-- El vector dirección de la otra recta será el **vector normal** del plano
-
----
-
-## 🧠 TRUCOS RÁPIDOS
-
-- Plano **paralelo** a otro → misma normal
-- Recta **perpendicular** a plano → vector dirección = vector normal del plano
-- Recta **contenida en plano** → su vector dirección es ortogonal al vector normal del plano
-- Punto pertenece a plano/recta → sustituye y comprueba que se cumple
-- Rectas **que se cortan** → sistema compatible determinado
-- Rectas **que no se cortan ni son paralelas** → **alabeadas**
-
----
-
-## 🛠️ HERRAMIENTAS ÚTILES
-
-- **Producto escalar**:  
-  \[
-  \vec{a} \cdot \vec{b} = 0 \Rightarrow \text{vectores ortogonales}
-  \]
-
-- **Producto vectorial** (para sacar normales):  
-  \[
-  \vec{a} \times \vec{b}
-  \]
-
-- **Determinantes**:  
-  Para saber si dos vectores son proporcionales (paralelos)
-
----
+¿Quieres que siga con ejercicios más avanzados?
