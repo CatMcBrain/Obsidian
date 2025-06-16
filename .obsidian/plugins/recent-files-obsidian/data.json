@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Pancakes",
+      "path": "Notes/Food/Pancakes.md"
+    },
+    {
+      "basename": "Untitled drawing",
+      "path": "0EVAU/Física/Untitled drawing.png"
+    },
+    {
       "basename": "GPT Ejercicios",
       "path": "0EVAU/Matemáticas/GPT Ejercicios.md"
     },
     {
       "basename": "GPT Resumen",
       "path": "0EVAU/Matemáticas/GPT Resumen.md"
-    },
-    {
-      "basename": "Pancakes",
-      "path": "Notes/Food/Pancakes.md"
     },
     {
       "basename": "Notas análisis",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20250202191710_280",
       "path": "Attachments/Pasted Image 20250202191710_280.png"
-    },
-    {
-      "basename": "Pasted Image 20250201134804_976",
-      "path": "Attachments/Pasted Image 20250201134804_976.png"
     }
   ],
   "omittedPaths": [],
