@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b343a1b68a073eb8",
+        "id": "db784de2dc54dcfc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f649ac0c2c1b0c",
+            "id": "0ae85103ae470ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,12 +204,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e5f649ac0c2c1b0c",
+  "active": "0ae85103ae470ed8",
   "lastOpenFiles": [
+    "Notes/Food/Pancakes.md",
     "0EVAU/Física/Untitled drawing.png",
     "show.png",
     "0EVAU/Química/Notas Química.md",
-    "Notes/Food/Pancakes.md",
     "Notes/Food",
     "0EVAU/Matemáticas/GPT Resumen.md",
     "0EVAU/Matemáticas/GPT Ejercicios.md",
@@ -247,7 +247,6 @@
     "fonts",
     "New folder",
     "Attachments/Pasted image 20250403165712.png",
-    "Attachments/Pasted image 20250403120500.png",
     "My code file.tex",
     "Snippets/html_Underline.txt",
     "Snippets/html_underline.txt",
