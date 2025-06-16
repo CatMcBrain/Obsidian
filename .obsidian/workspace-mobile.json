@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Food/Pancakes.md",
+                "file": "Notes/Games/Elite Dangerous/Elite Dangerous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pancakes"
+              "title": "Elite Dangerous"
             }
           }
         ],
@@ -190,9 +190,9 @@
   },
   "active": "ac1c4ca0c64eb1d2",
   "lastOpenFiles": [
+    "Notes/Food/Pancakes.md",
     "0EVAU/Matemáticas/GPT Ejercicios.md",
     "0EVAU/Matemáticas/GPT Resumen.md",
-    "Notes/Food/Pancakes.md",
     "0EVAU/Matemáticas/Notas análisis.md",
     "Notes/Food",
     "Notes/Useful PC [conflicted].md",
