@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Useful PC [conflicted].md",
+                "file": "Notes/Useful PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful PC [conflicted]"
+              "title": "Useful PC"
             }
           }
         ],
@@ -208,7 +208,7 @@
     "0EVAU/Matemáticas/GPT Resumen.md",
     "0EVAU/Matemáticas/Notas análisis.md",
     "Notes/Food",
-    "Notes/Useful PC [conflicted].md",
+    "Notes/Useful PC.md",
     "0EVAU/Filosofía/FILOSOFÍA.md",
     "0EVAU/Filosofía/Platón.md"
   ]

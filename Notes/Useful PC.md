@@ -30,6 +30,8 @@
 - NS USBLoader
 - Steam
 - Xournal++
+- reWASD
+- Teracopy
 _____________________
 - (calibre)
 - (globalprotect)
