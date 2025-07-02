@@ -204,16 +204,55 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "ecb030c7f57f2675",
+  "floating": {
+    "id": "1d1d42d4ba6ca37b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8dda917e5af22d67",
+        "type": "window",
+        "children": [
+          {
+            "id": "4ca80302c3a23a39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce1097ebf732b848",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/IdreesInc/Waypoint",
+                    "title": "GitHub - IdreesInc/Waypoint: Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - IdreesInc/Waypoint: Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 752,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ce1097ebf732b848",
   "lastOpenFiles": [
+    "Notes/Games/Games.md",
+    "Notes/Backup/Backup.md",
+    "Notes/Notes.md",
     "Snippets/waypoint.txt",
     "Snippets/New Text Document.txt",
-    "Notes/Notes.md",
     "Attachments/Synuefe+NL-N+C23-4_Map.png",
     "Attachments/3hi67aish1j11.webp",
-    "Notes/Backup/Backup.md",
     "Notes/Food/Food.md",
-    "Notes/Games/Games.md",
     "EVAU/EVAU.md",
     "EVAU/Inglés/INGLÉS.md",
     "EVAU/Filosofía/FILOSOFÍA.md",
@@ -250,7 +289,6 @@
     "Notes/Food",
     "EVAU/Matemáticas/GPT Resumen.md",
     "EVAU/Matemáticas/GPT Ejercicios.md",
-    "Snippets/line.txt",
-    "fonts/Stray-Regular.otf"
+    "Snippets/line.txt"
   ]
 }
