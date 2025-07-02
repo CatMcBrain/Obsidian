@@ -1,5 +1,7 @@
 
 ## To Buy
+
+## Clothes
 ### - Lacito negro grande
 	(Miniso)
 	
@@ -10,6 +12,8 @@
 
 - Kitty Girl nightgown
 ![[WhatsApp Image 2025-06-01 at 15.27.10_cb3d47de.jpg]]
+
+
 ## Interests
 
 - Gatito Miniso
