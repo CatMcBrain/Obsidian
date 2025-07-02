@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Items/Shop.md",
+                "file": "Notes/Backup/Heart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shop"
+              "title": "Heart"
             }
           }
         ]
@@ -206,12 +206,15 @@
   },
   "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
+    "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_7af3ef9f.waptt.opus",
+    "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_434ade76.waptt",
+    "Notes/Food/Recipes/Tostadas de Papá.md",
+    "Notes/Items/Shop.md",
     "Notes/Items/Rebuy.md",
     "Notes/Food/Recipes/Tomate Tostadas.md",
     "Notes/Backup/Heart.md",
     "Notes/Items/Gifts.md",
     "Attachments/WhatsApp Image 2025-05-25 at 12.14.21_951dfc15.jpg",
-    "Notes/Items/Shop.md",
     "Notes/Food/Annotations.md",
     "Attachments/WhatsApp Image 2025-06-01 at 15.27.10_cb3d47de.jpg",
     "Attachments/WhatsApp Image 2025-06-01 at 15.27.10_c08ded7c.jpg",
@@ -243,14 +246,11 @@
     "Snippets/New Text Document.txt",
     "Snippets/waypoint.txt",
     "Notes/Food",
-    "Snippets/folder_note.txt",
     "EVAU/EVAU.md",
     "EVAU/Inglés/INGLÉS.md",
     "EVAU/Filosofía/FILOSOFÍA.md",
     "EVAU/Física/FÍSICA.md",
     "EVAU/Física/Gravitación.md",
-    "EVAU/Física/Fórmulas Generales.md",
-    "EVAU/Física/Campo Eléctrico.md",
-    "EVAU/Física/Campo Magnético.md"
+    "EVAU/Física/Fórmulas Generales.md"
   ]
 }
