@@ -1,4 +1,4 @@
 %% Begin Waypoint %%
-- [[Pancakes]]
+- [[Arroz con Leche]]
 
 %% End Waypoint %%
