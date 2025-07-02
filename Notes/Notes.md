@@ -7,5 +7,6 @@
 
 - **Items**
 	- [[Rebuy]]
+	- [[Shop]]
 
 %% End Waypoint %%
