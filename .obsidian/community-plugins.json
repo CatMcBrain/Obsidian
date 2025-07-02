@@ -34,5 +34,6 @@
   "obsidian-tikzjax",
   "typewriter-mode",
   "waypoint",
-  "folder-notes"
+  "folder-notes",
+  "jupymd"
 ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Food/Food.md",
+                "file": "Notes/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food"
+              "title": "Notes"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Food/Food.md",
+                "file": "Notes/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Food"
+              "title": "Outline of Notes"
             }
           }
         ],
@@ -206,9 +206,9 @@
   },
   "active": "cf1e4d0e211def09",
   "lastOpenFiles": [
+    "Notes/Food/Food.md",
     "Notes/Backup/Backup.md",
     "Notes/Notes.md",
-    "Notes/Food/Food.md",
     "Notes/Ocio/Ocio.md",
     "Notes/Shopping/Shopping.md",
     "Notes/Games/Games.md",
