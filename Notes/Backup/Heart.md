@@ -4,16 +4,17 @@
 
 ## Other
 
-**Abuelito**
+### Abuelito
 Papuchi no, papá
 
-**Amor**
+### Amor
+
 [05/24/2025 22:15] ⠀: Tengo grabada en la mente en ese momento en el que me iba de Galicia por primera vez y te miraba desde dentro del tren, y tú estabas sonriendo en el andén. Es que ahí estaba viendo a mi pareja de por vida, te lo juro. No sé cómo expresarlo, ay ❤
 [05/24/2025 22:15] ⠀: Y saqué al gatito gris para abrazarle :)
 
 ___
+Escuchamos una canción en un viaje en el coche de mi padre, tumbados juntitos ("Im drunk and i need you now"?)
 
-
-**Elenita**
+### Elenita
 
 ![[WhatsApp Audio 2025-04-13 at 23.07.31_7af3ef9f.waptt.opus]]
