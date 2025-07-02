@@ -5,6 +5,10 @@
       "path": "Notes/Items/Shop.md"
     },
     {
+      "basename": "Gifts",
+      "path": "Notes/Items/Gifts.md"
+    },
+    {
       "basename": "Rebuy",
       "path": "Notes/Items/Rebuy.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Tomate Tostadas",
       "path": "Notes/Food/Recipes/Tomate Tostadas.md"
-    },
-    {
-      "basename": "Gifts",
-      "path": "Notes/Items/Gifts.md"
     },
     {
       "basename": "Sopa de Lasaña",

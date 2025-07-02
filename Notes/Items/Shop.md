@@ -1,11 +1,14 @@
 
 ## To Buy
 
-- Miku Gato con Botas
+### - Miku Gato con Botas
 	https://es.aliexpress.com/item/1005005543068120.html?gatewayAdapt=glo2esp
 ## Clothes
+### - Top
+![[20250614_191040.jpg]]
 
-- Blazer
+### - Blazer
+![[20250315_183959.jpg]]
 ### - Lacito negro grande
 	(Miniso)
 	
@@ -14,20 +17,20 @@
 ### - Pijama gatito
 ![[WhatsApp Image 2025-06-01 at 15.27.10_c08ded7c.jpg]]
 
-- Kitty Girl nightgown
+### - Kitty Girl nightgown
 ![[WhatsApp Image 2025-06-01 at 15.27.10_cb3d47de.jpg]]
 
-- Succubus
+### - Succubus
 	https://yomorio.com/products/sexy-latex-succubus-cosplay-costume-little-devil-anime-lingerie-gothic-demon-halloween-outfits
 
-- Falda
+### - Falda
 	http://api-shein.shein.com/h5/sharejump/appjump?link=lhMEOKOJtQA_8_1&localcountry=ES
 
-- Catgirl jacket
+### - Catgirl jacket
 	https://www.amazon.es/PANOZON-Sudadera-Capucha-Disfraz-Graciosa/dp/B08ZCJ4HSL?psc=1
 
 ## Interests
 
-- Gatito Miniso
+### - Gatito Miniso
 ![[WhatsApp Image 2025-06-20 at 22.40.13_1ee54369.jpg]]
 
