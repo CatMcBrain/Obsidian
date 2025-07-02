@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
+          },
+          {
+            "id": "25c74954a346de73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Test/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Hide hidden folders again": false,
+      "hide-folders:Show hidden folders": false,
       "templates:Insert template": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
@@ -219,15 +233,18 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "93ca4af90cc021e6",
+  "active": "25c74954a346de73",
   "lastOpenFiles": [
+    "Notes/Test/Test.md",
+    "Notes/Test/Untitled.md",
+    "Notes/Notes.md",
+    "Notes/Test",
     "Notes/Games/Games.md",
     "Notes/Cook/Cook.md",
     "Notes/Backup/Backup.md",
     "Notes/Cook/Pancakes.md",
     "Snippets/New Text Document.txt",
     "Snippets/waypoint.txt",
-    "Notes/Notes.md",
     "Notes/Cook",
     "Notes/Food/Food.md",
     "Snippets/folder_note.txt",
@@ -261,9 +278,7 @@
     "Notes/Backup/Useful PC.md",
     "Notes/Backup",
     "Notes/Games/Elite Dangerous/Elite Dangerous.md",
-    "Notes/Food/Pancakes.md",
     "Notes/Games/Star Rail",
-    "Notes/Games/Gatchas/Star",
     "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
     "Notes/Images/Screenshot_20250525_003823_Firefox.jpg"
   ]
