@@ -5,6 +5,8 @@
 	
 ![[WhatsApp Image 2025-06-20 at 22.40.13_781524de.jpg]]
 
+### - Pijama gatito
+![[WhatsApp Image 2025-06-01 at 15.27.10_c08ded7c.jpg]]
 ## Interests
 
 - Gatito Miniso
