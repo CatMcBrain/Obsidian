@@ -13,6 +13,8 @@ Papuchi no, papá
 [05/24/2025 22:15] ⠀: Y saqué al gatito gris para abrazarle :)
 
 ___
+(Lista de canciones de Vocaloid que me apunté cuando me las estaba enseñando Estrella la primera vez que fui a Galicia)
+___
 Escuchamos una canción en un viaje en el coche de mi padre, tumbados juntitos ("Im drunk and i need you now"?)
 
 ### Elenita

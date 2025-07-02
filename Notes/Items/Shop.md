@@ -1,6 +1,8 @@
 
 ## To Buy
 
+- Miku Gato con Botas
+	https://es.aliexpress.com/item/1005005543068120.html?gatewayAdapt=glo2esp
 ## Clothes
 ### - Lacito negro grande
 	(Miniso)
