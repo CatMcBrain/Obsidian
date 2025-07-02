@@ -5,7 +5,5 @@
 - **[[Games]]**
 - **Images**
 
-- **[[Test]]**
-	- [[Untitled]]
 
 %% End Waypoint %%
