@@ -1,6 +1,7 @@
 
 %% Begin Waypoint %%
 - **Backup**
+	- [[Useful PC]]
 - **Food**
 	- [[Pancakes]]
 - **Games**
@@ -12,6 +13,5 @@
 		- [[Builds]]
 - **Images**
 
-- [[Useful PC]]
 
 %% End Waypoint %%
