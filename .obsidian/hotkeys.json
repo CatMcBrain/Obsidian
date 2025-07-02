@@ -142,5 +142,13 @@
       ],
       "key": "-"
     }
+  ],
+  "templater-obsidian:Snippets/waypoint.txt": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

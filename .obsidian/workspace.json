@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6da2bfd92015e6c",
+        "id": "2ad66368c46517eb",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9a7c58db0fcec7",
+            "id": "ecb030c7f57f2675",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Games/Games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Games"
             }
           }
         ]
@@ -200,7 +204,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
     "Snippets/waypoint.txt",
     "Snippets/New Text Document.txt",
