@@ -5,6 +5,10 @@
       "path": "Notes/Games/Games.md"
     },
     {
+      "basename": "Food",
+      "path": "Notes/Food/Food.md"
+    },
+    {
       "basename": "Backup",
       "path": "Notes/Backup/Backup.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "3hi67aish1j11",
       "path": "Attachments/3hi67aish1j11.webp"
-    },
-    {
-      "basename": "Food",
-      "path": "Notes/Food/Food.md"
     },
     {
       "basename": "EVAU",
