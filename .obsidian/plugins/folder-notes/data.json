@@ -1,7 +1,7 @@
 {
   "syncFolderName": true,
-  "ctrlKey": true,
-  "altKey": false,
+  "ctrlKey": false,
+  "altKey": true,
   "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": false,
@@ -19,7 +19,7 @@
   "openInNewTab": false,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
-  "folderNoteName": "# [[<% tp.file.title %>]]  %% Waypoint %<% tp.file.cursor(1) %>%",
+  "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",
@@ -75,7 +75,7 @@
   "excludeFolderDefaultSettings": {
     "type": "folder",
     "path": "",
-    "id": "4db80f11-929c-4d11-bb74-952009eb011b",
+    "id": "fb1b3d02-06cf-42b5-84b8-466bead601b4",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -91,7 +91,7 @@
   "excludePatternDefaultSettings": {
     "type": "pattern",
     "path": "",
-    "id": "fdf65f1d-1e39-413b-ba56-9a3a8c976764",
+    "id": "2ffebeed-1724-4c30-8473-8735da45ddd3",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
