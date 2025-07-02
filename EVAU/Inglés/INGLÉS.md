@@ -1,4 +1,3 @@
-#Star 
 
 text
 

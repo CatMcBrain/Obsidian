@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "EVAU",
+      "path": "EVAU/EVAU.md"
+    },
+    {
+      "basename": "INGLÉS",
+      "path": "EVAU/Inglés/INGLÉS.md"
+    },
+    {
+      "basename": "FILOSOFÍA",
+      "path": "EVAU/Filosofía/FILOSOFÍA.md"
+    },
+    {
+      "basename": "FÍSICA",
+      "path": "EVAU/Física/FÍSICA.md"
+    },
+    {
+      "basename": "Gravitación",
+      "path": "EVAU/Física/Gravitación.md"
+    },
+    {
+      "basename": "Fórmulas Generales",
+      "path": "EVAU/Física/Fórmulas Generales.md"
+    },
+    {
+      "basename": "Campo Eléctrico",
+      "path": "EVAU/Física/Campo Eléctrico.md"
+    },
+    {
+      "basename": "Campo Magnético",
+      "path": "EVAU/Física/Campo Magnético.md"
+    },
+    {
       "basename": "Morfología",
-      "path": "0EVAU/Lengua/Morfología.md"
+      "path": "EVAU/Lengua/Morfología.md"
     },
     {
       "basename": "LENGUA",
-      "path": "0EVAU/Lengua/LENGUA.md"
+      "path": "EVAU/Lengua/LENGUA.md"
     },
     {
       "basename": "MATEMÁTICAS",
-      "path": "0EVAU/Matemáticas/MATEMÁTICAS.md"
+      "path": "EVAU/Matemáticas/MATEMÁTICAS.md"
     },
     {
       "basename": "Ejercicios Química",
-      "path": "0EVAU/Química/Ejercicios Química.md"
+      "path": "EVAU/Química/Ejercicios Química.md"
     },
     {
       "basename": "Notas Química",
-      "path": "0EVAU/Química/Notas Química.md"
+      "path": "EVAU/Química/Notas Química.md"
     },
     {
       "basename": "QUÍMICA",
-      "path": "0EVAU/Química/QUÍMICA.md"
-    },
-    {
-      "basename": "EVAU",
-      "path": "0EVAU/EVAU.md"
+      "path": "EVAU/Química/QUÍMICA.md"
     },
     {
       "basename": "Builds",

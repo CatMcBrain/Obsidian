@@ -1,26 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "path:0EVAU  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:0EVAU/Matemáticas  ",
-      "color": {
-        "a": 1,
-        "rgb": 15483201
-      }
-    },
-    {
-      "query": "path:0EVAU/Química ",
-      "color": {
-        "a": 1,
-        "rgb": 15754987
-      }
-    },
     {
       "query": "path:0EVAU/Física  ",
       "color": {

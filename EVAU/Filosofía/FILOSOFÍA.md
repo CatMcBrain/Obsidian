@@ -1,4 +1,4 @@
-#Star 
+
 
 - [[Antigua - Platón|(ANTIGUA)]] Platón: Ética Y Moral
 
