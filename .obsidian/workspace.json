@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Games/Star Rail/Builds.md",
+                "file": "Notes/Games/Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Builds"
+              "title": "Games"
             }
           }
         ]
@@ -206,6 +206,9 @@
   },
   "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
+    "Notes/Games/Star Rail/Builds.md",
+    "Attachments/IMG-20250702-WA0027[1].jpg",
+    "Attachments/IMG-20250702-WA0026[1].jpg",
     "Notes/Games/Games.md",
     "Notes/Notes.md",
     "Universidad/Universidad.md",
@@ -240,7 +243,6 @@
     "EVAU/Química/Ejercicios Química.md",
     "EVAU/Química/Notas Química.md",
     "EVAU/Química/QUÍMICA.md",
-    "Notes/Games/Star Rail/Builds.md",
     "Notes/Images/20250315_183959.jpg",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
     "Notes/Images/Screenshot_20250616_122112_Reddit.jpg",
@@ -248,9 +250,6 @@
     "Notes/Images/Screenshot_20250329_212656_Firefox.jpg",
     "Notes/Images/20250305_234033.jpg",
     "Notes/Games/Elite Dangerous/Guardian Materials.md",
-    "Notes/Backup/Useful PC.md",
-    "Notes/Backup",
-    "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
-    "Notes/Images/Screenshot_20250525_003823_Firefox.jpg"
+    "Notes/Backup"
   ]
 }
