@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Items/Rebuy.md",
+                "file": "Notes/Backup/Best Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebuy"
+              "title": "Best Games"
             }
           }
         ]
@@ -206,10 +206,11 @@
   },
   "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
+    "Notes/Items/Rebuy.md",
+    "Notes/Backup/Best Games.md",
     "Attachments/WhatsApp Image 2025-06-26 at 10.27.44_5cd278f3.jpg",
     "Attachments/WhatsApp Image 2025-06-27 at 16.43.18_33dfadde.jpg",
     "Notes/Cook/Arroz con Leche.md",
-    "Notes/Items/Rebuy.md",
     "Notes/Items",
     "Attachments/WhatsApp Image 2025-06-27 at 16.43.19_19df1381.jpg",
     "Notes/Games/Games.md",
@@ -250,7 +251,6 @@
     "EVAU/Química/Ejercicios Química.md",
     "EVAU/Química/Notas Química.md",
     "Notes/Images/20250315_183959.jpg",
-    "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
-    "Notes/Images/Screenshot_20250616_122112_Reddit.jpg"
+    "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png"
   ]
 }
