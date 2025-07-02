@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Shop",
-      "path": "Notes/Items/Shop.md"
-    },
-    {
       "basename": "Annotations",
       "path": "Notes/Food/Annotations.md"
+    },
+    {
+      "basename": "Rebuy",
+      "path": "Notes/Items/Rebuy.md"
+    },
+    {
+      "basename": "Shop",
+      "path": "Notes/Items/Shop.md"
     },
     {
       "basename": "Arroz con Leche",
@@ -19,10 +23,6 @@
     {
       "basename": "Best Games",
       "path": "Notes/Backup/Best Games.md"
-    },
-    {
-      "basename": "Rebuy",
-      "path": "Notes/Items/Rebuy.md"
     },
     {
       "basename": "Games",

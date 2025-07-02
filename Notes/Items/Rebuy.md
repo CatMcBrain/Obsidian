@@ -10,3 +10,8 @@
 
 ### - Trigo picante
 ![[WhatsApp Image 2025-06-27 at 16.43.18_33dfadde.jpg]]
+
+## Useful
+
+- Protector pantalla móvil
+![[WhatsApp Image 2025-06-20 at 14.59.07_71d61e22.jpg]]

@@ -7,4 +7,5 @@
 
 ## Interests
 
-- Gatito Mi
+- Gatito Miniso
+![[WhatsApp Image 2025-06-20 at 22.40.13_1ee54369.jpg]]
