@@ -6,6 +6,7 @@
 - **Images**
 
 - **Items**
+	- [[Gifts]]
 	- [[Rebuy]]
 	- [[Shop]]
 

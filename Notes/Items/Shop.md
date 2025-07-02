@@ -22,6 +22,3 @@ https://yomorio.com/products/sexy-latex-succubus-cosplay-costume-little-devil-an
 - Gatito Miniso
 ![[WhatsApp Image 2025-06-20 at 22.40.13_1ee54369.jpg]]
 
-## Gifts
-
-- Vocaloid para portátil [(link)](https://jidanstudios.bigcartel.com/product/peekers-desktop-buddies?fbclid=PAQ0xDSwKsMFdleHRuA2FlbQIxMAABp1X3LEvgIXgLs7ZiHXJHk3mCYBKFzBqwmujVyukY3IiLXWLjr0SFnmJxaOub_aem_dClAhqw-cDYrjfHFfQCuzg)

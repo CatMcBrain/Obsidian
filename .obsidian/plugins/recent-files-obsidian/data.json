@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Heart",
-      "path": "Notes/Backup/Heart.md"
+      "basename": "Gifts",
+      "path": "Notes/Items/Gifts.md"
     },
     {
       "basename": "Shop",
       "path": "Notes/Items/Shop.md"
+    },
+    {
+      "basename": "Annotations",
+      "path": "Notes/Food/Annotations.md"
+    },
+    {
+      "basename": "Heart",
+      "path": "Notes/Backup/Heart.md"
     },
     {
       "basename": "Sopa de Lasaña",
@@ -15,10 +23,6 @@
     {
       "basename": "Salsa de Ensalada China",
       "path": "Notes/Food/Recipes/Salsa de Ensalada China.md"
-    },
-    {
-      "basename": "Annotations",
-      "path": "Notes/Food/Annotations.md"
     },
     {
       "basename": "Rebuy",
