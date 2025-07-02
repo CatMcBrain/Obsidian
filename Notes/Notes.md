@@ -6,8 +6,6 @@
 	- [[Pancakes]]
 - **[[Games]]**
 	- **Elite Dangerous**
-		- **Guardian Materials**
-
 		- [[Guardian Materials]]
 		- [[Resources]]
 	- **Star Rail**

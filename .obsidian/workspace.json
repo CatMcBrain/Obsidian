@@ -11,12 +11,10 @@
             "id": "2d9a7c58db0fcec7",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/3hi67aish1j11.webp"
-              },
-              "icon": "lucide-image",
-              "title": "3hi67aish1j11"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -204,9 +202,11 @@
   },
   "active": "e61f2addba3450c7",
   "lastOpenFiles": [
-    "Notes/Games/Elite Dangerous/Guardian Materials/Synuefe+NL-N+C23-4_Map.png",
-    "Attachments/3hi67aish1j11.webp",
+    "Snippets/waypoint.txt",
+    "Snippets/New Text Document.txt",
     "Notes/Notes.md",
+    "Attachments/Synuefe+NL-N+C23-4_Map.png",
+    "Attachments/3hi67aish1j11.webp",
     "Notes/Backup/Backup.md",
     "Notes/Food/Food.md",
     "Notes/Games/Games.md",
@@ -247,7 +247,6 @@
     "EVAU/Matemáticas/GPT Resumen.md",
     "EVAU/Matemáticas/GPT Ejercicios.md",
     "Snippets/line.txt",
-    "Snippets/New Text Document.txt",
     "fonts/Stray-Regular.otf"
   ]
 }
