@@ -11,6 +11,9 @@
 ### - Trigo picante
 ![[WhatsApp Image 2025-06-27 at 16.43.18_33dfadde.jpg]]
 
+- Noodles finos arroz
+![[20250305_234033.jpg]]
+
 ## Useful
 
 - Protector pantalla móvil

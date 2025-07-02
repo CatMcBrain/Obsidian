@@ -4,6 +4,8 @@
 - Miku Gato con Botas
 	https://es.aliexpress.com/item/1005005543068120.html?gatewayAdapt=glo2esp
 ## Clothes
+
+- Blazer
 ### - Lacito negro grande
 	(Miniso)
 	
