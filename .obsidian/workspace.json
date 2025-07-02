@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db784de2dc54dcfc",
+        "id": "d6da2bfd92015e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae85103ae470ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "1771d884f262c937",
+            "id": "caf47b9428e6698a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,9 +204,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "1771d884f262c937",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Notes/Backup",
     "Notes/Notes.md",
+    "Notes/Games/Elite Dangerous/Elite Dangerous.md",
     "Notes/Games/Star Rail/Builds.md",
     "Notes/Food/Pancakes.md",
     "Notes/Useful PC.md",
@@ -261,8 +248,6 @@
     "0EVAU/Matemáticas/Notas Geometría.md",
     "0EVAU/Matemáticas/Notas Análisis.md",
     "0EVAU/Matemáticas/Geometría.md",
-    "0EVAU/Matemáticas/Fórmulas Geometría.md",
-    "0EVAU/Física/FÍSICA.md",
     "Snippets/line.txt",
     "Snippets/New Text Document.txt",
     "fonts/Stray-Regular.otf",

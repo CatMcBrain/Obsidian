@@ -1,2 +1,0 @@
-[[Resources]]
-[[Guardian Materials]]

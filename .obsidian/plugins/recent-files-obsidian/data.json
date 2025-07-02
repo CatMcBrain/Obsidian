@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Useful PC",
+      "path": "Notes/Useful PC.md"
+    },
+    {
       "basename": "Notes",
       "path": "Notes/Notes.md"
     },
@@ -11,14 +15,6 @@
     {
       "basename": "Pancakes",
       "path": "Notes/Food/Pancakes.md"
-    },
-    {
-      "basename": "Useful PC",
-      "path": "Notes/Useful PC.md"
-    },
-    {
-      "basename": "Elite Dangerous",
-      "path": "Notes/Games/Elite Dangerous/Elite Dangerous.md"
     }
   ],
   "omittedPaths": [],
