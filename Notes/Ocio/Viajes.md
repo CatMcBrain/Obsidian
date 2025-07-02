@@ -1,1 +1,2 @@
-- Asturias: dinosaurios, 
+- Asturias: playa dinosaurios
+- Mallorca: había una isla "peñasco" a la que podías ir en barco y visitar, y luego bañarte

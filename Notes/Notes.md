@@ -3,11 +3,7 @@
 - **[[Backup]]**
 - **[[Food]]**
 - **[[Games]]**
-- **Ocio**
-	- [[Viajes]]
-- **Shopping**
-	- [[Gifts]]
-	- [[Rebuy]]
-	- [[Shop]]
+- **[[Ocio]]**
+- **[[Shopping]]**
 
 %% End Waypoint %%

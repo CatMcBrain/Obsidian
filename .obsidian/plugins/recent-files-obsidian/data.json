@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Food",
+      "path": "Notes/Food/Food.md"
+    },
+    {
+      "basename": "Backup",
+      "path": "Notes/Backup/Backup.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Ocio",
+      "path": "Notes/Ocio/Ocio.md"
+    },
+    {
+      "basename": "Shopping",
+      "path": "Notes/Shopping/Shopping.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Notes/Games/Games.md"
+    },
+    {
       "basename": "Viajes",
       "path": "Notes/Ocio/Viajes.md"
     },
@@ -61,28 +85,12 @@
       "path": "Notes/Food/Recipes/Arroz con Leche.md"
     },
     {
-      "basename": "Food",
-      "path": "Notes/Food/Food.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Notes/Games/Games.md"
-    },
-    {
       "basename": "Builds",
       "path": "Notes/Games/Star Rail/Builds.md"
     },
     {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
       "basename": "Universidad",
       "path": "Universidad/Universidad.md"
-    },
-    {
-      "basename": "Backup",
-      "path": "Notes/Backup/Backup.md"
     },
     {
       "basename": "Synuefe+NL-N+C23-4_Map",
