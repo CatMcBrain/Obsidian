@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Best Games]]
+- [[Heart]]
 - [[Useful PC]]
 
 %% End Waypoint %%
