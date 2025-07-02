@@ -1,0 +1,3 @@
+# [[<% tp.file.title %>]]
+
+%% Waypoint %<% tp.file.cursor(1) %>%
