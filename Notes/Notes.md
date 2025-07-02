@@ -1,7 +1,7 @@
 
 %% Begin Waypoint %%
 - **[[Backup]]**
-- **[[Cook]]**
+- **[[Food]]**
 - **[[Games]]**
 - **Images**
 

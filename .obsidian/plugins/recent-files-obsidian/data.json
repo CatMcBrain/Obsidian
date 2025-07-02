@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Annotations",
+      "path": "Notes/Food/Annotations.md"
+    },
+    {
+      "basename": "Arroz con Leche",
+      "path": "Notes/Food/Recipes/Arroz con Leche.md"
+    },
+    {
+      "basename": "Food",
+      "path": "Notes/Food/Food.md"
+    },
+    {
       "basename": "Best Games",
       "path": "Notes/Backup/Best Games.md"
     },
     {
       "basename": "Rebuy",
       "path": "Notes/Items/Rebuy.md"
-    },
-    {
-      "basename": "Arroz con Leche",
-      "path": "Notes/Cook/Arroz con Leche.md"
     },
     {
       "basename": "Games",
@@ -27,10 +35,6 @@
     {
       "basename": "Universidad",
       "path": "Universidad/Universidad.md"
-    },
-    {
-      "basename": "Cook",
-      "path": "Notes/Cook/Cook.md"
     },
     {
       "basename": "Backup",
