@@ -5,5 +5,6 @@
 - **[[Games]]**
 - **Images**
 
+- **Items**
 
 %% End Waypoint %%
