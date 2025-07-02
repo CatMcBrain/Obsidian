@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Games",
-      "path": "Notes/Games/Games.md"
+      "basename": "Pancakes",
+      "path": "Notes/Cook/Pancakes.md"
     },
     {
-      "basename": "Food",
-      "path": "Notes/Food/Food.md"
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
     },
     {
       "basename": "Backup",
       "path": "Notes/Backup/Backup.md"
     },
     {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
+      "basename": "Games",
+      "path": "Notes/Games/Games.md"
     },
     {
       "basename": "Synuefe+NL-N+C23-4_Map",
@@ -115,10 +115,6 @@
     {
       "basename": "Useful PC",
       "path": "Notes/Backup/Useful PC.md"
-    },
-    {
-      "basename": "Pancakes",
-      "path": "Notes/Food/Pancakes.md"
     }
   ],
   "omittedPaths": [],

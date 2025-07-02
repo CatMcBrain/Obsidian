@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Games/Games.md",
+                "file": "Notes/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Games"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "93ca4af90cc021e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cook/Cook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cook"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hide-folders:Hide hidden folders again": false,
       "templates:Insert template": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
@@ -197,21 +213,23 @@
       "obsidian-importer:Open Importer": true,
       "custom-sort:Toggle custom sorting": true,
       "vscode-editor:Create Code File": true,
-      "hide-folders:Show hidden folders": false,
       "command-palette:Open command palette": false,
       "cmdr:Files: Show file explorer": false,
       "cmdr:Outline: Show outline": false,
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "ecb030c7f57f2675",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Notes/Cook/Cook.md",
+    "Notes/Notes.md",
+    "Notes/Cook/Pancakes.md",
+    "Notes/Cook",
+    "Notes/Backup/Backup.md",
+    "Notes/Games/Games.md",
+    "Notes/Food/Food.md",
     "Snippets/folder_note.txt",
     "Snippets/New Text Document.txt",
-    "Notes/Food/Food.md",
-    "Notes/Backup/Backup.md",
-    "Notes/Notes.md",
-    "Notes/Games/Games.md",
     "Snippets/waypoint/waypoint.txt",
     "Snippets/waypoint",
     "Snippets/New folder",
@@ -246,11 +264,8 @@
     "Notes/Food/Pancakes.md",
     "Notes/Games/Star Rail",
     "Notes/Games/Gatchas/Star",
-    "Notes/Games/Gatchas",
     "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
     "Notes/Images/Screenshot_20250525_003823_Firefox.jpg",
-    "Notes/Images",
-    "EVAU/Matemáticas/GPT Resumen.md",
-    "EVAU/Matemáticas/GPT Ejercicios.md"
+    "EVAU/Matemáticas/GPT Resumen.md"
   ]
 }

@@ -2,7 +2,7 @@
 %% Begin Waypoint %%
 - **[[Backup]]**
 	- [[Useful PC]]
-- **[[Food]]**
+- **[[Cook]]**
 	- [[Pancakes]]
 - **[[Games]]**
 - **Images**
