@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Items/Shop.md",
+                "file": "Notes/Backup/Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shop"
+              "title": "Info"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Items/Shop.md",
+                "file": "Notes/Backup/Info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shop"
+              "title": "Outline of Info"
             }
           }
         ],
@@ -207,8 +207,9 @@
   "active": "cf1e4d0e211def09",
   "lastOpenFiles": [
     "Notes/Items/Gifts.md",
-    "Notes/Items/Rebuy.md",
+    "Notes/Backup/Info.md",
     "Notes/Items/Shop.md",
+    "Notes/Items/Rebuy.md",
     "Notes/Backup/Heart.md",
     "Notes/Food/Recipes/Pancakes.md",
     "Notes/Food/Annotations.md",
@@ -250,7 +251,6 @@
     "Snippets/New Text Document.txt",
     "EVAU/EVAU.md",
     "EVAU/Inglés/INGLÉS.md",
-    "EVAU/Filosofía/FILOSOFÍA.md",
-    "EVAU/Física/FÍSICA.md"
+    "EVAU/Filosofía/FILOSOFÍA.md"
   ]
 }
