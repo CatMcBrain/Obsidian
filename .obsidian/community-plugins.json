@@ -32,5 +32,6 @@
   "vscode-editor",
   "obsidian-latex-environments",
   "obsidian-tikzjax",
-  "typewriter-mode"
+  "typewriter-mode",
+  "waypoint"
 ]
