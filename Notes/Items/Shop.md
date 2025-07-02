@@ -14,11 +14,13 @@
 ![[WhatsApp Image 2025-06-01 at 15.27.10_cb3d47de.jpg]]
 
 - Succubus
-https://yomorio.com/products/sexy-latex-succubus-cosplay-costume-little-devil-anime-lingerie-gothic-demon-halloween-outfits
+	https://yomorio.com/products/sexy-latex-succubus-cosplay-costume-little-devil-anime-lingerie-gothic-demon-halloween-outfits
 
 - Falda
 	http://api-shein.shein.com/h5/sharejump/appjump?link=lhMEOKOJtQA_8_1&localcountry=ES
 
+- Catgirl jacket
+	https://www.amazon.es/PANOZON-Sudadera-Capucha-Disfraz-Graciosa/dp/B08ZCJ4HSL?psc=1
 
 ## Interests
 

@@ -2,7 +2,9 @@
 - [[Annotations]]
 - **Recipes**
 	- [[Arroz con Leche]]
+	- [[Omurice]]
 	- [[Salsa de Ensalada China]]
+	- [[Salsa Sour (Padre Estrella)]]
 	- [[Sopa de Lasaña]]
 	- [[Tomate Tostadas]]
 	- [[Tostadas de Papá]]
