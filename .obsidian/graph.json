@@ -1,34 +1,12 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:0EVAU/Física  ",
-      "color": {
-        "a": 1,
-        "rgb": 15769927
-      }
-    },
-    {
-      "query": "path:0EVAU/Filosofía ",
-      "color": {
-        "a": 1,
-        "rgb": 3653198
-      }
-    },
-    {
-      "query": "path:0EVAU/Lengua  ",
-      "color": {
-        "a": 1,
-        "rgb": 6068991
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -39,6 +17,6 @@
   "repelStrength": 12.9757785467128,
   "linkStrength": 1,
   "linkDistance": 239,
-  "scale": 0.5225609999453611,
-  "close": false
+  "scale": 0.3330274558377042,
+  "close": true
 }

@@ -1,10 +1,10 @@
 
 %% Begin Waypoint %%
-- **Backup**
+- **[[Backup]]**
 	- [[Useful PC]]
-- **Food**
+- **[[Food]]**
 	- [[Pancakes]]
-- **Games**
+- **[[Games]]**
 	- **Elite Dangerous**
 		- **Guardian Materials**
 

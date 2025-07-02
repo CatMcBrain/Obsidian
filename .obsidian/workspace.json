@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "caf47b9428e6698a",
+            "id": "2d9a7c58db0fcec7",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Notes/Games/Elite Dangerous/Guardian Materials/3hi67aish1j11.webp"
+                "file": "Attachments/3hi67aish1j11.webp"
               },
               "icon": "lucide-image",
               "title": "3hi67aish1j11"
             }
-          },
-          {
-            "id": "2d9a7c58db0fcec7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +202,14 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "2d9a7c58db0fcec7",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Notes/Games/Elite Dangerous/Guardian Materials/Synuefe+NL-N+C23-4_Map.png",
+    "Attachments/3hi67aish1j11.webp",
+    "Notes/Notes.md",
+    "Notes/Backup/Backup.md",
+    "Notes/Food/Food.md",
+    "Notes/Games/Games.md",
     "EVAU/EVAU.md",
     "EVAU/Inglés/INGLÉS.md",
     "EVAU/Filosofía/FILOSOFÍA.md",
@@ -236,10 +231,7 @@
     "Notes/Images/Screenshot_20250525_003529_Firefox.jpg",
     "Notes/Images/Screenshot_20250329_212656_Firefox.jpg",
     "Notes/Images/20250305_234033.jpg",
-    "Notes/Games/Elite Dangerous/Guardian Materials/Synuefe+NL-N+C23-4_Map.png",
-    "Notes/Games/Elite Dangerous/Guardian Materials/3hi67aish1j11.webp",
     "Notes/Games/Elite Dangerous/Guardian Materials.md",
-    "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup",
     "Notes/Games/Elite Dangerous/Elite Dangerous.md",
@@ -254,10 +246,6 @@
     "Notes/Food",
     "EVAU/Matemáticas/GPT Resumen.md",
     "EVAU/Matemáticas/GPT Ejercicios.md",
-    "0EVAU/Matemáticas/Untitled.md",
-    "0EVAU/Matemáticas/Untitled 1.md",
-    "EVAU/Matemáticas/Notas Álgebra.md",
-    "EVAU/Filosofía/(FULL).md",
     "Snippets/line.txt",
     "Snippets/New Text Document.txt",
     "fonts/Stray-Regular.otf"
