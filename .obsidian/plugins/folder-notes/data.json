@@ -3,7 +3,7 @@
   "ctrlKey": false,
   "altKey": true,
   "hideFolderNote": true,
-  "templatePath": "Snippets/folder_note.txt",
+  "templatePath": "Snippets/line.txt",
   "autoCreate": false,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
