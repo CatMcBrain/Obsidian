@@ -7,6 +7,8 @@
 
 ### - Pijama gatito
 ![[WhatsApp Image 2025-06-01 at 15.27.10_c08ded7c.jpg]]
+
+- Ki
 ## Interests
 
 - Gatito Miniso
