@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Notes/Games/Star Rail/Builds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Builds"
             }
           }
         ]
@@ -206,11 +206,13 @@
   },
   "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
-    "Notes/Test/Test.md",
+    "Notes/Games/Games.md",
     "Notes/Notes.md",
+    "Universidad/Universidad.md",
+    "Universidad",
+    "Notes/Test/Test.md",
     "Notes/Test/Untitled.md",
     "Notes/Test",
-    "Notes/Games/Games.md",
     "Notes/Cook/Cook.md",
     "Notes/Backup/Backup.md",
     "Notes/Cook/Pancakes.md",
@@ -248,8 +250,6 @@
     "Notes/Games/Elite Dangerous/Guardian Materials.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup",
-    "Notes/Games/Elite Dangerous/Elite Dangerous.md",
-    "Notes/Games/Star Rail",
     "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
     "Notes/Images/Screenshot_20250525_003823_Firefox.jpg"
   ]
