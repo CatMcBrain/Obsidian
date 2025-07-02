@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Gifts",
+      "path": "Notes/Shopping/Gifts.md"
+    },
+    {
+      "basename": "Rebuy",
+      "path": "Notes/Shopping/Rebuy.md"
+    },
+    {
+      "basename": "Shopping",
+      "path": "Notes/Shopping/Shopping.md"
+    },
+    {
       "basename": "Notes",
       "path": "Notes/Notes.md"
     },
@@ -17,10 +29,6 @@
       "path": "Notes/Ocio/Ocio.md"
     },
     {
-      "basename": "Shopping",
-      "path": "Notes/Shopping/Shopping.md"
-    },
-    {
       "basename": "Games",
       "path": "Notes/Games/Games.md"
     },
@@ -33,16 +41,8 @@
       "path": "Notes/Backup/Info.md"
     },
     {
-      "basename": "Gifts",
-      "path": "Notes/Shopping/Gifts.md"
-    },
-    {
       "basename": "Shop",
       "path": "Notes/Shopping/Shop.md"
-    },
-    {
-      "basename": "Rebuy",
-      "path": "Notes/Shopping/Rebuy.md"
     },
     {
       "basename": "Heart",

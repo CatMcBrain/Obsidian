@@ -3,6 +3,8 @@
 - **[[Backup]]**
 - **[[Food]]**
 - **[[Games]]**
+- **Images**
+
 - **[[Ocio]]**
 - **[[Shopping]]**
 
