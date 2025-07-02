@@ -1,4 +1,6 @@
-.image-embed.image-embed img:not([width]) {
-    max-height: 250px;
-    max-width: 100px;
+img {
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  aspect-ratio: auto;
 }
