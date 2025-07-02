@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Food/Annotations.md",
+                "file": "Notes/Food/Recipes/Sopa de Lasaña.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotations"
+              "title": "Sopa de Lasaña"
             }
           }
         ]
@@ -204,16 +204,19 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "ecb030c7f57f2675",
   "lastOpenFiles": [
-    "Notes/Food/Recipes/Untitled",
+    "Attachments/WhatsApp Video 2025-06-17 at 14.39.19_682b1094.mp4",
+    "Notes/Items/Shop.md",
+    "Notes/Food/Recipes/Sopa de Lasaña.md",
+    "Notes/Food/Recipes/Salsa de Ensalada China.md",
+    "Notes/Food/Annotations.md",
+    "Notes/Food/Recipes/To Try",
     "Attachments/WhatsApp Image 2025-06-19 at 15.26.28_3290dab3.jpg",
     "Notes/Items/Rebuy.md",
     "Attachments/WhatsApp Image 2025-06-20 at 14.59.07_71d61e22.jpg",
-    "Notes/Items/Shop.md",
     "Attachments/WhatsApp Image 2025-06-20 at 22.40.13_1ee54369.jpg",
     "Attachments/WhatsApp Image 2025-06-20 at 22.40.13_781524de.jpg",
-    "Notes/Food/Annotations.md",
     "Notes/Food/Recipes/Arroz con Leche.md",
     "Notes/Food/Recipes",
     "Notes/Food/Food.md",
@@ -240,7 +243,6 @@
     "Notes/Food",
     "Snippets/folder_note.txt",
     "Snippets/waypoint/waypoint.txt",
-    "Snippets/waypoint",
     "EVAU/EVAU.md",
     "EVAU/Inglés/INGLÉS.md",
     "EVAU/Filosofía/FILOSOFÍA.md",
@@ -249,8 +251,6 @@
     "EVAU/Física/Fórmulas Generales.md",
     "EVAU/Física/Campo Eléctrico.md",
     "EVAU/Física/Campo Magnético.md",
-    "EVAU/Lengua/Morfología.md",
-    "EVAU/Lengua/LENGUA.md",
-    "EVAU/Matemáticas/MATEMÁTICAS.md"
+    "EVAU/Lengua/Morfología.md"
   ]
 }

@@ -2,6 +2,7 @@
 - [[Annotations]]
 - **Recipes**
 	- [[Arroz con Leche]]
-	- **Untitled**
+	- [[Salsa de Ensalada China]]
+	- [[Sopa de Lasaña]]
 
 %% End Waypoint %%
