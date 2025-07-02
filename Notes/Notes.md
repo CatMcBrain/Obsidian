@@ -3,9 +3,9 @@
 - **[[Backup]]**
 - **[[Food]]**
 - **[[Games]]**
-- **Images**
-
-- **Items**
+- **Ocio**
+	- [[Viajes]]
+- **Shopping**
 	- [[Gifts]]
 	- [[Rebuy]]
 	- [[Shop]]
