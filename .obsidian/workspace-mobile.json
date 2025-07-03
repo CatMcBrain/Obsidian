@@ -25,14 +25,10 @@
             "id": "ac1c4ca0c64eb1d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Useful PC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Useful PC"
+              "title": "New tab"
             }
           }
         ],
@@ -188,8 +184,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ac1c4ca0c64eb1d2",
+  "active": "9e68535fe3cf645e",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250703161230.png",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
     "Notes/Images/Screenshot_20250616_122112_Reddit.jpg",
     "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
@@ -200,7 +197,6 @@
     "Notes/Images/Screenshot_20250515_095342_Firefox.jpg",
     "Notes/Images/Screenshot_20250329_213213_M365 Copilot.jpg",
     "Notes/Images/Screenshot_20250329_212656_Firefox.jpg",
-    "Notes/Images/Screenshot_20250329_212514_M365 Copilot.jpg",
     "Notes/Food/Pancakes.md",
     "Notes/Images",
     "Notes/Games/Elite Dangerous/Elite Dangerous.md",
