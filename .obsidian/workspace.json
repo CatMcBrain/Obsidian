@@ -11,10 +11,14 @@
             "id": "c87df34617207edd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Backup/Useful PC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Useful PC"
             }
           }
         ]
@@ -201,6 +205,7 @@
   },
   "active": "c87df34617207edd",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250703161230.png",
     "Notes/Shopping/Gifts.md",
     "Attachments/RDT_20250106_1439111157304957349037817.jpg",
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",

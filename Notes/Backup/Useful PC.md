@@ -66,3 +66,7 @@ To undo this change, in a Terminal Window, execute this command:
 _reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f_
 
 **Restart** the File Explorer or Computer for the changes to take effect.
+
+## Revert to a Github commit
+
+![[Pasted image 20250703161230.png]]
