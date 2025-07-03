@@ -25,10 +25,14 @@
             "id": "ac1c4ca0c64eb1d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Universidad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Universidad"
             }
           }
         ],
@@ -184,7 +188,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "9e68535fe3cf645e",
+  "active": "ac1c4ca0c64eb1d2",
   "lastOpenFiles": [
     "Attachments/Pasted image 20250703161230.png",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
