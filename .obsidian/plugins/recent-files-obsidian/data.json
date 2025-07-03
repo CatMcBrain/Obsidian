@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Backup",
+      "path": "Notes/Backup/Backup.md"
+    },
+    {
       "basename": "Universidad",
       "path": "Universidad/Universidad.md"
     },
@@ -45,16 +53,8 @@
       "path": "Notes/Shopping/Shopping.md"
     },
     {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
       "basename": "Food",
       "path": "Notes/Food/Food.md"
-    },
-    {
-      "basename": "Backup",
-      "path": "Notes/Backup/Backup.md"
     },
     {
       "basename": "Ocio",
