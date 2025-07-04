@@ -163,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "To Buy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of To Buy"
             }
           }
         ],
