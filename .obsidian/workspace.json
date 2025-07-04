@@ -202,13 +202,15 @@
       "cmdr:Files: Show file explorer": false,
       "cmdr:Outline: Show outline": false,
       "cmdr:Git: Commit-and-sync": false,
-      "tickticksync:TickTickSync": false
+      "tickticksync:TickTickSync": false,
+      "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "eb9a5b264b597536",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
     "Notes/Notes.md",
     "Universidad/Universidad.md",
+    "Home.md",
     "To Buy.md",
     "Cover.md",
     "Fechas.md",
@@ -248,7 +250,6 @@
     "Notes/Food/Annotations.md",
     "Notes/Food/Recipes/Omurice.md",
     "Attachments/WhatsApp Video 2025-03-14 at 22.06.44_cc5f93c7.mp4",
-    "Notes/Food/Recipes/Salsa Sour (Padre Estrella).md",
     "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_7af3ef9f.waptt.opus",
     "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_434ade76.waptt",
     "Attachments/WhatsApp Video 2025-06-17 at 14.39.19_682b1094.mp4",
