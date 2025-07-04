@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "440005118553fb5b",
+        "id": "169cfeb022b44ade",
         "type": "tabs",
         "children": [
           {
-            "id": "c87df34617207edd",
+            "id": "eb9a5b264b597536",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Universidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Universidad"
+            }
+          },
+          {
+            "id": "964221fe9c76ec83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-04 16.32.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +216,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "c87df34617207edd",
+  "active": "964221fe9c76ec83",
   "lastOpenFiles": [
+    "Universidad/Universidad.md",
+    "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
+    "Universidad/Untitled",
     "Notes/Shopping/Gifts.md",
     "Notes/Games/Games.md",
     "Notes/Notes.md",
@@ -242,9 +262,7 @@
     "Notes/Food/Recipes/Salsa de Ensalada China.md",
     "Notes/Food/Recipes/To Try",
     "Notes/Food/Recipes/Arroz con Leche.md",
-    "Notes/Food/Recipes",
     "Notes/Cook/Pancakes.md",
-    "Notes/Games/Star Rail/Builds.md",
-    "Universidad/Universidad.md"
+    "Notes/Games/Star Rail/Builds.md"
   ]
 }
