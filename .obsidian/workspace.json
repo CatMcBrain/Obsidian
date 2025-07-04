@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9b7bb2c6c929532",
+            "id": "fa51f585b75d4ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,11 +206,14 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "fa51f585b75d4ed4",
   "lastOpenFiles": [
-    "Universidad/Subjec",
-    "Home",
+    "Universidad/Subject 1/Subject 1.md",
+    "Universidad/Subject 2/Subject 2.md",
     "Home/Home.md",
+    "Universidad/Subject 2",
+    "Universidad/Subject 1",
+    "Home",
     "Universidad/Universidad.md",
     "Notes/Notes.md",
     "To Buy.md",
@@ -248,11 +251,8 @@
     "Notes/Shopping/Shop.md",
     "Notes/Backup/Heart.md",
     "Notes/Food/Recipes/Pancakes.md",
-    "Notes/Food/Annotations.md",
     "Attachments/WhatsApp Video 2025-03-14 at 22.06.44_cc5f93c7.mp4",
     "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_7af3ef9f.waptt.opus",
-    "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_434ade76.waptt",
-    "Attachments/WhatsApp Video 2025-06-17 at 14.39.19_682b1094.mp4",
-    "Notes/Food/Recipes/To Try"
+    "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_434ade76.waptt"
   ]
 }

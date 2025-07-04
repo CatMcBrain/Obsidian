@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
-- **Subjec**
+- **[[Subject 1]]**
+- **[[Subject 2]]**
 
 %% End Waypoint %%

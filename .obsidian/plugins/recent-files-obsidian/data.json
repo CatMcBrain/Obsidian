@@ -5,6 +5,10 @@
       "path": "Home/Home.md"
     },
     {
+      "basename": "Subject 1",
+      "path": "Universidad/Subject 1/Subject 1.md"
+    },
+    {
       "basename": "Universidad",
       "path": "Universidad/Universidad.md"
     },
