@@ -34,7 +34,9 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Toggle Theme"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
