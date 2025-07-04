@@ -10,5 +10,12 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": [
+    "/[aA][tT][tT][aA][cC][hH][mM][eE][nN][tT][sS]/",
+    "/[iI][nN][kK]/",
+    "/[eE][xX][cC][aA][lL][iI][dD][rR][aA][wW]/",
+    "/[sS][nN][iI][pP][pP][eE][tT][sS]/",
+    "/[hH][oO][mM][eE]/"
+  ]
 }

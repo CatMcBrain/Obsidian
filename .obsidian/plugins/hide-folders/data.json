@@ -1,8 +1,8 @@
 {
-  "areFoldersHidden": false,
+  "areFoldersHidden": true,
   "matchCaseInsensitive": true,
-  "addHiddenFoldersToObsidianIgnoreList": false,
-  "hideBottomStatusBarIndicatorText": false,
+  "addHiddenFoldersToObsidianIgnoreList": true,
+  "hideBottomStatusBarIndicatorText": true,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
     "Attachments",
