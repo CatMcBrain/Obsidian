@@ -202,8 +202,8 @@
       "cmdr:Files: Show file explorer": false,
       "cmdr:Outline: Show outline": false,
       "cmdr:Git: Commit-and-sync": false,
-      "tickticksync:TickTickSync": false,
-      "obsidian-day-and-night:Toggle Theme": false
+      "obsidian-day-and-night:Toggle Theme": false,
+      "tickticksync:TickTickSync": false
     }
   },
   "active": "e61f2addba3450c7",
