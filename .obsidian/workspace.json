@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Universidad.md",
+                "file": "To Buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universidad"
+              "title": "To Buy"
             }
           }
         ]
@@ -200,53 +200,21 @@
       "command-palette:Open command palette": false,
       "cmdr:Files: Show file explorer": false,
       "cmdr:Outline: Show outline": false,
-      "cmdr:Git: Commit-and-sync": false
+      "cmdr:Git: Commit-and-sync": false,
+      "tickticksync:TickTickSync": false
     }
   },
-  "floating": {
-    "id": "3d6d41383bd22060",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e01ec8994f33ad9",
-        "type": "window",
-        "children": [
-          {
-            "id": "f86ca689c5ca10f4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f915a4ec9c86d55",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/obsidian-tasks-group/obsidian-tasks",
-                    "title": "data:text/plain,",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "data:text/plain,"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 128,
-        "y": 0,
-        "width": 1024,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8f915a4ec9c86d55",
+  "active": "eb9a5b264b597536",
   "lastOpenFiles": [
+    "Cover.md",
+    "Fechas.md",
+    "To Do.md",
+    "Universidad/Universidad.md",
+    "To Try.md",
+    "ACTIVE.md",
+    "To Buy.md",
     "2025-07-04 16.35.51.excalidraw.md",
     "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
-    "Universidad/Universidad.md",
     "Universidad/Untitled",
     "Notes/Shopping/Gifts.md",
     "Notes/Games/Games.md",
@@ -282,13 +250,7 @@
     "Notes/Food/Recipes/Salsa Sour (Padre Estrella).md",
     "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_7af3ef9f.waptt.opus",
     "Attachments/WhatsApp Audio 2025-04-13 at 23.07.31_434ade76.waptt",
-    "Notes/Food/Recipes/Tostadas de Papá.md",
-    "Notes/Food/Recipes/Tomate Tostadas.md",
-    "Notes/Food/Recipes/Sopa de Lasaña.md",
     "Attachments/WhatsApp Video 2025-06-17 at 14.39.19_682b1094.mp4",
-    "Notes/Food/Recipes/Salsa de Ensalada China.md",
-    "Notes/Food/Recipes/To Try",
-    "Notes/Food/Recipes/Arroz con Leche.md",
-    "Notes/Cook/Pancakes.md"
+    "Notes/Food/Recipes/To Try"
   ]
 }

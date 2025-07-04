@@ -1,0 +1,1680 @@
+{
+  "baseURL": "ticktick.com",
+  "automaticSynchronizationInterval": 300,
+  "enableFullVaultSync": false,
+  "tagAndOr": 1,
+  "debugMode": false,
+  "logLevel": "info",
+  "SyncProject": "",
+  "SyncTag": "",
+  "defaultProjectId": "",
+  "defaultProjectName": "Inbox",
+  "TickTickTasksFilePath": "/",
+  "keepProjectFolders": false,
+  "syncNotes": true,
+  "fileLinksInTickTick": "taskLink",
+  "taskLinksInObsidian": "taskLink",
+  "inboxID": "inbox117002604",
+  "inboxName": "Inbox",
+  "checkPoint": 1751643594864,
+  "fileMetadata": {
+    "To Buy.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "b0de4da3a858355ebe1b2018",
+          "taskItems": []
+        },
+        {
+          "taskId": "6820728d6b64d1d12b34e2fe",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862bf155cb6956616c8052c",
+          "taskItems": []
+        },
+        {
+          "taskId": "6829ab7c6b642782199be64e",
+          "taskItems": []
+        },
+        {
+          "taskId": "01284c6591c77bfd2d89c88c",
+          "taskItems": []
+        },
+        {
+          "taskId": "7a864a0ca91e1e4b31932c70",
+          "taskItems": []
+        },
+        {
+          "taskId": "685052c16b646f0f78607799",
+          "taskItems": []
+        },
+        {
+          "taskId": "684db6de5cb6d9d0d620f0f6",
+          "taskItems": []
+        },
+        {
+          "taskId": "6828f5226b64db66d7e58ef2",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 9,
+      "defaultProjectId": "6036338da6b0bfaf662b650d"
+    },
+    "ACTIVE.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "686705886b6469d4c5b5779c",
+          "taskItems": []
+        },
+        {
+          "taskId": "6867057f6b6469d4c5b5778d",
+          "taskItems": []
+        },
+        {
+          "taskId": "68630d136b646005ac1d2285",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 3,
+      "defaultProjectId": "64d4cfa6a6b0e8fdd949ab1f"
+    },
+    "To Try.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "d73c42e7bf8be751d05a097c",
+          "taskItems": []
+        },
+        {
+          "taskId": "f25b4cf5b4f3851f5d88389f",
+          "taskItems": []
+        },
+        {
+          "taskId": "777d44a98263430dad5fc4a3",
+          "taskItems": []
+        },
+        {
+          "taskId": "5cc14a9faf555a4420597c12",
+          "taskItems": []
+        },
+        {
+          "taskId": "46964646837b6cf59b105563",
+          "taskItems": []
+        },
+        {
+          "taskId": "0bed42e2998f8c0abaea2346",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 6,
+      "defaultProjectId": "64d6b497913038db066a81e3"
+    },
+    "To Do.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "67e594cc0b50485bf8115cd9",
+          "taskItems": []
+        },
+        {
+          "taskId": "686148976b6469d41982364b",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 2,
+      "defaultProjectId": "68440fc75cb640e3db18b522"
+    },
+    "Fechas.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "6862bfd05cb6956616c80610",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862bf805cb6956616c805cd",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862c02e5cb6956616c80671",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862bfef5cb6956616c8063f",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862c0485cb6956616c8068b",
+          "taskItems": []
+        },
+        {
+          "taskId": "6862bf4d5cb6956616c805ac",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 6,
+      "defaultProjectId": "7abd46b2a632da0b66baaa5d"
+    },
+    "Cover.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "19654ae89d1c4c460e64d523",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 1,
+      "defaultProjectId": "e056438bbe0b3e2d67a8971b"
+    }
+  },
+  "TickTickTasksData": {
+    "projects": [
+      {
+        "id": "6036338da6b0bfaf662b650d",
+        "name": "To Buy",
+        "isOwner": true,
+        "color": "#74baf2",
+        "sortOrder": 147456,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "cg4q2rsr",
+        "modifiedTime": "2025-07-02T21:28:36.485+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "c25b469898ae69dcc63a1376",
+        "viewMode": "list",
+        "notificationOptions": [
+          ""
+        ],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "64d4cfa6a6b0e8fdd949ab1f",
+        "name": "ACTIVE",
+        "isOwner": true,
+        "color": "#f18081",
+        "sortOrder": -603979776,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "jic0by5x",
+        "modifiedTime": "2025-01-24T10:41:39.436+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "538b48529e36d34162ce9103",
+        "viewMode": "list",
+        "notificationOptions": [
+          ""
+        ],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "64d6b497913038db066a81e3",
+        "name": "To Try",
+        "isOwner": true,
+        "color": "#F6C881",
+        "sortOrder": 139264,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "37uu02rp",
+        "modifiedTime": "2025-07-02T21:31:15.887+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "c25b469898ae69dcc63a1376",
+        "viewMode": null,
+        "notificationOptions": [
+          ""
+        ],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "ed0247d4b9879cf64762e192",
+        "name": "Draw",
+        "isOwner": true,
+        "color": "#bf89f2",
+        "sortOrder": 196608,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "jrsez3pc",
+        "modifiedTime": "2024-07-27T08:16:10.516+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": true,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "c25b469898ae69dcc63a1376",
+        "viewMode": null,
+        "notificationOptions": [],
+        "teamId": null,
+        "permission": null,
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "dd9d4b1b8dfa512c7e9d06a7",
+        "name": "Exámenes",
+        "isOwner": true,
+        "color": "#ed6fa5",
+        "sortOrder": -570425344,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "2p3spuhn",
+        "modifiedTime": "2025-07-02T21:32:00.205+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": true,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "538b48529e36d34162ce9103",
+        "viewMode": "list",
+        "notificationOptions": [
+          ""
+        ],
+        "teamId": null,
+        "permission": null,
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "7abd46b2a632da0b66baaa5d",
+        "name": "Fechas",
+        "isOwner": true,
+        "color": "#3775e4",
+        "sortOrder": 159490048,
+        "sortOption": null,
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "gfkgl8jt",
+        "modifiedTime": "2025-07-02T21:32:15.695+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": true,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": "538b48529e36d34162ce9103",
+        "viewMode": null,
+        "notificationOptions": null,
+        "teamId": null,
+        "permission": null,
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": null
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "68440fc75cb640e3db18b522",
+        "name": "To Do",
+        "isOwner": true,
+        "color": "#6cbe5e",
+        "sortOrder": -390017024,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder"
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "sescc2pc",
+        "modifiedTime": "2025-07-02T21:32:29.919+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": null,
+        "viewMode": "list",
+        "notificationOptions": [
+          ""
+        ],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder"
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": false,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "e056438bbe0b3e2d67a8971b",
+        "name": "Cover",
+        "isOwner": true,
+        "color": "#e69037",
+        "sortOrder": 133120,
+        "sortOption": null,
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "qpdboy0p",
+        "modifiedTime": "2025-07-02T21:32:00.219+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": true,
+        "reminderType": null,
+        "closed": null,
+        "transferred": null,
+        "groupId": null,
+        "viewMode": null,
+        "notificationOptions": null,
+        "teamId": null,
+        "permission": null,
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": null
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": null,
+        "teamMemberPermission": null,
+        "source": 1
+      },
+      {
+        "id": "inbox117002604",
+        "name": "Inbox"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "b0de4da3a858355ebe1b2018",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": -3574621011970,
+        "title": "Bolso Kafka",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:39:35.000+0000",
+        "etag": "k01o004f",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:39:35.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6820728d6b64d1d12b34e2fe",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": -134217728,
+        "title": "third party joycons no drift",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "6820728d6b64d1d12b34e2fe",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:07.000+0000",
+        "etag": "ry57j2uc",
+        "deleted": 0,
+        "createdTime": "2025-05-11T09:49:01.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862bf155cb6956616c8052c",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": -67108864,
+        "title": "Paraguas Kafka",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "6862bf155cb6956616c8052c",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:08.000+0000",
+        "etag": "evxmivdd",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:45:09.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6829ab7c6b642782199be64e",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": -33554432,
+        "title": "Cat ear accesory headphones",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "6829ab7c6b642782199be64e",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:11.000+0000",
+        "etag": "ve6l1fks",
+        "deleted": 0,
+        "createdTime": "2025-05-18T09:42:20.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "01284c6591c77bfd2d89c88c",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": 1073741824,
+        "title": "8bitdo controller",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "01284c6591c77bfd2d89c88c",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:00.000+0000",
+        "etag": "h7b06cjd",
+        "deleted": 0,
+        "createdTime": "2025-05-25T17:22:24.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "7a864a0ca91e1e4b31932c70",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": 1118481066,
+        "title": "Micro Whip",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:13.000+0000",
+        "etag": "ipg5o569",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:17:29.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "685052c16b646f0f78607799",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": 1163220309,
+        "title": "Cadena pantalón para estrella",
+        "content": "(+ yo, más fina y larga)",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "685052c16b646f0f78607799",
+        "priority": 3,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:00.000+0000",
+        "etag": "qcb5bnu4",
+        "deleted": 0,
+        "createdTime": "2025-06-16T17:22:09.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "684db6de5cb6d9d0d620f0f6",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": 1252698794,
+        "title": "fitted shirt high neck without sleeves like final fantasy protag para Estrella",
+        "content": "Para Estrella",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "684db6de5cb6d9d0d620f0f6",
+        "priority": 3,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:00.000+0000",
+        "etag": "jri3e4qh",
+        "deleted": 0,
+        "createdTime": "2025-06-14T17:52:30.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6828f5226b64db66d7e58ef2",
+        "projectId": "6036338da6b0bfaf662b650d",
+        "sortOrder": 1342177280,
+        "title": "Eurovision 2025 armenia pantalones Estrella",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "6828f5226b64db66d7e58ef2",
+        "priority": 3,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:33:00.000+0000",
+        "etag": "usauf1yp",
+        "deleted": 0,
+        "createdTime": "2025-05-17T20:44:18.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "686705886b6469d4c5b5779c",
+        "projectId": "64d4cfa6a6b0e8fdd949ab1f",
+        "sortOrder": -30123100667904,
+        "title": "tight flare jeans for her",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "686705886b6469d4c5b5779c",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-03T22:34:48.000+0000",
+        "etag": "uls393q8",
+        "deleted": 0,
+        "createdTime": "2025-07-03T22:34:48.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "dbeb4fd79ae6d2d57eee2159",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6867057f6b6469d4c5b5778d",
+        "projectId": "64d4cfa6a6b0e8fdd949ab1f",
+        "sortOrder": -30123100602368,
+        "title": "obsidian homepage graphical",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "6867057f6b6469d4c5b5778d",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-03T22:34:39.000+0000",
+        "etag": "dr1ujue3",
+        "deleted": 0,
+        "createdTime": "2025-07-03T22:34:39.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "dbeb4fd79ae6d2d57eee2159",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "68630d136b646005ac1d2285",
+        "projectId": "64d4cfa6a6b0e8fdd949ab1f",
+        "sortOrder": -30123100536832,
+        "title": "Check pc build",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "68630d136b646005ac1d2285",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-03T13:56:33.000+0000",
+        "etag": "mzpdtmo6",
+        "deleted": 0,
+        "createdTime": "2025-06-30T22:17:55.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "dbeb4fd79ae6d2d57eee2159",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "d73c42e7bf8be751d05a097c",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1101390741504,
+        "title": "Homemade Oreo",
+        "content": " OREO RECIPE: (makes 34 sandwich cookies) Cookies:\r\n\r\n-2 cups flour\r\n\r\n-1/2 cup cornstarch\r\n\r\n-1 1/3 cups sugar\r\n\r\n-2/3 cup black cocoa or cocoa\r\n\r\n-1/2 tsp salt\r\n\r\n-3/4 cup + 2 tbsp salted butter, melted\r\n\r\n-1/4 cup + 2 tbsp heavy cream\r\n\r\nFilling Recipe:\r\n\r\n-1/2 cup salted butter\r\n\r\n-Heavy cream, as needed\r\n\r\n-4 cups powdered sugar\r\n\r\n-1 tsp vanilla extract\r\n\r\n-1/2 tsp salt\r\n\r\nCookie Directions:\r\n\r\n1.) Mix together the dry ingredients, then mix in the wet ingredients. The dough will look loose, you just have to compact it together.\r\n\r\n2.) Roll out and cut into 1 1/2 to 2 inch rounds, place on a parchment lined baking sheet and bake at 350° for 12 minutes. (Roll them fairly thin, 1/8 of an inch if possible). Allow to cool completely.\r\n\r\nFilling Directions:\r\n\r\n1.) Cream together the butter, vanilla and salt until fluffy. Then mix in the powdered sugar and add heavy cream as needed. It should be thick but not so thick that you can’t pipe it.\r\n\r\n2.) Pipe into the middle of the cookies (however much you want) and bone apple teet! Hope y’all enjoy! ",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:16:19.000+0000",
+        "etag": "1pd51bku",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:16:17.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "f25b4cf5b4f3851f5d88389f",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1101122306048,
+        "title": "Salsa que soñé?",
+        "content": "tomate. 2 pimientos rojos y 2 amarillos, cayena y ajo (polvo?)",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:15:37.000+0000",
+        "etag": "h3j5p3jy",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:15:35.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "777d44a98263430dad5fc4a3",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1100853870592,
+        "title": "Paper Seal",
+        "content": "https://pin.it/5Dlw1HrXJ",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:11:08.000+0000",
+        "etag": "i6dmc1bv",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:11:06.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "5cc14a9faf555a4420597c12",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1100585435136,
+        "title": "Pollo Agridulce",
+        "content": "https://m.youtube.com/watch?v=bCSRaJQ2P7c",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T20:47:16.000+0000",
+        "etag": "cffmpiiq",
+        "deleted": 0,
+        "createdTime": "2025-07-02T20:47:10.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "46964646837b6cf59b105563",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1100316999680,
+        "title": "Mostaza Miel",
+        "content": "https://www.cocinatis.com/receta/salsa-de-mostaza-y-miel.html",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T20:46:56.000+0000",
+        "etag": "y30zcs6u",
+        "deleted": 0,
+        "createdTime": "2025-07-02T20:46:51.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "0bed42e2998f8c0abaea2346",
+        "projectId": "64d6b497913038db066a81e3",
+        "sortOrder": -1100048564224,
+        "title": "Hacer Macarons",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T20:17:53.000+0000",
+        "etag": "mtrglvez",
+        "deleted": 0,
+        "createdTime": "2025-07-02T20:17:53.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "67e594cc0b50485bf8115cd9",
+        "projectId": "68440fc75cb640e3db18b522",
+        "sortOrder": -1342963712,
+        "title": "Draw star (like MH)",
+        "content": "shadow in eyes? (i dont know how to drsw)",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "67e594cc0b50485bf8115cd9",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:30:55.231+0000",
+        "etag": "w7c92i09",
+        "deleted": 0,
+        "createdTime": "2025-03-27T18:11:24.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "dbeb4fd79ae6d2d57eee2159",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "686148976b6469d41982364b",
+        "projectId": "68440fc75cb640e3db18b522",
+        "sortOrder": -537591808,
+        "title": "Hacer títere espinosaurio",
+        "content": "",
+        "desc": "",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "repeatFirstDate": "2026-02-28T23:00:00.000+0000",
+        "exDate": [],
+        "repeatTaskId": "686148976b6469d41982364b",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-29T14:07:19.000+0000",
+        "etag": "fj415i99",
+        "deleted": 0,
+        "createdTime": "2025-06-29T14:07:19.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862bfd05cb6956616c80610",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -589826,
+        "title": "Cumple Elena",
+        "content": "",
+        "desc": "",
+        "startDate": "2025-12-07T23:00:00.000+0000",
+        "dueDate": "2025-12-07T23:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "repeatFirstDate": "2025-12-07T23:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=12;BYMONTHDAY=8",
+        "exDate": [],
+        "repeatTaskId": "6862bfd05cb6956616c80610",
+        "priority": 1,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:51:33.000+0000",
+        "etag": "95w6tpb7",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:48:16.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2025-12-08",
+            "time": "00:00",
+            "isoDate": "2025-12-07T23:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862bf805cb6956616c805cd",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -573442,
+        "title": "Aniversario",
+        "content": "",
+        "desc": "",
+        "startDate": "2025-12-22T23:00:00.000+0000",
+        "dueDate": "2025-12-22T23:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "repeatFirstDate": "2025-12-22T23:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=12;BYMONTHDAY=23",
+        "exDate": [],
+        "repeatTaskId": "6862bf805cb6956616c805cd",
+        "priority": 5,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:51:19.179+0000",
+        "etag": "3x7577ja",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:46:56.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2025-12-23",
+            "time": "00:00",
+            "isoDate": "2025-12-22T23:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862c02e5cb6956616c80671",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -557058,
+        "title": "Cumple Sara",
+        "content": "",
+        "desc": "",
+        "startDate": "2025-12-26T23:00:00.000+0000",
+        "dueDate": "2025-12-26T23:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "repeatFirstDate": "2025-12-26T23:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=12;BYMONTHDAY=27",
+        "exDate": [],
+        "repeatTaskId": "6862c02e5cb6956616c80671",
+        "priority": 1,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:51:33.000+0000",
+        "etag": "qjnvylw2",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:49:50.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2025-12-27",
+            "time": "00:00",
+            "isoDate": "2025-12-26T23:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862bfef5cb6956616c8063f",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -524290,
+        "title": "Cumple Estrella",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-03-05T23:00:00.000+0000",
+        "dueDate": "2026-03-05T23:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "repeatFirstDate": "2026-03-05T23:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=3;BYMONTHDAY=6",
+        "exDate": [],
+        "repeatTaskId": "6862bfef5cb6956616c8063f",
+        "priority": 1,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:51:33.000+0000",
+        "etag": "jsi45k6c",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:48:47.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-03-06",
+            "time": "00:00",
+            "isoDate": "2026-03-05T23:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862c0485cb6956616c8068b",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -458754,
+        "title": "Cumple Alba",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-04-20T22:00:00.000+0000",
+        "dueDate": "2026-04-20T22:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "repeatFirstDate": "2026-04-20T22:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=4;BYMONTHDAY=21",
+        "exDate": [],
+        "repeatTaskId": "6862c0485cb6956616c8068b",
+        "priority": 1,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:51:33.000+0000",
+        "etag": "n8jqbyv4",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:50:16.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-04-21",
+            "time": "00:00",
+            "isoDate": "2026-04-20T22:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "6862bf4d5cb6956616c805ac",
+        "projectId": "7abd46b2a632da0b66baaa5d",
+        "sortOrder": -131074,
+        "title": "Medio Aniversario",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-06-23T17:00:00.000+0000",
+        "dueDate": "2026-06-23T17:00:00.000+0000",
+        "timeZone": "Europe/Madrid",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "TRIGGER:PT0S",
+        "reminders": [
+          {
+            "id": "6862c0295cb6956616c80661",
+            "trigger": "TRIGGER:PT0S"
+          }
+        ],
+        "repeatFirstDate": "2026-06-23T17:00:00.000+0000",
+        "repeatFlag": "RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=6;BYMONTHDAY=23",
+        "exDate": [],
+        "completedUserId": 117002604,
+        "repeatTaskId": "6862bf4d5cb6956616c805ac",
+        "priority": 5,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-06-30T16:49:45.000+0000",
+        "etag": "z3ngxx3j",
+        "deleted": 0,
+        "createdTime": "2025-06-30T16:46:05.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "0",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": true,
+            "date": "2026-06-23",
+            "time": "19:00",
+            "isoDate": "2026-06-23T17:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "19654ae89d1c4c460e64d523",
+        "projectId": "e056438bbe0b3e2d67a8971b",
+        "sortOrder": 0,
+        "title": "Covers HTTYD",
+        "content": "https://youtu.be/8YRFLrlNtiY?feature=shared\r\n\r\nhttps://youtu.be/E8MWAPMeAt8?si=w4TinYAHgAneyTSS",
+        "desc": "",
+        "timeZone": "Europe/Paris",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2025-07-02T21:32:00.844+0000",
+        "etag": "17rcgql2",
+        "deleted": 0,
+        "createdTime": "2025-07-02T21:19:52.000+0000",
+        "creator": 117002604,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      }
+    ]
+  },
+  "token": "154BB8FE91446783E34984DBA84CE2AC3A08555D19D044041B4C5F6C8FA92B18BC946D3E52595EB701B1274CA6F6ED3970BDC9F0FE80A9EC9A7EF99AD53596EC73936CF37A42AC98791AB71D3266E8F5263D77C6B1E07FE04E40CAC68A203D0682BEE463B1431075BC4DD36207DCA5A8263D77C6B1E07FE0B497C200F5E3AD9EEFD495C3851BC0B0C0774CE524330A6BDD09DEC0B78D2C2A84648D63A9718DEEACE730BDF52673BB"
+}
