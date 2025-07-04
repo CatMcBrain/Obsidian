@@ -39,5 +39,6 @@
   "obsidian-banners",
   "obsidian-meta-bind-plugin",
   "obsidian-advanced-uri",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "url-into-selection"
 ]
