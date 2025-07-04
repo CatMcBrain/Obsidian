@@ -5,16 +5,16 @@
       "path": "Universidad/Universidad.md"
     },
     {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
       "basename": "Gifts",
       "path": "Notes/Shopping/Gifts.md"
     },
     {
       "basename": "Games",
       "path": "Notes/Games/Games.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
     },
     {
       "basename": "Backup",
