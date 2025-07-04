@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Notes/Shopping/Gifts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Gifts"
             }
           }
         ]
@@ -205,6 +205,8 @@
   },
   "active": "c87df34617207edd",
   "lastOpenFiles": [
+    "Notes/Games/Games.md",
+    "Notes/Notes.md",
     "Snippets/landmark.txt",
     "Snippets/waypoint - Copy.txt",
     "Notes/Backup/Backup.md",
@@ -223,10 +225,8 @@
     "Notes/Shopping/Rebuy.md",
     "Notes/Images",
     "Notes/Shopping/Shopping.md",
-    "Notes/Notes.md",
     "Notes/Food/Food.md",
     "Notes/Ocio/Ocio.md",
-    "Notes/Games/Games.md",
     "Notes/Ocio/Viajes.md",
     "Notes/Backup/Info.md",
     "Notes/Ocio",
@@ -247,7 +247,6 @@
     "Notes/Food/Recipes/To Try",
     "Notes/Food/Recipes/Arroz con Leche.md",
     "Notes/Food/Recipes",
-    "Notes/Shopping",
     "Notes/Cook/Pancakes.md",
     "Notes/Games/Star Rail/Builds.md",
     "Universidad/Universidad.md"
