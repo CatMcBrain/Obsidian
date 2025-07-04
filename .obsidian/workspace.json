@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Universidad"
             }
-          },
-          {
-            "id": "964221fe9c76ec83",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-04 16.32.37.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "964221fe9c76ec83",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
     "Universidad/Universidad.md",
     "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
