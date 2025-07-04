@@ -36,5 +36,7 @@
   "waypoint",
   "folder-notes",
   "jupymd",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-meta-bind-plugin",
+  "tickticksync"
 ]

@@ -203,10 +203,49 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "floating": {
+    "id": "3d6d41383bd22060",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9e01ec8994f33ad9",
+        "type": "window",
+        "children": [
+          {
+            "id": "f86ca689c5ca10f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f915a4ec9c86d55",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/obsidian-tasks-group/obsidian-tasks",
+                    "title": "data:text/plain,",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "data:text/plain,"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 752,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8f915a4ec9c86d55",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
     "2025-07-04 16.35.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
     "Universidad/Universidad.md",
     "Universidad/Untitled",
     "Notes/Shopping/Gifts.md",
