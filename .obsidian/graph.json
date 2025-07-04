@@ -11,28 +11,42 @@
       "query": "path:Notes/Games  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 12806116
       }
     },
     {
       "query": "path:Notes/Shopping  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 13883353
       }
     },
     {
       "query": "path:Universidad  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 5627230
       }
     },
     {
-      "query": "",
+      "query": "path:Notes/Ocio  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 8957676
+      }
+    },
+    {
+      "query": "path:Notes/Food  ",
+      "color": {
+        "a": 1,
+        "rgb": 15764566
+      }
+    },
+    {
+      "query": "path:Notes/Backup  ",
+      "color": {
+        "a": 1,
+        "rgb": 9408399
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 12.9757785467128,
   "linkStrength": 1,
   "linkDistance": 239,
-  "scale": 0.8199624201464402,
+  "scale": 0.3330274558377042,
   "close": false
 }
