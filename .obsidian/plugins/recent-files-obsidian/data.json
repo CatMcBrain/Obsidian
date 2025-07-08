@@ -5,6 +5,10 @@
       "path": "Notes/Games/MH Rise/Elemental Weaknesses.md"
     },
     {
+      "basename": "Universidad",
+      "path": "Universidad/Universidad.md"
+    },
+    {
       "basename": "Gifts",
       "path": "Notes/Shopping/Gifts.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Subject 1",
       "path": "Universidad/Subject 1/Subject 1.md"
-    },
-    {
-      "basename": "Universidad",
-      "path": "Universidad/Universidad.md"
     },
     {
       "basename": "Notes",
