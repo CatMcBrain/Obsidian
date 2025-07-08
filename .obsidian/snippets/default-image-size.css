@@ -1,4 +1,8 @@
 img {
+  display: block;
+}
+
+img:not([width]):not([height]) {
   max-height: 300px;
   height: auto;
   width: auto;
