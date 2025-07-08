@@ -9,7 +9,8 @@
     "Custom_style",
     "font",
     "stray",
-    "line"
+    "line",
+    "default-image-size"
   ],
   "showRibbon": true,
   "showViewHeader": true,
