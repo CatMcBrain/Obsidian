@@ -1,4 +1,4 @@
 
 ## Base Game
 
-![[Pasted image 20250708200929.png]]
+![[Pasted image 20250708201055.png|(width=100%)]]
