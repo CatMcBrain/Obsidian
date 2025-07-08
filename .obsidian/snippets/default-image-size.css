@@ -1,5 +1,7 @@
 img {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img:not([width]):not([height]) {
