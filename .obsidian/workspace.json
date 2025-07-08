@@ -202,8 +202,7 @@
       "cmdr:Outline: Show outline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Git: Commit-and-sync": false,
-      "obsidian-day-and-night:Toggle Theme": false,
-      "tickticksync:TickTickSync": false
+      "obsidian-day-and-night:Toggle Theme": false
     }
   },
   "active": "fa51f585b75d4ed4",
