@@ -1,8 +1,5 @@
 [!multi-column]
-> [!button]  
-> ![[Attachments/Journal.jpg]]  
-> [[Notes/Journal|JOURNAL]]
-
-> [!button]  
-> ![[Attachments/Projects.png]]  
-> [[Notes/Projects|PROJECTS]]
+> [!button]
+> name: Journal
+> icon: ![[Attachments/Journal.jpg]]
+> link: Notes/Journal
