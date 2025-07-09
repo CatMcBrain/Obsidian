@@ -17,5 +17,6 @@
     "/[eE][xX][cC][aA][lL][iI][dD][rR][aA][wW]/",
     "/[sS][nN][iI][pP][pP][eE][tT][sS]/",
     "/[hH][oO][mM][eE]/"
-  ]
+  ],
+  "useMarkdownLinks": false
 }
