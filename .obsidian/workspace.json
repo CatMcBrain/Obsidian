@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Notes"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Universidad/Subject 2/Subject 2.md",
     "Universidad/Homepage.md",
-    "Universidad/Test.md",
     "Home/Home.md",
+    "Universidad/Test.md",
     "Attachments/Journal.jpg",
     "conflict-files-obsidian-git.md",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
@@ -210,7 +211,6 @@
     "Attachments/Pasted image 20250708200929.png",
     "Notes/Games/MH Rise",
     "Universidad/Subject 1/Subject 1.md",
-    "Universidad/Subject 2/Subject 2.md",
     "Universidad/Subject 2",
     "Universidad/Subject 1",
     "Home",
