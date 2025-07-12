@@ -4,6 +4,8 @@
 	- [[Resources]]
 - **MH Rise**
 	- [[Elemental Weaknesses]]
+- **Star Citizen**
+	- [[HOTAS]]
 - **Star Rail**
 	- [[Builds]]
 
