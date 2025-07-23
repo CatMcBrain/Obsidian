@@ -172,31 +172,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "hide-folders:Show hidden folders": false,
-      "cmdr:Files: Show file explorer": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": true,
-      "soundscapes:Soundscapes: My Music": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
-      "obsidian-git:Open Git source control": true,
-      "templater-obsidian:Templater": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-importer:Open Importer": true,
-      "custom-sort:Toggle custom sorting": true,
-      "vscode-editor:Create Code File": true,
-      "cmdr:Outline: Show outline": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
       "cmdr:Git: Commit-and-sync": false,
-      "obsidian-day-and-night:Toggle Theme": false
+      "cmdr:Files: Show file explorer": false,
+      "cmdr:Outline: Show outline": false,
+      "custom-sort:Toggle custom sorting": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "hide-folders:Show hidden folders": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Games/Star Citizen/HOTAS.md",
+    "Notes/Games/Star Citizen",
+    "Attachments/20250712_220147.jpg",
     "Universidad/Subject 2/Subject 2.md",
     "Universidad/Homepage.md",
     "Home/Home.md",
@@ -234,14 +236,11 @@
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
     "Notes/Images/Screenshot_20250616_122112_Reddit.jpg",
-    "Notes/Images/Screenshot_20250607_161806_Reddit.jpg",
     "Notes/Shopping/Rebuy.md",
     "Notes/Images",
     "Notes/Shopping/Shopping.md",
     "Notes/Food/Food.md",
     "Notes/Ocio/Ocio.md",
-    "Notes/Ocio/Viajes.md",
-    "Notes/Ocio",
-    "Attachments/WhatsApp Video 2025-03-14 at 22.06.44_cc5f93c7.mp4"
+    "Notes/Ocio"
   ]
 }
