@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Elemental Weaknesses"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Backup/Useful PC.md",
+            "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,9 +175,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Games/Games.md",
+    "Home/Home.md",
     "Notes/Games/Star Citizen/HOTAS.md",
     "Attachments/20250712_220147.jpg",
-    "Home/Home.md",
     "Notes/Games/Star Citizen",
     "Notes/Backup/Useful PC.md",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
