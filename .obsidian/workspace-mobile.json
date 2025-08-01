@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Games/ZZZ/Pulchra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Pulchra"
             }
           }
         ]
@@ -173,12 +173,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "9e68535fe3cf645e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Games/Untitled",
+    "Home/Home.md",
+    "Notes/Games/ZZZ/Pulchra.md",
+    "Notes/Games/ZZZ",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
     "Notes/Games/Games.md",
-    "Home/Home.md",
     "Notes/Games/Star Citizen/HOTAS.md",
     "Attachments/20250712_220147.jpg",
     "Notes/Games/Star Citizen",
