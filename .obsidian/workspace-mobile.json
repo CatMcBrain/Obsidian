@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Games/ZZZ/Pulchra.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pulchra"
+              "title": "Home"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home/Home.md",
     "Notes/Games/ZZZ/Pulchra.md",
+    "Home/Home.md",
     "Notes/Games/ZZZ",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
     "Notes/Games/Games.md",
