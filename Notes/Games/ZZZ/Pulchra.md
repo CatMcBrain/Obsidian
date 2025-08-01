@@ -17,7 +17,7 @@ Shoulders: Slightly narrow and feminine, with soft definition and a relaxed post
 
 Chest: Her breasts are extremely large and exaggerated in size and roundness, far beyond what would be proportional for her frame. Estimated to be in the range of a G or H cup on a 26–28 band size. They sit high and project prominently from the chest.
 
-Top: A tight, white, sports-style crop top that ends just beneath the breasts, exposing the undercurve and emphasizing their volume and fullness.
+Top: A tight, white, sports-style crop top that ends just beneath the breasts, exposing the cleavage and emphasizing their volume and fullness.
 
 Waist: Exceptionally narrow and cinched, forming a highly exaggerated hourglass shape. Her waist-to-hip ratio is around 0.55 or lower.
 
