@@ -5,6 +5,7 @@
 - **[[Games]]**
 - **[[Ocio]]**
 - **[[Shopping]]**
+- **[[Wardrobe]]**
 
 %% End Waypoint %%
 
