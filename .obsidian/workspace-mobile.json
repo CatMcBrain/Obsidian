@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "61dd15aaf298c04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Mochi Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mochi Cat"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +188,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "9e68535fe3cf645e",
+  "active": "61dd15aaf298c04f",
   "lastOpenFiles": [
-    "Notes/Ocio/Untitled",
+    "Home/Home.md",
+    "Home/Mochi Cat.md",
+    "Notes/Ocio/Crochet",
     "Notes/Shopping/Shopping.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Wardrobe/Fragances.md",
-    "Home/Home.md",
     "Notes/Wardrobe",
     "Notes/Games/ZZZ/Pulchra.md",
     "Notes/Games/ZZZ",
