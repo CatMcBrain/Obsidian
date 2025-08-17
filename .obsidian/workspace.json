@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Ocio/Crochet/Mochi Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Mochi Cat"
             }
           }
         ]
@@ -197,7 +197,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Ocio/Ocio.md",
     "Home/Home.md",
+    "Notes/Ocio/Crochet/Mochi Cat.md",
+    "Notes/Ocio/Crochet",
+    "Home/Mochi Cat.md",
     "Notes/Notes.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Wardrobe/Fragances.md",
@@ -234,14 +238,10 @@
     "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
     "Notes/Games/Games.md",
     "Snippets/landmark.txt",
-    "Snippets/waypoint - Copy.txt",
-    "Notes/Backup/Backup.md",
-    "Notes/Backup/Useful PC.md",
     "Attachments/Pasted image 20250703161230.png",
     "Attachments/RDT_20250106_1439111157304957349037817.jpg",
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
-    "Notes/Images/Screenshot_20250616_122112_Reddit.jpg",
-    "Notes/Shopping/Rebuy.md"
+    "Notes/Images/Screenshot_20250616_122112_Reddit.jpg"
   ]
 }
