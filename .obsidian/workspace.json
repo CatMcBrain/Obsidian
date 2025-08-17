@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-and-night:Toggle Theme": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
@@ -196,6 +197,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Wardrobe/Wardrobe.md",
+    "Notes/Wardrobe/Fragances.md",
+    "Notes/Wardrobe",
+    "Notes/Games/ZZZ/Pulchra.md",
+    "Notes/Games/ZZZ",
     "Notes/Games/Star Citizen/HOTAS.md",
     "Notes/Games/Star Citizen",
     "Attachments/20250712_220147.jpg",
@@ -236,11 +242,6 @@
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
     "Notes/Images/Screenshot_20250616_122112_Reddit.jpg",
-    "Notes/Shopping/Rebuy.md",
-    "Notes/Images",
-    "Notes/Shopping/Shopping.md",
-    "Notes/Food/Food.md",
-    "Notes/Ocio/Ocio.md",
-    "Notes/Ocio"
+    "Notes/Shopping/Rebuy.md"
   ]
 }
