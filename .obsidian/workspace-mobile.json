@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Shopping/Shopping.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping"
+              "title": "Home"
             }
           }
         ]
@@ -175,9 +175,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Shopping/Shopping.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Wardrobe/Fragances.md",
-    "Notes/Shopping/Shopping.md",
     "Home/Home.md",
     "Notes/Wardrobe",
     "Notes/Games/ZZZ/Pulchra.md",
