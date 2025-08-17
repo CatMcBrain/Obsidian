@@ -16,7 +16,7 @@
         "startupType": "instant"
       },
       "obsidian-annotator": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-banners": {
         "startupType": "instant"
