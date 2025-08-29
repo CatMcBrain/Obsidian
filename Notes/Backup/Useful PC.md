@@ -32,6 +32,7 @@
 - Xournal++
 - reWASD
 - Teracopy
+- Gog Galaxy
 _____________________
 - (calibre)
 - (globalprotect)
