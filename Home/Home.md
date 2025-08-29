@@ -1,7 +1,7 @@
 
 > [!multi-column]
 >
-> > [!note] Card  
+> > [!note] UNI  
 >> 🎓
 >>  
 >> **University**  
@@ -17,16 +17,16 @@
 >> 
 >
 >> [!note] Food 
->> 🤖  
+>> 🍴  
 >> 
 >> **Food** 
 >> 
 >
 >> [!note] Quick Note  
->> ∫  
+>> 🗒  
 >> 
->> **Calculus**  
->> Mathematical study of continuous change, involving derivatives and integrals.
+>> **Quick Note**  
+>> 
 
 ___
 
