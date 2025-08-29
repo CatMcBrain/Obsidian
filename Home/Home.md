@@ -6,10 +6,9 @@
 
 > [!multi-column]
 >
->> [!note] Statistics  
->> 📊  
->> 
->> [[Fragances|Test]]  
+>> [!note] Statistics
+>> 📊
+>>   
 >> Study of data collection, analysis, interpretation, presentation, and organization.
 >
 >> [!note] Machine Learning  
