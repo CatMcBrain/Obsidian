@@ -2,7 +2,7 @@
 > [!multi-column]
 >
 > > [!note] UNI  
->> 🎓
+>> [[Universidad|🎓]]
 >>  
 >> **University**  
 >> Universidad Nacional de Educación a Distancia
@@ -23,7 +23,7 @@
 >> 
 >
 >> [!note] Quick Note  
->> [[]]  
+>> [[Quick Note|🗒]]  
 >> 
 >> **Quick Note**  
 >> 

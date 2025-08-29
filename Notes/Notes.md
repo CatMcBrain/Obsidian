@@ -4,6 +4,7 @@
 - **[[Food]]**
 - **[[Games]]**
 - **[[Ocio]]**
+- [[Quick Note]]
 - **[[Shopping]]**
 - **[[Wardrobe]]**
 

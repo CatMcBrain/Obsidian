@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "769c68560b0dc2e3",
+            "id": "68b3ba997d140540",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,17 +197,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "769c68560b0dc2e3",
+  "active": "68b3ba997d140540",
   "lastOpenFiles": [
-    "Notes/Ocio/Viajes.md",
+    "Notes/Games/Games.md",
+    "Notes/Quick Note.md",
     "Home/Home.md",
+    "Notes/Ocio/Viajes.md",
     "Notes/Ocio/Crochet/Crochet.md",
     "Notes/Wardrobe/Fragances.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup/Info.md",
-    "Notes/Games/Games.md",
     "Snippets/mcl.txt",
     "Snippets/New Text Document.txt",
     "Snippets/card.txt",
@@ -239,7 +240,6 @@
     "Universidad/Subject 2",
     "Universidad/Universidad.md",
     "To Buy.md",
-    "Cover.md",
     "Attachments/Pasted image 20250703161230.png",
     "Attachments/RDT_20250106_1439111157304957349037817.jpg",
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",
