@@ -32,17 +32,17 @@ ___
 
 > [!multi-column]
 >
->> [!note] Number Theory  
+>> [!note]  Tools 
 >> ℕ  
 >>  
->> **Number Theory**  
->> Study of integers and the relationships between them, including prime numbers.
+>> **Wardrobe**  
+>> List of everyday complements or clothing.
 >
->> [!note] Real Analysis  
+>> [!note] Leisure  
 >> ℝ  
 >>  
->> **Real Analysis**  
->> Examination of real numbers, sequences, series, and functions with rigorous proofs.
+>> **Crochet**  
+>> Tested crochet patterns.
 >
 >> [!note] Abstract Algebra  
 >> Sₙ  
