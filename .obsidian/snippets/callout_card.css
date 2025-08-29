@@ -1,17 +1,13 @@
-/* Target sub-callouts inside multi-column */
-.callout[data-callout="note"] .callout-content > p:first-child {
-  font-size: 2.5rem;     /* make icon big */
-  text-align: center;    /* center horizontally */
-  line-height: 1.2;      /* keep it tight */
-  margin: 0.2rem 0 0.6rem 0;
-}
-
-/* Make the following text smaller */
-.callout[data-callout="note"] .callout-content {
-  font-size: 0.9rem;
-}
-
-/* Optional: center everything in the card */
-.callout[data-callout="note"] .callout-content p {
+/* Make only the first line (icon) big */
+.callout .callout-content > p:first-child {
+  font-size: 3rem;     /* icon size */
   text-align: center;
+  margin: 0.2rem 0 0.6rem 0;
+  line-height: 1.2;
+}
+
+/* Keep the rest of the text normal */
+.callout .callout-content {
+  font-size: 0.95rem;  /* smaller body text */
+  text-align: center;  /* center all text */
 }
