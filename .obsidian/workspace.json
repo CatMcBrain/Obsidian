@@ -193,20 +193,21 @@
       "custom-sort:Toggle custom sorting": false,
       "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "ea120b34a9f7e199",
   "lastOpenFiles": [
+    "Notes/Wardrobe/Fragances.md",
+    "Home/Home.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup/Backup.md",
     "Notes/Wardrobe/Wardrobe.md",
-    "Notes/Wardrobe/Fragances.md",
     "Notes/Notes.md",
     "Notes/Food/Food.md",
     "Notes/Games/Games.md",
     "Notes/Ocio/Ocio.md",
-    "Home/Home.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Crochet",
     "Home/Mochi Cat.md",
