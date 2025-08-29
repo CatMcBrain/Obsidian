@@ -16,3 +16,5 @@
 >
 >> [!note]+ Differential Equations  
 >> 🌀 **Differential Equations** — Equations involving derivatives that describe how quantities change over time.
+
+
