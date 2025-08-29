@@ -38,7 +38,8 @@
     "Snippets/html_Underline.txt",
     "Snippets/line.txt",
     "Snippets/waypoint.txt",
-    "Snippets/landmark.txt"
+    "Snippets/landmark.txt",
+    "Snippets/card.txt"
   ],
   "startup_templates": [
     ""
