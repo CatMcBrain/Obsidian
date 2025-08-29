@@ -5,7 +5,7 @@
 >> ℕ  
 >>  
 >> **University**  
->> Description
+>> Universidad Nacional de Educación a Distancia
 >
 
 > [!multi-column]
