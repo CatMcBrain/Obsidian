@@ -28,7 +28,7 @@
 >> **Calculus**  
 >> Mathematical study of continuous change, involving derivatives and integrals.
 
-
+___
 
 > [!multi-column]
 >
