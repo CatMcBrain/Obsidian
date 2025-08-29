@@ -8,7 +8,8 @@
 >
 >> [!note] Statistics
 >> 📊
->>   
+>> 
+>> **Statistics**  
 >> Study of data collection, analysis, interpretation, presentation, and organization.
 >
 >> [!note] Machine Learning  
