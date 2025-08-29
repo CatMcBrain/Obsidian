@@ -1,9 +1,4 @@
 
-
-
-
-
-
 > [!multi-column]
 >
 >> [!note] Statistics
@@ -57,4 +52,8 @@
 >>  
 >> **Python**  
 >> A versatile programming language known for its readability and ease of use.
+>
+
+> [!multi-column]
+> 
 
