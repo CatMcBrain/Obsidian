@@ -167,5 +167,14 @@
       ],
       "key": " "
     }
+  ],
+  "templater-obsidian:Snippets/mcl.txt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

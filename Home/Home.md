@@ -1,6 +1,15 @@
 
 > [!multi-column]
 >
+> > [!note] Card  
+>> ℕ  
+>>  
+>> **University**  
+>> Description
+>
+
+> [!multi-column]
+>
 >> [!note] Statistics
 >> 📊
 >> 
@@ -60,7 +69,3 @@
 >>  
 >> **Number Theory**  
 >> Study of integers and the relationships between them, including prime numbers.
-
-
-
-
