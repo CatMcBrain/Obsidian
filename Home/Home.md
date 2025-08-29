@@ -11,19 +11,19 @@
 > [!multi-column]
 >
 >> [!note] Games
->> 🎮
+>> [[Games|🎮]]
 >> 
 >> **Games**  
 >> 
 >
 >> [!note] Food 
->> 🍴  
+>> [[Food|🍴]]  
 >> 
 >> **Food** 
 >> 
 >
 >> [!note] Quick Note  
->> 🗒  
+>> [[]]  
 >> 
 >> **Quick Note**  
 >> 
@@ -33,19 +33,19 @@ ___
 > [!multi-column]
 >
 >> [!note]  Tools 
->> ℕ  
+>> [[Wardrobe|👗]]  
 >>  
 >> **Wardrobe**  
 >> List of everyday complements or clothing.
 >
 >> [!note] Leisure  
->> ℝ  
+>> [[Crochet|🧶]]
 >>  
 >> **Crochet**  
 >> Tested crochet patterns.
 >
 >> [!note] Leisure  
->> Sₙ  
+>> [[Shopping|🛒]]  
 >>  
 >> **Shopping**  
 >> Saved products.
