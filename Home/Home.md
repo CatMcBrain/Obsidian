@@ -58,22 +58,3 @@
 >> **Python**  
 >> A versatile programming language known for its readability and ease of use.
 
-> [!multi-column]
->
->> [!note] Combinatorics  
->> 🔺  
->> 
->> **Combinatorics**  
->> The branch of mathematics concerned with counting in different ways.
->
->> [!note] Data Analytics  
->> 💾  
->> 
->> **Data Analytics**  
->> The process of inspecting, cleansing, transforming, and modeling data.
->
->> [!note|wide-2] Computational Genomics  
->> 🧬  
->> 
->> **Computational Genomics**  
->> Using computing to process and interpret DNA sequences and biological data.
