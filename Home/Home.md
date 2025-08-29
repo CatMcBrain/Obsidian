@@ -55,5 +55,12 @@
 >
 
 > [!multi-column]
-> 
+>> [!note] Number Theory  
+>> ℕ  
+>>  
+>> **Number Theory**  
+>> Study of integers and the relationships between them, including prime numbers.
+
+
+
 
