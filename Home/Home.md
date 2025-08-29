@@ -2,7 +2,7 @@
 > [!multi-column]
 >
 > > [!note] Card  
->> ℕ  
+>> 🎓
 >>  
 >> **University**  
 >> Universidad Nacional de Educación a Distancia
@@ -10,19 +10,19 @@
 
 > [!multi-column]
 >
->> [!note] Statistics
->> 📊
+>> [!note] Games
+>> 🎮
 >> 
->> **Statistics**  
->> Study of data collection, analysis, interpretation, presentation, and organization.
+>> **Games**  
+>> 
 >
->> [!note] Machine Learning  
+>> [!note] Food 
 >> 🤖  
 >> 
->> **Machine Learning**  
->> Field of AI that uses algorithms to learn from data and make predictions or decisions.
+>> **Food** 
+>> 
 >
->> [!note] Calculus  
+>> [!note] Quick Note  
 >> ∫  
 >> 
 >> **Calculus**  
