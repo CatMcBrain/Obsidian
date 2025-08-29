@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Games/Games.md",
+                "file": "Notes/Ocio/Crochet/Crochet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Games"
+              "title": "Crochet"
             }
           }
         ],
@@ -212,21 +212,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "5450eefc1122e7d7",
   "lastOpenFiles": [
+    "Notes/Ocio/Crochet/Mochi Cat.md",
+    "Notes/Ocio/Ocio.md",
+    "Notes/Ocio/Crochet/Crochet.md",
+    "Notes/Backup/Useful PC.md",
+    "Notes/Backup/Info.md",
+    "Notes/Games/Games.md",
     "Home/Home.md",
     "Snippets/mcl.txt",
     "Snippets/New Text Document.txt",
     "Snippets/card.txt",
     "Notes/Wardrobe/Fragances.md",
-    "Notes/Backup/Useful PC.md",
     "Notes/Backup/Backup.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Notes.md",
     "Notes/Food/Food.md",
-    "Notes/Games/Games.md",
-    "Notes/Ocio/Ocio.md",
-    "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Crochet",
     "Home/Mochi Cat.md",
     "Notes/Wardrobe",
@@ -253,7 +255,6 @@
     "To Buy.md",
     "Cover.md",
     "Fechas.md",
-    "To Do.md",
     "Attachments/Pasted image 20250703161230.png",
     "Attachments/RDT_20250106_1439111157304957349037817.jpg",
     "Attachments/RDT_20250324_0815406938903810996040775.jpg",

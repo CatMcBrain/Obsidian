@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **Crochet**
+- **[[Crochet]]**
 	- [[Mochi Cat]]
 - [[Viajes]]
 
