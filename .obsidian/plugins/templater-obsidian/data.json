@@ -39,7 +39,8 @@
     "Snippets/line.txt",
     "Snippets/waypoint.txt",
     "Snippets/landmark.txt",
-    "Snippets/card.txt"
+    "Snippets/card.txt",
+    "Snippets/mcl.txt"
   ],
   "startup_templates": [
     ""

@@ -159,5 +159,13 @@
       ],
       "key": "W"
     }
+  ],
+  "templater-obsidian:Snippets/card.txt": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }
