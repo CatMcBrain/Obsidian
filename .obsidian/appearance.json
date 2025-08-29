@@ -10,7 +10,13 @@
     "font",
     "stray",
     "line",
-    "default-image-size"
+    "default-image-size",
+    "Gradient Callouts and Headers",
+    "Hoverable Dropdown",
+    "Mathematics Callouts",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
   ],
   "showRibbon": true,
   "showViewHeader": true,
