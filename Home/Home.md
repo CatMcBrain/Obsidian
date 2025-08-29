@@ -1,7 +1,7 @@
 
 > [!multi-column]
 >
->> [!note]+ Statistics  
+>> [!note] Statistics  
 >> ℹ **Statistics** — Study of data collection, analysis, interpretation, presentation, and organization.
 >
 >> [!note]+ Machine Learning  
@@ -16,5 +16,22 @@
 >
 >> [!note]+ Differential Equations  
 >> 🌀 **Differential Equations** — Equations involving derivatives that describe how quantities change over time.
+
+> [!multi-column]
+>
+>> [!note] Statistics  
+>> 📊  
+>> **Statistics**  
+>> Study of data collection, analysis, interpretation, presentation, and organization.
+>
+>> [!note] Machine Learning  
+>> 🤖  
+>> **Machine Learning**  
+>> Field of AI that uses algorithms to learn from data and make predictions or decisions.
+>
+>> [!note] Calculus  
+>> ∫  
+>> **Calculus**  
+>> Mathematical study of continuous change, involving derivatives and integrals.
 
 

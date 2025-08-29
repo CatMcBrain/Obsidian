@@ -15,7 +15,9 @@
     "Mathematics Callouts",
     "MCL Gallery Cards",
     "MCL Multi Column",
-    "MCL Wide Views"
+    "MCL Wide Views",
+    "Hoverable Dropdown",
+    "callout_card"
   ],
   "showRibbon": true,
   "showViewHeader": true,
