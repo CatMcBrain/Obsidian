@@ -8,14 +8,6 @@
 
 /* Keep body text normal size */
 .callout .callout-content {
-  font-size: 0.1rem;
+  font-size: 0.7rem;
   text-align: center;
-}
-
-/* Style the callout box */
-.callout[data-callout="note"] {
-  background-color: #1a1a1a;  /* dark card */
-  border-radius: 12px;
-  padding: 1rem;
-  margin: 0.5rem;
 }
