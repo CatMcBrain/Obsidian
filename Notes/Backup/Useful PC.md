@@ -35,7 +35,7 @@
 _____________________
 - (calibre)
 - (globalprotect)
-- (potplayer)
+- (mpv)
 - (iriun webcam)
 - (musicbee)
 - (OBS)

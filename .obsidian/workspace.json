@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Backup/Useful PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "5bf075e72fedf8a9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "Useful PC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,16 +196,19 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "5bf075e72fedf8a9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home/Home.md",
-    "Notes/Ocio/Crochet/Mochi Cat.md",
-    "Notes/Ocio/Ocio.md",
-    "Notes/Ocio/Crochet",
-    "Home/Mochi Cat.md",
-    "Notes/Notes.md",
+    "Notes/Backup/Backup.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Wardrobe/Fragances.md",
+    "Notes/Notes.md",
+    "Notes/Food/Food.md",
+    "Notes/Games/Games.md",
+    "Notes/Ocio/Ocio.md",
+    "Home/Home.md",
+    "Notes/Ocio/Crochet/Mochi Cat.md",
+    "Notes/Ocio/Crochet",
+    "Home/Mochi Cat.md",
     "Notes/Wardrobe",
     "Notes/Games/ZZZ/Pulchra.md",
     "Notes/Games/ZZZ",
@@ -248,9 +238,6 @@
     "To Do.md",
     "To Try.md",
     "ACTIVE.md",
-    "2025-07-04 16.35.51.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-04 16.32.37.excalidraw.md",
-    "Notes/Games/Games.md",
     "Snippets/landmark.txt",
     "Attachments/Pasted image 20250703161230.png",
     "Attachments/RDT_20250106_1439111157304957349037817.jpg",
