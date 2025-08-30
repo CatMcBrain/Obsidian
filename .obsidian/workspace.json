@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee56ea5c336fd4e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c10270b79066cd32",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home/Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "0254766073298d32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ]
@@ -183,9 +199,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "cmdr:Git: Commit-and-sync": false,
-      "cmdr:Files: Show file explorer": false,
-      "cmdr:Outline: Show outline": false,
       "custom-sort:Toggle custom sorting": false,
       "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
@@ -193,7 +206,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c10270b79066cd32",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home/Home.md",
     "Notes/Food/Recipes/Omurice.md",
