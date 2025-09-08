@@ -173,24 +173,25 @@
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
-      "bases:Create new base": false,
-      "obsidian-day-and-night:Toggle Theme": false,
-      "templates:Insert template": false,
+      "bases:Create new base": true,
+      "obsidian-day-and-night:Toggle Theme": true,
+      "templates:Insert template": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
+      "omnisearch:Omnisearch": true,
       "obsidian-importer:Open Importer": false,
-      "custom-sort:Toggle custom sorting": false,
+      "custom-sort:Toggle custom sorting": true,
       "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": true,
+      "obsidian42-brat:BRAT": true
     }
   },
   "active": "e7a7b303c61786dc",
