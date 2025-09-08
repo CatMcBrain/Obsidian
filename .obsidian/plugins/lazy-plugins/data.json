@@ -16,10 +16,13 @@
         "startupType": "instant"
       },
       "obsidian-annotator": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-banners": {
         "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "disabled"
       },
       "calendar": {
         "startupType": "instant"
@@ -102,6 +105,9 @@
       "quickadd": {
         "startupType": "instant"
       },
+      "obsidian-snippet-downloader": {
+        "startupType": "disabled"
+      },
       "soundscapes": {
         "startupType": "instant"
       },
@@ -127,12 +133,6 @@
         "startupType": "instant"
       },
       "waypoint": {
-        "startupType": "instant"
-      },
-      "obsidian42-brat": {
-        "startupType": "instant"
-      },
-      "obsidian-snippet-downloader": {
         "startupType": "instant"
       }
     }
