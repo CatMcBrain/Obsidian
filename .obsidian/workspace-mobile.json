@@ -153,6 +153,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Git: Commit-and-sync": false,
+      "cmdr:Files: Show file explorer": false,
+      "cmdr:Outline: Show outline": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -161,7 +165,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
@@ -173,8 +176,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Universidad/Universidad.md",
     "Home/Home.md",
+    "Universidad/Universidad.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
     "Notes/Notes.md",
