@@ -1,0 +1,19 @@
+### [[Problemas Eléctrico]]
+
+- ## Fórmulas
+
+**Campo Eléctrico:** $\boxed{\vec{E}=k\frac{q}{r^2}\vec{u_r}}$
+
+**Fuerza Eléctrica:** $\boxed{\vec{F_e}=k\frac{q\; q'}{r^2}\vec{u_r}}$
+
+**Potencial y energía potencial:** $\boxed{V=k\frac{q}{r}}\rightarrow\boxed{U=qV}$ ^3c25a3
+	Recordar **Energías**: $\bbox[lightgray]{Em=Ec+Ep;\; Em=cte}$ ; **si es Circular:** $\bbox[lightgray]{ Ec=-\frac{1}{2} Ep}$
+
+**Trabajo:** $\boxed{W_{inf\rightarrow P}=-\Delta E_p}$
+
+### Gauss:
+
+- Para superficies, **igualar** $\int \vec{E}\vec{dS} = \frac{Q_{enc}}{\epsilon_o}$ , y usar $\vec{dS}$ adecuado.
+- **Esfera** = fórmula normal de $\vec{E}$.
+- **Plano** = <u>cilindro</u> $\frac{Q_{enc}}{\epsilon_o}=\rightarrow \cancel{\int_{lat} \vec{E}\vec{dS}} + \int_{tapa\; 1} \vec{E}\vec{dS} + \int_{tapa\; 2} \vec{E}\vec{dS} = \bbox[lightgray]{2|\vec{E}|\pi r^2}$
+

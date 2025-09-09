@@ -1,5 +1,33 @@
 %% Begin Waypoint %%
 - **- ARCHIVO**
+	- **Bachillerato**
+		- **Física**
+			- [[Campo Eléctrico]]
+			- [[Campo Magnético]]
+			- [[Drawing 2025-05-31 18.42.15.excalidraw]]
+			- [[FÍSICA]]
+			- [[Fórmulas Generales]]
+			- [[Gravitación]]
+			- [[Notas Eléctrico]]
+			- [[Notas Gravitación]]
+			- [[Notas Magnético]]
+			- [[Notas Ondas]]
+			- [[Notas Óptica]]
+			- [[Problemas Eléctrico]]
+			- [[Problemas Gravitación]]
+			- [[Problemas Magnético]]
+		- **Matemáticas**
+			- [[Álgebra]]
+			- [[Fórmulas Geometría]]
+			- [[Geometría]]
+			- [[GPT Ejercicios]]
+			- [[GPT Resumen]]
+			- [[MATEMÁTICAS]]
+			- [[Notas Álgebra]]
+			- [[Notas Análisis]]
+			- [[Notas Geometría]]
+			- [[Notas Optimización]]
+			- [[Problemas Álgebra]]
 	- **Grado UAM**
 		- **Álgebra**
 			- **Estudio**
