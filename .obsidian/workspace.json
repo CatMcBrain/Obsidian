@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Backup/Useful PC.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful PC"
+              "title": "Home"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Backup/Useful PC.md",
     "Home/Home.md",
     "conflict-files-obsidian-git.md",
     "Universidad/Subject 1/Subject 1.md",
@@ -215,7 +216,6 @@
     "Notes/Wardrobe/Fragances.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
-    "Notes/Backup/Useful PC.md",
     "Notes/Backup/Info.md",
     "Snippets/mcl.txt",
     "Snippets/New Text Document.txt",
