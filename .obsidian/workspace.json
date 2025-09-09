@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "17a82db5a2021a47",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "359e140231256772",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "359e140231256772",
   "lastOpenFiles": [
     "Home/Home.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
