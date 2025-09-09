@@ -75,4 +75,14 @@ _reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2
 
 ## MSYS2 Commands
 
-- Remove special characters from all files in a folder with an e
+- Remove special characters from all files in a folder with an specific extension (.xopp in this example)
+
+```
+for f in *.xopp; do n=$(echo "$f" | sed 'y/áéíóúÁÉÍÓÚ/aeiouAEIOU/' | tr ' ' '_'); mv -i "$f" "$n"; done
+```
+
+- Convert all xournal files in a folder into PDF
+
+```
+for file in *.xopp; do echo Processing $file; "C:\MyPrograms\xournalpp-1.2.7-windows-portable-x86_64/bin/xournalpp.exe" -p "${file%.*}"_export.pdf $file; done
+```
