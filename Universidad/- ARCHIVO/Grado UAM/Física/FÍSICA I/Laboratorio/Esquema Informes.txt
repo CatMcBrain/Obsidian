@@ -1,0 +1,28 @@
+=ABSTRACT=
+<>
+=TEORÍA=
+- qué es una onda
+- qué es aplicado a un hilo (+ TRANSVERSAL Y BIDIRECCIONAL)
+- componentes de una onda
+- qué es la resonancia y por qué nos ayuda en la investigación
+- EL DATO QUE BUSCAMOS - la densidad lineal
+
+=MONTAJE EXPERIMENTAL=
+- presentación de los instrumentos + qué miden y sus errores (INCLUIR MODELO)
+- cómo se disponen los instrumentos
+- papel de los instrumentos en las medidas y cómo se han operado durante la práctica
+
+=CÁLCULOS=
+<separarlos cálculo por cálculo con teoría y explicación>
+- tablas
+- gráficas
+*ERRORES
+*RESULTADOS
+
+=CONCLUSIÓN=
+- los datos son correctos porque...
+- son esperados...
+- nos demuestran que...
+
+=APÉNDICE=
+- Gráficas a mano

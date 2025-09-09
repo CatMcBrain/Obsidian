@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: velocidad-del-sonido.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: mnras.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliography.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty publisher in bmc
+Warning--empty publisher in img
+Warning--empty publisher in upm
+You've used 5 entries,
+            2881 wiz_defined-function locations,
+            741 strings with 6319 characters,
+and the built_in function-call counts, 1995 in all, are:
+= -- 94
+> -- 145
+< -- 20
++ -- 85
+- -- 10
+* -- 206
+:= -- 343
+add.period$ -- 0
+call.type$ -- 5
+change.case$ -- 10
+chr.to.int$ -- 5
+cite$ -- 8
+duplicate$ -- 125
+empty$ -- 161
+format.name$ -- 20
+if$ -- 320
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 30
+num.names$ -- 30
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 40
+swap$ -- 30
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 3
+while$ -- 30
+width$ -- 0
+write$ -- 59
+(There were 3 warnings)

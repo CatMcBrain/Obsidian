@@ -1,0 +1,81 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage[Spanish]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+%\renewcommand\thesubsection{\Alph{subsection}}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm}Fuerzas no inerciales: La Centrípeta}
+\author{Álvaro Jerónimo Sánchez}
+\date{28/10/2023}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{4}
+
+\subsection{¿Cuál es el orden de magnitud de la aceleración centrípeta de la centrífuga durante el giro?}
+
+Para hallar la aceleración centrípeta ($a_{cp}$), se puede emplear la expresión $a_{cp}=\omega ^{2}R$. Siendo $\omega$ la velocidad angular y $R$ el radio de giro. Sustituyendo $\omega$ por $2\pi \nu$ en la expresión, obtenemos que:
+
+\begin{gather*}
+    a_{cf}=\omega ^{2}R \rightarrow a_{cf}=(2\pi \nu)^{2}R = (2\pi \cdot 166.67)^{2}0.05 = \boxed{54833.33 m/s^{2}}
+\end{gather*}
+
+Por lo que su magnitud será de $\boxed{\mathbf{10^{4}}}$.
+
+\subsection{¿Qué fuerzas hay involucradas durante la centrifugación sobre las partículas? ¿de qué variables físicas depende el tiempo en que tarda una partícula al llegar al fondo del vial?}
+
+Una partícula dentro de la centrifugadora estará sometida a la gravedad y la fricción del medio en el que se encuentre, pero las fuerzas más notorias son la \textbf{centrípeta} y la aparente \textbf{centrífuga}. La fuerza centrípeta es una fuerza real que causa la trayectoria circular y apunta hacia el centro de rotación, mientras que la centrífuga no es realmente una fuerza, sino que es resultado de la aceleración que sufre la partícula (debida a su movimiento a través de la trayectoria) que le hace tender hacia fuera.
+
+Las variables que afectan al tiempo que una partícula tarda en llegar al fondo del vial tienen que ver con el empuje que el fluido ejerce sobre ésta. Son la \textbf{densidad} del medio (cuanto más denso, más tarda) y la de la partícula, la \textbf{viscosidad}, la \textbf{masa} de la partícula y su \textbf{radio} (cuanto más grande, más rozamiento y, por tanto, más lenta).
+
+\pagebreak
+\subsection{¿De qué orden de magnitud es el radio de las partículas de $SiO_{2}$?}
+
+Cuando se haya sacado el vial de la centrifugadora y empiecen a precipitar las partículas, estas llegarán a una $v_{lim}$. Empleando la expresión de esta, que se puede obtener desarrollando $F_{T}=mg-E-F$ y sustituyendo la aceleración total por 0, podemos hallar el radio de las partículas:
+
+\begin{gather*}
+     v=\frac{2g(\rho _{E}-\rho _{f})R^{2}}{9\mu}\rightarrow
+     R=\sqrt{\frac{\Delta L9\mu}{t2g(\rho _{E}-\rho _{f})}}
+\end{gather*}
+
+Sabiendo que: $\Delta L = 0.015m$, $\mu = 1.074 N/mm^{2}$, $t = 20s$, $\rho _{E} = 2.65\cdot10^{-9} kg/mm^(3)$ y $P_{f} = 0.797\cdot10^{-9} kg/mm^(3)$.
+
+\begin{gather*}
+    R_{SiO_{2}} = 0.446\cdot 10^{-6} m = 0.446 \mu m \rightarrow \boxed{\mathbf{(5)}\; < 1 \mu m}
+\end{gather*}
+
+\subsection{¿Cuánto tiempo tardan en sedimentar las de grafito?}
+
+Empleando la misma expresión de la cuestión anterior, se despeja el tiempo:
+
+\begin{gather*}
+    v=\frac{2g(\rho _{E}-\rho _{f})R^{2}}{9\mu}\rightarrow t=\frac{\Delta L9\mu}{R^{2}2g(\rho _{E}-\rho _{f})}
+\end{gather*}
+
+Asumiendo que tienen el mismo radio que las partículas de $SiO_{2}$, y sabiendo que: $\Delta L = 0.015m$, $\mu = 1.074 N/mm^{2}$, $\rho _{E} = 2090\cdot10^{-9} kg/mm^{3}$ y $P_{f} = 0.797\cdot10^{-9} kg/mm^{3}$, se sustituye en la ecuación.
+
+Al realizar las operaciones da un tiempo \textbf{menor que dos segundos}. Probablemente sea un error al aplicar la teoría, pero es posible que sea correcto y que sólo tenga en cuenta lo que tarda en caer la primera partícula.
+
+\end{document}

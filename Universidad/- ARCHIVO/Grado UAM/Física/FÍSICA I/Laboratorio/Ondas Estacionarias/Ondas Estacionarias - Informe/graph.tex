@@ -1,0 +1,24 @@
+\vspace{2cm}
+\begin{figure}
+\centering
+\caption{Gráfica Frecuencia-Número de ondas para cada tensión}
+\label{fig:graph}
+\begin{tikzpicture}[scale=0.8]
+\begin{axis}[legend entries={0.4N, 0.7N, 1N},
+legend style={
+at={(0.5,-0.2)},
+anchor=north,
+legend columns=1,
+cells={anchor=west},
+font=\footnotesize,
+rounded corners=2pt,
+}, 
+reverse legend, legend pos=outer north east,xlabel=k (número de ondas), ylabel=$\nu$ (Hz),
+axis lines=middle,grid=major,grid style={dashed}
+]
+\addplot table [x=k, y=0.4N,, col sep=comma] {mydata.csv};
+\addplot table [x=k, y=0.7N, col sep=comma] {mydata.csv};
+\addplot table [x=k, y=1N, col sep=comma] {mydata.csv};
+\end{axis}
+\end{tikzpicture}
+\end{figure}

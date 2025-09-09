@@ -1,0 +1,99 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage[Spanish]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+%\renewcommand\thesubsection{\Alph{subsection}}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm}Conservación de la Energía}
+\author{Álvaro Jerónimo Sánchez}
+\date{}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{3}
+
+\section{Cuestiones}
+
+\subsection{Fuerzas que intervienen}
+
+\begin{itemize}
+    \item \textbf{Peso:} sí genera trabajo  y es conservativa (sólo depende de la posición).
+    \item \textbf{Rozamiento:} sí genera trabajo y no es conservativa (disipa energía en forma de calor).
+    \item \textbf{Centrípeta:} no genera trabajo (90°) y es conservativa (en este caso es resultado de la normal generada por el raíl).
+    \item \textbf{Normal:} no genera trabajo (no desplaza al objeto) y no es conservativa (es una fuerza de contacto).
+\end{itemize}
+
+\subsection{Altura mínima para realizar el loop}
+
+Para superar el loop, la $N$ en el punto más alto de éste tendrá que ser $0$. Aplicando la Segunda Ley de Newton y sustituyendo con las fuerzas que influencian a la esfera, podemos hallar la velocidad mínima a la que tiene que ir para superar el loop:
+
+\begin{gather*}
+    \sum F=ma\\
+    mg+\cancelto{0}{N}=m\cdot a_{n} = m\frac{v^{2}}{R}\\
+    v_{min}=\sqrt{gR}
+\end{gather*}
+
+Aplicando la conservación de la energía mecánica, siendo $A$ el punto en el que comienza la esfera y $B$ el punto más alto del loop (2R):
+
+\begin{gather*}
+    E_{m(A)}=E_{m(B)}\\
+    \cancelto{0}{E_{c}(A)} + mgh_{min} = \frac{1}{2}mv^{2}_{min} + mg2R\\
+    gh_{min}=\frac{1}{2}gR+2gR \rightarrow gh_{min}=gR(\frac{1}{2}+2)\\
+    h_{min}=R\frac{5}{2} = 9\cdot\frac{5}{2} = \boxed{22.5 cm}
+\end{gather*}
+
+La altura hallada experimentalmente es mayor que la esperada usando el principio de la conservación de la energía mecánica, y esto se puede deber a factores que no se han tenido en cuenta como la resistencia del aire o desperfectos de la superficie que hacen que la esfera tenga rozamiento extra.
+
+Para hallar el valor de la fuerza normal en la parte inferior del loop, primero despejo la velocidad en este punto ($C$):
+
+\begin{gather*}
+    \frac{1}{2}mgR+mg2R=0+\frac{1}{2}mv^{2}_{C}\\
+    v^2_{C}=\sqrt{5gR}
+\end{gather*}
+
+Aplicando la Segunda Ley de Newton nuevamente, hallo que la normal en el punto más bajo es:
+
+\begin{gather*}
+    -mg+N=ma_{n}=m\frac{v^{2}}{R}\\
+    -mg+N=m\frac{5gR}{r} \rightarrow N_{C}=6mg = \boxed{0.94 N}
+\end{gather*}
+
+\subsection{Comparación con el bloque}
+
+Para que un bloque realizase el loop, la altura necesaria sería mucho mayor, ya que más superficie del cuerpo está en contacto con la pista y la fuerza de rozamiento que éste sufre es notablemente mayor que la de la esfera.
+
+\subsection{Trabajo al dejarlo caer desde 63cm}
+
+Teniendo en cuenta que en ambos puntos la energía cinética será 0, el trabajo realizado por la fricción será:
+
+\begin{gather*}
+    W'=\cancelto{0}{\Delta E_{c}} + \Delta E_{p} = mg(h_{2}-h_{1})\\
+    W'=0.004g(0.23-0.63) = \boxed{-0.02 N}
+\end{gather*}
+
+Y la energía es invertida en forma de calor.
+
+\end{document}

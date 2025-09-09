@@ -1,0 +1,35 @@
+PWD c:\Users\ajers\Desktop\Notebook\Matemáticas\MATEMÁTICAS I\Ejercicios\Control
+INPUT C:\Users\ajers\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\ajers\Desktop\Notebook\Matemáticas\MATEMÁTICAS I\Ejercicios\Control\Práctica.tex
+OUTPUT Práctica.log
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Práctica.aux
+INPUT .\Práctica.aux
+INPUT Práctica.aux
+OUTPUT Práctica.aux
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+OUTPUT Práctica.pdf
+INPUT C:\Users\ajers\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT Práctica.aux
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\ajers\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

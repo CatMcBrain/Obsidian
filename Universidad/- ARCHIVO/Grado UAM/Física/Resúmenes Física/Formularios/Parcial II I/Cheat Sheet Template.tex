@@ -1,0 +1,195 @@
+\documentclass[10pt]{article}
+\usepackage{multicol}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{color,graphicx,overpic}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{color}
+
+% Turn off header and footer
+\pagestyle{empty}
+
+% Redefine section commands to use less space
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%x
+                                {\underline\normalfont\large\bfseries}}
+\renewcommand{\subsection}{\@startsection{subsection}{2}{0mm}%
+                                {-1explus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\color{blue}\normalfont\normalsize\bfseries}}
+\renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {1ex plus .2ex}%
+                                {\normalfont\small\bfseries}}
+\makeatother
+
+% Define BibTeX command
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+% Don't print section numbers
+\setcounter{secnumdepth}{0}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+%My Environments
+\newtheorem{example}[section]{Example}
+% -----------------------------------------------------------------------
+
+\begin{document}
+\centering
+\begin{center}
+    \Large{\underline{FISICA II}} \\\vspace{-0.2cm}
+    {\small Electricidad}\\
+    {\scriptsize Álvaro Jerónimo Sánchez\\}
+\end{center}
+\begin{multicols}{3}
+\raggedright
+
+
+% multicol parameters
+% These lengths are set only within the two main columns
+%\setlength{\columnseprule}{0.25pt}
+\setlength{\premulticols}{1pt}
+\setlength{\postmulticols}{1pt}
+\setlength{\multicolsep}{1pt}
+\setlength{\columnsep}{2pt}
+
+\section{\underline{Definiciones}}
+
+\subsection{Unidades}
+
+$Q$ (Carga) $[C]$\\
+$\vec{E}$ (Campo eléctrico) $[\frac{N}{C}]$ o $[\frac{V}{m}]$\\
+$V$ (Potencial eléctrico) $[V]$ o [$\frac{J}{C}$]\\
+$\Phi$ (Flujo eléctrico) $[V\, m]$\\
+$U_E$ (Energía potencial eléctrica) $[J]$\\
+$C$ (Capacidad) $[F]$
+
+\subsection{Geometría}
+
+Circunferencia esfera: $2\pi r$\\
+Superficie esfera: $4\pi r^2$\\
+Volumen esfera: $\frac{4}{3}\pi r^3$\\
+Superficie cilindro: $2\pi rl$\\
+Densidad lineal: $\lambda = \frac{Q}{l}$\\
+Densidad superficie: $\sigma = \frac{Q}{A}$\\
+Densidad volumétrica: $\rho = \frac{Q}{V}$\\
+$\vec{u_r} = \frac{1}{r}\vec{r}$
+
+\subsection{Trigonometría}
+
+$sen\theta = \frac{cat_o}{h}$\\
+$cos\theta = \frac{cat_a}{h}$\\
+$tan\theta = \frac{sen\theta}{cos\theta}$\\
+$1 = sen^2\theta + cos^2\theta$
+
+
+\section{\underline{Básico}}
+
+\subsection{Coulomb}
+
+$\vec{E} = k\frac{Q}{r^2}\vec{u_r}$ (para cargas puntuales)\\
+$\vec{F}=k\frac{q_1q_2}{r^2}\vec{u_r}$\\
+$V=k\frac{Q}{r}$ ; $k=\frac{1}{4\pi\epsilon_o}$
+
+\subsection{Gauss}
+
+$\Phi = \vec{E}\cdot \vec{S} \rightarrow EScos\theta$\\
+$\Phi = \frac{Q_{enc}}{\epsilon_o}$\\
+$\Phi = \int \vec{E}\cdot d\vec{s}$
+
+\subsection{Potencial}
+
+\textcolor{gray}{($E_p = \vec{F}(r)d\vec{r} ; \Delta U = -\int_{A}^{B}\vec{F}(r)d\vec{r}$)}\\\vspace{0.1cm}
+$\Delta U = -W_{campo}$\\
+$W_{\infty 2}=-k\frac{q_1q_2}{r_{12}}$\\
+\vspace{0.1cm} \textcolor{red}{$dV=-\vec{E}(r)dr\leftrightarrow \vec{E}(r)=\nabla V(\vec{r})$}
+
+\section{\underline{Dist. contínuas}}
+
+\subsection{Hilo infinito}
+
+$E = \frac{2k\lambda}{d}$ (perpendicular)\\
+\vspace{0.2cm}($d$ = distancia hasta "P")
+
+\subsection{Anillo}
+
+$\vec{E}=k\frac{Q_{(a)}}{\sqrt{(a^2+R^2)^3}}\vec{u_a}$\\
+$V=k\frac{Q}{\sqrt{a^2+R^2}}$ ($\sqrt{a^2+R^2}=r$)\\
+\vspace{0.2cm} ($a$ = distancia hasta "a")
+
+\subsection{Disco}
+
+$\vec{E}=2\pi k\sigma\left(1-\frac{a}{\sqrt{a^2+R^2}} \right)\vec{u_a}$\\
+$\rightarrow \vec{E}=\frac{2kQ}{R^2}(...)\vec{u_a}$\\
+
+\subsection{Plano}
+
+$\vec{E} = \frac{\sigma}{2\epsilon_o}$
+
+\subsection{Esfera corteza}
+$\boxed{r>R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Q}{r^2}\vec{u_r}$ ; $V=K\frac{Q}{r}$\\
+\vspace{0.2cm} $\boxed{r<R}$ \vspace{0.1cm}\\
+$\vec{E}=0$ ; $V=k\frac{Q}{\textcolor{red}{R}}$
+
+\subsection{Esfera homogénea}
+$\boxed{r>R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Q}{r^2}\vec{u_r}$ ; $V = k\frac{Q}{r}$\\\columnbreak
+\vspace{0.2cm}$\boxed{r<R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Qr}{R^3}\vec{u_r}$\\
+$V = \frac{3}{2}k\frac{Q}{R}-\frac{1}{2}k\frac{Qr^2}{R^3}$
+
+\subsection{Cilindro}
+
+$\boxed{r>R}$\vspace{0.1cm}\\
+$E = \frac{\sigma R}{\epsilon_o r}$\\
+\vspace{0.1cm} \textcolor{gray}{(r = distancia a "P")}\\
+$\boxed{r=R}$\vspace{0.1cm}\\
+$E=\frac{\sigma}{\epsilon_o}$\\
+$\boxed{r>R}$\vspace{0.1cm}\\
+$E=0$ \textcolor{gray}{$Q=0$}
+
+\section{\underline{Conductores}}
+
+$\vec{E}_{dentro} = 0 \rightarrow Q_{enc} = 0$\\
+(Toda $Q$ en superficie)
+
+\subsection{Lámina}
+
+\textcolor{gray}{($E_{dentro} = 0$ ; $ES = \frac{\sigma S}{\epsilon_o}$)}\\
+\vspace{0.1cm} $E=\frac{\sigma}{\epsilon_o}$
+
+\subsection{Esf. hueca}
+
+$[r>R]\equiv [r<R]$ (continuidad)
+
+\section{\underline{Condensadores}}
+
+$C=\frac{Q}{V}$\textcolor{gray}{$=\frac{Q}{Q_o/\epsilon_oA=\epsilon_o\frac{A}{d}}$}\\
+$U=\frac{1}{2}CV^2$
+
+\subsection{En paralelo}
+
+$Q_1+Q_2=Q$ ; $V_1=V_2=V_o$\\
+$C_1+C_2=C$\\
+\textcolor{gray}{$U_in = U_f$ (si $V_2 = 0\rightarrow U_f\le U_in$)}
+
+\subsection{En serie}
+
+$Q_1=Q_2=Q$ ; $V_1+V_2=V_o$\\
+$\frac{1}{C_1}+\frac{1}{C_2}=\frac{1}{C}$ \textcolor{gray}{$\frac{Q}{C_1}+\frac{Q}{C_2}=\frac{Q}{C}$}
+
+\vfill
+
+\rule{0.3\linewidth}{0.25pt}
+\end{multicols}
+\end{document}

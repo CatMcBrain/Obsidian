@@ -1,0 +1,423 @@
+\documentclass[10pt]{article}
+\usepackage{multicol}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb, mathtools}
+\usepackage{color,graphicx,overpic}
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color}
+
+% Turn off header and footer
+\pagestyle{empty}
+
+% Redefine section commands to use less space
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%x
+                                {\underline\normalfont\large\bfseries}}
+\renewcommand{\subsection}{\@startsection{subsection}{2}{0mm}%
+                                {-1explus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\color{blue}\normalfont\normalsize\bfseries}}
+\renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {1ex plus .2ex}%
+                                {\normalfont\small\bfseries}}
+\makeatother
+
+% Highlight in math display
+\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
+
+% Define BibTeX command
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+% Don't print section numbers
+\setcounter{secnumdepth}{0}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+%My Environments
+\newtheorem{example}[section]{Example}
+% -----------------------------------------------------------------------
+
+\begin{document}
+\centering
+\begin{center}
+    \Large{\underline{FISICA II}} \\\vspace{-0.2cm}
+    {\small Electricidad}\\
+    {\scriptsize Álvaro Jerónimo Sánchez\\}
+\end{center}
+\begin{multicols}{3}
+\raggedright
+
+
+% multicol parameters
+% These lengths are set only within the two main columns
+%\setlength{\columnseprule}{0.25pt}
+\setlength{\premulticols}{1pt}
+\setlength{\postmulticols}{1pt}
+\setlength{\multicolsep}{1pt}
+\setlength{\columnsep}{2pt}
+
+\section{\underline{Definiciones}}
+
+\subsection{Unidades}
+
+$Q$ (Carga) $[C]$\\
+$\vec{E}$ (Campo eléctrico) $[\frac{N}{C}]$ o $[\frac{V}{m}]$\\
+$V$ (Potencial eléctrico) $[V]$ o [$\frac{J}{C}$]\\
+$\Phi$ (Flujo eléctrico) $[V\, m]$\\
+$U_E$ (Energía potencial eléctrica) $[J]$\\
+$C$ (Capacidad) $[F]$\\
+\rule{0.3\linewidth}{0.25pt}\\
+$I$ (Intensidad) $[A\textcolor{gray}{=C/s}]$\\
+$\vec{J}$ (Densidad de corriente) $[A/m^3]$\\
+$R$ (Resistencia) $[\Omega]$
+$\rho'$ (Resistividad) $[\Omega/m]$\\
+$G$ (Conductancia) $[S\textcolor{gray}{=\Omega^{-1}}]$\\
+$\sigma'$ (Conductividad) $[m/\Omega\; \textcolor{gray}{= S/m}]$\\
+$\mu$ (Movilidad el. de portadores) $[m^2/V]$\\
+$n$ (Portadores por unidad de volumen)\\
+$\Sigma$ (F. Electromotriz) $[V]$\\
+$\vec{\rho}$ (Momento dipolar) $[D\textcolor{gray}{=3.34\cdot 10^{-30}C\cdot m}]$\\
+$\chi_e$ (Susceptibilidad eléctrica) $[Adim.]$\\
+$\alpha$ (polarizabilidad/densidad) [$m^3$]\\
+
+\subsection{Geometría}
+
+Superficie círculo:$\pi r^2$\\
+Circunferencia esfera: $2\pi r$\\
+Superficie esfera: $4\pi r^2$\\
+Volumen esfera: $\frac{4}{3}\pi r^3$\\
+Superficie cilindro: $2\pi rl$\\
+Densidad lineal: $\lambda = \frac{Q}{l}\; dq=\lambda dl$\\
+Densidad superficie: $\sigma = \frac{Q}{A}\; dq=\sigma dS$\\
+Densidad volumétrica: $\rho = \frac{Q}{V}\; dq=\rho dV$\\
+$\vec{u_r} = \frac{1}{r}\vec{r}$
+
+\subsection{Trigonometría}
+
+$sen\theta = \frac{cat_o}{h}$\\
+$cos\theta = \frac{cat_a}{h}$\\
+$tan\theta = \frac{sen\theta}{cos\theta}$\\
+$1 = sen^2\theta + cos^2\theta$
+
+
+\section{\underline{Básico}}
+
+\subsection{Coulomb}
+
+$\vec{E} = k\frac{Q}{r^2}\vec{u_r}$ (para cargas puntuales)\\
+$\vec{F}=k\frac{q_1q_2}{r^2}\vec{u_r}$\\
+$V=k\frac{Q}{r}$ ; $k=\frac{1}{4\pi\epsilon_o}$
+
+\subsection{Gauss}
+
+$\Phi = \vec{E}\cdot \vec{S} \rightarrow EScos\theta$\\
+$\Phi = \frac{Q_{enc}}{\epsilon_o}$\\
+$\Phi = \int \vec{E}\cdot d\vec{s}$
+
+\subsection{Potencial}
+
+\textcolor{gray}{($E_p = \vec{F}(r)d\vec{r} ; \Delta U = -\int_{A}^{B}\vec{F}(r)d\vec{r}$)}\\\vspace{0.1cm}
+$\Delta U = -W_{campo}$\\
+$W_{\infty 2}=-k\frac{q_1q_2}{r_{12}}$\\
+\vspace{0.1cm} \textcolor{red}{$dV=-\vec{E}(r)dr\leftrightarrow \vec{E}(r)=\nabla V(\vec{r})$}
+
+\section{\underline{Dist. contínuas}}
+
+\subsection{Hilo infinito}
+
+$E = \frac{2k\lambda}{d}$ (perpendicular)\\
+\vspace{0.2cm}($d$ = distancia hasta "P")
+
+\subsection{Anillo}
+
+$\vec{E}=k\frac{Q_{(a)}}{\sqrt{(a^2+R^2)^3}}\vec{u_a} \xrightarrow{(a\gg R)} \frac{KQ}{a^2}$\\
+$V=k\frac{Q}{\sqrt{a^2+R^2}}$ ($\sqrt{a^2+R^2}=r$)\\
+\vspace{0.2cm} ($a$ = distancia hasta "a")
+
+\subsection{Disco}
+
+$\vec{E}=2\pi k\sigma\left(1-\frac{a}{\sqrt{a^2+R^2}} \right)\vec{u_a}$\\
+$\rightarrow \vec{E}=\tiny\frac{2kQ}{R^2}(...)\vec{u_a}
+\left\{\begin{array}{l}
+    (R\gg a) \text{=Plano}\\
+    (a\gg R) \frac{KQ}{a^2}
+\end{array}\right.$
+
+\subsection{Plano}
+
+$\vec{E} = \frac{\sigma}{2\epsilon_o}$
+
+\subsection{Esfera corteza}
+$\boxed{r>R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Q}{r^2}\vec{u_r}$ ; $V=K\frac{Q}{r}$\\
+\vspace{0.2cm} $\boxed{r<R}$ \vspace{0.1cm}\\
+$\vec{E}=0$ ; $V=k\frac{Q}{\textcolor{red}{R}}$
+
+\subsection{Esfera homogénea}
+$\boxed{r>R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Q}{r^2}\vec{u_r}$ ; $V = k\frac{Q}{r}$\\
+\vspace{0.2cm}$\boxed{r<R}$\vspace{0.1cm}\\
+$\vec{E}=k\frac{Qr}{R^3}\vec{u_r}$\\
+$V = \frac{3}{2}k\frac{Q}{R}-\frac{1}{2}k\frac{Qr^2}{R^3}$
+
+\subsection{Cilindro}
+
+$\boxed{r>R}$\vspace{0.1cm}\\
+$E = \frac{\sigma R}{\epsilon_o r}$\\
+\vspace{0.1cm} \textcolor{gray}{(r = distancia a "P")}\\
+$\boxed{r=R}$\vspace{0.1cm}\\
+$E=\frac{\sigma}{\epsilon_o}$\\
+$\boxed{r>R}$\vspace{0.1cm}\\
+$E=0$ \textcolor{gray}{$Q=0$}
+
+\section{\underline{Conductores}}
+
+$\vec{E}_{dentro} = 0 \rightarrow Q_{enc} = 0$\\
+(Toda $Q$ en superficie)
+
+\subsection{Lámina}
+
+\textcolor{gray}{($E_{dentro} = 0$ ; $ES = \frac{\sigma S}{\epsilon_o}$)}\\
+\vspace{0.1cm} $E=\frac{\sigma}{\epsilon_o}$
+
+\subsection{Esf. hueca}
+
+$[r>R]\equiv [r<R]$ (continuidad)
+
+\section{\underline{Electroes. y Circuitos}}
+
+\subsection{Ohm}
+
+$I=\frac{V}{R}$\\
+$R=\rho'\frac{L}{S}$\\
+$\sigma'=\frac{1}{\rho'}$\\
+$G=\frac{1}{R}=\frac{S}{L}$
+
+\subsection{Corriente}
+
+$I = \frac{\Delta q}{\Delta t} = n\cdot eSv_d$\\
+$\Delta Q=n\cdot e\Delta Vol=n\cdot eSv_d\Delta t$\\
+$\rightarrow \Delta Vol = Sv_d\Delta t =S\Delta L$ \textcolor{gray}{(sección)}\\
+$\vec{J}=n\cdot e\vec{v_d} \rightarrow J=\frac{I}{S}$\\
+$J=\sigma' E$\\
+$\mu = \frac{\sigma'}{n\cdot e}$\\
+$v_d=\frac{\sigma'}{n\cdot e}\vec{E}=\mu\vec{E}$\\
+$\epsilon=IR$\\
+$\frac{1}{2}m_ev_e^2=eV$
+
+\subsection{Energía}
+
+$\Delta U = \Delta Q(V_B-V_A)$\\\small
+$\text{\textbf{pérdida E: }}-\Delta U=\Delta QV=Q(V_A-V_B)$\\
+$\text{\textbf{variac. temp.: }}-\frac{\Delta U}{\Delta t}=\frac{\Delta Q}{\Delta t}V=IV$\\
+$\text{\textbf{V disipado: }}V=I^2R$
+\subsection{Condensadores}
+
+$C=\frac{Q}{V}$\textcolor{gray}{$=\frac{Q}{Q_o/\epsilon_oA}=\epsilon_o\frac{A}{d}$}\\
+$U=\frac{1}{2}CV^2$\\
+\textbf{\small Campo dentro:} $E=E_1+E_2=\frac{\sigma}{\epsilon_o}\; ; \; V=E\cdot d$\\\vspace{0.2cm}
+\textcolor{gray}{\underline{Vacío}$\rightarrow V_C=\frac{q}{C}=0$}\\
+\textcolor{gray}{\underline{Lleno}$\rightarrow I_C=0$}\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Dieléctrico:}}\\
+\vspace{0.1cm}
+
+$C=\epsilon\frac{A}{d}$
+$\epsilon_r=1+\chi_e$\\
+$\kappa = \frac{\epsilon}{\epsilon_o}$\\
+$C_{\kappa}=C_o\cdot\kappa$\\
+$\epsilon_o=\frac{1}{\mu_o c^2}$\\
+$k=\frac{1}{4\pi\epsilon_o}$
+
+\subsection{Carga condensador}
+
+$V_o=iR+\frac{q}{C}$\\
+$\tau=RC$\\
+$q=V_oC\left( 1-e^{-t/\tau} \right)\; \textcolor{gray}{(max=V_oC)}$\\
+$i=\frac{dq}{dt}=\frac{V_o}{R}e^{-t/\tau}$\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Balance}}\\
+\vspace{0.1cm}
+
+\textbf{E$_+$ Batería: }$U_{bat}(t)=V_o^2C\left(1-e^{-t/\tau}\right)$\\
+\textbf{E$_-$ Resist.: }$U_{R}(t)=\frac{V_o^2C}{2}\left(1-e^{-2t/\tau}\right)$\\
+\textbf{E$_{almac(-)}$ Cond.: }$U_{C}(t)=\frac{q^2}{2C}=\frac{V_o^2C}{2}\left(1-e^{-t/\tau}\right)^2$\\
+\textcolor{gray}{$\rightarrow U_{bat}=U_R+U_C$}
+
+\subsection{Descarga condensador}
+
+(\textcolor{gray}{$Q\equiv\; Q_{max}$\tiny con la que empezamos})\\
+$q(t)=QE^{-t/\tau}$\\
+$i(t)=\frac{dq}{dt}=-\frac{Q}{\tau}e^{-t/\tau}=-\frac{V_o}{R}e^{-t/\tau}$\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Balance}}\\
+\vspace{0.1cm}
+
+\textbf{E$_-$ Resist.: }$U_R(t)=\frac{Q^2}{2C}\left(1-e^{-2t/\tau} \right)$\\
+\textbf{Var. E en Cond.: }$U_C(t)=\frac{q^2}{2C} = \frac{Q^2}{2C}e^{-2t/\tau} \;(\textcolor{gray}{U_{ini}=\frac{Q^2}{2C}})$\\
+\textcolor{gray}{$\rightarrow U_{ini}=U_R+U_C$}
+
+\subsection{Asociación}
+
+\vspace{0.1cm}
+\fbox{\textbf{En paralelo}}\\
+\vspace{0.1cm}
+
+$Q_1+Q_2=Q$ ; $V_1=V_2=V_o$\\
+$C_1+C_2=C$\\
+\textcolor{gray}{$U_in = U_f$ (si $V_2 = 0\rightarrow U_f\le U_in$)}\\
+
+\vspace{0.1cm}
+\fbox{\textbf{En serie}}\\
+\vspace{0.1cm}
+
+$Q_1=Q_2=Q$ ; $V_1+V_2=V_o$\\
+$\frac{1}{C_1}+\frac{1}{C_2}=\frac{1}{C}$ \textcolor{gray}{$\frac{Q}{C_1}+\frac{Q}{C_2}=\frac{Q}{C}$}\\
+
+\vspace{0.2cm}
+\textcolor{red}{Inverso para \textbf{Resistencias}.}
+
+
+
+\section{\underline{Kirchhoff}}
+
+\subsection{Nodos}
+
+$\sum I_i=0$\\
+$(I_1\textcolor{PineGreen}{-}I_2\textcolor{PineGreen}{+}I_3...=0)$\\
+\textcolor{PineGreen}{Entra $\equiv I>0$, Sale $\equiv I<0$}
+
+\subsection{Mallas}
+
+$\sum\epsilon_i=\sum V_i$\
+$(\textcolor{PineGreen}{-}\epsilon_1\textcolor{PineGreen}{+}\epsilon_2...=\textcolor{Magenta}{-}R_1I_1\textcolor{Magenta}{+}R_2I_2...)$\\
+\textcolor{PineGreen}{Borne $\oplus \rightarrow \ominus\;\equiv \epsilon>0$}\\
+\textcolor{Magenta}{Direcc. $I =$ malla $I>0$}
+
+\section{\underline{Dipolo}}
+
+$\vec{p}=q\vec{d}\;\textcolor{gray}{(\vec{p}=qd\;\vec{u_x})}$\\
+$V=k\frac{1(r_2-r_1)}{r_1r_2}$\\
+$\xrightarrow{r\gg d} k\frac{\vec{r}\vec{p}}{r^3}=k\frac{p\cos\alpha}{r^2}$
+
+\textcolor{gray}{\small d=distancia entre polos}\\
+{\small \textbf{E sobre eje x:}}\\
+$\vec{E_x} = \frac{2xqd}{\left[ x^2 - (d/2)^2 \right]^2}\vec{u_x}\xrightarrow{x\gg \frac{d}{2}} k\frac{2qd}{x^3}\vec{u_x}$\\
+{\small \textbf{E sobre eje y:}}\\
+$\vec{E}=-2k\frac{q\; d/2}{\left[ y^2+(d/2)^2\right]^{3/2}}\xrightarrow{y\gg \frac{d}{2}}-k\frac{qd}{y^3}\vec{u_x}$
+
+\subsection{Campo homogéneo}
+
+\textcolor{gray}{\small $\vec{F_+}=-\vec{F_-}\; ; \; q\vec{E_o}=-q\vec{E_o}$}\\
+\textbf{\small Momento giro: }$M=\vec{p}\times\vec{E_o}$\\
+$dU=M\; d\theta\Rightarrow U=-pE_o\cos\theta+C$\\
+$\xrightarrow[E_p=0]{\mu=0}U=-pE_o\cos\theta=-\vec{p}\cdot\vec{E_o}$
+
+\subsection{Polarización}
+
+$\vec{P}=\frac{1}{\Delta Vol}\sum \vec{p_i}\xrightarrow{=dip.}\vec{P}=n\vec{p}$\\
+$\vec{P}=\chi_e\epsilon_o\vec{E}=\epsilon_o(\epsilon_r-1)E=\chi_e\epsilon_oE$\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Campos}}\\
+\vspace{0.1cm}
+
+$\vec{E}_{dentro}=\vec{E_o}-\vec{E_p}$\\
+$\Rightarrow E=\epsilon_rE-\mathcolorbox{green}{{\frac{\sigma_p}{\epsilon_o}}}\; \textcolor{PineGreen}{(E_p\equiv E\; polariz.)}$\\
+\vspace{0.1cm}
+$\epsilon_r=\frac{E_o}{E}$\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Macro}}\\
+\vspace{0.1cm}
+
+$Q_P=\sigma_PA$\\
+$p_{tot}=Q_pL$\\
+$P=\frac{p_{tot}}{Vol}=\sigma_P$ \textcolor{gray}{$[C/m^2]$}\\
+$D=\epsilon_oE+P=\epsilon_o\epsilon_rE=\epsilon E$ \textcolor{gray}{($\epsilon=\epsilon_o\epsilon_r$)}
+
+\subsection{Polarización elec.}
+
+$\vec{p}=\alpha\epsilon_o\vec{E}_{(local)}$\\
+$\chi_e=n\alpha$ \textcolor{gray}{($\alpha=\frac{\text{n° dipolos}}{Vol})$}\\
+$\vec{E}_{nube}=\vec{E_o}\rightarrow E_{nube}=k\frac{qd}{R^3}$\\
+$\begin{array}{l}
+    P=4\pi\epsilon_o R^3\vec{E_o}\\
+    \vec{P}=\alpha\epsilon_o\vec{E_o}
+\end{array}$\}
+$\Rightarrow \alpha_e=4\pi R^3$
+\\\textcolor{gray}{\small($R\equiv$ nube $e^-$)}
+
+\subsection{Polarización iónica}
+
+$\vec{p}=\alpha\epsilon_o\vec{E_o}$\\
+$\alpha_{\text{orientación}}=\frac{p_o^2}{3\epsilon_ok_BT}$ ; $\chi=n\alpha_{ori.}$\\
+
+\subsection{E interacc. dip.}
+
+$U=-\vec{p_2}\vec{E_1}=-p_2E_{1x}$\\
+$\rightarrow U=-k\frac{p_1p_2}{r^3}(3\cos^2\theta-1)$\\
+\textcolor{gray}{dipolos paralelos}\\
+$\Rightarrow$\textbf{Mínima E:} $\pm K\frac{2p_1p_2}{r^3}$\\
+\textcolor{gray}{dependiendo de $\theta=\pi/2\, ,\; 0...$}\\
+\vspace{0.1cm}
+$\frac{dU}{dVol}=\frac{1}{2}\epsilon_r\epsilon_oE^2=\frac{1}{2}\epsilon E^2$ \textcolor{gray}{[$J/m^3$]}\\
+
+\vspace{0.1cm}
+\fbox{\textbf{Campo y potencial}}\\
+\vspace{0.1cm}
+
+\textcolor{gray}{(Coord. polares)}\\
+$V=k\frac{\vec{r}\vec{p_1}}{r^3}=k\frac{p_1}{cos\theta}$\\
+$E_r=-\frac{dV}{dr}=k\frac{2p\cos\theta}{r^3}$\\
+$E_\theta=-\frac{\lambda2v}{r\; d\theta}=k\frac{p\sin\theta}{r^3}$
+
+\vspace{0.1cm}
+\fbox{\textbf{Perm. + Ind.}}\\
+\vspace{0.1cm}
+
+\textcolor{gray}{\small ($p_1\equiv perm.\; ;\; p_2\equiv ind.$)}\\
+$U=-\vec{p_2}E_1$ ; $E_1=E_{1x}=-K\frac{2p_1}{r^3}$\\
+$\vec{p_2}=\alpha\epsilon_o\vec{E_1}$\\
+$\Rightarrow U=-\frac{k}{\pi}\frac{\alpha p_1}{r^6}=-\frac{C}{r^6}$ 
+
+\vspace{0.1cm}
+\fbox{\textbf{Ind. + Ind.}}\\
+\vspace{0.1cm}
+
+$U=-\frac{C}{r^6}$\\
+$C=\frac{3}{2}\alpha_1\alpha_2\frac{I_1I_2}{I_1+I_2}$\\
+\textcolor{gray}{$I_{1,2}\equiv$ E ionización}
+
+\subsection{Gauss}
+
+\textcolor{red}{Sustituir $\epsilon_o$ en ''$k$'' por \textbf{$\epsilon$}.}
+
+
+
+\vfill
+
+
+
+\begin{center}
+\rule{0.3\linewidth}{0.25pt}
+\end{center}
+
+
+
+
+
+\end{multicols}
+\end{document}

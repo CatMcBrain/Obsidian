@@ -1,0 +1,58 @@
+\documentclass[]{scrartcl}
+
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage[Spanish]{babel}
+
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+%opening
+\title{\vspace{-1.8cm}Práctica de Tiro Parabólico}
+\author{Álvaro Jerónimo Sánchez}
+\date{}
+
+\begin{document}
+
+\maketitle
+\setcounter{section}{3}
+\thispagestyle{empty}
+
+\section{\scshape{Cuestiones y discusión}}
+
+\subsection{¿A qué bola le lleva menos tiempo caer? ¿Cómo lo explicarías?}
+
+Ambas caen \textbf{al mismo tiempo} ya que, aunque a una de ellas se le aporte velocidad en el eje x, el eje y no se ve afectado, es decir, en ambos casos el movimiento vertical se ve únicamente influenciado por la aceleración de la gravedad. De hecho, si se observase la caída justo en frente de la catapulta automática (perpendicular al desplazamiento horizontal de la segunda bola), ambas esferas trazarían la misma trayectoria aparente.
+
+\subsection{¿Cuáles son sus trayectorias y por qué?}
+
+Llamaré a la bola que tiene componente x \textbf{bola 1}, y a la que no la tiene \textbf{bola 2}. El tiempo aproximado que estas tardaron en caer fue aproximadamente 0.4 segundos, y la altura de la mesa 0.78 metros.
+
+La \textbf{\underline{bola 1}} describirá una trayectoria parabólica cuyas ecuaciones del movimiento son:
+
+\begin{centering}
+\textsc{\textbf{Eje Y:}} $y=y_{0}+\hcancel[red]{v_{0y}t}-\frac{1}{2}g\cdot t^{2} \rightarrow 0=y_{0}-4.9t^2$\\ 
+\textsc{\textbf{Eje X:}} $x=\hcancel[red]{x_{0}}+v_{0x}t \rightarrow x=v_{0x}t$\\
+\vspace{0.2cm}
+\end{centering}
+
+La \textbf{\underline{bola 2}}, al no tener velocidad en la componente x, trazaría una trayectoria de caída libre, siendo sus ecuaciones del movimiento:
+
+\begin{centering}
+\textsc{\textbf{Eje Y:}} $y=y_{0}+\hcancel[red]{v_{0y}t}-\frac{1}{2}g\cdot t^{2} \rightarrow 0=y_{0}-4.9t^{2}$\\
+\textsc{\textbf{Eje X:}} $x=\hcancel[red]{x_{0}}+\hcancel[red]{v_{0x}t} \rightarrow x=0$\\
+\vspace{0.2cm}
+\end{centering}
+
+Como podemos observar, ambos movimientos tienen la misma ecuación para el \textbf{eje y}, por lo que caen simultáneamente. Sustituyendo los datos en la ecuación del eje y, el tiempo queda como.
+
+\begin{centering}
+$0=0.78-4.9t^{2} \rightarrow t=0.3989\approx 0.4 s$\\
+\end{centering}
+
+\subsection{¿Qué pasaría con las trayectorias si se considerase el rozamiento del aire?}
+
+Si se tuviese en cuenta el rozamiento, ambas bolas caerían ligeramente más tarde, pero se seguiría cumpliendo lo discutido previamente. No obstante, la \textbf{bola 1} no llegaría tan lejos horizontalmente al contar con una fuerza opuesta al movimiento debido al rozamiento del aire.
+
+\end{document}
