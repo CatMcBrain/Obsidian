@@ -45,9 +45,9 @@ ___
 >> Tested crochet patterns.
 >
 >> [!note] Leisure  
->> [[Shopping|🛒]]  
+>> [[Useful PC|💻]]  
 >>  
->> **Shopping**  
->> Saved products.
+>> **PC**  
+>> Notes about useful Computer things.
 >
 

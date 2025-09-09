@@ -71,3 +71,8 @@ _reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2
 ## Revert to a Github commit
 
 ![[Pasted image 20250703161230.png]]
+
+
+## MSYS2 Commands
+
+- Remove special characters from all files in a folder with an e
