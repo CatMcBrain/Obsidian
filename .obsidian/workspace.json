@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/MATEMATICAS-1_Numeros_complejos_export.pdf"
+                "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MATEMATICAS-1_Numeros_complejos_export"
+              "icon": "lucide-file",
+              "title": "Elemental Weaknesses"
             }
           }
         ]
@@ -196,6 +198,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/MATEMATICAS-1_Numeros_complejos_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/Correccion_parcial_1_export.pdf",
     "Universidad/- ARCHIVO/Bachillerato/Física/Problemas Magnético.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Fórmulas Generales.md",
@@ -240,7 +243,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.synctex.gz",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.out",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.log",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.fls"
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/informe.log"
   ]
 }
