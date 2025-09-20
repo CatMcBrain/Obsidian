@@ -6,9 +6,5 @@
 	- [[Elemental Weaknesses]]
 - **Star Citizen**
 	- [[HOTAS]]
-- **Star Rail**
-	- [[Builds]]
-- **ZZZ**
-	- [[Pulchra]]
 
 %% End Waypoint %%

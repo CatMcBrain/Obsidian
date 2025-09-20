@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Notes/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Notes"
             }
           }
         ]
@@ -198,16 +198,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Notes/Games/ZZZ/Pulchra.md",
-    "Home/Home.md",
+    "Notes/Backup/Useful PC.md",
+    "Notes/Backup/Info.md",
+    "Notes/Backup/Heart.md",
+    "Notes/Shopping/Gifts.md",
+    "Notes/Shopping/Shopping.md",
+    "Notes/Shopping/Shop.md",
+    "Notes/Wardrobe/Fragances.md",
+    "Notes/Games/Elite Dangerous/Resources.md",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
+    "Notes/Games/Star Citizen/HOTAS.md",
+    "Home/Home.md",
+    "Notes/Games/Star Rail/Builds.md",
+    "Notes/Games/ZZZ/Pulchra.md",
     "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/MATEMATICAS-1_Numeros_complejos_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/Correccion_parcial_1_export.pdf",
     "Universidad/- ARCHIVO/Bachillerato/Física/Problemas Magnético.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Fórmulas Generales.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Campo Eléctrico.md",
     "Notes/Wardrobe/Wardrobe.md",
-    "Notes/Games/Star Rail/Builds.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Problemas Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Álgebra.md",
@@ -217,16 +226,7 @@
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/MATEMÁTICAS.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/GPT Resumen.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Geometría.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Fórmulas Geometría.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/GPT Ejercicios.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Problemas Gravitación.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Problemas Eléctrico.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Notas Óptica.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Notas Ondas.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Notas Magnético.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Notas Gravitación.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Notas Eléctrico.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas",
     "Universidad/- ARCHIVO/Bachillerato/Física",
     "Universidad/- ARCHIVO/Bachillerato",
