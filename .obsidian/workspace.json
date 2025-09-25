@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a65f57c03388d702",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "T1_Problemas_cinematica_2023_export"
+            }
+          },
+          {
             "id": "6150996d6d891829",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,11 +221,11 @@
   },
   "active": "6150996d6d891829",
   "lastOpenFiles": [
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_1_CINEMATICA_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.tex",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Ejercicios_Generales_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_0_VECTORES_export.pdf",
