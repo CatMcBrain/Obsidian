@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Home"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup/Info.md",
     "Notes/Backup/Heart.md",
@@ -225,7 +226,6 @@
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Análisis.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/MATEMÁTICAS.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/GPT Resumen.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Geometría.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas",
     "Universidad/- ARCHIVO/Bachillerato/Física",
