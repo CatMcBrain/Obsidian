@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Universidad.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universidad"
+              "title": "Home"
             }
           }
         ]
@@ -176,9 +176,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Games/Games.md",
     "Home/Home.md",
-    "Notes/Food/Food.md",
     "Universidad/Universidad.md",
+    "Notes/Food/Food.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
     "Notes/Notes.md",
@@ -191,7 +192,6 @@
     "Notes/Games/ZZZ/Pulchra.md",
     "Notes/Games/ZZZ",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
-    "Notes/Games/Games.md",
     "Notes/Games/Star Citizen/HOTAS.md",
     "Attachments/20250712_220147.jpg",
     "Notes/Games/Star Citizen",
