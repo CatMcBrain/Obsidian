@@ -31,7 +31,8 @@
               "title": "FISICA_-_2_Dinamica_de_una_Particula_export"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +207,10 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "6150996d6d891829",
+  "active": "33a5241b363e9194",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_1_CINEMATICA_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.pdf",
