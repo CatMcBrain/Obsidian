@@ -17,8 +17,7 @@
     "MCL Multi Column",
     "MCL Wide Views",
     "Hoverable Dropdown",
-    "callout_card",
-    "default_pdf_zoom"
+    "callout_card"
   ],
   "showRibbon": true,
   "showViewHeader": true,

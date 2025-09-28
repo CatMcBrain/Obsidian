@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "25c3b6215c79a255",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Dinamica_export"
-            }
-          },
-          {
             "id": "6150996d6d891829",
             "type": "leaf",
             "state": {
@@ -114,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -231,12 +220,12 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "6150996d6d891829",
+  "active": "33a5241b363e9194",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_3_Trabajo_y_energia.autosave_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T3_Problemas_trabajo_y_energia_2023_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_3_Trabajo_y_energia.autosave_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
