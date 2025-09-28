@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e6375b9ae4815ae3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Dinamica_export"
+            }
+          },
+          {
             "id": "33a5241b363e9194",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               "title": "FISICA_-_2_Dinamica_de_una_Particula_export"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,9 +231,10 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "70a4bdcd28ee4aee",
+  "active": "e6375b9ae4815ae3",
   "lastOpenFiles": [
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
     "Notes/Backup/Heart.md",
