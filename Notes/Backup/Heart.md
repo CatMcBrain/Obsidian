@@ -1,6 +1,13 @@
 ## Best Games
 
 - Mercury Meltdown Revolution
+- Super Paper Mario
+- Mario and Luigi Dream Team
+- TLOZ Twiligh Princess
+- Kirby Epic Yarn
+- Epic Mickey 2
+- Zelda Triforce Heroes
+- Majoras Mask
 
 ## Other
 
