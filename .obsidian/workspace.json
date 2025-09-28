@@ -18,6 +18,18 @@
               "icon": "lucide-file-text",
               "title": "FORMULARIO FISICA I"
             }
+          },
+          {
+            "id": "33a5241b363e9194",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FISICA_-_2_Dinamica_de_una_Particula_export"
+            }
           }
         ]
       }
@@ -196,8 +208,9 @@
   },
   "active": "6150996d6d891829",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_1_CINEMATICA_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.tex",
@@ -207,7 +220,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/FISICA_II_-_3_Electrostatica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/FISICA_II_-_2_Campo_Electrico_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/FISICA_II_-_1_Analisis_Vectorial_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Matemáticas I/MATEMATICAS-3_Calculo_diferencial_export.pdf",
     "Home/Home.md",
     "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
