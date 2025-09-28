@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf"
+                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T3_Problemas_trabajo_y_energia_2023_export.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "T2_Problemas_dinamica_2023_export"
+              "title": "T3_Problemas_trabajo_y_energia_2023_export"
             }
           },
           {
@@ -43,7 +43,8 @@
               "title": "FISICA_-_2_Dinamica_de_una_Particula_export"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -219,21 +219,21 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "70a4bdcd28ee4aee",
+  "active": "33a5241b363e9194",
   "lastOpenFiles": [
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T3_Problemas_trabajo_y_energia_2023_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
     "Notes/Backup/Heart.md",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Problemas_cinematica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_1_CINEMATICA_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Formularios/Final - NO TEMA 7/Cheat Sheet Template.tex",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T1_Ejercicios_Generales_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_0_VECTORES_export.pdf",
     "Home/Home.md",
     "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
