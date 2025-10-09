@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home/Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "Dinamica_export"
             }
           }
         ]
@@ -176,8 +174,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Magnetismo_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
     "Home/Home.md",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
     "Notes/Games/Games.md",
     "Universidad/Universidad.md",
     "Notes/Food/Food.md",
