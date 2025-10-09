@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf"
+                "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dinamica_export"
+              "icon": "lucide-file",
+              "title": "Elemental Weaknesses"
             }
           }
         ]
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Universidad/Universidad.md",
+            "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,16 +176,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Magnetismo_export.pdf",
+    "Notes/Games/Games.md",
+    "Notes/Notes.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Magnetismo_export.pdf",
     "Home/Home.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
-    "Notes/Games/Games.md",
     "Universidad/Universidad.md",
     "Notes/Food/Food.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
-    "Notes/Notes.md",
     "Home/Mochi Cat.md",
     "Notes/Ocio/Crochet",
     "Notes/Shopping/Shopping.md",
