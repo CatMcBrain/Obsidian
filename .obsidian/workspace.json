@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "7c11ac54aade02e8",
         "type": "tabs",
         "children": [
           {
-            "id": "33a5241b363e9194",
+            "id": "526dbb9769b88a0c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export"
-            }
-          },
-          {
-            "id": "6150996d6d891829",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FORMULARIO FISICA I"
-            }
-          },
-          {
-            "id": "70a4bdcd28ee4aee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FISICA_5_-_Sistemas_de_Particulas_export"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +192,11 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "6150996d6d891829",
+  "active": "526dbb9769b88a0c",
   "lastOpenFiles": [
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
