@@ -801,7 +801,7 @@
     "fitToPage": 1,
     "paperColor": "white",
     "customPaperColor": "#ffffff",
-    "alignment": "center",
+    "alignment": "top-center",
     "margin": "normal"
   }
 }
