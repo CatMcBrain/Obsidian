@@ -11,13 +11,30 @@
             "id": "526dbb9769b88a0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/UNED/UNED.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "UNED"
+            }
+          },
+          {
+            "id": "7129e464bdfd33d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Universidad/UNED/Ayudas/Coordenadas y dS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Coordenadas y dS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -192,8 +210,12 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "526dbb9769b88a0c",
+  "active": "7129e464bdfd33d3",
   "lastOpenFiles": [
+    "Attachments/{8B9A2135-F0F5-472D-9117-F701D38B1170}.png",
+    "Universidad/UNED/UNED.md",
+    "Universidad/UNED/Ayudas/Coordenadas y dS.md",
+    "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
@@ -203,8 +225,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/Tp_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T4_Problemas_oscilaciones_y_ondas_2023_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_3_Trabajo_y_energia.autosave_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T3_Problemas_trabajo_y_energia_2023_export.pdf",
     "Notes/Backup/Heart.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
     "Home/Home.md",
@@ -228,8 +248,6 @@
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Problemas Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Optimización.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Geometría.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Análisis.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-sl.png",
