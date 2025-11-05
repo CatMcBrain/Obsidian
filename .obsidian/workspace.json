@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "UNED"
             }
-          },
-          {
-            "id": "015225589e1807a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Universidad/UNED/Biología/Biomoléculas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Biomoléculas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +197,11 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "015225589e1807a1",
+  "active": "0f1442455b1fc559",
   "lastOpenFiles": [
-    "Universidad/UNED/Biología/Untitled.md",
     "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/UNED.md",
+    "Universidad/UNED/Biología/Untitled.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
