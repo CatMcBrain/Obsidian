@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c11ac54aade02e8",
+        "id": "1936609bad1ab5ab",
         "type": "tabs",
         "children": [
           {
-            "id": "526dbb9769b88a0c",
+            "id": "0f1442455b1fc559",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "7129e464bdfd33d3",
+            "id": "015225589e1807a1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Universidad/UNED/Ayudas/Coordenadas y dS.md"
+                "file": "Universidad/UNED/Biología/Biomoléculas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Coordenadas y dS"
-            }
-          },
-          {
-            "id": "cbae40d180750039",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Biomoléculas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +210,15 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "cbae40d180750039",
+  "active": "015225589e1807a1",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/Untitled.md",
+    "Universidad/UNED/Biología/Biomoléculas.md",
+    "Universidad/UNED/UNED.md",
+    "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
     "Attachments/{8B9A2135-F0F5-472D-9117-F701D38B1170}.png",
-    "Universidad/UNED/UNED.md",
     "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
@@ -237,7 +228,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/Tp_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T4_Problemas_oscilaciones_y_ondas_2023_export.pdf",
     "Notes/Backup/Heart.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
     "Home/Home.md",
@@ -260,7 +250,6 @@
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Problemas Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Álgebra.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Optimización.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-sl.png",
