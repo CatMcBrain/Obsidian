@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "Coordenadas y dS"
             }
+          },
+          {
+            "id": "cbae40d180750039",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,12 +222,12 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "7129e464bdfd33d3",
+  "active": "cbae40d180750039",
   "lastOpenFiles": [
+    "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
     "Attachments/{8B9A2135-F0F5-472D-9117-F701D38B1170}.png",
     "Universidad/UNED/UNED.md",
-    "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
@@ -256,7 +268,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/diodo-sl.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-l.png",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/diodo.png",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Óptica/Tex/images/tables.png"
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/diodo.png"
   ]
 }
