@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c90beea655f96f95",
+            "id": "d566cdb690e54590",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "excalidraw",
               "state": {
-                "file": "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md"
+                "file": "Universidad/UNED/Biología/2025-11-14 11.32.52.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-11-14 11.21AM"
+              "icon": "excalidraw-icon",
+              "title": "2025-11-14 11.32.52.excalidraw"
             }
           }
         ]
@@ -195,10 +195,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c90beea655f96f95",
+  "active": "d566cdb690e54590",
   "lastOpenFiles": [
-    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
+    "Universidad/UNED/Biología/2025-11-14 11.32.52.excalidraw.md",
+    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Attachments/Grid.png",
     "Universidad/UNED/UNED.md",
@@ -235,7 +236,6 @@
     "Universidad/- ARCHIVO/Bachillerato/Física/Fórmulas Generales.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Campo Eléctrico.md",
     "Notes/Wardrobe/Wardrobe.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-sl.png",
