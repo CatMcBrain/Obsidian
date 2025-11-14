@@ -90,7 +90,7 @@
 	- **Ayudas**
 		- [[Coordenadas y dS]]
 	- **Biología**
-		- [[2025-11-14 11.32.52.excalidraw]]
 		- [[Biomoléculas]]
+		- [[Célula Eucariota]]
 
 %% End Waypoint %%
