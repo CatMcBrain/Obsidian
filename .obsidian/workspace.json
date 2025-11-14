@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "ed8fe4dc1b5c9004",
+            "id": "5928a5928a407e94",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "excalidraw-icon",
+              "title": "2025-11-14 11.08.01.excalidraw"
             }
           }
         ],
@@ -209,11 +209,12 @@
       "vscode-editor:Create Code File": true
     }
   },
-  "active": "ed8fe4dc1b5c9004",
+  "active": "5928a5928a407e94",
   "lastOpenFiles": [
     "Universidad/UNED/UNED.md",
-    "Universidad/UNED/Biología/Biomoléculas.md",
+    "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Universidad/UNED/Biología/Untitled.md",
+    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
@@ -248,7 +249,6 @@
     "Notes/Wardrobe/Wardrobe.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Problemas Álgebra.md",
-    "Universidad/- ARCHIVO/Bachillerato/Matemáticas/Notas Álgebra.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-sl.png",
