@@ -90,7 +90,7 @@
 	- **Ayudas**
 		- [[Coordenadas y dS]]
 	- **Biología**
-		- [[2025-11-14 11.08.01.excalidraw]]
 		- [[Biomoléculas]]
+		- [[Tldraw 2025-11-14 11.21AM]]
 
 %% End Waypoint %%

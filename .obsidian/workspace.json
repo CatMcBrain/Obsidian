@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1936609bad1ab5ab",
+        "id": "73c1e829876ebaf9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1442455b1fc559",
+            "id": "c90beea655f96f95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Universidad/UNED/UNED.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md"
               },
               "icon": "lucide-file",
-              "title": "UNED"
-            }
-          },
-          {
-            "id": "5928a5928a407e94",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2025-11-14 11.08.01.excalidraw"
+              "title": "Tldraw 2025-11-14 11.21AM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +191,18 @@
       "custom-sort:Toggle custom sorting": true,
       "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
-      "vscode-editor:Create Code File": true
+      "vscode-editor:Create Code File": true,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "5928a5928a407e94",
+  "active": "c90beea655f96f95",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/Biomoléculas.md",
+    "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
+    "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Attachments/Grid.png",
     "Universidad/UNED/UNED.md",
-    "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Universidad/UNED/Biología/Untitled.md",
-    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
@@ -255,7 +242,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/graphics.svg",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/diodo-sl.png",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-l.png",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/diodo.png"
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-l.png"
   ]
 }
