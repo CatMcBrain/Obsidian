@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d566cdb690e54590",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Universidad/UNED/Biología/Célula Eucariota.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Célula Eucariota"
-            }
-          },
-          {
             "id": "3e1789002ccf0f39",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "Metabolismo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
