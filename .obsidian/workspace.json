@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -208,7 +209,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "3e1789002ccf0f39",
   "lastOpenFiles": [
     "Universidad/UNED/Biología/Untitled.base",
     "Universidad/UNED/Biología/Metabolismo.md",
