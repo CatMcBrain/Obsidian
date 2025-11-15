@@ -92,5 +92,6 @@
 	- **Biología**
 		- [[Biomoléculas]]
 		- [[Célula Eucariota]]
+		- [[Metabolismo]]
 
 %% End Waypoint %%

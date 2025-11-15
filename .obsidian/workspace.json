@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Célula Eucariota"
             }
+          },
+          {
+            "id": "3e1789002ccf0f39",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Universidad/UNED/Biología/Metabolismo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Metabolismo"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -196,19 +208,30 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d566cdb690e54590",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/Untitled.base",
+    "Universidad/UNED/Biología/Metabolismo.md",
     "Universidad/UNED/Biología/Célula Eucariota.md",
+    "Universidad/UNED/Biología/2025-11-15 20.19.45.excalidraw.md",
+    "Universidad/UNED/Biología/Biomoléculas.md",
+    "Universidad/UNED/Ayudas/Coordenadas y dS.md",
+    "Notes/Games/Games.md",
+    "Notes/Games/Star Citizen/HOTAS.md",
+    "Notes/Games/MH Rise/Elemental Weaknesses.md",
+    "Notes/Games/Elite Dangerous/Guardian Materials.md",
+    "Home/Home.md",
+    "Notes/Wardrobe/Fragances.md",
+    "Notes/Wardrobe/Wardrobe.md",
+    "Universidad/Universidad.md",
     "Attachments/2025-11-14 15-19-11.png",
     "Attachments/3ff824d92693fbf9db1324d0f84605f1.jpg",
     "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
-    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Attachments/Grid.png",
     "Universidad/UNED/UNED.md",
     "Universidad/UNED/Biología/Untitled.md",
     "Universidad/UNED/Biología",
-    "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Attachments/Entrada 3_Fig03.jpg",
     "Attachments/{8B9A2135-F0F5-472D-9117-F701D38B1170}.png",
     "Universidad/UNED/Ayudas",
@@ -219,25 +242,14 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/Tp_export.pdf",
     "Notes/Backup/Heart.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
-    "Home/Home.md",
     "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup/Info.md",
     "Notes/Shopping/Gifts.md",
     "Notes/Shopping/Shopping.md",
     "Notes/Shopping/Shop.md",
-    "Notes/Wardrobe/Fragances.md",
-    "Notes/Games/Elite Dangerous/Resources.md",
-    "Notes/Games/MH Rise/Elemental Weaknesses.md",
-    "Notes/Games/Star Citizen/HOTAS.md",
-    "Notes/Games/Star Rail/Builds.md",
-    "Notes/Games/ZZZ/Pulchra.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Problemas Magnético.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Fórmulas Generales.md",
-    "Universidad/- ARCHIVO/Bachillerato/Física/Campo Eléctrico.md",
     "Universidad/- ARCHIVO/Bachillerato/Física/Untitled drawing.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/resistencia.png",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA II/Laboratorio/Corriente y Resistencia Eléctrica/Tex/images/graphics/filamento-sl.png",
