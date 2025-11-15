@@ -134,6 +134,9 @@
       },
       "waypoint": {
         "startupType": "instant"
+      },
+      "tldraw": {
+        "startupType": "instant"
       }
     }
   }
