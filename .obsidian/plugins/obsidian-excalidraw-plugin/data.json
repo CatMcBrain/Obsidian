@@ -798,7 +798,7 @@
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",
-    "fitToPage": 2,
+    "fitToPage": 4,
     "paperColor": "white",
     "customPaperColor": "#ffffff",
     "alignment": "top-center",
