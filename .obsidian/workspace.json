@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Ciclo celular"
             }
+          },
+          {
+            "id": "f7a481d34c1ebbbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,13 +209,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c99f600804acb898",
+  "active": "f7a481d34c1ebbbf",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/Ciclo celular.md",
     "Attachments/Pasted Image 20251129222143_650.png",
     "Attachments/{3320D6FD-73D5-465C-A34E-8C7A6656B3C9}.png",
     "Attachments/Ciclo-celular.jpg",
     "Universidad/UNED/Biología/Metabolismo.md",
-    "Universidad/UNED/Biología/Ciclo celular.md",
     "Attachments/image004.gif",
     "Attachments/{4228B121-3C3F-4ADB-890E-30C255F6C8A5}.png",
     "Attachments/Esquemas-de-Respiracion-Celular-Panorama-General-de-la-Respiracion-Celular-Aerobica.jpeg",
@@ -228,7 +241,6 @@
     "Universidad/UNED/Biología/Untitled.md",
     "Universidad/UNED/Biología",
     "Attachments/Entrada 3_Fig03.jpg",
-    "Attachments/{8B9A2135-F0F5-472D-9117-F701D38B1170}.png",
     "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
