@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Ciclo celular"
             }
-          },
-          {
-            "id": "f7a481d34c1ebbbf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +196,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f7a481d34c1ebbbf",
+  "active": "c99f600804acb898",
   "lastOpenFiles": [
     "Universidad/UNED/Biología/Ciclo celular.md",
     "Attachments/Pasted Image 20251129222143_650.png",
