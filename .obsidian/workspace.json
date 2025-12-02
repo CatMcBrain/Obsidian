@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Ciclo celular"
             }
+          },
+          {
+            "id": "f3af05284e2d9804",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Universidad/UNED/Biología/6 - Replicación ADN.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "6 - Replicación ADN"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,9 +208,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "298c0a5c4b3b609c",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
     "Universidad/UNED/Biología/Ciclo celular.md",
+    "Universidad/UNED/Biología/6 - Replicación ADN.md",
     "Universidad/UNED/Biología/Célula Eucariota.md",
     "Universidad/UNED/Biología/Metabolismo.md",
     "2025-11-30 12.29.32.excalidraw.md",
@@ -241,7 +255,6 @@
     "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
     "Notes/Backup/Info.md",
-    "Notes/Shopping/Gifts.md",
-    "Notes/Shopping/Shopping.md"
+    "Notes/Shopping/Gifts.md"
   ]
 }
