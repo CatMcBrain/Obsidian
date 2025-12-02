@@ -1,0 +1,119 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage[Spanish]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+%\renewcommand\thesubsection{\Alph{subsection}}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} PEC 1 - Fundamentos de Física III}
+\author{Álvaro Jerónimo Sánchez}
+\date{Noviembre 2025}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+
+\section{Temperatura del Sol y la Estrella Polar con la longitud de onda máxima. Masa que pierde el Sol.}
+
+\textbf{APARTADO A:} Nos dicen que se comporta como un cuerpo negro ideal, lo que significa que absorbe toda la radiación que incide sobre él, y además es emisor de radiación ideal (\textit{Tipler, Física para la ciencia y tecnología Vol. 1}). Esto supone que su \textbf{emisividad será 1} y las características de su radiación se pueden calcular teóricamente.
+
+La \textit{Ley del desplazamiento de Wien} postula que la longitud de onda para la cual la potencia es un máximo varía inversamente con la temperatura. De aquí podemos despejar la temperatura para cada estrella:
+\begin{gather*}
+\lambda_{max}=\frac{b}{T}
+\begin{cases}
+    T_\odot =\frac{0.0028976\, m\cdot K}{5.1\cdot 10^{-7} \, m}=\boxed{5681.57\, K}\\[1ex]
+    T_EP =\frac{0.0028976\, m\cdot K}{3.5\cdot 10^{-7} \, m}=\boxed{8278.86\, K}
+\end{cases}
+\end{gather*}
+
+Siendo \textit{b}  la constente de proporcionalidad.
+
+\textbf{APARTADO B:} Podemos hallar la potencia radiada de un cuerpo mediante la \textit{Ley de Stefan-Boltzmann}, que describe a ésta en función de la temperatura. La emisividad será igual a 1, y el área (\textit{A}) será el área de una esfera (\textit{$\pi R^2$}):
+\begin{gather*}
+P=\cancelto{1}{e}\sigma AT^4 =5.67\cdot 10^8\cdot4\pi R_\odot^2 T_\odot^4 = 3.6\cdot10^{26}\, W
+\end{gather*}
+
+Donde $\sigma$ es la constante de Stefan.
+
+Aplicando la definición de la potencia, que es la energía transmitida por unidad de tiempo, y empleando la relación entre \textbf{masa y energía} ($E=mc^2$):
+\begin{gather*}
+    P=\frac{E}{t}=\frac{mc^2}{t_{(1\text{ año})}}\rightarrow m_{perd}=\frac{P\cdot3.15\cdot10^7}{(2.998\cdot10^8)^2}=1.26\cdot10^7\, kg\text{ en un año}
+\end{gather*}
+
+Para hallar la fracción de la masa que representa, simplemente dividimos entre la masa total:
+\begin{gather*}
+    \frac{m_{perd}}{m_\odot}=\frac{1.26\cdot10^7\, kg}{1.989\cdot10^{30}\, kg}= \boxed{6.35\cdot10^{-14}}\rightarrow \left( 6.35\cdot10^{-14}\% \right)
+\end{gather*}
+
+\section{Átomo excitado. Ensanchamiento natural, anchura fraccional y el doblete de sodio.}
+
+\textbf{APARTADO A:} En este caso, las líneas espectrales que crea el átomo como consecuencia de la emisión de radiación tienen un ancho de banda natural debido al \textit{Principio de incertidumbre de Heisenberg}, ligado a la vida media del estado (\textit{web.ua.es}). La forma de estas líneas espectrales es una \textbf{curva de Lorentz}, y podemos hallar el ensanchamiento ($\Delta v$) con la definición de la anchura a media altura (\textit{FWHM}) de estas curvas en energía y pasándolo a frecuencia con $E=h\nu$ (sabiendo que $\tau=10^{-8}\, s$):
+\begin{gather*}
+    FWHM_{\Delta E}=\frac{\hbar}{\tau}\implies \Delta\nu=\frac{\hbar}{h\tau}=\frac{1}{2\pi\tau}= \boxed{1.59\cdot10^7\, s^{-1}}
+\end{gather*}
+
+\textbf{APARTADO B:} Para hallar la anchura fraccional ($\Delta\nu/\nu$) para $\lambda_1=589.0$ y $\lambda_2=589.6$ (nm), teniendo las longitudes de onda, basta con una aplicación directa de dicha fracción tras pasar las longitudes de onda a frecuencia con $\nu=c/\lambda$:
+\begin{gather*}
+    \frac{\Delta\nu}{\nu}=\frac{\Delta\nu\lambda}{c}
+    \begin{cases}
+        \Delta\nu/\nu_1=\boxed{31.23\cdot10^{-9}}\\[1ex]
+        \Delta\nu/\nu_2=\boxed{31.27\cdot10^{-9}}
+    \end{cases}
+\end{gather*}
+
+\textbf{APARTADO C:} Para hallar $\Delta\lambda$ podemos usar el hecho de que las fracciones de las anchuras fraccionales son \textbf{equivalentes} y sustituir para uno de los valores de longitud de onda dados:
+\begin{gather*}
+    \frac{\Delta\nu}{\nu}=\frac{\Delta\lambda}{\lambda}\implies\Delta\lambda=\frac{\Delta\nu\lambda_1}{\nu_1} =\boxed{1.84\cdot10^{-14}\, m}
+\end{gather*}
+
+Para distinguir el doblete de sodio del ensanchamiento natural, las líneas deberán estar lo suficientemente separadas entre sí. Podemos hallar la $\Delta\lambda$ del doblete con datos de las longitudes de onda (\textit{Georgia State University}):
+\begin{gather*}
+\Delta\lambda_{dob}=589.6-589.0=0.6\, nm \rightarrow\boxed{\lambda_{doblete}\ggg \lambda_{natural}} 
+\end{gather*}
+
+La separación del doblete es mucho mayor que la natural, por lo que \textbf{se distinguirá sin problemas}.
+
+\section{Energia y número cuántico de un péndulo como oscilador armónico.}
+
+\textbf{APARTADO A:} Podemos hallar la energía del estado fundamental sabiendo que el periodo de un péndulo clásico es $T=2\pi\sqrt{L/g}$ y relacionándolo con la velocidad angular (para oscilaciones pequeñas):
+\begin{gather*}
+    E_n=\left(\cancelto{0}{n}+\frac{1}{2}\right)\hbar w_o=\frac{\hbar 2\pi}{2T}=\frac{\hbar}{2}\sqrt{\frac{g}{L}}=\frac{2.25\cdot10^{-34}\, J}{1.60\cdot10^{-19}\, J\cdot eV^{-1}} =\boxed{1.40\cdot10^{-15}\, eV}
+\end{gather*}
+
+Podemos observar que esta energía es \textbf{muy pequeña}, por lo que no influye en un péndulo clásico, es despreciable.
+
+\textbf{APARTADO B:} Hallaremos la energía que posee el péndulo mediante la fórmula de la \textbf{energía potencial}, que será la máxima en el punto más alto (2 mm):
+\begin{gather*}
+    E=mgh=0.04\, kg \cdot 9.81\cdot 0.002=\boxed{7.85\cdot10^{-4}\, J}
+\end{gather*}
+
+Introducimos dicha energía en la fórmula de cuántica y despejamos el nivel ($n$):
+\begin{gather*}
+    E_n=\left(n+\frac{1}{2}\right)\hbar w \implies n=\frac{7.85\cdot10^{-4}}{\hbar\cdot w}-\frac{1}{2}=\boxed{1.76/cdot10^{30}}
+\end{gather*}
+
+El resultado para el supuesto nivel es \textbf{muy grande}, por lo que realmente no corresponde a ningún nivel energético. Esto confirma una vez más que el péndulo no se comporta de manera cuántica, sino clásica.
+
+\end{document}

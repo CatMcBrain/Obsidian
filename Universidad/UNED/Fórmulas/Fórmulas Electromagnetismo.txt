@@ -1,0 +1,5 @@
+#separator:tab
+#html:true
+#tags column:3
+Fórmula	x=\begin{array}{l} 1\\2 \end{array}	Test
+thing	this=\frac{1}{\theta}	Electricidad testing

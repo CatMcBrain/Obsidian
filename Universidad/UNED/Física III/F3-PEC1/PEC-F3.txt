@@ -1,0 +1,31 @@
+~A~
+
+- Cuerpo negro = cuerpo que absorbe toda la radiación que incide sobre él. También es emisor de radiación ideal (características de la radiación que emite se pueden calcular teóricamente) <Tipler V1>
+
+	-> La longitud de onda para la cual la potencia es un máximo varía inversamente con la temperatura [LEY DEL DESPLAZAMIENTO DE WIEN]
+			
+			\lambda_{máx}=\frac{b}{T}
+
+	(b=0.0028976/, m\cdot K, cte de proporcionalidad)
+
+~B~
+
+
+- La ley de Stefan Boltzmann define la potencia radiada de un cuerpo: 
+
+			P=e \sigma A T^4
+
+	(e= emisividad, que es 1 por ser cuerpo negro, /sigma=cte boltzm.)
+
+- La potencia es la energía transmitida por unidad de tiempo, y empleando E=mc^2:
+
+			P=E/t_{año} -> m=(P*t)/c^2
+
+- Para hallar la fracción de la masa que representa:
+
+		\frac{m_{perd}}{m_total}= x -> x %
+
+2______
+
+~A~
+
