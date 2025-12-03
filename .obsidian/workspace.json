@@ -172,8 +172,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New drawing": false,
-      "cmdr:Git: Commit-and-sync": false,
       "cmdr:Files: Show file explorer": false,
+      "cmdr:Git: Commit-and-sync": false,
       "cmdr:Outline: Show outline": false,
       "homepage:Open homepage": false,
       "bases:Create new base": true,
