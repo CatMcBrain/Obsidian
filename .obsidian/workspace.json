@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c99f600804acb898",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Universidad/UNED/Biología/Ciclo celular.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ciclo celular"
-            }
-          },
-          {
             "id": "f3af05284e2d9804",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "6 - Replicación ADN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
