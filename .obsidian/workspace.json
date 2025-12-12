@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "UNED"
             }
+          },
+          {
+            "id": "e9407e5cb93e8555",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Universidad/UNED/Biología/7 - Transcripción y Traducción.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7 - Transcripción y Traducción"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -197,9 +211,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "e9407e5cb93e8555",
   "lastOpenFiles": [
     "Universidad/UNED/Biología/6 - Replicación ADN.md",
+    "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
+    "Universidad/UNED/UNED.md",
     "Universidad/UNED/Biología/Ciclo celular.md",
     "Universidad/UNED/Biología/Célula Eucariota.md",
     "Universidad/UNED/Biología/Metabolismo.md",
@@ -228,7 +244,6 @@
     "Attachments/3ff824d92693fbf9db1324d0f84605f1.jpg",
     "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
     "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
-    "Universidad/UNED/UNED.md",
     "Universidad/UNED/Biología/Untitled.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas",
@@ -243,7 +258,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
     "Notes/Notes.md",
     "Notes/Backup/Useful PC.md",
-    "Notes/Backup/Info.md",
-    "Notes/Shopping/Gifts.md"
+    "Notes/Backup/Info.md"
   ]
 }
