@@ -11,15 +11,30 @@
             "id": "e9407e5cb93e8555",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Ocio/Ocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ocio"
+            }
+          },
+          {
+            "id": "9edfc1b68005a795",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Universidad/UNED/Biología/7 - Transcripción y Traducción.md"
+                "file": "Notes/Ocio/Cloud Chamber.md"
               },
               "icon": "excalidraw-icon",
-              "title": "7 - Transcripción y Traducción"
+              "title": "Cloud Chamber"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -196,8 +210,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e9407e5cb93e8555",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Notes/Ocio/Ocio.md",
+    "Notes/Ocio/Cloud Chamber.md",
+    "Universidad/Universidad.md",
     "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
     "Attachments/wmremove-transformed.jpeg",
     "Attachments/Pasted Image 20251212195758_539.png",
@@ -226,7 +243,6 @@
     "Home/Home.md",
     "Notes/Wardrobe/Fragances.md",
     "Notes/Wardrobe/Wardrobe.md",
-    "Universidad/Universidad.md",
     "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
     "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Universidad/UNED/Biología/Untitled.md",
@@ -241,7 +257,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf",
     "Notes/Backup/Heart.md",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
-    "Notes/Notes.md",
-    "Notes/Backup/Useful PC.md"
+    "Notes/Notes.md"
   ]
 }
