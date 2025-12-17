@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9edfc1b68005a795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/UNED/UNED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNED"
-            }
-          },
-          {
             "id": "48cf32cd3a7d8317",
             "type": "leaf",
             "state": {
@@ -33,8 +19,7 @@
               "title": "8 - Expresión Genética"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -210,14 +196,14 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "48cf32cd3a7d8317",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
     "Universidad/UNED/UNED.md",
     "Universidad/UNED/Biología/8 - Expresión Genética.md",
     "Notes/Ocio/Cloud Chamber.md",
     "Notes/Ocio/Ocio.md",
     "Universidad/Universidad.md",
-    "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
     "Attachments/wmremove-transformed.jpeg",
     "Attachments/Pasted Image 20251212195758_539.png",
     "Attachments/Pasted Image 20251212192854_485.png",
