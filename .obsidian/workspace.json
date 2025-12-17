@@ -8,29 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9407e5cb93e8555",
+            "id": "9edfc1b68005a795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ocio/Ocio.md",
+                "file": "Universidad/UNED/UNED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ocio"
+              "title": "UNED"
             }
           },
           {
-            "id": "9edfc1b68005a795",
+            "id": "48cf32cd3a7d8317",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notes/Ocio/Cloud Chamber.md"
+                "file": "Universidad/UNED/Biología/8 - Expresión Genética.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Cloud Chamber"
+              "title": "8 - Expresión Genética"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -211,8 +210,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "9edfc1b68005a795",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Universidad/UNED/UNED.md",
+    "Universidad/UNED/Biología/8 - Expresión Genética.md",
     "Notes/Ocio/Cloud Chamber.md",
     "Notes/Ocio/Ocio.md",
     "Universidad/Universidad.md",
@@ -222,7 +223,6 @@
     "Attachments/Pasted Image 20251212192854_485.png",
     "Attachments/{BAD01910-1F3C-4E87-8FBA-B09658C903FA}.png",
     "Universidad/UNED/Biología/6 - Replicación ADN.md",
-    "Universidad/UNED/UNED.md",
     "Universidad/UNED/Biología/Ciclo celular.md",
     "Universidad/UNED/Biología/Célula Eucariota.md",
     "Universidad/UNED/Biología/Metabolismo.md",
@@ -257,7 +257,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf",
     "Notes/Backup/Heart.md",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md",
-    "Notes/Notes.md"
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/2025-09-25 23.01.39.excalidraw.md"
   ]
 }
