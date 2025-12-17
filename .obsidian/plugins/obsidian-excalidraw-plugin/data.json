@@ -473,7 +473,7 @@
   },
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
-  "startupScriptPath": "",
+  "startupScriptPath": "ExcalidrawStartup",
   "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
