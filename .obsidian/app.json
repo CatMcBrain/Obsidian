@@ -18,5 +18,6 @@
     "/[sS][nN][iI][pP][pP][eE][tT][sS]/",
     "/[hH][oO][mM][eE]/"
   ],
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "spellcheck": true
 }
