@@ -95,6 +95,7 @@
 		- [[6 - Replicación ADN]]
 		- [[7 - Transcripción y Traducción]]
 		- [[8 - Expresión Genética]]
+		- [[9 - Ingeniería Genética]]
 		- [[Biomoléculas]]
 		- [[Célula Eucariota]]
 		- [[Ciclo celular]]
