@@ -1,6 +1,5 @@
-## Primer año (23/12/2024-2025)
 
-### - Prefacio
+### Prefacio
 
 La primera vez que supe de su existencia fue en una quedada con Elena en Faunia, para ver a Sara en su trabajo, y yo estaba muy nerviosa y tontita cuando hablé con ella en el grupo de whatsapp que se creó (ahora está abandonado).
 
@@ -18,4 +17,8 @@ Esos días fueron maravillosos, mi corazón nunca ha hecho lo que ha hecho esos 
 
 Fuimos a muchos sitios, visitamos una "islita" con marea baja, dimos paseos y, el penúltimo día, fuimos a ver las luces de Vigo (casi nos equivocamos de tren 2 veces). Ese día fue genial, compramos figuritas, las luces se encendían por donde ella pasaba y, cuando subimos en la noria, inmediatamente sentí un aire romántico. Cuando estábamos en la cima, ella me enhebró un brazo, y lo que sentí me va a costar describirlo. Fue un shock, y a la vez me dió comfort instantáneo, la miré a la cara y me miró de vuelta sonriendo de manera preciosa. Me acerqué un poquito más y me aseguré de mantener el bracito unido a ella. Estsba en una nube, pero sólo recuerdo que al bajar sentía que al andar, aún enhebrada, sentía internamente que andaba dando botes de alegría, y tendría la sonrisa más grande del universo. Nos pasamos el resto del día enhebradas y, al volver a casa, estuve jugando a Horizon Zero Dawn en su cuarto. Tras la siesta juntas, sentía que ese día íbamos a dormir juntas, y tras jugar en las sillas, dije "podemos ir yendo a la cama, si quieres", que ella erróneamente interpretó como cada una irnos a dormir a nuestro cuarto. Tras unos segundos de pánico interno, reformulé: "podemos pasar a jugar en la cama, si quieres", y cuando aceptó se me iluminó el corazón. Lentamente fui colocándome en la cama, y jugué tumbadita junto a ella, intentando que el altavoz del mando no le dejase sorda, porque se estaba durmiendo. Al poco rato, quité el juego, puse la música de Animal Crossing, y dormí esa noche. Ella se durmió muy fácilmente y me hizo sentir tan feliz y cómoda. En mi cabeza rondaban tantas cosas positivas y bonitas esa noche.
 
-El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese día fuimos las dos de la mano, y ya se sentía familiar. Lo pasé muy bien y luego comimos todos en un McDonalds, antes de ir al tren de vuelta. Y en la estación, esperando al tren, me aferré a ella y me derrumbé. No me quería ir p
+El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese día fuimos las dos de la mano, y ya se sentía familiar. Lo pasé muy bien y luego comimos todos en un McDonalds, antes de ir al tren de vuelta. Y en la estación, esperando al tren, me aferré a ella y me derrumbé. No me quería ir por nada del mundo. Ella me abrazó y me consoló con muchas cosas, y al final me pidió salir conmigo, y quedar eventualmente en Madrid. Le dije que sí desesperadamente como si mi vida dependiese de ello, y ese punto marca nuestro **Aniversario Cero**. Antes de que el tren partiese me miró por la ventana con la sonrisa más bonita que he visto en mi vida. No es exageración cuando la califico así, nunca he visto nada igual. Sentí tanto amor en esa mirada y sonrisa, y aún la tengo grabada en mi cabeza. La imagen exacta.
+
+## Primer año (23/12/2024-2025)
+
+- Todo pasó tras 
