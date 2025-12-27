@@ -25,10 +25,14 @@
             "id": "4310a489420e83a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Shopping/Gifts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gifts"
             }
           }
         ],
@@ -109,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Games/MH Rise/Elemental Weaknesses.md",
+            "file": "Notes/Shopping/Gifts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,7 +190,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "4310a489420e83a7",
+  "active": "c3c774f5f087d6d3",
   "lastOpenFiles": [
     "Notes/Food/Recipes/Pancakes.md",
     "Notes/Food/Recipes/Omurice.md",
