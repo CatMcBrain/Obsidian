@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Backup/Untitled.md",
+                "file": "Notes/Backup/Love Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Love Journal"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Backup/Untitled.md",
+            "file": "Notes/Backup/Love Journal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
   "active": "4310a489420e83a7",
   "lastOpenFiles": [
     "Universidad/Universidad.md",
-    "Notes/Backup/Untitled.md",
+    "Notes/Backup/Love Journal.md",
     "Notes/Backup/Heart.md",
     "Notes/Shopping/Rebuy.md",
     "ExcalidrawStartup.md",

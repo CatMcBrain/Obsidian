@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - [[Heart]]
 - [[Info]]
-- [[Untitled]]
+- [[Love Journal]]
 - [[Useful PC]]
 
 %% End Waypoint %%
