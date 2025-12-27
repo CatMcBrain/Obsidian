@@ -21,4 +21,5 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 
 ## Primer año (23/12/2024-2025)
 
-- Todo pasó tras 
+- Todo pasó tras volver de nuestros primeros días en Galicia
+- 
