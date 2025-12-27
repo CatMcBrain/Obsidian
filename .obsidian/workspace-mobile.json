@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Pancakes"
             }
+          },
+          {
+            "id": "4310a489420e83a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +186,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "b039e5e20bcf4f53",
+  "active": "4310a489420e83a7",
   "lastOpenFiles": [
+    "Notes/Food/Recipes/Pancakes.md",
     "Notes/Food/Recipes/Omurice.md",
     "Notes/Food/Recipes/Arroz con Leche.md",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
