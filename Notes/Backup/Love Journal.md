@@ -24,18 +24,23 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Todo pasó tras volver de nuestros primeros días en Galicia
 - Empezamos a viajar entre Madrid y Galicia para vernos
 - Tuvimos nuestra primera cita en el hotpot red dragon
-- Fuimos a la Japan
+- Fuimos a la Japan (cojín Kafka, Teto, Jane, el One Piece)
 - Hice buena EVAU pero no entré
 - Nos quedamos tiradas en vilagarcía tras ver Jurassic
-- Fuimos al museo, vimos pelis como Zootrópolis 1 y 2, y HTTYD
+- Fuimos al museo, vimos pelis como Zootrópolis 1 y 2
+- Vimos HTTYD live act en cines, la 2 en su cssa, y fuimos a una expo
+- Vimod una expo de animatrónicos de Jurassic
 - Vimos Robot Salvaje
-- Empezamos Trigun Stsmpede en mi sofá
+- Empezamos Trigun Stsmpede en mi sofá, y también Dinosaur Planet
 - Probé la mejor pasta del mundo y su sopa de lasaña, yo le hice tarta de queso, galletas y cinnamon rolls
 - Soy chica
 - Me visitó en batería
-- Zenzoo
-- 
-
-
+- Zenzoo bubble tea, y muua
+- Heladería Venezzia
+- Token pars carroussel parque Aluche (infancia Estrella)
+- Abuela Estrella (buena y mala)
+- Miau
 - Embolia Lucía
 - Luces de Navidad en nuestro primer aniversario
+
+## Segundo año (2025/26)
