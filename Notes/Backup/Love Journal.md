@@ -41,6 +41,6 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Abuela Estrella (buena y mala)
 - Miau
 - Embolia Lucía
-- Luces de Navidad en nuestro primer aniversario
+- Luces de Navidad en nuestro primer aniversario y cortilandia
 
 ## Segundo año (2025/26)
