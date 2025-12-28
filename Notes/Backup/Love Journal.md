@@ -27,6 +27,7 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Concierto Kikuo
 - Apagón
 - Fuimos a la Japan (cojín Kafka, Teto, Jane, el One Piece)
+- Fuimos a la playa de galicia
 - Hice buena EVAU pero no entré
 - Nos quedamos tiradas en vilagarcía tras ver Jurassic
 - Fiestas Aluche y fuegos
