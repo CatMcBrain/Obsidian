@@ -32,6 +32,8 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Empezamos Trigun Stsmpede en mi sofá
 - Probé la mejor pasta del mundo y su sopa de lasaña, yo le hice tarta de queso, galletas y cinnamon rolls
 - Soy chica
+- Me visitó en batería
+- Zenzoo
 - 
 
 
