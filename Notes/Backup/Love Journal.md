@@ -30,5 +30,10 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Fuimos al museo, vimos pelis como Zootrópolis 1 y 2, y HTTYD
 - Vimos Robot Salvaje
 - Empezamos Trigun Stsmpede en mi sofá
+- Probé la mejor pasta del mundo y su sopa de lasaña, yo le hice tarta de queso, galletas y cinnamon rolls
+- Soy chica
+- 
+
+
 - Embolia Lucía
 - Luces de Navidad en nuestro primer aniversario
