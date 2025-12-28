@@ -29,6 +29,7 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Fuimos a la Japan (cojín Kafka, Teto, Jane, el One Piece)
 - Hice buena EVAU pero no entré
 - Nos quedamos tiradas en vilagarcía tras ver Jurassic
+- Fiestas Aluche
 - Fuimos al museo, vimos pelis como Zootrópolis 1 y 2
 - Vimos HTTYD live act en cines, la 2 en su cssa, y fuimos a una expo
 - Vimod una expo de animatrónicos de Jurassic
