@@ -13,7 +13,7 @@ En estas conversaciones digitales fue donde me empecé a animar a decirle cosita
 
 Finalmente me invitó a su casa para Diciembre. Jamás nadie me había invitado a dormir 5 días a su casa, y menos fuera de Madrid, pero yo misma en la cabeza estaba **tan segura** de que era simplemente una invitación amistosa. Creía esto porque es que ni de broma me veo en su liga y en mi cabeza no cabía que pudiese gustarle, y pensaba que esta invitación realmente sería algo normal para ella, ya que siempre ha tenido una casa grande y estaba acostumbrada a invitar a gente; y esto le dije a mis padres y amigas a pesar de que todos se olían lo que yo no...
 
-Esos días fueron maravillosos, mi corazón nunca ha hecho lo que ha hecho esos días. Me enseñó mil cosas, jugamos juntas, escuchamos Vocaloid y estuve con los gatitos (que al final acabaron confiando todos). Día a día me sentía más cómoda y sentía que podía ser más cariñosa. Cuando me iba a dormir en la cama montada del despacho (con Osi), sentía que quería estar con Estrella, y le mandaba mensajitos para que supiese que le apreciaba y me caía muy bien. Por cierto, ella olía muy bien. También estuvimos viendo House, en su sofá y en su cama. Poco a poco me iba acercando milimétricamente más a ella, un día tenía la cabecita algo más cerca a la suya que el anterior. Y el penúltimo día (el de Vigo, que explico a continuación), lo vimos tumbadas en su cama, con brazos y piernas entrelazadas, y acabó en la mejor siesta de mi vida.
+Esos días fueron maravillosos, mi corazón nunca ha hecho lo que ha hecho esos días. Me enseñó mil cosas, jugamos juntas, escuchamos Vocaloid en su tele y estuve con los gatitos (que al final acabaron confiando todos). Día a día me sentía más cómoda y sentía que podía ser más cariñosa. Cuando me iba a dormir en la cama montada del despacho (con Osi), sentía que quería estar con Estrella, y le mandaba mensajitos para que supiese que le apreciaba y me caía muy bien. Por cierto, ella olía muy bien. También estuvimos viendo House, en su sofá y en su cama. Poco a poco me iba acercando milimétricamente más a ella, un día tenía la cabecita algo más cerca a la suya que el anterior. Y el penúltimo día (el de Vigo, que explico a continuación), lo vimos tumbadas en su cama, con brazos y piernas entrelazadas, y acabó en la mejor siesta de mi vida.
 
 Fuimos a muchos sitios, visitamos una "islita" con marea baja, dimos paseos y, el penúltimo día, fuimos a ver las luces de Vigo (casi nos equivocamos de tren 2 veces). Ese día fue genial, compramos figuritas, las luces se encendían por donde ella pasaba y, cuando subimos en la noria, inmediatamente sentí un aire romántico. Cuando estábamos en la cima, ella me enhebró un brazo, y lo que sentí me va a costar describirlo. Fue un shock, y a la vez me dió comfort instantáneo, la miré a la cara y me miró de vuelta sonriendo de manera preciosa. Me acerqué un poquito más y me aseguré de mantener el bracito unido a ella. Estsba en una nube, pero sólo recuerdo que al bajar sentía que al andar, aún enhebrada, sentía internamente que andaba dando botes de alegría, y tendría la sonrisa más grande del universo. Nos pasamos el resto del día enhebradas y, al volver a casa, estuve jugando a Horizon Zero Dawn en su cuarto. Tras la siesta juntas, sentía que ese día íbamos a dormir juntas, y tras jugar en las sillas, dije "podemos ir yendo a la cama, si quieres", que ella erróneamente interpretó como cada una irnos a dormir a nuestro cuarto. Tras unos segundos de pánico interno, reformulé: "podemos pasar a jugar en la cama, si quieres", y cuando aceptó se me iluminó el corazón. Lentamente fui colocándome en la cama, y jugué tumbadita junto a ella, intentando que el altavoz del mando no le dejase sorda, porque se estaba durmiendo. Al poco rato, quité el juego, puse la música de Animal Crossing, y dormí esa noche. Ella se durmió muy fácilmente y me hizo sentir tan feliz y cómoda. En mi cabeza rondaban tantas cosas positivas y bonitas esa noche.
 
@@ -22,5 +22,13 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 ## Primer año (23/12/2024-2025)
 
 - Todo pasó tras volver de nuestros primeros días en Galicia
--  Empezamos a viajar entre Madrid y Galicia para vernos
-- 
+- Empezamos a viajar entre Madrid y Galicia para vernos
+- Tuvimos nuestra primera cita en el hotpot red dragon
+- Fuimos a la Japan
+- Hice buena EVAU pero no entré
+- Nos quedamos tiradas en vilagarcía tras ver Jurassic
+- Fuimos al museo, vimos pelis como Zootrópolis 1 y 2, y HTTYD
+- Vimos Robot Salvaje
+- Empezamos Trigun Stsmpede en mi sofá
+- Embolia Lucía
+- Luces de Navidad en nuestro primer aniversario
