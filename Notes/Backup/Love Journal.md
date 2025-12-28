@@ -24,6 +24,8 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Todo pasó tras volver de nuestros primeros días en Galicia
 - Empezamos a viajar entre Madrid y Galicia para vernos
 - Tuvimos nuestra primera cita en el hotpot red dragon
+- Concierto Kikuo
+- Apagón
 - Fuimos a la Japan (cojín Kafka, Teto, Jane, el One Piece)
 - Hice buena EVAU pero no entré
 - Nos quedamos tiradas en vilagarcía tras ver Jurassic
