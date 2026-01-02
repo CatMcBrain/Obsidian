@@ -1,0 +1,4 @@
+Vector unitario por sí mismo	\vec{u_r}\cdot\vec{u_r}=1	Vector
+Rotacional de campo conservativo	\Delta \times E=0	Vector, Divergencia
+Teorema del gradiente (por la línea)	\int \Nabla A dl = A_2-A_1\\\text{\small La integral de línea de un campo escalar sólo depende del punto inicial y final, no del camino}	Divergencia
+Teorema de la Divergencia	\int_S Fds = \int_V\Nabla Fdv	Divergencia

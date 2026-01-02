@@ -1,0 +1,153 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\crefname{table}{tabla}{tablas}
+
+\usepackage[
+    backend=biber,
+	citestyle=verbose-ibid,
+    bibstyle=authoryear-icomp,
+    natbib=true,
+    url=true, 
+    doi=true,
+    eprint=false
+]{biblatex}
+
+\addbibresource{ref.bib}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+%\renewcommand\thesubsection{\Alph{subsection}}
+
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} Prueba Optativa. Fundamentos de Física III Comprobación de la Ley de Hubble con Stellarium}
+\author{Álvaro Jerónimo Sánchez}
+\date{26/Diciembre/2025}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+\renewcommand{\tablename}{Tabla}
+
+\begin{abstract}
+	En este documento se presenta el trabajo para la prueba optativa de Fundamentos de Física III. Se empezará detallando la metodología y mostrando las tablas, gráficas o desarrollos oportunos, y tras esto se responderán a las cuestiones presentadas de manera breve. Al final del documento, en el apéndice, se encuentra la \cref{tab:data} así como la Declaración de Autoría rellena y firmada con lápiz digital.
+\end{abstract}
+
+\section{Obtención de los datos}
+
+Para obtener los datos mostrados en la \cref{tab:data}, se ha empleado el programa \textit{Stellarium} para buscar el desplazamiento espectral ($z$), la distancia ($b$) y la magnitud aparente ($m$). Para calcular la velocidad de recesión, se ha aplicado la \textbf{Ley de Hubble} (\cite{UNED}) usando la relación:
+\begin{gather*}
+	v=c\left( \lambda-\lambda_0 \right) = cz =H_0d\\
+\end{gather*}
+Empleando la misma llegamos a que $H_0=v/d$ , con lo que se han podido hallar los valores de la constante de Hubble, con los que posteriormente se ha hecho una media para llegar al valor aproximado. Para esto también ha sido necesario el dato de $c\approx299792\,km/s$.
+
+El valor de $H_0$ medio hallado se corresponde bastante con el teórico, especialmente comparándolo a un estudio del mismo para el universo local por la colaboración \textit{SH0ES} (\cite{riess2022comprehensive}), que estima la constante de Hubble en $73.04\pm 1.04\, km\, s^{-1}\, Mpc^{-1}$.
+
+La magnitud absoluta visual ($M$) se ha hallado con la siguiente relación entre $m$ y $M$ (\cite{UNED}), despreciando la extinción interestelar:
+\begin{gather*}
+	m-M=5\log \frac{d\text{ (en parsec)}}{10}
+\end{gather*}
+
+\section{Gráficas}
+
+\begin{figure}[!h]
+\centering
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{graphs/graph.png}
+  \caption{Gráfica $v (km/s)$ vs $d (Mpc)$ con pendiente $m=72.076\; km\, s^{-1}\, Mpc^{-1}$}
+  \label{fig:graph}
+\end{subfigure}%
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=\textwidth]{graphs/graph2.png}
+  \caption{Gráfica $d (km)$ vs $v (km/\text{año})$ con pendiente $m=1.3487\cdot 10^{10}\;\text{años}$}
+  \label{fig:graph2}
+\end{subfigure}
+\caption{Figuras generadas con matplotlib y seaborn en python}
+\label{fig:graphs}
+\end{figure}
+
+Tras graficar la velocidad de recesión frente a la distancia, la pendiente resultante debe acercarse al valor de la constante de Hubble $H_0$, hecho que se ha observado en este caso.
+
+Para la \cref{fig:graph2} se han pasado las unidades de velocidad a $km/\text{año}$ y las de distancia a $km$ para hallar un valor de la edad del universo (en la pendiente) en años. El valor calculado se acerca a valores teóricos (\cite{ade2014planck}, Table 10), por lo que se ha concluido que la obtención del mismo ha sido exitosa.
+
+\section{Longitud de onda $H_\alpha$ para z mayor}
+
+En este caso, \textbf{LEDA 2816758} es la galaxia con mayor z ($z=0.1778$). Teniendo en cuenta que la línea $H_\alpha$ del hidrógeno tiene una longitud de onda de $\lambda_0=6562.8\, \text{\r{A}}$ (\cite{UNED}), se puede calcular la longitud de onda observada para LEDA 2816758.
+
+Empleando la definición del desplazamiento al rojo:
+\begin{gather*}
+	z=\frac{\Delta\lambda}{\lambda_0}=\frac{(\lambda-\lambda_0)}{\lambda_0} \implies \lambda=\lambda_0 (z+1) = \boxed{7729.67\;\r{A}}
+\end{gather*}
+
+\section{Cuestiones}
+
+\subsection{Valor medio de la constante de Hubble}
+
+Se ha hallado que este valor es $\boxed{H_0=73.41735\; km\, s^{-1}\, Mpc^{-1}}$ , que entra en el margen de error del valor aceptado en la actualidad, siendo este $73.04\pm 1.04\, km\, s^{-1}\, Mpc^{-1}$ (\cite{riess2022comprehensive}).
+
+\subsection{Edad del universo con la constante de Hubble}
+
+Pasándolo a las unidades correspondientes, la edad del universo calculada con el valor medio de la constante de Hubble es: $\tau_0=\frac{1}{H_0}=\boxed{1.332\cdot 10^{10} \text{años}}$ , que es un valor cercano al aceptado actualmente (\cite{riess2022comprehensive}).
+
+\subsection{Valor de la constante de Hubble con gráfica}
+
+El valor obtenido de la constante de Hubble con la pendiente de la \cref{fig:graph} es $H_0=\boxed{\scriptstyle 72.076\; km\, s^{-1}\, Mpc^{-1}}$ , que entra en el margen de error del valor aceptado en la actualidad, siendo este $73.04\pm 1.04\, km\, s^{-1}\, Mpc^{-1}$ (\cite{riess2022comprehensive}).
+
+\subsection{Edad del universo con gráfica}
+
+El valor obtenido de la edad del universo con la pendiente de la \cref{fig:graph2} es $\tau_0=\boxed{1.3487\cdot 10^{10}\;\text{años}}$ , que es un valor ligeramente más cercano al aceptado actualmente (\cite{riess2022comprehensive}) que el hallado con la constante de Hubble media.
+
+\subsection{Galaxias con z negativo}
+
+Un $z$ negativo para una galaxia simplemente significa que corre al azul en vez de correr al rojo. No contradice la Ley de Hubble, que trata de la expansión del universo, sólo supone que la galaxia se acerca a nosotros en vez de alejarse.
+
+\subsection{Longitud de onda de la línea $H_\alpha$ para LEDA 2816758}
+
+En tre las galaxias estudiadas, LEDA 2816758 es la galaxia con mayor z ($z=0.1778$), y se ha hallado una $\lambda=\boxed{7729.67\;\text{\r{A}}}$. Se puede observar que esta longitud de onda es mayor que la medida en el laboratorio, y esto es debido al \textbf{efecto Doppler}, ya que la galaxia se está alejando de la tierra y la longitud de onda se ``estira'' debido a esto.
+
+
+
+\nocite{*}
+\printbibliography
+
+\appendix
+\textbf{APPENDIX}
+
+\begin{table}[!h]
+\centering
+\includegraphics[width=\columnwidth]{data.png}
+\caption{Tabla con los datos de cada galaxia obtenidos con \textit{Stellarium}}
+\label{tab:data} 
+\end{table}
+
+\begin{center}
+\includegraphics[width=0.9\textwidth]{autoría.png}
+\end{center}
+
+
+\end{document}

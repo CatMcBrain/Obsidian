@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf7dda9d7a0e102",
+        "id": "33dc241c6240652b",
         "type": "tabs",
         "children": [
           {
-            "id": "94f6a457bb75b6b0",
+            "id": "0dbf7f952eafa070",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Universidad/UNED/Biología/9 - Ingeniería Genética.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "9 - Ingeniería Genética"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +194,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "94f6a457bb75b6b0",
+  "active": "0dbf7f952eafa070",
   "lastOpenFiles": [
     "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
     "Attachments/Pasted Image 20251221163949_811.png",

@@ -1,0 +1,144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{UNED}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f668207a8831a88cb5364b2c238fd1a}{%
+           family={Gálvez},
+           familyi={G\bibinitperiod},
+           given={Óscar},
+           giveni={Ó\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Educación a Distancia, Departamento de Física Interdisciplinar}%
+      }
+      \strng{namehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{fullhash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{fullhashraw}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{bibnamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorbibnamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authornamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorfullhash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorfullhashraw}{3f668207a8831a88cb5364b2c238fd1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Astrofísica y Cosmología}
+      \field{year}{2025}
+    \endentry
+    \entry{riess2022comprehensive}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=bcb83d57032e16edd4941911fcf6ef0a}{%
+           family={Riess},
+           familyi={R\bibinitperiod},
+           given={Adam\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be3d6610d2a5e155f3c1045ae546dad8}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wenlong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e824831f1466a7b83642f70ad38f2918}{%
+           family={Macri},
+           familyi={M\bibinitperiod},
+           given={Lucas\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=084beede80f921c559306aa514beb242}{%
+           family={Scolnic},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=950f844670d0e5e4f7aca8c5c27c4c78}{%
+           family={Brout},
+           familyi={B\bibinitperiod},
+           given={Dillon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=488598ce4a51d0f4672e3b808323c520}{%
+           family={Casertano},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4e45346afc91623041e12bad41650aa}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima O},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67ff0ad676530cfbe30f8b3e0e9544b6}{%
+           family={Murakami},
+           familyi={M\bibinitperiod},
+           given={Yukei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a72c4fd1e70a1cb061322ad11b51b44f}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Gagandeep\bibnamedelima S},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d64d56e8e99939f0faecaa7803f2c71}{%
+           family={Breuval},
+           familyi={B\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{fullhash}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{fullhashraw}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{bibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorbibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authornamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorfullhash}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{authorfullhashraw}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical journal letters}
+      \field{number}{1}
+      \field{title}{A comprehensive measurement of the local value of the Hubble constant with 1 km s- 1 Mpc- 1 uncertainty from the Hubble Space Telescope and the SH0ES team}
+      \field{volume}{934}
+      \field{year}{2022}
+      \field{pages}{L7}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

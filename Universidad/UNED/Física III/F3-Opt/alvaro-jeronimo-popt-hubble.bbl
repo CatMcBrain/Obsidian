@@ -1,0 +1,236 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ade2014planck}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=1ed18fcaf82706a034b6c0d9fc3a0b8c}{%
+           family={Ade},
+           familyi={A\bibinitperiod},
+           given={Peter\bibnamedelima AR},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4a68056dc8f2b1292dc2317a35d65431}{%
+           family={Aghanim},
+           familyi={A\bibinitperiod},
+           given={Nabila},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1f8baf115faee98f11495f979a3b98d3}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={MIR},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2291995163be56f040fa58c727ae6552}{%
+           family={Armitage-Caplan},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={Charmaine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91f02aef6904253aa317a3a2c8ec25a2}{%
+           family={Arnaud},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7137e8418d9673d0706e88fba2b843b3}{%
+           family={Ashdown},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c912f255c1d952c02eb9d7fa5012ae65}{%
+           family={Atrio-Barandela},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=99776626ac726ad2e95cd64f7ec3deed}{%
+           family={Aumont},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=097c1d7f988b050a0e81f165b6b6c06f}{%
+           family={Aussel},
+           familyi={A\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=142ba4c0e9cf8ef1f2256b0740e812d3}{%
+           family={Baccigalupi},
+           familyi={B\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EDP sciences}%
+      }
+      \strng{namehash}{f9adafeac4fb003c834e9500e77c3dcb}
+      \strng{fullhash}{6ba843f889ca7b50bf35f96df03b5c4b}
+      \strng{fullhashraw}{6ba843f889ca7b50bf35f96df03b5c4b}
+      \strng{bibnamehash}{f9adafeac4fb003c834e9500e77c3dcb}
+      \strng{authorbibnamehash}{f9adafeac4fb003c834e9500e77c3dcb}
+      \strng{authornamehash}{f9adafeac4fb003c834e9500e77c3dcb}
+      \strng{authorfullhash}{6ba843f889ca7b50bf35f96df03b5c4b}
+      \strng{authorfullhashraw}{6ba843f889ca7b50bf35f96df03b5c4b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy \& Astrophysics}
+      \field{title}{Planck 2013 results. I. Overview of products and scientific results}
+      \field{volume}{571}
+      \field{year}{2014}
+      \field{pages}{A1}
+      \range{pages}{-1}
+    \endentry
+    \entry{UNED}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f668207a8831a88cb5364b2c238fd1a}{%
+           family={Gálvez},
+           familyi={G\bibinitperiod},
+           given={Óscar},
+           giveni={Ó\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Educación a Distancia, Departamento de Física Interdisciplinar}%
+      }
+      \strng{namehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{fullhash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{fullhashraw}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{bibnamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorbibnamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authornamehash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorfullhash}{3f668207a8831a88cb5364b2c238fd1a}
+      \strng{authorfullhashraw}{3f668207a8831a88cb5364b2c238fd1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Astrofísica y Cosmología}
+      \field{year}{2025}
+    \endentry
+    \entry{riess2022comprehensive}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=bcb83d57032e16edd4941911fcf6ef0a}{%
+           family={Riess},
+           familyi={R\bibinitperiod},
+           given={Adam\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=be3d6610d2a5e155f3c1045ae546dad8}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wenlong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e824831f1466a7b83642f70ad38f2918}{%
+           family={Macri},
+           familyi={M\bibinitperiod},
+           given={Lucas\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=084beede80f921c559306aa514beb242}{%
+           family={Scolnic},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=950f844670d0e5e4f7aca8c5c27c4c78}{%
+           family={Brout},
+           familyi={B\bibinitperiod},
+           given={Dillon},
+           giveni={D\bibinitperiod}}}%
+        {{hash=488598ce4a51d0f4672e3b808323c520}{%
+           family={Casertano},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a4e45346afc91623041e12bad41650aa}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima O},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=67ff0ad676530cfbe30f8b3e0e9544b6}{%
+           family={Murakami},
+           familyi={M\bibinitperiod},
+           given={Yukei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a72c4fd1e70a1cb061322ad11b51b44f}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={Gagandeep\bibnamedelima S},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0d64d56e8e99939f0faecaa7803f2c71}{%
+           family={Breuval},
+           familyi={B\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{fullhash}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{fullhashraw}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{bibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorbibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authornamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorfullhash}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \strng{authorfullhashraw}{a4bcd8002d0e1ce20efa2ec36b37a6ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical journal letters}
+      \field{number}{1}
+      \field{title}{A comprehensive measurement of the local value of the Hubble constant with 1 km s- 1 Mpc- 1 uncertainty from the Hubble Space Telescope and the SH0ES team}
+      \field{volume}{934}
+      \field{year}{2022}
+      \field{pages}{L7}
+      \range{pages}{1}
+    \endentry
+    \entry{stellarium}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9ab0a08bcaf050fbdecee67ecbe19568}{%
+           family={Stellarium},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{fullhash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{fullhashraw}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{bibnamehash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{authorbibnamehash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{authornamehash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{authorfullhash}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \strng{authorfullhashraw}{9ab0a08bcaf050fbdecee67ecbe19568}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Software}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
