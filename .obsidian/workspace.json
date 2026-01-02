@@ -11,10 +11,12 @@
             "id": "0dbf7f952eafa070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Ocio/Cloud Chamber.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Cloud Chamber"
             }
           }
         ]
@@ -196,6 +198,7 @@
   },
   "active": "0dbf7f952eafa070",
   "lastOpenFiles": [
+    "Notes/Backup/Love Journal.md",
     "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
     "Attachments/Pasted Image 20251221163949_811.png",
     "Attachments/Pasted Image 20251221135002_866.png",
