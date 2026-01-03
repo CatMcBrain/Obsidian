@@ -35,7 +35,7 @@ R6: 14sc, change to colour B, 4sc, change to colour A, 12sc (30)
 R7: 13sc, change to colour B, 6sc, change to colour A, 11sc (30) In colour B: 
 R8-9: sc around (30) 
 R10: [3sc, dec] x 6 (24) Tail: ch7, turn, hdc, 5slst 
-R11: [sc, dec, sc, BO, dec, sc, dec, BO] x 2, 2sc (18) 1 extra dec at end
+R11: [sc, dec, sc, BO, dec, sc, dec, BO] x 2, 2sc (18)
 - Add stuffing 
 R12: [sc, dec] x 6 (12) 
 R13: dec x 6 (6) 
