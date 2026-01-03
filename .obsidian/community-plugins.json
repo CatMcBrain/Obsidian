@@ -27,7 +27,6 @@
   "obsidian-pandoc",
   "obsidian-enhancing-export",
   "hide-folders",
-  "swiftlatex-render",
   "vscode-editor",
   "obsidian-latex-environments",
   "obsidian-tikzjax",
@@ -42,5 +41,6 @@
   "obsidian-day-and-night",
   "lazy-plugins",
   "cmdr",
-  "tldraw"
+  "tldraw",
+  "swiftlatex-render"
 ]
