@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33dc241c6240652b",
+        "id": "55b7206c14612cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbf7f952eafa070",
+            "id": "c95452249b140c53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Ocio/Crochet/Mochi Cat.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidad/UNED/Biología/7 - Transcripción y Traducción.md"
               },
-              "icon": "lucide-file",
-              "title": "Mochi Cat"
+              "icon": "excalidraw-icon",
+              "title": "7 - Transcripción y Traducción"
             }
           }
         ]
@@ -198,8 +196,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "0dbf7f952eafa070",
+  "active": "c95452249b140c53",
   "lastOpenFiles": [
+    "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Cloud Chamber.md",
     "Notes/Backup/Love Journal.md",
     "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
@@ -236,7 +235,6 @@
     "Notes/Wardrobe/Fragances.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
-    "Universidad/UNED/Biología/2025-11-14 11.08.01.excalidraw.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
