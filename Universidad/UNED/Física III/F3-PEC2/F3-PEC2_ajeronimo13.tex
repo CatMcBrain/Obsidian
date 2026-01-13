@@ -1,0 +1,157 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\crefname{table}{tabla}{tablas}
+
+\usepackage[
+    backend=biber,
+	citestyle=verbose-ibid,
+    bibstyle=authoryear-icomp,
+    natbib=true,
+    url=true, 
+    doi=true,
+    eprint=false
+]{biblatex}
+
+\addbibresource{ref.bib}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+\renewcommand\thesection{\alph{section}}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} PEC 2 - Fundamentos de Física III}
+\author{Álvaro Jerónimo Sánchez}
+\date{11/01/2026}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+\renewcommand{\tablename}{Tabla}
+
+\section{Ángulo de decaimiento de los fotones emitidos en S.Ref. del Laboratorio}
+
+Podemos hallar el ángulo en el que se emite un fotón con la relación matemática $\tan\theta =\frac{\text{comp. transversal}}{\text{comp. longitudinal}}=\frac{\rho_T}{\rho_z}$ , y para hallar cada componente del momento lineal, debemos realizar una transformación del sistema de referencia.
+
+Para hallar $\gamma$, se ha empleado la relación $\rho=\gamma mv$ para transformar la definición de $\gamma$ y dejarla en función del momento lineal:
+\begin{gather*}
+	\gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}=\frac{1}{\sqrt{1-\frac{\rho^2}{\gamma^2 m^2 c^2}}} \implies 1 = \gamma \sqrt{1-\frac{\rho^2}{\gamma^2 m^2 c^2}} = \gamma^2 \left( 1-\frac{\rho^2}{\gamma^2 m^2 c^2} \right) \implies \gamma = \sqrt{1+\frac{\rho^2}{m^2c^2}}
+\end{gather*}
+Sustituyendo $p_\pi=\sqrt{3} m_\pi c$  obtenemos: $\gamma = \sqrt{1+3}=2$ 
+
+El fotón emitido sólo se mueve verticalmente con respecto al haz de piones, ya que se mueve a la par que éste de manera longitudinal, por lo que no tiene componente $\rho^\ast_z$. Empleando las relación $E=\gamma mc^2$ hallamos que las componentes del momento lineal en el \textbf{sistema de referencia del haz de piones} son:
+\begin{gather*}
+	\left\{
+	\begin{array}{l}
+		\rho^\ast_z = 0\\
+		\rho^\ast_T = \gamma mv = \frac{E^\ast_\gamma}{c}
+	\end{array}
+	\right.
+\end{gather*}
+En el \textbf{sistema de referencia del laboratorio}, sí que habrá componente transversal, y se observará cómo los fotones se emiten a un ángulo ($\theta$) sobre la horizontal del haz de piones. Para hallar ésta se ha empleado la transformación de la energía $E=\gamma(E'+v\rho')$, y posteriormente se ha dividido el momento total obtenido en sus componentes con Pitágoras. La componente transversal será la misma que la observada en el sistema de referencia del haz de piones.
+\begin{gather*}
+	\rho=\frac{E_\gamma}{c} = \frac{\gamma}{c}(E^\ast_\gamma + \cancelto{0}{v\rho^\ast_z}) \\ 
+	\vspace{8px}
+	\left\{
+	\begin{array}{l}
+		\rho_z = \sqrt{\rho^2+\rho_T^2}=\sqrt{(\frac{\gamma E^\ast_\gamma}{c})^2+(\frac{E^\ast_\gamma}{c})^2}=\sqrt{(\frac{E^\ast\gamma}{c})^2(2+1)}=\frac{E^\ast\gamma}{c}\sqrt{3}\\
+		\rho_T = \rho^\ast_T
+	\end{array}
+	\right.
+\end{gather*}
+Sustituyendo estos valores en la relación trigonométrica, obtenemos $\theta$:
+\begin{gather*}
+	\tan\theta=\frac{\frac{E^\ast_\gamma}{c}}{\sqrt{3} \frac{E^\ast_\gamma}{c}} = \frac{1}{\sqrt{3}} \implies \theta =\arctan\left( \frac{1}{\sqrt{3}} \right) = \boxed{30\text{°}}
+\end{gather*}
+
+\section{Velocidad de los piones en el sistema de referencia del laboratorio}
+
+Para hallar la velocidad de los piones en el sistema de referencia del laboratorio, basta con aplicar la definición del momento lineal relativista, empleando el dato de $p_\pi=\sqrt{3} m_\pi c$ y el valor hallado $\gamma = 2$:
+\begin{gather*}
+	\rho_\pi=\gamma mv\implies v_\pi=\frac{\rho_\pi}{\gamma m_\pi}=\frac{\sqrt{3}m_\pi c}{2 m_\pi} =\boxed{\frac{\sqrt{3}}{2}c\; m/s}
+\end{gather*}
+
+\section{Distancia al origen a la que empezamos a detectar fotones}
+
+\begin{wrapfigure}[9]{l}{0pt}
+\begin{tikzpicture}[scale=1]
+
+\draw (0,0) -- (0,3);
+\draw (0,0) -- (6,0);
+\draw (0,3) -- (5,3);
+
+\draw[|-|] (0,3.3) -- (3,3.3);
+
+
+\foreach \x in {0.4,0.8,...,5} {
+    \draw (\x,3) -- (\x+0.2,3.2);
+}
+
+\node[left]  at (0,2) {50 cm};
+\node[above] at (1.5,3.3) {$\ell$};
+\node[below] at (5.8,0) {$z$};
+\node[left]  at (0,3) {$x$};
+
+\draw[-{Triangle[width=18pt,length=8pt]}, line width=4pt, red](0,0) -- (5, 0);
+\draw[->, very thick, red] (0,0) -- (3,3);
+\node[right, red] at (3,2.6) {$\gamma$};
+
+\draw (1,0) arc[start angle=0, end angle=90, radius=1];
+\node at (1.3,0.5) {$30^\circ$};
+\node at (0.6,1.3) {$60^\circ$};
+
+\end{tikzpicture}
+\caption{Representación realizada con Tikz del haz de piones y un fotón emitido.}
+\label{fig:fig}
+\end{wrapfigure}
+
+Sabiendo el ángulo $\theta$ de emisión de un fotón calculado anteriormente, y con los datos proporcionados de la distancia de los cristales detectores {$50\; cm$}, se puede fácilmente deducir el ángulo complementario y hallar la distancia $\ell$ con trigonometría.
+\begin{gather*}
+	\sin 60^\text{°} =\frac{\ell}{hip} =\frac{\ell}{0.5}\cos 60^\text{°} \\ \implies \ell=\frac{\sin 60^\text{°}}{\cos 60^\text{°}}0.5=\boxed{0.87\; m}
+\end{gather*}
+\vspace{0.5cm}
+
+\section{Distancia al origen donde no se detectan más fotones}
+
+Consideramos que no se detectan más fotones cuando sólo quede un pion por decaer, es decir, cuando $N(t)=1$. Empleando la fórmula del decaimiento y transformando el tiempo de vida media (que se dilata):
+\begin{gather*}
+	N(t)=N_o e^{\frac{-t}{\tau_{lab}}} \implies 1 = e^{10^{8}} e^{\frac{-t}{\gamma\tau}} = e^{10^8+\frac{-t}{\gamma\tau}}\implies 0 = 10^8-\frac{t}{\gamma\tau}\implies t=\gamma\tau\cdot 10^8 = 1.686\cdot 10^{-8}\; s
+\end{gather*}
+Usando la velocidad $v_\pi$ obtenida en el apartado \textit{b}, podemos hallar la distancia total que recorre el haz de piones.
+\begin{gather*}
+	v=\frac{x}{t}\implies x=v_\pi\cdot t \approx \boxed{4.38\; m}
+\end{gather*}
+Añadiendo la distancia horizontal que recorre un fotón emitido hasta llegar a los cristales detectores hallada en el apartado \textit{c}, también podemos obtener la distancia del origen del último fotón detectado en dichos cristales:
+\begin{gather*}
+	x+0.87 = \boxed{5.25\; m}
+\end{gather*}
+
+\end{document}

@@ -1,18 +1,20 @@
 Definición Trabajo (y relación con energía)	W=\int_C Fdl\\ ({\scriptstyle W=-\Delta U})	Principle
 Definición Potencial (y relación con energía)	V=-\int_C Edl\\ ({\scriptstyle U=Vq})	Principle
-Fuerza Eléctrica (y relación con campo)	\vec{F}=\frac{1}{4\pi\epsilon_o}\,\frac{qq'}{r^3}\vec{u_r}\\ ({\scriptstyle E=F/q'})	Electric,Basic
-Densidad volumétrica de carga	\rho=\frac{dQ}{dV}	Electric,Concept
-Campo Eléctrico	\vec{E}=\frac{1}{4\pi\epsilon_o}\,\frac{q}{r^2}\vec{u_r}	Electric,Basic
-Potencial Eléctrico para y puntual y dist.	V=1/4\pi\epsilon_o\, \frac{q'}{r}\\ V=\frac{1}{4\pi\epsilon_o}\int_V \frac{\rho}{r}Divergencia	Electric,Basic
-Campo y Potencial con Rotacional	E=-\Nabla Vector	Electric,Divergencia,Dipole
-Ley de Gauss (+ dist. + esfera)	\Phi=\oint EdS\\ \frac{1}{\epsilon_o}\int_V \rho dV \hookleft\hookright q_{enc}/\epsilon_o	Principle
-Momento Dipolar	\vec{\rho}=q\vec{d}\\\text{\small(sumativo)}	Dipole,Basic
-Obtención del Potencial/ Campo de un Dieléctrico	V=V_{\text{vol. interno}}+V_{\text{sup. dieléc.}}\\ E=E_{\text{vol. interno}}+E_{\text{sup. dieléc.}}	Dielectric,Concept
-Polarización y Densidades de carga de Polarización	P=\frac{d\rho}{dV}\\ \sigma_P=P\cdot n \, ;\; \rho_P=-\Nabla '\cdot P	Dielectric
-Vector Desplazamiento y resultado de aplicar Divergencia	\oint_S\vec{D}dS=Q_{enc) \\\hookright \Nabla D = \rho	Dielectric,Principle,Concept
+Fuerza Eléctrica (y relación con campo)	\vec{F}=\frac{1}{4\pi\epsilon_o}\,\frac{qq'}{r^3}\vec{u_r}\\ ({\scriptstyle E=F/q'})	Electric Basic
+Densidad volumétrica de carga	\rho=\frac{dQ}{dV}	Electric Concept
+Campo Eléctrico	\vec{E}=\frac{1}{4\pi\epsilon_o}\,\frac{q}{r^2}\vec{u_r}	Electric Basic
+Potencial Eléctrico para y puntual y dist.	V=1/4\pi\epsilon_o\, \frac{q'}{r}\\ V=\frac{1}{4\pi\epsilon_o}\int_V \frac{\rho}{r}dV	Electric Basic
+Campo y Potencial con Rotacional	E=-\nabla V	Electric Divergencia Dipole
+Ley de Gauss (+ dist. + esfera)	\Phi=\oint EdS\\ \frac{1}{\epsilon_o}\int_V \rho dV \swarrow\searrow q_{enc}/\epsilon_o	Principle
+Momento Dipolar	\vec{\rho}=q\vec{d}\\\small \text{(sumativo)}	Dipole Basic
+Obtención del Potencial/ Campo de un Dieléctrico	V=V_{\text{vol. interno}}+V_{\text{sup. dieléc.}}\\ E=E_{\text{vol. interno}}+E_{\text{sup. dieléc.}}	Dielectric Concept
+Polarización y Densidades de carga de Polarización	P=\frac{d\rho}{dV}\\ \sigma_P=P\cdot n \, ;\; \rho_P=-\nabla '\cdot P	Dielectric
+Vector Desplazamiento y resultado de aplicar Divergencia	\oint_S\vec{D}dS=Q_{enc) \\\searrowV_i=\sum\underset{\small(coef. potencial))}{\textcolor{red}{\rho_{ij}}}Q_j\, ;\, Q_i=\sum \textcolor{red}{c_{ij}}C_j\\ \small (\rho_{ij}=\text{influencia de i sobre j ; }\rho_{ij}=\rho{ji} \\ \mathcal{P}=\mathcal{C}^{-1} \nabla D = \rho	Dielectric Principle Concept
 Relación Desplazamiento con Permitividad. Ídem Polarización	\vec{D}=\epsilon\vec{E}\, ;\; \vec{D}=\epsilon_o\vec{E}+\vec{P}	Dielectric
-Susceptibilidad eléctrica y Permitividad. Constante eléctrica	\vec{p}=\epsilon_o \chi\cdot\vec{E}\, ;\; \epsilon=\epsilon_o(1+\chi}\\ H=\epsilon/\epsilon_o	Dielectric,Basic
-Tipos de Dieléctrico
-
-# PENDIENTE
-## Multipolos
+Susceptibilidad eléctrica y Permitividad. Constante eléctrica	\vec{p}=\epsilon_o \chi\cdot\vec{E}\, ;\; \epsilon=\epsilon_o(1+\chi}\\ H=\epsilon/\epsilon_o	Dielectric Basic
+Tipos de Dieléctrico	\small \begin{array} {|r|r|}\hline \chi , \epsilon \text{ dependen:} & E_{ext} & \vec{u}_E & Punto \\ \hline No & Lineal & Isótropo & Homogéneo \\ \hline Sí & No\; lineal & Anisótropo & No homogéneo \\ \hline  \end{array}\\ \small \begin{bmatrix} D_1\\D_2\\D_3\end{bmatrix}=\begin{bmatrix} \epsilon_1 & 0 & 0\\ 0 & \epsilon_2 & 0\\ 0 & 0 & \epsilon_3\end{bmatrix} \begin{bmatrix} E_1\\E_2\\E_3\end{bmatrix}	Dielectric Concept
+Cond. Límites Dieléctricos	\small \text{En la superficie de separación:}\\ \small \bullet\; \Delta V=0\\ \small \bullet\; \text{Tras aplicar \textbf{Gauss}: } D_{n1} -D_{n2}=\sigma\; (D_n=\vec{D}\cdot\vec{u}_n)\\ \small \text{Para componentes tangenciales:}\\ \small \bullet\; E_1=E_2	Dielectric Resolution
+Campo Externo de un Conductor	\vec{E}=\frac{\sigma}{\epsilon}\vec{u}_n	Conductor Basic
+Capacidad de un Conductor	C=\frac{Q}{\Delta V}	Conductor Basic
+Potencial y Carga de un Sistema de conductores con Coeficientes	V_i=\sum\underset{\small(coef. potencial))}{\textcolor{red}{\rho_{ij}}}Q_j\, ;\, Q_i=\sum \textcolor{red}{c_{ij}}C_j\\ \small (\rho_{ij}=\text{influencia de i sobre j ; }\rho_{ij}=\rho{ji} \\ \mathcal{P}=\mathcal{C}^{-1}	Conductor Basic
+Potencial y Capacidad en Asociaciones	\large\begin{array} {|c|c|}\hline \text{Paralelo} & \text{Serie} \\ \hline V=\frac{Q_1+Q_2+...}{C} & V=\frac{Q}{C_1}+\frac{Q}{C_2}+... \\ C=C_1+C_2+... & \frac{1}{C}=\frac{1}{C_1}+\frac{1}{C_2}+... \\ \hline  \end{array}	Conductor Concept
