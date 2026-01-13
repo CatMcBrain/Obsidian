@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Universidad/UNED/Biología/7 - Transcripción y Traducción.md"
+                "file": "Universidad/UNED/Biología/9 - Ingeniería Genética.md"
               },
               "icon": "excalidraw-icon",
-              "title": "7 - Transcripción y Traducción"
+              "title": "9 - Ingeniería Genética"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -198,15 +197,20 @@
   },
   "active": "c95452249b140c53",
   "lastOpenFiles": [
+    "Universidad/UNED/Biología/Biomoléculas.md",
+    "Universidad/UNED/Biología/Ciclo celular.md",
+    "Universidad/UNED/Biología/Célula Eucariota.md",
+    "Universidad/UNED/Biología/PEC_Bio-ajeronimo13.pdf",
+    "Universidad/UNED/Biología/6 - Replicación ADN.md",
+    "Universidad/UNED/Biología/8 - Expresión Genética.md",
+    "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
+    "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Cloud Chamber.md",
     "Notes/Backup/Love Journal.md",
-    "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
     "Attachments/Pasted Image 20251221163949_811.png",
     "Attachments/Pasted Image 20251221135002_866.png",
     "Attachments/{42A1006A-1134-45BA-AC47-01DCEDF0AE6F}.png",
-    "Universidad/UNED/Biología/7 - Transcripción y Traducción.md",
-    "Universidad/UNED/Biología/8 - Expresión Genética.md",
     "Universidad/Universidad.md",
     "ExcalidrawStartup.md",
     "Universidad/UNED/UNED.md",
@@ -215,9 +219,6 @@
     "Attachments/Pasted Image 20251212195758_539.png",
     "Attachments/Pasted Image 20251212192854_485.png",
     "Attachments/{BAD01910-1F3C-4E87-8FBA-B09658C903FA}.png",
-    "Universidad/UNED/Biología/6 - Replicación ADN.md",
-    "Universidad/UNED/Biología/Ciclo celular.md",
-    "Universidad/UNED/Biología/Célula Eucariota.md",
     "Universidad/UNED/Biología/Metabolismo.md",
     "2025-11-30 12.29.32.excalidraw.md",
     "Attachments/{F9B2DC8A-A0E9-47D8-BD7E-DB35A304EB4D}.png",
@@ -225,7 +226,6 @@
     "Attachments/Pasted Image 20251129222143_650.png",
     "Universidad/UNED/Biología/Untitled.base",
     "Universidad/UNED/Biología/2025-11-15 20.19.45.excalidraw.md",
-    "Universidad/UNED/Biología/Biomoléculas.md",
     "Universidad/UNED/Ayudas/Coordenadas y dS.md",
     "Notes/Games/Games.md",
     "Notes/Games/Star Citizen/HOTAS.md",
@@ -234,7 +234,6 @@
     "Home/Home.md",
     "Notes/Wardrobe/Fragances.md",
     "Notes/Wardrobe/Wardrobe.md",
-    "Universidad/UNED/Biología/Tldraw 2025-11-14 11.21AM.md",
     "Universidad/UNED/Biología",
     "Universidad/UNED/Ayudas",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_5_-_Sistemas_de_Particulas_export.pdf",
@@ -242,7 +241,6 @@
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T5_Problemas_Dinamica_de_sistemas_de_particulas_2023_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_-_2_Dinamica_de_una_Particula_export.pdf",
     "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Problemas_dinamica_2023_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FISICA_4_-_Movimiento_Ondulatorio_export.pdf"
+    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/Ejercicios/T2_Ejercicios_Dinamica_export.pdf"
   ]
 }
