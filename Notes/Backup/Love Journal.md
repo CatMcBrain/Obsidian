@@ -48,3 +48,8 @@ El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese d�
 - Luces de Navidad en nuestro primer aniversario y cortilandia
 
 ## Segundo año (2025/26)
+
+Volví a galicia en Febrero, después de mis finales.  
+- No pudimos celebrar san valentín
+- Tuve regalos cumple prematuros
+
