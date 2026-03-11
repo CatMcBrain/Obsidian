@@ -49,24 +49,8 @@
       "color": "TNclhEBqARB8XcquVpuBD"
     },
     {
-      "path": "Notes/Backup",
-      "color": "Ib2_zzRXLmeBBA5YJIXm2"
-    },
-    {
-      "path": "Notes/Food",
-      "color": "_re0HznvN3otqxjzxB27Q"
-    },
-    {
-      "path": "Notes/Games",
-      "color": "ZvhRHdxb35alHf7O_lX7_"
-    },
-    {
       "path": "Universidad",
       "color": "H3jVN5iaZQQNJ2sKOG5Z-"
-    },
-    {
-      "path": "Notes/Shopping",
-      "color": "58Xn77d3kjapKEBuZ-SFn"
     },
     {
       "path": "Universidad/- ARCHIVO",
@@ -91,6 +75,10 @@
     {
       "path": "Universidad/UNED/Biología",
       "color": "H3jVN5iaZQQNJ2sKOG5Z-"
+    },
+    {
+      "path": "Categorías",
+      "color": "ZvhRHdxb35alHf7O_lX7_"
     }
   ]
 }
