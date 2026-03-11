@@ -16,6 +16,9 @@ printf("Print text and %d variables \n", var);
 
 printf("Input your info: ");
 scanf("%d", &data);
+
+printf("Input info for a string of 30: ");
+fgets()
 ```
 
 ## Variables and Format specifiers
@@ -31,4 +34,4 @@ bool = true/false
 
 ## Pointers and memory
 
-`*` assigns a pointer and `&` refers to ir
+`*` defines a pointer and `&` addresses it 
