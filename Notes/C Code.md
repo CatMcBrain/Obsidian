@@ -12,7 +12,10 @@ int main(){
 
 Commands:
 ```
-printf("Pr")
+printf("Print text and %d variables \n", var);
+
+printf("Input your info: ");
+scanf("%d", &data);
 ```
 
 ## Variables and Format specifiers
@@ -27,3 +30,5 @@ bool = true/false
 ```
 
 ## Pointers and memory
+
+`*` assigns a pointer and `&` refers to ir
