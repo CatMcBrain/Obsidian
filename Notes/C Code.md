@@ -18,7 +18,7 @@ printf("Print text and %d variables \n", var);
 Input
 ```
 printf("Input your info: ");
-scanf("%d", &data);
+scanf(" %d", &data);
 ```
 
 Input a string
@@ -45,7 +45,7 @@ char = 'single character' (%c)
 char[] = "string" (%s)
 bool = true/false
 
-MODIFIERS: 
+MODIFIERS: %
 ```
 
 ## Pointers and memory
