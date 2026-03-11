@@ -15,7 +15,7 @@ int main(){
 printf("Print text and %d variables \n", var);
 ```
 
--Input
+Input
 ```
 printf("Input your info: ");
 scanf("%d", &data);
@@ -27,6 +27,14 @@ printf("Input info for a string of 30: ");
 fgets(data, 30, stdin); \\stdin = standard info
 ```
 
+Get array (string) length
+```
+int data_length = sizeof(data);
+
+printf("Input info for a string of n length: ");
+fgets(data, sizeof(data),stdin)
+```
+
 ## Variables and Format specifiers
 
 ```
@@ -36,6 +44,8 @@ double = long float ($lf)
 char = 'single character' (%c)
 char[] = "string" (%s)
 bool = true/false
+
+MODIFIERS: 
 ```
 
 ## Pointers and memory
