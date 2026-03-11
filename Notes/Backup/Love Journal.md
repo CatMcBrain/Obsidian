@@ -53,4 +53,4 @@ Volví a galicia en Febrero, después de mis finales.
 - No pudimos celebrar san valentín
 - Tuve regalos cumple prematuros
 
-Acabo de ir al médico (11 Mar) y me llamará el en
+Acabo de ir al médico (11 Mar) y me llamará el endocrino cuando sea para mi primera cita. Estrella llegará a madrid el 17 Mar.
