@@ -1,0 +1,14 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim1\T2\2-1.net
+Start Time: Sun Mar  1 01:02:22 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.085 seconds.
+
+Files loaded:
+C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim1\T2\2-1.net
+

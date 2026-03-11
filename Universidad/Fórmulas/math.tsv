@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#tags column:3
+Componentes cartesianas (x, y, z) de Esféricas	\left\{ \begin{array}{l} x=r\sin\phi\cos\theta \\ y=r\sin\phi\sin\theta \\ z=r\cos\phi \end{array}\right.	
+Producto escalar y vectorial con Ángulos	\boxed{\vec{u}\cdot\vec{v}=|u||v|\cos\theta} \; \boxed{\vec{u}\times\vec{v}=|u||v|\sin\theta}	
+¿Cuándo una matriz tiene Inversa?	\text{Cuando } \; det (A) \neq 0	Matrix
+Determinante matriz 4x4	\left|<br>\begin{array}{c|ccc}<br><div><div>{\color{red} \overset{\scriptsize (+)}{a_{11}}} &amp; {\color{red}\overset{\scriptsize(-)}{a_{12}}} &amp; {\color{red} \overset{\scriptsize (+)}{a_{13}}} &amp; {\color{red} \overset{\small (-)}{a_{14}}}\\ \hline</div></div>\color{gray}{a_{21}} &amp; a_{22} &amp; a_{23} &amp; a_{24}\\<br>\color{gray}{a_{31}} &amp; a_{32} &amp; a_{33} &amp; a_{34}\\<br>\color{gray}{a_{41}} &amp; a_{42} &amp; a_{43} &amp; a_{44}<br>\end{array}<br>\right|<br>= \\[10pt] \textstyle<br>a_{11}<br>\begin{vmatrix}<br>a_{22} &amp; a_{23} &amp; a_{24}\\<br>a_{32} &amp; a_{33} &amp; a_{34}\\<br>a_{42} &amp; a_{43} &amp; a_{44}<br>\end{vmatrix}<br>{\color{red}{-}}<br>a_{12}<br>\begin{vmatrix}<br>a_{21} &amp; a_{23} &amp; a_{24}\\<br>a_{31} &amp; a_{33} &amp; a_{34}\\<br>a_{41} &amp; a_{43} &amp; a_{44}<br>\end{vmatrix}<br>\\ +<br>a_{13}<br>\begin{vmatrix}<br>a_{21} &amp; a_{22} &amp; a_{24}\\<br>a_{31} &amp; a_{32} &amp; a_{34}\\<br>a_{41} &amp; a_{42} &amp; a_{44}<br>\end{vmatrix} {\color{red}{-}}<br>a_{14}<br>\begin{vmatrix}<br>a_{21} &amp; a_{22} &amp; a_{23}\\<br>a_{31} &amp; a_{32} &amp; a_{33}\\<br>a_{41} &amp; a_{42} &amp; a_{43}<br>\end{vmatrix}<br>	Matrix
+Desigualdad Cauchy-S. Desigualdad Triangular	\boxed{|x\cdot y| \leq \|x\| \, \|y\|} \\ \boxed{\|x+y\|\leq \|x\|+\|y\|}	Niche
+Proyección v sobre a	P_{v_a} =\frac{v\cdot a}{\|a\| ^2}a	
+
+<AÑADIR FÓRMULAS NÚMEROS COMPLEJOS CIRCUITOS>

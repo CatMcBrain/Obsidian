@@ -1,0 +1,32 @@
+Salida:
+-------
+
+Iniciando una nueva simulación en vi. 27. feb. 2026 en 17:04:34:053
+
+creando netlist... done.
+Starting C:/MyPrograms/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/bin/qucsator.exe
+
+project location: 
+modules to load: 0
+factorycreate.size() is 0
+factorycreate has registered:
+parsing netlist...
+checking netlist...
+netlist content
+      1 Switch instances
+      1 IProbe instances
+      1 L instances
+      4 R instances
+      1 Vdc instances
+      1 TR instances
+creating netlist...
+
+Finalizada simulación en vi. 27. feb. 2026 en 17:04:34:133
+Listo.
+
+
+
+Errors and Warnings:
+--------------------
+
+

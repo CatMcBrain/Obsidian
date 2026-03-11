@@ -1,0 +1,4 @@
+Densidad de carga con Intensidad, Resistividad, Conductividad	I=\int_S Jds \\ J=p<v> \; ; \; J=\sigma E
+Conductividad, Resistividad y Velocidad media (con movilidad)	\sigma=\rho\mu \; ; \; \rho=nq=\frac{1}{\sigma} \\ <v>=\frac{\sum v_i}{N}
+Generador de FEM: Potencial de campo externo e interno en carga/descarga	\cdot \text{\textbf{Descargando: }} \epsilon = V_{ext}+V_{int} \\ \cdot \text{\textbf{\epsilon=V_{ext}-V_{int}}} \\ \small (V_{int}=Ir \, \text{ resistencia interna})
+Conductancia	G=\frac{1}{R}

@@ -11,12 +11,12 @@
             "id": "c95452249b140c53",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Universidad/UNED/Biología/7 - Transcripción y Traducción.md"
+                "currentVersion": "1.11.4"
               },
-              "icon": "excalidraw-icon",
-              "title": "7 - Transcripción y Traducción"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ]

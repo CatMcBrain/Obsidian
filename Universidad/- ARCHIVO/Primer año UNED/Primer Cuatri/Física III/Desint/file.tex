@@ -1,0 +1,49 @@
+\documentclass[varwidth=\maxdimen]{standalone}
+
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{tabularx}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+
+\begin{document}
+
+\begin{table}[H]
+	\centering
+	\def\arraystretch{3}
+	\begin{tabular}{|l||c|c|c|}
+		\hline
+		Tipo de Desintegración & Radiación Emitida & Reacción & Modelo\\
+		\hline \hline
+		\textbf{Alfa} & $^4 _2 \alpha$ & $_Z ^A X\rightarrow\; _{Z-2} ^{A-2} X + _2 ^4 \alpha$ & \hspace{6cm} \\
+		\hline
+		\textbf{Beta} & $^0 _{-1} \beta$ & $_Z ^A X\rightarrow\; _{Z+1} ^{A} X + _{-1} ^0 \beta$ &  \\
+		\hline
+		\textbf{Emisión Positrón} &  $^0 _{+1} \beta$ & $_Z ^A X\rightarrow \;_{Z-1} ^{A} X + _{-1} ^0 \beta$ &  \\
+		\hline
+		\textbf{Captura} $e^-$ & $\gamma_{\tiny (\uparrow E)}$ {\textcolor{gray}{\scriptsize (Rayos X)}} & $_Z ^A X + ^0 _{-1} e \rightarrow\; _{Z-1} ^{A} X + \gamma$ &  \\
+		\hline
+		\textbf{Emisión Gamma} & $^0 _0 \gamma$ & $_Z ^A X^*\xrightarrow{\text{Relaxation}} \; _{Z} ^{A} X + _0 ^0 \gamma$ & \\ 
+		\hline
+		\textbf{Fisión Espontánea} & Neutrones & $_{Z+Y} ^{A+B+C} X\rightarrow\; _{Z} ^{A} X + _{Y} ^B X + C\, _0 ^1 n$ & \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\end{document}
