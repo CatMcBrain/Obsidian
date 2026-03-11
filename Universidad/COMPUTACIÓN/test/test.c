@@ -8,11 +8,7 @@ int main()
 	char grade='\0';
 	char name[30]="";
 
-	printf("Enter your name: ");
-	fgets(name, sizeof(name), stdin);
-
-	printf("%s", name);
-	printf("Nextline");
+	printf(" %f",gpa);
 
 
 	return 0;

@@ -55,7 +55,13 @@ MODIFIERS: %
 
 ## Extras
 
-It
+It's convenient to define our variables even if empty, to avoid errors
+```
+int num = 0;
+float fl = 0.0;
+char ch = '\0'; \\null
+char str[] = ""; \\empty string
+```
 
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
