@@ -57,5 +57,10 @@ MODIFIERS: %
 
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
-#include
+#include <string.h>
+
+fgets(data, sizeof(data), stdin);
+data[strlen(data)-1] = '\0' \\Removes the "enter" press
+
+printf("%s%, name)
 ```
