@@ -8,13 +8,11 @@ int main()
 	char grade='\0';
 	char name[30]="";
 
-	printf("Enter your age: ");
-	scanf("%d", &age);
+	printf("Enter your name: ");
+	fgets(name, sizeof(name), stdin);
 
-	printf("%d\n", age);
-	printf("%f\n", gpa);
-	printf("%c\n", grade);
-	printf("%s\n", name);
+	printf("%s", name);
+	printf("Nextline");
 
 
 	return 0;
