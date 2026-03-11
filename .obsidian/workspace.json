@@ -11,12 +11,14 @@
             "id": "c95452249b140c53",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Notes/Backup/Love Journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Love Journal"
             }
           }
         ]
@@ -195,8 +197,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c95452249b140c53",
+  "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Untitled",
     "Universidad/UNED/Biología/Ciclo celular.md",
     "Universidad/UNED/Biología/9 - Ingeniería Genética.md",
     "Universidad/UNED/Biología/Biomoléculas.md",
