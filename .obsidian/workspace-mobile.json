@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Backup/Love Journal.md",
+                "file": "Notes/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Love Journal"
+              "title": "Notes"
             }
           }
         ],
@@ -192,6 +192,17 @@
   },
   "active": "4310a489420e83a7",
   "lastOpenFiles": [
+    "Universidad/Fórmulas/math.tsv",
+    "Universidad/Fórmulas/circuits_niche.tsv",
+    "Universidad/Fórmulas/circuits.tsv",
+    "Universidad/Fórmulas",
+    "Universidad/COMPUTACIÓN/test/test.py",
+    "Universidad/COMPUTACIÓN/test/test.exe",
+    "Universidad/COMPUTACIÓN/test/test.c",
+    "Universidad/COMPUTACIÓN/test",
+    "Universidad/COMPUTACIÓN",
+    "Universidad/CIRCUITOS/Sim1/tex/SIM1-ajeronimo13.tex",
+    "Universidad/CIRCUITOS/Sim1/tex/SIM1-ajeronimo13.synctex.gz",
     "Notes/Quick Note.md",
     "Notes/Backup/Love Journal.md",
     "Notes/Backup/Heart.md",
@@ -205,24 +216,17 @@
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
     "Notes/Games/Games.md",
     "Notes/Notes.md",
-    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Dinamica_export.pdf",
-    "Universidad/- ARCHIVO/Grado UAM/Física/Resúmenes Física/Magnetismo_export.pdf",
     "Home/Home.md",
-    "Universidad/- ARCHIVO/Grado UAM/Física/FÍSICA I/FORMULARIO FISICA I.pdf",
     "Notes/Food/Food.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
     "Home/Mochi Cat.md",
-    "Notes/Ocio/Crochet",
     "Notes/Shopping/Shopping.md",
     "Notes/Wardrobe/Wardrobe.md",
     "Notes/Wardrobe/Fragances.md",
-    "Notes/Wardrobe",
     "Notes/Games/ZZZ/Pulchra.md",
-    "Notes/Games/ZZZ",
     "Notes/Games/Star Citizen/HOTAS.md",
     "Attachments/20250712_220147.jpg",
-    "Notes/Games/Star Citizen",
     "Notes/Backup/Useful PC.md",
     "Attachments/Pasted image 20250703161230.png",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
@@ -233,9 +237,6 @@
     "Notes/Images/Screenshot_20250525_003135_Firefox.jpg",
     "Notes/Images/Screenshot_20250525_003109_Firefox.jpg",
     "Notes/Images/Screenshot_20250515_095342_Firefox.jpg",
-    "Notes/Food/Pancakes.md",
-    "Notes/Images",
-    "Notes/Games/Elite Dangerous/Elite Dangerous.md",
-    "Notes/Food"
+    "Notes/Food/Pancakes.md"
   ]
 }
