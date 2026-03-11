@@ -23,7 +23,7 @@
 >> 
 >
 >> [!note] Quick Note  
->> [[Quick Note|🗒]]  
+>> [[C Code|🗒]]  
 >> 
 >> **Quick Note**  
 >> 

@@ -1,6 +1,6 @@
 
 %% Begin Waypoint %%
-- [[Quick Note]]
+- [[C Code]]
 
 %% End Waypoint %%
 
