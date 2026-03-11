@@ -51,3 +51,11 @@ MODIFIERS: %
 ## Pointers and memory
 
 `*` defines a pointer and `&` addresses it 
+
+
+## Extras
+
+When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
+```
+#include
+```
