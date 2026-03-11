@@ -1,3 +1,20 @@
+## Basic
+
+Start with:
+```
+#include <stdio.h>
+
+int main(){
+
+	return 0;
+}
+```
+
+Commands:
+```
+printf("Pr")
+```
+
 ## Variables and Format specifiers
 
 ```
@@ -9,4 +26,4 @@ char[] = "string" (%s)
 bool = true/false
 ```
 
-## 
+## Pointers and memory
