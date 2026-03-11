@@ -1,4 +1,3 @@
-## Basic
 
 Start with:
 ```
@@ -10,15 +9,22 @@ int main(){
 }
 ```
 
-Commands:
+### Commands:
+
 ```
 printf("Print text and %d variables \n", var);
+```
 
+-Input
+```
 printf("Input your info: ");
 scanf("%d", &data);
+```
 
+Input a string
+```
 printf("Input info for a string of 30: ");
-fgets()
+fgets(data, 30, stdin); \\stdin = standard info
 ```
 
 ## Variables and Format specifiers
