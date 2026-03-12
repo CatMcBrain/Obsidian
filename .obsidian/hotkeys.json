@@ -176,5 +176,15 @@
       ],
       "key": " "
     }
-  ]
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:save-file": []
 }
