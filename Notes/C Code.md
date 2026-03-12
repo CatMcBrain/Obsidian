@@ -94,8 +94,11 @@ fgets(str, sizeof(str), stdin);
 
 The package `<math.h>` gives us some functions:
 ```
-sqrt(n) = square root
-pow(n,) = 
+sqrt(n); // square root
+pow(n,pot); // elevate n to pot
+round(n); ceil(n); floor(n); // round\round up\round down
+abs(n); // absolute value
+
 ```
 
 

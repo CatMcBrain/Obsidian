@@ -5,7 +5,7 @@ int main()
 {
 	int x=9;
 
-	x=sqrt(x);
+	x=pow(x,3);
 
 
 	printf("%d", x);
