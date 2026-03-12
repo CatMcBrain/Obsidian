@@ -67,7 +67,7 @@ MODIFIERS:
 	const float PI = 3.1416
 	
 // A shortcut to edit a variable is:
-	
+	x+=1 ; // (x=x+1) 
 ```
 
 # Pointers and memory
