@@ -14,11 +14,11 @@ int main()
 
 	if(choice==1){
 		printf("How many kg?: ");
-		scanf(" %f", &in);
+		scanf("%f", &in);
 		out=in*2.205;
 		printf("The result is: %f pnd", out);
 	}
-	else if(choice==0){
+	else if(choice==2){
 		printf("How many pnd?: ");
 		scanf(" %f", &in);
 		out=in/2.205;
