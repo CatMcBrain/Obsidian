@@ -183,9 +183,14 @@ int main(){
 }
 ```
 
-If you want a function to send a value back:
+If you want a function to send a value/result after ending:
 ```
+int function(int x){
+	... ;
+	return result;
+}
 
+// the "int" at the beginning determines the kind of value it returns
 ```
 
 If any function needs variables
