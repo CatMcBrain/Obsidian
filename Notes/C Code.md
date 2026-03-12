@@ -45,7 +45,9 @@ char = 'single character' (%c)
 char[] = "string" (%s)
 bool = true/false
 
-MODIFIERS: %
+MODIFIERS:
+	%.2f : number of decimals
+	$2f : minimum number of total characters
 ```
 
 ## Pointers and memory
@@ -54,6 +56,13 @@ MODIFIERS: %
 
 ```
 (...)
+```
+
+To **store a variable** value change permanently, you need to write to its adress
+```
+int a = 0;
+
+scanf()
 ```
 
 ## Extras
