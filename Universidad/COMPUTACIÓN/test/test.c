@@ -6,8 +6,9 @@ int main()
 	int x=1;
 	int *px = &x;
 	int vx = *px;
+	int *pv = &vx;
 
-	printf("x=%d , px=%d , vx= %d", x, px, vx);
+	printf("x=%d , px=%d , vx= %d , pv=%d", x, px, vx, pv);
 
 	return 0;
 } 
