@@ -3,12 +3,20 @@
 
 int main()
 {
-	int x=9;
+	float r = 0;
+	float ca = 0;
+	float a = 0;
+	float v = 0;
+	float pi= 3.1416;
 
-	x=pow(x,3);
+	printf("Radius: ");
+	scanf("%f", &r);
 
+	ca=2*pi*r;
+	a=4*pi*pow(r,2);
+	v= (4/3)*pi*pow(r,2);
 
-	printf("%d", x);
+	printf("Circle: %f Surface : %f Volume: %f", ca, a, v);
 
 	return 0;
 } 
