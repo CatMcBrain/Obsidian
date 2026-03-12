@@ -120,6 +120,8 @@ else if(condition2){
 else{
 	... ;
 }
+
+// conditions: a == b , a >= b ...
 ```
 ___
 ___
