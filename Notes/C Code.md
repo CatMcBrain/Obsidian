@@ -204,6 +204,7 @@ ___
 ___
 # Extras
 
+#### Empty variable defining
 It's convenient to define our variables even if empty, to avoid errors
 ```
 int num = 0;
@@ -212,6 +213,11 @@ char ch = '\0'; //null
 char str[] = ""; //empty string
 ```
 
+#### Function prototypes
+To have neater code, sometime's it's desired to have your functions after `main(){}`, but they won't work there, as they are defined after being called inside `main`.
+To be able to do this, you can 
+
+#### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
 #include <string.h>
