@@ -106,6 +106,21 @@ sin(n); cos(n); tan(n); // trigonometry (n in radians)
 ```
 
 - Watch out with divisions with integers, if you want to have decimals, you need to use `4.0 / 3.0`
+
+## Conditionals and Loops
+
+If / Else
+```
+if (condition){
+	... ;
+}
+else if(condition2){
+	... ;
+}
+else{
+	... ;
+}
+```
 ___
 ___
 ## Extras
