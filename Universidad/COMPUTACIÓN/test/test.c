@@ -10,6 +10,7 @@ int main()
 
 	printf("Type 1 for kg->pnd or 2 for pnd->kg: ");
 	scanf(" %n", &choice);
+	
 
 	if(choice==1){
 		printf("How many kg?: ");
