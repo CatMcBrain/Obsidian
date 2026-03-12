@@ -190,13 +190,14 @@ do{
 #### For
 Repeats some code a limited amount of times
 ```
-for(i =0; i < 10; i++){
+for(i =0; i < 10; i+=1){
 	... ;
 }
 
 // for(initial condition; continue until; increment)
 ```
 
+*You can add a "sleep" timer bet*
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
