@@ -66,11 +66,11 @@ MODIFIERS:
 // You can also declare fixed constants with:
 	const float PI = 3.1416
 	
-// A shortcut to edit a variable is:
+// A shortcut to edit a variable in increments is:
 	x+=1 ; // (x=x+1) 
 ```
 
-Each variable exists within a scope 
+Each variable exists within a scope *"{}"*, and you can't reuse a variable name within the same scope.
 # Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
