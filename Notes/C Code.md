@@ -9,7 +9,7 @@ int main(){
 }
 ```
 
-Basic packages:
+#### Basic packages:
 ```
 #include <stdio.h> //print
 #include <math.h> //math functions
@@ -23,19 +23,19 @@ Basic packages:
 printf("Print text and %d variables \n", var);
 ```
 
-Input
+#### Input
 ```
 printf("Input your info: ");
 scanf(" %d", &data);
 ```
 
-Input a string
+#### Input a string
 ```
 printf("Input info for a string of 30: ");
 fgets(data, 30, stdin); //stdin = standard info
 ```
 
-Get **full** array length and just **string** length
+#### Get **full** array length and just **string** length
 ```
 int data_length = sizeof(data);
 
@@ -121,9 +121,9 @@ sin(n); cos(n); tan(n); // trigonometry (n in radians)
 
 - Watch out with divisions with integers, if you want to have decimals, you need to use `4.0 / 3.0`
 
-## Conditionals and Loops
+# Conditionals and Loops
 
-If / Else
+#### If / Else
 ```
 if (condition){
 	... ;
@@ -138,7 +138,7 @@ else{
 // conditions: a == b , a >= b, a=='t' ...
 ```
 
-Swo
+#### Switch
 ___
 ___
 ## Extras
