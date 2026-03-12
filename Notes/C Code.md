@@ -172,13 +172,18 @@ switch(var){
 
 # While loop
 
-The loop will continue until some condition is met. *This is useful when *
+The loop will continue until some condition is met. *This is useful to verify correct user input before proceeding*.
 ```
 while(condition){
 	... ;
 }
 ```
 
+A variation of this is a `do{} while{}` loop, which checks if the conditions are met **at the end of each iteration**:
+```
+do{
+}
+```
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
