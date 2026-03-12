@@ -170,6 +170,15 @@ switch(var){
 // ! = NOT
 ```
 
+# While loop
+
+The loop will continue until some condition is met
+```
+while(condition){
+	... 
+}
+```
+
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
@@ -196,7 +205,7 @@ int function(int x){
 }
 
 // the "int" at the beginning determines the kind of value it returns
-// the text after "return" determines what ret
+// the text after "return" determines what returns (x, y, false, ...)
 ```
 
 *# You can use  `if/else` inside a function to then return different values in different cases*
