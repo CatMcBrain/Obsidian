@@ -182,7 +182,7 @@ int main(){
 	return 0;
 }
 
-// for each variable we are using with the func
+// for each variable we are using with the function, we must determine its type inside the parentheses
 ```
 
 If you want a function to send a value/result after ending:
