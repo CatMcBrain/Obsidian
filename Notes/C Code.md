@@ -14,7 +14,7 @@ Basic packages:
 #include <stdio.h> //print
 #include <math.h> //math functions
 #include <stdbool.h> //booleans
-#include <string.h> //string actions (e.g. string[]=...)
+#include <string.h> //string actions (e.g. strlen() )
 
 ```
 ### Commands:
@@ -42,7 +42,7 @@ int data_length = sizeof(data);
 printf("Input info for a string of n length: ");
 fgets(data, sizeof(data),stdin);
 
-// (...)
+// #inc
 
 if(strlen(data)==0){
 	printf("Your string is empty");

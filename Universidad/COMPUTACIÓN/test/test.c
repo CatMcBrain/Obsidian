@@ -1,21 +1,11 @@
 #include <stdio.h>
-#include <math.h>
+#include <string.h>
 
 int main()
 {
-	float r = 10;
-	float ca = 0;
-	float a = 0;
-	float v = 0;
-	float pi= 3.1416;
+	char x[20]="test";
 
-	printf("Radius: %f\n", r);
-
-	ca= pi * pow(r,2);
-	a= 4 * pi * pow(r,2);
-	v= (4.0 / 3.0) * pi * pow(r,3);
-
-	printf("Circle: %f Surface : %f Volume: %f", ca, a, v);
+	printf("Total: %d String: %d", sizeof(x), strlen(x));
 
 	return 0;
 } 
