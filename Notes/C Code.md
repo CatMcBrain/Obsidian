@@ -24,7 +24,7 @@ scanf(" %d", &data);
 Input a string
 ```
 printf("Input info for a string of 30: ");
-fgets(data, 30, stdin); \\stdin = standard info
+fgets(data, 30, stdin); //stdin = standard info
 ```
 
 Get array (string) length
@@ -32,7 +32,7 @@ Get array (string) length
 int data_length = sizeof(data);
 
 printf("Input info for a string of n length: ");
-fgets(data, sizeof(data),stdin)
+fgets(data, sizeof(data),stdin);
 ```
 
 ## Variables and Format specifiers
@@ -62,7 +62,7 @@ int * px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 That has set the pointer px to the address of x. If we define an integer variable like `vx= *px`, it will read the value of the address pointed by px, as it's equivalent to `* &x`
 
 ```
-int vx = *px // integer vx is set to the value pointed by px
+int vx = *px; // integer vx is set to the value pointed by px
 ```
 
 *(extra)*
@@ -78,7 +78,7 @@ To **store a variable** value change permanently with functions, you need to wri
 ```
 int x = 0;
 
-scanf(" %n", &x)
+scanf(" %n", &x);
 ```
 	(This is not needed with direct assignation like "x=1")
 
@@ -86,16 +86,21 @@ A string is already a pointer, so you don't need to use the address to persist
 ```
 char str[8] = ''
 
-fgets(str, sizeof(str), stdin)
+fgets(str, sizeof(str), stdin);
 ```
+
+
+
+___
+___
 ## Extras
 
 It's convenient to define our variables even if empty, to avoid errors
 ```
 int num = 0;
 float fl = 0.0;
-char ch = '\0'; \\null
-char str[] = ""; \\empty string
+char ch = '\0'; //null
+char str[] = ""; //empty string
 ```
 
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
@@ -103,11 +108,11 @@ When printing a string with `fgets`, a newline is included because it reads our 
 #include <string.h>
 
 fgets(data, sizeof(data), stdin);
-data[strlen(data)-1] = '\0' \\Removes the "enter" press
+data[strlen(data)-1] = '\0'; //Removes the "enter" press
 
-printf("%s\n%, name)
+printf("%s\n%, name);
 
-\\ (We can also just remove the newline in the printf statement)
+// (We can also just remove the newline in the printf statement)
 ```
 
 €, unlike $, is a string with 3 bytes, not a character. So we need a string to store it:
