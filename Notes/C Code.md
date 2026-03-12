@@ -55,7 +55,8 @@ MODIFIERS:
 `*` defines a pointer and `&` addresses it 
 
 ```
-(...)
+int x = 5;
+int *px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
 To **store a variable** value change permanently with functions, you need to write to its adress
