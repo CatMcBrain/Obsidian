@@ -169,14 +169,21 @@ switch(var){
 
 # Functions
 
-They are created outside `main`
+They are created outside `main`. `void` just "inputs" the code, does not return variables:
 ```
-void function(){ // does not return a value. "inputs" code
+void function(var1, var2){ 
 	... ;
 }
 
-int function2()
+int main(){
+	
+	
+	
+	return 0;
+}
 ```
+
+If any function needs variables
 
 ___
 ___
