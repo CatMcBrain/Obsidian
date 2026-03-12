@@ -172,10 +172,10 @@ switch(var){
 
 # While loop
 
-The loop will continue until some condition is met
+The loop will continue until some condition is met. *This is useful when *
 ```
 while(condition){
-	... 
+	... ;
 }
 ```
 
