@@ -7,7 +7,7 @@ int main()
 	float ca = 0;
 	float a = 0;
 	float v = 0;
-	double pi= 3.1416;
+	float pi= 3.1416;
 
 	printf("Radius: %f\n", r);
 
