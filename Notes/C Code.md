@@ -59,6 +59,10 @@ int x = 5;
 int *px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
+
+
+___
+
 To **store a variable** value change permanently with functions, you need to write to its adress
 ```
 int x = 0;
@@ -96,8 +100,4 @@ printf("%s\n%, name)
 ```
 
 €, unlike $, is a string with 3 bytes, not a character. So we need a string to store it:
-`char currency[3]="    int x=1;
-
-    int *px = &x;
-
-    int vx = *px;`
+	`char currency[3]="€"`
