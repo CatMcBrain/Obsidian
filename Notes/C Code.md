@@ -196,6 +196,7 @@ int function(int x){
 }
 
 // the "int" at the beginning determines the kind of value it returns
+// the text after "return" determines what ret
 ```
 
 *# You can use  `if/else` inside a function to then return different values in different cases*
@@ -217,16 +218,16 @@ char str[] = ""; //empty string
 To have neater code, sometime's it's desired to have your functions after `main(){}`, but they won't work there, as they are defined after being called inside `main`.
 To be able to do this, you can **predefine** said function before `main`, stating only its name and input variables (and a `;`), and then place its whole definition after `main`:
 ```
-void func(x,y);
+void func(int x,char y);
 
 int main(){
 	... ;
 	return 0;
 }
 
-void func(x,y){
-	(functio)
-}
+void func(int x,char y){
+	... ; // function code
+	}
 ```
 
 #### String newline correction
