@@ -65,6 +65,9 @@ MODIFIERS:
 	
 // You can also declare fixed constants with:
 	const float PI = 3.1416
+	
+// A shortcut to edit a variable is:
+	
 ```
 
 # Pointers and memory
