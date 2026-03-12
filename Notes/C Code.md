@@ -177,7 +177,7 @@ void function(var1, var2){
 
 int main(){
 	
-	
+	function(x, y);
 	
 	return 0;
 }
