@@ -14,7 +14,7 @@ Basic packages:
 #include <stdio.h> //print
 #include <math.h> //math functions
 #include <stdbool.h> //booleans
-#include <string.h> //string actions (e.g. )
+#include <string.h> //string actions (e.g. string[]=...)
 
 ```
 ### Commands:
@@ -35,7 +35,7 @@ printf("Input info for a string of 30: ");
 fgets(data, 30, stdin); //stdin = standard info
 ```
 
-Get array (string) length
+Get full array length and just string len
 ```
 int data_length = sizeof(data);
 
