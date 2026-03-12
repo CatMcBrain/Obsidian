@@ -150,6 +150,8 @@ switch(var){
 	case 2:
 		... ;
 		break;
+	case 'T'; // can also be used for other kind of data
+		... ;
 	default:
 		printf("There were no matches");
 }
