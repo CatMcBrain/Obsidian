@@ -3,12 +3,11 @@
 int main()
 {
 
-	int a =0;
+	int x=1;
+	int *px = &x;
+	int vx = *px;
 
-	printf("%d\n", a);
-
-	a=scanf("%d", a);
-	printf("%d", a);
+	printf("x=%d , px=%d , vx= %d", x, px, *vx);
 
 	return 0;
 } 
