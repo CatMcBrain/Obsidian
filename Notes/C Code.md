@@ -58,13 +58,13 @@ MODIFIERS:
 (...)
 ```
 
-To **store a variable** value change permanently, you need to write to its adress
+To **store a variable** value change permanently with functions, you need to write to its adress
 ```
-int a = 0;
+int x = 0;
 
-scanf()
+scanf(" %n", &x)
 ```
-
+	(This is not needed with direct assignation like "x=1")
 ## Extras
 
 It's convenient to define our variables even if empty, to avoid errors
