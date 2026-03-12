@@ -94,3 +94,10 @@ printf("%s\n%, name)
 
 \\ (We can also just remove the newline in the printf statement)
 ```
+
+€, unlike $, is a string with 3 bytes, not a character. So we need a string to store it:
+`char currency[3]="    int x=1;
+
+    int *px = &x;
+
+    int vx = *px;`
