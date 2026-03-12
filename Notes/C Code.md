@@ -65,6 +65,13 @@ int x = 0;
 scanf(" %n", &x)
 ```
 	(This is not needed with direct assignation like "x=1")
+
+A string is already a pointer, so you don't need to use the address to persist
+```
+char str[8] = ''
+
+fgets(str, sizeof(str), stdin)
+```
 ## Extras
 
 It's convenient to define our variables even if empty, to avoid errors
