@@ -171,7 +171,7 @@ switch(var){
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
 ```
-void function(var1, var2){ 
+void function(int var1, char var2){ 
 	... ;
 }
 
@@ -181,6 +181,8 @@ int main(){
 	
 	return 0;
 }
+
+// for each variable we are using with the func
 ```
 
 If you want a function to send a value/result after ending:
