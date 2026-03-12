@@ -35,12 +35,18 @@ printf("Input info for a string of 30: ");
 fgets(data, 30, stdin); //stdin = standard info
 ```
 
-Get full array length and just string len
+Get **full** array length and just **string** length
 ```
 int data_length = sizeof(data);
 
 printf("Input info for a string of n length: ");
 fgets(data, sizeof(data),stdin);
+
+// (...)
+
+if(strlen(data)==0){
+	printf("Your string is empty");
+}
 ```
 
 ## Variables and Format specifiers
