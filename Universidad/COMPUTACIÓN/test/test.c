@@ -3,13 +3,12 @@
 int main()
 {
 
-	char item[50] = "";
-	float price = 0;
-	int quantity =0;
-	char currency[3] ="€";
-	float total =0;
+	int a =0;
 
-	printf("Currency is: %s",currency);
+	printf("%d\n", a);
+
+	a=scanf("%d", a);
+	printf("%d", a);
 
 	return 0;
 } 
