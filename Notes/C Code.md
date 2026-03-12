@@ -215,7 +215,19 @@ char str[] = ""; //empty string
 
 #### Function prototypes
 To have neater code, sometime's it's desired to have your functions after `main(){}`, but they won't work there, as they are defined after being called inside `main`.
-To be able to do this, you can 
+To be able to do this, you can **predefine** said function before `main`, stating only its name and input variables (and a `;`), and then place its whole definition after `main`:
+```
+void func(x,y);
+
+int main(){
+	... ;
+	return 0;
+}
+
+void func(x,y){
+	(functio)
+}
+```
 
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
