@@ -139,12 +139,17 @@ else{
 ```
 
 #### Switch
+It checks if a variable is equal to 1, 2, ... (**use *break***)
 ```
-switch(variable examined){
+int var = 0;
+
+switch(var){
 	case 1:
-		... ;
+		... ; // will trigger if var
 		break;
 	case 2:
+		... ;
+		break;
 }
 ```
 
