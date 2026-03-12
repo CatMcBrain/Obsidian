@@ -70,6 +70,7 @@ MODIFIERS:
 	x+=1 ; // (x=x+1) 
 ```
 
+Each variable exists within a scope 
 # Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
@@ -195,7 +196,7 @@ int function(int x){
 // the "int" at the beginning determines the kind of value it returns
 ```
 
-If any function needs variables
+*# You can use  `if/else` inside a function to then return different values in different cases*
 
 ___
 ___
