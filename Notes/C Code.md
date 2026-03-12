@@ -48,6 +48,9 @@ bool = true/false
 MODIFIERS:
 	%.2f : number of decimals
 	$2f : minimum number of total characters
+	
+// You can also declare fixed constants with:
+	const float PI = 3.1416
 ```
 
 ## Pointers and memory

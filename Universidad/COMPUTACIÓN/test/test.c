@@ -12,7 +12,7 @@ int main()
 	printf("Radius: ");
 	scanf("%f", &r);
 
-	ca=2*pi*r;
+	ca=pi*pow(r,2);
 	a=4*pi*pow(r,2);
 	v= (4/3)*pi*pow(r,2);
 
