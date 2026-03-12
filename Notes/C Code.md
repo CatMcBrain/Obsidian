@@ -145,11 +145,13 @@ int var = 0;
 
 switch(var){
 	case 1:
-		... ; // will trigger if var
+		... ; // will trigger if var == 1
 		break;
 	case 2:
 		... ;
 		break;
+	default:
+		printf("There were no matches");
 }
 ```
 
