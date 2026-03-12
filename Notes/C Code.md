@@ -42,7 +42,7 @@ int data_length = sizeof(data);
 printf("Input info for a string of n length: ");
 fgets(data, sizeof(data),stdin);
 
-// #inc
+// #include <string.h>
 
 if(strlen(data)==0){
 	printf("Your string is empty");
