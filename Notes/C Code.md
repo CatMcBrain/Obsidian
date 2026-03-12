@@ -56,10 +56,10 @@ MODIFIERS:
 
 ```
 int x = 5;
-int *px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
+int * px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
-
+That has set the pointer px to the address of x. If we define another variable to point to px itself,
 
 ___
 
