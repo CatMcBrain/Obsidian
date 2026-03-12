@@ -9,7 +9,14 @@ int main(){
 }
 ```
 
-bAS
+Basic packages:
+```
+#include <stdio.h> //print
+#include <math.h> //math functions
+#include <stdbool.h> //booleans
+#include <string.h> //string actions (e.g. )
+
+```
 ### Commands:
 
 ```
