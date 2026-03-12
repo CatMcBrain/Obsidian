@@ -170,9 +170,10 @@ switch(var){
 // ! = NOT
 ```
 
-# While loop
+# Loops
 
-The loop will continue until some condition is met. *This is useful to verify correct user input before proceeding*.
+#### While
+The loop will start and continue until some condition is met. *This is useful to verify correct user input before proceeding*.
 ```
 while(condition){
 	... ;
@@ -183,8 +184,15 @@ A variation of this is a `do{} while{}` loop, which checks if the conditions are
 ```
 do{
 	// what to do
-} while
+} while(condition);
 ```
+
+#### For
+Repeats some code a limited amount of times
+```
+for(int)
+```
+
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
