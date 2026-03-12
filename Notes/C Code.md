@@ -9,6 +9,7 @@ int main(){
 }
 ```
 
+bAS
 ### Commands:
 
 ```
@@ -43,7 +44,7 @@ float = decimal number (%f)
 double = long float ($lf)
 char = 'single character' (%c)
 char[] = "string" (%s)
-bool = true/false
+bool = true/false //you need <stdbool.h>
 
 MODIFIERS:
 	%.2f : number of decimals
