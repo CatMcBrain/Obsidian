@@ -124,7 +124,7 @@ sin(n); cos(n); tan(n); // trigonometry (n in radians)
 
 - Watch out with divisions with integers, if you want to have decimals, you need to use `4.0 / 3.0`
 
-# Conditionals and Loops
+# Conditionals
 
 #### If / Else
 ```
@@ -181,6 +181,11 @@ int main(){
 	
 	return 0;
 }
+```
+
+If you want a function to send a value back:
+```
+
 ```
 
 If any function needs variables
