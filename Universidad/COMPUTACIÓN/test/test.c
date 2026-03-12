@@ -4,7 +4,7 @@ int main()
 {
 
 	int x=1;
-	int *px = &x;
+	int * px = &x;
 	int vx = *&x;
 
 	printf("x=%d , px=%d , vx= %d ", x, px, vx);
