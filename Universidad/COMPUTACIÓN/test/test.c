@@ -3,7 +3,7 @@
 
 int main()
 {
-	float r = 4.0;
+	float r = 10;
 	float ca = 0;
 	float a = 0;
 	float v = 0;
@@ -12,7 +12,7 @@ int main()
 	printf("Radius: %f\n", r);
 
 	ca= pi * pow(r,2);
-	a= 4.0 * pi * pow(r,2);
+	a= 4 * pi * pow(r,2);
 	v= (4.0 / 3.0) * pi * pow(r,3);
 
 	printf("Circle: %f Surface : %f Volume: %f", ca, a, v);
