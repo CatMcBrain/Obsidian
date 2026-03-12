@@ -14,7 +14,7 @@ int main()
 
 	ca=pi*pow(r,2);
 	a=4*pi*pow(r,2);
-	v= (4/3)*pi*pow(r,2);
+	v= (4/3)*pi*pow(r,3);
 
 	printf("Circle: %f Surface : %f Volume: %f", ca, a, v);
 
