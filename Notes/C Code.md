@@ -70,7 +70,9 @@ MODIFIERS:
 	x+=1 ; // (x=x+1) 
 ```
 
-Each variable exists within a scope *"{}"*, and you can't reuse a variable name within the same scope. **They are different for each function**, `int x` for main is not the same for any other function, they are not shared.
+Each variable exists within a scope *"{}"*, and you can't reuse a variable name within the same scope. **They are different for each function**, `int x` for main is not the same for any other function, they are not shared. 
+
+- Unless you define a **global**, which are defined outside functions.
 # Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
