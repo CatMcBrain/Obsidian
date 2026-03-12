@@ -52,14 +52,14 @@ MODIFIERS:
 
 ## Pointers and memory
 
-`*` defines a pointer and `&` addresses it 
+`*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
 
 ```
 int x = 5;
 int * px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
-That has set the pointer px to the address of x. If we define another variable to point to px itself, it would be pointint to the address of x (`*&x`), which is the value of x:
+That has set the pointer px to the address of x. If we define another variable to point to px itself, it would be pointing to the address of x (`*&x`), which is the value of x:
 ```
 int vx = *px // integer vx is set to the value pointed by px
 ```
