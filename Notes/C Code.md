@@ -59,7 +59,7 @@ int x = 5;
 int * px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
-That has set the pointer px to the address of x. If we define an integer variable like 
+That has set the pointer px to the address of x. If we define an integer variable like `vx= *px`, it will read the value of the address pointed by px, as it's equivalent to `* &x`
 ```
 int vx = *px // integer vx is set to the value pointed by px
 ```
