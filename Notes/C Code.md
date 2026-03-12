@@ -182,7 +182,8 @@ while(condition){
 A variation of this is a `do{} while{}` loop, which checks if the conditions are met **at the end of each iteration**:
 ```
 do{
-}
+	// what to do
+} while
 ```
 # Functions
 
