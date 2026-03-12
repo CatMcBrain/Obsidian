@@ -135,7 +135,7 @@ else{
 	... ;
 }
 
-// conditions: a == b , a >= b ...
+// conditions: a == b , a >= b, a=='t' ...
 ```
 ___
 ___

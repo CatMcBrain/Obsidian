@@ -9,12 +9,12 @@ int main()
 	int choice = 0;
 
 	printf("Type 1 for kg->pnd or 2 for pnd->kg: ");
-	scanf(" %n", &choice);
+	scanf(" %d", &choice);
 	
 
 	if(choice==1){
 		printf("How many kg?: ");
-		scanf("%f", &in);
+		scanf(" %f", &in);
 		out=in*2.205;
 		printf("The result is: %f pnd", out);
 	}
