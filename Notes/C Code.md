@@ -190,7 +190,11 @@ do{
 #### For
 Repeats some code a limited amount of times
 ```
-for(int)
+for(i =0; i < 10; i++){
+	... ;
+}
+
+// for(initial condition; continue until; increment)
 ```
 
 # Functions
