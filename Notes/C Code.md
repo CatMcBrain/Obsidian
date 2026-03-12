@@ -9,7 +9,7 @@ int main(){
 }
 ```
 
-#### Basic packages:
+# Basic packages:
 ```
 #include <stdio.h> //print
 #include <math.h> //math functions
@@ -17,7 +17,7 @@ int main(){
 #include <string.h> //string actions (e.g. strlen() )
 
 ```
-### Commands:
+# Commands:
 
 ```
 printf("Print text and %d variables \n", var);
@@ -49,7 +49,7 @@ if(strlen(data)==0){
 }
 ```
 
-## Variables and Format specifiers
+# Variables and Format specifiers
 
 ```
 int = whole number (%d)
@@ -67,7 +67,7 @@ MODIFIERS:
 	const float PI = 3.1416
 ```
 
-## Pointers and memory
+# Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
 
@@ -107,7 +107,7 @@ fgets(str, sizeof(str), stdin);
 ```
 
 
-## Math functoins
+# Math functoins
 
 The package `<math.h>` gives us some functions:
 ```
@@ -139,9 +139,19 @@ else{
 ```
 
 #### Switch
+```
+switch(variable examined){
+	case 1:
+		... ;
+		break;
+	case 2:
+}
+```
+
+
 ___
 ___
-## Extras
+# Extras
 
 It's convenient to define our variables even if empty, to avoid errors
 ```
