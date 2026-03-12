@@ -1,1 +1,1 @@
- scanf(" %f", price)
+float
