@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "C Code"
             }
+          },
+          {
+            "id": "ff40223888926923",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +210,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c95452249b140c53",
+  "active": "ff40223888926923",
   "lastOpenFiles": [
+    "Notes/C Code.md",
     "Universidad/Universidad.md",
     "Notes/Notes.md",
     "Notes/Shopping/Shopping.md",
@@ -232,7 +246,6 @@
     "Categorías/Food/Recipes/Sopa de Lasaña.md",
     "Categorías/Food/Recipes/Salsa de Ensalada China.md",
     "Categorías/Food/Recipes/Pancakes.md",
-    "Categorías/Food/Recipes/Arroz con Leche.md",
     "Categorías/Food/Recipes",
     "Categorías/Food",
     "Attachments/Pasted Image 20251221163949_811.png",
