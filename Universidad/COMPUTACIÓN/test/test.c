@@ -7,7 +7,7 @@ int main()
 	int *px = &x;
 	int vx = *px;
 
-	printf("x=%d , px=%d , vx= %d", x, px, *vx);
+	printf("x=%d , px=%d , vx= %d", x, px, vx);
 
 	return 0;
 } 
