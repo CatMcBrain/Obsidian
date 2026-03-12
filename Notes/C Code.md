@@ -197,7 +197,14 @@ for(i =0; i < 10; i+=1){
 // for(initial condition; continue until; increment)
 ```
 
-*You can add a "sleep" timer bet*
+*You can add a "sleep" timer between iterations with the packages*:
+```
+#include <windows.h> //for Windows
+#include <unistd.h> //for Linux or Mac
+
+Sleep(1000)  //time in ms
+
+```
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
