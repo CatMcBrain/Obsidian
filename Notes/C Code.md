@@ -160,6 +160,12 @@ switch(var){
 }
 ```
 
+#### Logical Operators
+```
+// && = AND
+// || = OR
+// ! = NOT
+```
 
 ___
 ___
