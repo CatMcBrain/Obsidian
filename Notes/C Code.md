@@ -90,6 +90,14 @@ fgets(str, sizeof(str), stdin);
 ```
 
 
+## Math functoins
+
+The package `<math.h>` gives us some functions:
+```
+sqrt(n) = square root
+pow(n,) = 
+```
+
 
 ___
 ___
