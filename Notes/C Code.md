@@ -105,7 +105,7 @@ log(n); // natural logarithm (Ln)
 sin(n); cos(n); tan(n); // trigonometry (n in radians)
 ```
 
-
+- Watch out with divisions with integers, if you want to have decimals, you need to use `4.0 / 3.0`
 ___
 ___
 ## Extras
