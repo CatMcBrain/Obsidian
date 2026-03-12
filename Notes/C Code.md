@@ -167,7 +167,16 @@ switch(var){
 // ! = NOT
 ```
 
-##
+# Functions
+
+They are created outside `main`
+```
+void function(){ // does not return a value. "inputs" code
+	... ;
+}
+
+int function2()
+```
 
 ___
 ___
