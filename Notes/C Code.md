@@ -98,7 +98,8 @@ sqrt(n); // square root
 pow(n,pot); // elevate n to pot
 round(n); ceil(n); floor(n); // round\round up\round down
 abs(n); // absolute value
-
+log(n); // natural logarithm (Ln)
+sin(n); cos(n); tan(n); // trigonometry (n in radians)
 ```
 
 
