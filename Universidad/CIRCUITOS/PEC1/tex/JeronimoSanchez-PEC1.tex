@@ -1,0 +1,102 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{geometry}
+\usepackage{lipsum}
+\usepackage{fancybox}
+\geometry{
+	top=2.4cm,
+	bottom=2.4cm,
+	left=2.3cm,
+	right=2.3cm
+}
+
+\usepackage[
+    backend=biber,
+	citestyle=verbose-ibid,
+    bibstyle=authoryear-icomp,
+    natbib=true,
+    url=true, 
+    doi=true,
+    eprint=false
+]{biblatex}
+
+\addbibresource{ref.bib}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+\renewcommand\thesubsection{\Alph{subsection}}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} Circuitos - PEC 1}
+\author{Álvaro Jerónimo Sánchez}
+\date{}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+\renewcommand{\tablename}{Tabla}
+
+
+\section{Ejercicio 1}
+
+En este circuito, se han nombrado los componentes como: \newline 
+\begin{gather*}
+	V_G=140V,\, I_G=8A,\, R_1=20\Omega ,\, R_2=6\Omega ,\, R_3=5\Omega
+\end{gather*}
+
+\subsection{Voltaje en los nodos A y B}
+
+Estos nodos en realidad son el mismo nodo, ya que están conectados sin ningún componente entre ellos, por lo que se se cumple que $V_A=V_B$. Aplicando la primera Ley de Kirchhoff:
+\begin{gather*}
+	0=\frac{V_A-V_G}{R_1}+\frac{V_A-0}{R2}+\frac{V_A-0}{R_3}-8\, A\\
+	0= 3V_A -420 + 22V_A -480 \Rightarrow V_A = \frac{900}{25}\\
+	\boxed{V_A=V_B=36\, V}
+\end{gather*}
+
+\subsection{Potencia disipada en cada resistencia}
+
+Este apartado se puede resolver con una aplicación directa de la definición de la potencia y usando Ohm:
+\begin{gather*}
+	P=\frac{dW}{dt}=V\frac{dq}{dt}=VI=\frac{V^2}{R}\\
+	P_{R1}=\frac{(V_G -V_A)^2}{R_1}=\boxed{540.8\, W}\;
+	P_{R2}=\frac{V_A ^2}{R_2}=\boxed{216.0\, W}\;
+	P_{R3}=\frac{V_A ^2}{R_3}=\boxed{259.2\, W}\;
+\end{gather*}
+
+\section{Ejercicio 2}
+
+
+
+
+%\appendix
+%\textbf{APPENDIX}
+
+\end{document}
