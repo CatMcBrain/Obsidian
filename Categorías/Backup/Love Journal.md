@@ -54,3 +54,5 @@ Volví a galicia en Febrero, después de mis finales.
 - Tuve regalos cumple prematuros
 
 Acabo de ir al médico (11 Mar) y me llamará el endocrino cuando sea para mi primera cita. Estrella llegará a madrid el 17 Mar.
+
+Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero morir pero me salvan familia, amigos y Estrella. Tengo miedo de cambiar más sin hormonas, no quiero ser un puto ogro. Rompería un plato o algo pero no quiero causar más problemas, voy a seguir con circuitos.
