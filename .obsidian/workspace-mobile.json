@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C Code.md",
+                "file": "Categorías/Backup/Love Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Code"
+              "title": "Love Journal"
             }
           }
         ],
@@ -192,6 +192,7 @@
   },
   "active": "4310a489420e83a7",
   "lastOpenFiles": [
+    "Notes/C Code.md",
     "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.c",
     "Universidad/CIRCUITOS/Sim1/T2/Draft1.net",
     "Universidad/CIRCUITOS/Sim1/T2/Draft1.asc",
@@ -202,7 +203,6 @@
     "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.log",
     "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.fls",
     "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.fdb_latexmk",
-    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.bcf",
     "Notes/Notes.md",
     "Notes/Quick Note.md",
     "Notes/Backup/Love Journal.md",
