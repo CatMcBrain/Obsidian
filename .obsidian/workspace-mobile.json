@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Notes/C Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "C Code"
             }
           }
         ],
@@ -192,17 +192,18 @@
   },
   "active": "4310a489420e83a7",
   "lastOpenFiles": [
-    "Universidad/Fórmulas/math.tsv",
-    "Universidad/Fórmulas/circuits_niche.tsv",
-    "Universidad/Fórmulas/circuits.tsv",
-    "Universidad/Fórmulas",
-    "Universidad/COMPUTACIÓN/test/test.py",
-    "Universidad/COMPUTACIÓN/test/test.exe",
-    "Universidad/COMPUTACIÓN/test/test.c",
-    "Universidad/COMPUTACIÓN/test",
-    "Universidad/COMPUTACIÓN",
-    "Universidad/CIRCUITOS/Sim1/tex/SIM1-ajeronimo13.tex",
-    "Universidad/CIRCUITOS/Sim1/tex/SIM1-ajeronimo13.synctex.gz",
+    "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.c",
+    "Universidad/CIRCUITOS/Sim1/T2/Draft1.net",
+    "Universidad/CIRCUITOS/Sim1/T2/Draft1.asc",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.tex",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.synctex.gz",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.run.xml",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.pdf",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.log",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.fls",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.fdb_latexmk",
+    "Universidad/CIRCUITOS/PEC1/tex/JeronimoSanchez-PEC1.bcf",
+    "Notes/Notes.md",
     "Notes/Quick Note.md",
     "Notes/Backup/Love Journal.md",
     "Notes/Backup/Heart.md",
@@ -215,7 +216,6 @@
     "Notes/Food/Recipes/Arroz con Leche.md",
     "Notes/Games/MH Rise/Elemental Weaknesses.md",
     "Notes/Games/Games.md",
-    "Notes/Notes.md",
     "Home/Home.md",
     "Notes/Food/Food.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
