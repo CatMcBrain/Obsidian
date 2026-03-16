@@ -190,11 +190,11 @@ do{
 #### For
 Repeats some code a limited amount of times
 ```
+// for(initial condition; continue until; increment)
+
 for(i =0; i < 10; i+=1){
 	... ;
 }
-
-// for(initial condition; continue until; increment)
 ```
 
 *You can add a "sleep" timer between iterations with the packages*:

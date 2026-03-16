@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55b7206c14612cc3",
+        "id": "bba1aaf9c0e81b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "c95452249b140c53",
+            "id": "b6a86df73daec7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,10 +197,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c95452249b140c53",
+  "active": "b6a86df73daec7f5",
   "lastOpenFiles": [
-    "Categorías/Backup/Love Journal.md",
     "Notes/C Code.md",
+    "Categorías/Backup/Love Journal.md",
     "Universidad/Universidad.md",
     "Notes/Notes.md",
     "Notes/Shopping/Shopping.md",
