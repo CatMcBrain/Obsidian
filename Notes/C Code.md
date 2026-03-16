@@ -205,6 +205,14 @@ for(i =0; i < 10; i+=1){
 Sleep(1000)  //time in ms
 
 ```
+
+#### Sequence breaking
+There are commands that alter the sequences of a loop
+```
+break \\ fully break out of a loop
+continue
+```
+
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
