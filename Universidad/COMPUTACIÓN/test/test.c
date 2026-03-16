@@ -4,27 +4,13 @@
 
 int main()
 {
-	float in = 0;
-	float out = 0;
-	int choice = 0;
+	int n = 0;
 
-	printf("Type 1 for kg->pnd or 2 for pnd->kg: ");
-	scanf(" %d", &choice);
+	for(int i=0; i==10; i++){
+		n += n ;
+		printf("%d\n", n);
+	}
+
 	
-
-	if(choice==1){
-		printf("How many kg?: ");
-		scanf(" %f", &in);
-		out=in*2.205;
-		printf("The result is: %f pnd", out);
-	}
-	else if(choice==2){
-		printf("How many pnd?: ");
-		scanf(" %f", &in);
-		out=in/2.205;
-		printf("The result is: %f kg", out);
-	}
-	else{
-		printf("Invalid choice.");
-	}
-} 
+	return 0;
+}
