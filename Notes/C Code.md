@@ -210,7 +210,7 @@ Sleep(1000)  //time in ms
 There are commands that alter the sequences of a loop
 ```
 break \\ fully break out of a loop
-continue
+continue \\ skip current cycle and continue loop
 ```
 
 # Functions
