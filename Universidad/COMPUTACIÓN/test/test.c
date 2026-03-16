@@ -14,6 +14,7 @@ int main()
 		for(cols;cols>0;cols--){
 			printf("#");
 		}
+		printf("%d",rows);
 	}
 
 	
