@@ -10,11 +10,11 @@ int main()
 	printf("How many columns?: ");
 	scanf("%d",&cols);
 
-	for(rows;rows>0;rows--){
-		for(cols;cols>0;cols--){
+	for(int i=rows;i>0;i--){
+		for(int j=cols;j>0;j--){
 			printf("#");
 		}
-		printf("%d",rows);
+		printf("\n");
 	}
 
 	
