@@ -207,7 +207,7 @@ Sleep(1000)  //time in ms
 ```
 
 #### Sequence breaking
-There are commands that alter the sequences of a loop
+There are commands that alter the sequences of a loop *(can be used in a nested `if`, as it would only affect the outside loops)*
 ```
 break \\ fully break out of a loop
 continue \\ skip current cycle and continue loop
