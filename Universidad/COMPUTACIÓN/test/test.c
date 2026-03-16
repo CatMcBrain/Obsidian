@@ -6,7 +6,7 @@ int main()
 {
 
 	srand(time(NULL));
-	printf("%f", rand());
+	printf("%f", RAND_MAX);
 	
 	return 0;
 }
