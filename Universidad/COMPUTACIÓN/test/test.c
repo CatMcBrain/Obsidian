@@ -2,10 +2,14 @@
 
 int main()
 {
+	int n=0;
 
 	for(int i=0; i<10; i++){
-		printf("%d\n", i);
+		n+=1;
+		printf("%d\n", n);
 	}
+
+	printf("%d\n",n);
 
 	
 	return 0;
