@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  13 MAR 2026 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  14 MAR 2026 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1465,12 +1465,121 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 6.1pt on input line 71.
 LaTeX Font Info:    Font shape `OT1/qhv/b/n' will be
 (Font)              scaled to size 11.28003pt on input line 75.
+<../2.png, id=4, 830.35219pt x 710.655pt>
+File: ../2.png Graphic file (type png)
+<use ../2.png>
+Package pdftex.def Info: ../2.png  used on input line 98.
+(pdftex.def)             Requested size: 177.31425pt x 151.74684pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.95pt on input line 101.
 
 
 [1
 
 
-{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-rm.enc}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}] (JeronimoSanchez-PEC1.aux
+{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-rm.enc}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc} <../2.png>]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 134.
+<../3.png, id=18, 645.91313pt x 407.27156pt>
+File: ../3.png Graphic file (type png)
+<use ../3.png>
+Package pdftex.def Info: ../3.png  used on input line 162.
+(pdftex.def)             Requested size: 177.31425pt x 111.79805pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 165.
+
+
+
+[2
+
+ <../3.png>]
+<../4.png, id=27, 1274.51157pt x 679.03688pt>
+File: ../4.png Graphic file (type png)
+<use ../4.png>
+Package pdftex.def Info: ../4.png  used on input line 206.
+(pdftex.def)             Requested size: 177.31425pt x 94.46356pt.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 211.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 211.
+
+
+[3
+
+ <../4.png>]
+<../4-g.png, id=32, 467.7475pt x 439.14063pt>
+File: ../4-g.png Graphic file (type png)
+<use ../4-g.png>
+Package pdftex.def Info: ../4-g.png  used on input line 236.
+(pdftex.def)             Requested size: 279.97789pt x 262.86993pt.
+
+
+[4 <../4-g.png>]
+<../sw.png, id=37, 1111.90407pt x 420.06938pt>
+File: ../sw.png Graphic file (type png)
+<use ../sw.png>
+Package pdftex.def Info: ../sw.png  used on input line 278.
+(pdftex.def)             Requested size: 279.97789pt x 105.77344pt.
+ (modelo declaración de autoría.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+)
+
+[5
+
+ <../sw.png>] (JeronimoSanchez-PEC1.aux
 LaTeX Info: Redefining \sptext on input line 7.
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
@@ -1485,17 +1594,17 @@ Package logreq Info: Writing requests to 'JeronimoSanchez-PEC1.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45555 strings out of 468080
- 1053909 string characters out of 5421398
- 2166590 words of memory out of 5000000
- 73548 multiletter control sequences out of 15000+600000
- 672149 words of font info for 108 fonts, out of 8000000 for 9000
+ 45664 strings out of 468080
+ 1055920 string characters out of 5421398
+ 2177687 words of memory out of 5000000
+ 73639 multiletter control sequences out of 15000+600000
+ 691344 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,13n,107p,11282b,2044s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI7.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txmiaX.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txsys.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb>
-Output written on JeronimoSanchez-PEC1.pdf (1 page, 96980 bytes).
+ 108i,15n,107p,11282b,2044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI5.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI7.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txexs.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txmiaX.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/txfonts/txsyc.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txsys.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmri.pfb>
+Output written on JeronimoSanchez-PEC1.pdf (5 pages, 297831 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
