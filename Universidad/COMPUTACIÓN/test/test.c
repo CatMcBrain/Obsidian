@@ -13,6 +13,7 @@ int main()
 	for(rows;rows>1;rows--){
 		for(cols;cols>1;cols--){
 			printf("#");
+			return;
 		}
 	}
 
