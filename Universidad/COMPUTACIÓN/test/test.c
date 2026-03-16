@@ -6,9 +6,9 @@ int main()
 {
 	int n = 0;
 
-	for(int i=0; i==10; i++){
+	for(int i=10; i=0; i--){
 		n += n ;
-		printf("%d\n", n);
+		printf("%d\n", i);
 	}
 
 	
