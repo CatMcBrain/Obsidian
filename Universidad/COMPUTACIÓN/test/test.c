@@ -4,9 +4,12 @@
 
 int main()
 {
-
-	srand(time(NULL));
-	printf("%f", RAND_MAX);
+	
+	int a=0;
+	while(a=0){
+		printf("Eugh\n miau?? \n a a! \n (-) \n mhaw");
+		continue;
+	}
 	
 	return 0;
 }
