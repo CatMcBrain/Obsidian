@@ -57,4 +57,5 @@ Acabo de ir al médico (11 Mar) y me llamará el endocrino cuando sea para mi pr
 
 Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero morir pero me salvan familia, amigos y Estrella. Tengo miedo de cambiar más sin hormonas, no quiero ser un puto ogro. Rompería un plato o algo pero no quiero causar más problemas, voy a seguir con circuitos.
 
-Está Estrella aqui (17/03/202)
+Está Estrella aqui (17/03/2026). 
+- Vamos a jugar a fila filo (las arañitas)
