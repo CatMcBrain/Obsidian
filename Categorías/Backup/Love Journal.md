@@ -59,3 +59,4 @@ Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero 
 
 Está Estrella aqui (17/03/2026). 
 - Vamos a jugar a fila filo (las arañitas)
+      0- 3 (gana amor). 2-3 (gana amor)
