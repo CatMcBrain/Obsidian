@@ -10,6 +10,6 @@ A-->B;
 
 ```mermaid
 flowchart TB;
-a --> Exacta
+ --> Exacta (integración)
 ```
  
