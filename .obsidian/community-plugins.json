@@ -42,5 +42,6 @@
   "lazy-plugins",
   "cmdr",
   "tldraw",
-  "swiftlatex-render"
+  "swiftlatex-render",
+  "obsidian-latex-suite"
 ]
