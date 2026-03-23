@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,14 +958,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(22.76219pt, 551.98349pt, 22.76219pt)
+* h-part:(L,W,R)=(46.94687pt, 503.61414pt, 46.94687pt)
 * v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=551.98349pt
+* \textwidth=503.61414pt
 * \textheight=759.6886pt
-* \oddsidemargin=-49.5078pt
-* \evensidemargin=-49.5078pt
+* \oddsidemargin=-25.32312pt
+* \evensidemargin=-25.32312pt
 * \topmargin=-51.59087pt
 * \headheight=12.0pt
 * \headsep=10.0pt
@@ -1019,13 +1019,13 @@ L3 programming layer <2020/03/25>
 Here is how much of TeX's memory you used:
  35914 strings out of 468080
  841460 string characters out of 5421398
- 1317062 words of memory out of 5000000
+ 1317092 words of memory out of 5000000
  63992 multiletter control sequences out of 15000+600000
  633695 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,833b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on "Resolución de diferenciales.pdf" (1 page, 23553 bytes).
+Output written on "Resolución de diferenciales.pdf" (1 page, 23552 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
