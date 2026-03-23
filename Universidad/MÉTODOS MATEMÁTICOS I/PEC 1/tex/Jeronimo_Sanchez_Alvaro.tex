@@ -1,0 +1,292 @@
+\documentclass[]{scrartcl}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{geometry}
+\usepackage{lipsum}
+\usepackage{fancybox}
+\geometry{
+	top=2.4cm,
+	bottom=2.4cm,
+	left=2.3cm,
+	right=2.3cm
+}
+
+\usepackage[
+    backend=biber,
+	citestyle=verbose-ibid,
+    bibstyle=authoryear-icomp,
+    natbib=true,
+    url=true, 
+    doi=true,
+    eprint=false
+]{biblatex}
+
+\addbibresource{ref.bib}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+\renewcommand\thesubsection{\alph{subsection}}
+
+\input{colorbox.tex}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} Métodos Matemáticos I - PEC 1}
+\author{Álvaro Jerónimo Sánchez}
+\date{}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+\renewcommand{\tablename}{Tabla}
+
+
+\section{Ejercicio 1}
+
+\subsection{Resolver la ecuación en forma binómica}
+
+El número se puede escribir como $z^{2n+1}=1$, que en forma polar es $1=\cos0+i \sin0$, o lo que es lo mismo, $1=\cos(2\pi k)+i \sin(2\pi k)$. Aplicando las raíces complejas, tenemos que:
+\begin{gather*}
+	\boxed{z=\cos\left( \frac{2\pi k}{2n+1} \right) + i\sin\left( \frac{2\pi k}{2n+1} \right)}
+\end{gather*}
+
+\subsection{Número de soluciones que cumplen $Re(z)>0$, $Im(z)>0$}
+
+Para que la parte real sea mayor que 0, se debe cumplir $\frac{-\pi}{2}<\frac{2\pi k}{2n+1}<\frac{-\pi}{2}$, y para la parte imaginaria $0<\frac{2\pi k}{2n+1}<\pi$. Sólo se cumplen ambas condiciones en el primer cuadrante $(0,\frac{\pi}{2})$:
+\begin{gather*}
+	0 < \frac{2\pi k}{2n+1}  < \frac{\pi}{2} \Rightarrow 0 < \frac{k}{2n+1}  < \frac{1}{4} \Rightarrow 0 < k < \frac{2n+1}{4}
+\end{gather*}
+$k=0,1,2\ldots$ , por lo que habrá un número de soluciones:
+\begin{gather*}
+	\boxed{\frac{2n+1}{4}} \; \text{(sólo la parte entera, sin decimales)}
+\end{gather*}
+
+
+\section{Ejercicio 2}
+
+\begin{center}
+$y'+\ln (x)y^2+\frac{1-2\ln x}{x}y=-\frac{\ln x}{x^2}$
+\end{center}
+
+\subsection{Compruebe que la función $y_1 (x) = \frac{1}{x}$ es solución particular de la ecuación de Riccati en $x \in (0, \infty)$}
+
+Realizamos la derivada de dada solución particular para sustituir en la ecuación:
+\begin{gather*}
+	y'_1=\frac{-1}{x^2} \leadsto \frac{-1}{x^2}+\ln (x) \frac{1}{x^2}+\frac{1-2\ln x}{x}\frac{1}{x}=-\frac{\ln x}{x^2}
+\end{gather*}
+Tras agrupar y reducir, podemos observar que se cumple la igualdad, por lo que $\boxed{\text{es solución}}$:
+\begin{gather*}
+	\frac{1}{x^2}(-1+\ln x +1-2\ln x)=-\frac{\ln x}{x^2} \rightarrow \ln x -2\ln x =-\ln x \\
+	\boxed{-\ln x = -\ln x}\; \checkmark
+\end{gather*}
+
+\subsection{Transformación en ecuación lineal por cambio de variable}
+
+ Conociendo la solución particular y haciendo un cambio $y=y_P+\frac{1}{v}$, realizamos la derivada de $y$ para sustituir en la ecuación:
+ \begin{gather*}
+	y=\frac{1}{x}+\frac{1}{u}\; ; \; y'=\frac{-1}{x^2}-\frac{u'}{u^2}\\
+	\frac{-1}{x^2}-\frac{u'}{u^2}+\ln (x)\left(\frac{1}{x}+\frac{1}{u}\right)^2+\frac{1-2\ln x}{x}\left(\frac{1}{x}+\frac{1}{u}\right)=-\frac{\ln x}{x^2}\\
+	\xrightarrow[\text{(agrupando)}]{} \frac{1}{x^2}(\cancel{-1}+\ln x+\cancel{1}-2\ln x)+\frac{1}{u^2}(-u'+\ln x) +\frac{1}{xu}(2\ln x+1-2\ln x)=-\frac{\ln x}{x^2}\\
+	\cancel{\frac{-\ln x}{x^2}}+\frac{-u'+\ln x}{u^2}+\frac{1}{u^2}=\cancelto{0}{\frac{-\ln x}{x^2}}\\
+	\boxed{u'=\frac{1}{x}u-\ln x =0}
+\end{gather*}
+
+\subsection{Solución de la homogénea asociada}
+
+La homogénea asociada es una \textit{EDO} de primer orden que se puede resolver despejando variables e integrando:
+\begin{gather*}
+	u'=\frac{1}{x}u=0=\frac{\delta u}{\delta x}-\frac{u}{x} \Rightarrow \frac{\delta x}{x}=\frac{\delta u}{u}\\
+	\ln |u|=\ln |x| +C ; \; \xrightarrow[(\text{cambiando } C \text{ por } \ln C)]{}  \ln |u| = \ln (|x|C)\\
+	\Rightarrow u=Cx \xrightarrow[\text{(deshago cambio var.)}]{} \boxed{y=\frac{1}{x}+\frac{1}{Cx}}
+\end{gather*}
+
+\subsection{Solución general completa}
+
+Para resolver $u'-\frac{1}{x}u-\ln x =0$, se usa un factor integrante:
+\begin{gather*}
+	\mu=e^{\int P(x) dx} = e^{\int \frac{-1}{x}dx}=e^{-\ln x}=\frac{1}{x}
+\end{gather*}
+Se multiplica la ecuación por el factor integrante y, posteriormente, se deshace el cambio de variable $\left( y=\frac{1}{x}+\frac{1}{u} \right)$ para hallar la solución:
+\begin{gather*}
+	\frac{u'}{x}-\frac{1}{x^2}u=\frac{\ln x}{x}=\left( \frac{u}{x} \right)'\\
+	\Rightarrow \frac{u}{x}=\int{\frac{\ln x}{x}dx}=\frac{(\ln x)^2}{2}+C \Rightarrow u=x\left( \frac{(\ln x)^2}{2}+C \right)\\
+	\boxed{y(x)=\frac{1}{x}+\frac{1}{x\left( \frac{(\ln x)^2}{2}+C \right)}}
+\end{gather*}
+
+\section{Ejercicio 3}
+
+\begin{center}
+	$y'''-y''-y'+y=x^2+1$
+\end{center}
+
+\subsection{Comprobar que $y_1(x)=e^x$ es solución particular}
+
+Para comprobar si es solución de la homogénea asociada, derivamos para sustituir en la ecuación.
+\begin{gather*}
+	y=y'=y''=e^x\\
+	e^x-e^x-e^x+e^x=0\; \boxed{\text{Sí cumple}}
+\end{gather*}
+
+\subsection{Reducción de orden}
+
+Empleamos $y(x)=u(x)y_1(x)$ para reducir el orden $\Rightarrow y=ue^x$ :
+\begin{gather*}
+	y'=(u'+u)e^x\; ; \; y''=(u''+2u'+u)e^x\; ; \; y'''=(u'''+3u''+3u'+u)e^x\\
+	\rightarrow e^x(u'''=3u''+3u'+u-u''-2u'-u-u'-u+u)=0\\
+	\boxed{u'''+2u''=0}
+\end{gather*}
+
+\subsection{Solución de la homogénea}
+
+Hallamos la solución de la homogénea asociada empleando la reducción de orden del apartado \textit{b}.
+\begin{gather*}
+	r^3+2r^2=0 \Rightarrow r^2(r+2)=0
+	\left\{
+	\begin{array}{l}
+		r=0 \text{(doble)}\\
+		r=-2
+	\end{array}
+	\right.
+\end{gather*}
+Por tanto, la solución general (teniendo en cuenta la raíz doble) es:
+\begin{gather*}
+	u(x)=C_1+C_2x+C_3e^{-2x} \xrightarrow[(\text{deshago } y=ue^x)]{} \boxed{y_h=C_1e^x+C_2xe^x+C_3e^{-x}}
+\end{gather*}
+
+\subsection{Solución completa con método operacional}
+
+Como es un polinomio, probamos con $y_p=Ax^2+Bx+C$. Derivamos y sustituimos en la ecuación:
+\begin{gather*}
+	y'_p=2Ax+B\; ; \; y''_p=2A\; ; \; y'''_p=0\\
+	Ax^2+(-2A+B)x+(C-B-2A)=x^2+1 \xrightarrow[(\text{igualo coef.})]{} 
+	\left\{
+	\begin{array}{l}
+		A=1\\
+		-2A+B=0\\
+		C-B-2A=1
+	\end{array}
+	\right. \leadsto \left\{
+	\begin{array}{l}
+		A=1\\
+		B=2\\
+		C=5
+	\end{array}
+	\right. \\
+	\Rightarrow y_p=x^2+2x+5
+\end{gather*}
+Sumo la solución de la homogénea y la de la particular para hallar la completa.
+\begin{gather*}
+	y=y_h+y_p \Rightarrow \boxed{y=C_1e^x+C_2xe^x+C_3e^{-x}+x^2+2x+5}
+\end{gather*}
+
+\begin{center}
+	$x^2y''+3xy'-y=x^2\ln x$
+\end{center}
+
+\section{Ejercicio 4}
+
+\subsection{Transformación coeficientes constantes}
+
+Para pasar a coeficientes constantes empleo $\frac{\delta y}{\delta x}=\frac{\delta y}{\delta z}\cdot \frac{\delta z}{\delta x}$. Como es una ecuación de \textit{Cauchy-Euler}, probamos $x=e^x$ :
+\begin{align*}
+	&\bullet \frac{\delta y}{\delta x} = \frac{\delta y}{\delta z}\frac{1}{x}\\
+	&\bullet \frac{\delta^2 y}{\delta x^2}=\frac{\delta }{\delta x}\left(\frac{\delta y}{\delta x}\right) = \frac{\delta }{\delta x}\left(\frac{\delta y}{\delta z}\frac{1}{x}\right) \xrightarrow[(\text{r. cadena})]{} \left( \frac{\delta^2 y}{\delta z^2}\frac{1}{x} \right)\frac{1}{x} -\frac{\delta y}{\delta z}\frac{1}{x^2} =\frac{1}{x^2}\left( \frac{\delta^2 y}{\delta z^2}-\frac{\delta y}{\delta z} \right)
+\end{align*}
+Sustituyendo las derivadas en la ecuación, y nombrando $\frac{\delta y}{\delta z}$ como $Y'$:
+\begin{gather*}
+	Y''-Y'+3Y'-Y=e^{2z}z\\ \boxed{Y''+2Y'-Y=ze^{2z}}
+\end{gather*}
+
+\subsection{Solución de la homogénea asociada}
+
+La homogénea asociada es $Y''+2Y'-Y=0$. Sustituimos por r y solucionamos la ecuación de segundo grado:
+\begin{gather*}
+	r^2+2r-1=0\Rightarrow r=\frac{-2\pm\sqrt{4+4}}{2}\\
+	r=-1\pm\sqrt{2}
+\end{gather*}
+Empleamos la plantilla de la solución general sustituyendo las soluciones:
+\begin{gather*}
+	\boxed{y_h=C_1e^{-1+\sqrt{2}}+C_2e^{-1-\sqrt{2}}}
+\end{gather*}
+
+\subsection{Solución particular por variación de constantes}
+
+Planteamos la variación con $u_1$ y $u_2$ y resolvemos el sistema resultante.
+\begin{gather*}
+	y_p=u_1(t)y_1+u_2(t)y_2 \rightarrow \left\{
+	\begin{array}{l}
+		u_1'y_1+u_2'y_2=0\\
+		u_1'y_1'+u_2'y_2'=e^{2t}t
+	\end{array}
+	\right. \xrightarrow[(\text{derivando})]{}
+	\left\{
+	\begin{array}{l}
+		u_1'y_1+u_2'y_2=0\\
+		u_1'(-1+\sqrt{2})y_1+u_2'(1-\sqrt{2})y_2=e^{2t}t
+	\end{array}
+	\right.
+\end{gather*}
+Resolvemos por Wronskiano:
+\begin{gather*}
+	W= \left|
+	\begin{array}{cc}
+		y_1&y_2\\ y_1'&y_2'
+	\end{array}
+	\right| =-2\sqrt{2} y_1y_2 \rightarrow
+	\left\{
+	\begin{array}{l}
+		u_1'=\frac{t}{2\sqrt{2}}e^{(3-\sqrt{2})t}\\
+		u_2'=-\frac{t}{2\sqrt{2}}e^{(3+\sqrt{2})t}
+	\end{array}
+	\right.
+\end{gather*}
+Tras integrar por partes hallamos:
+\begin{gather*}
+	y_p=e^{2t}(t-2)\xrightarrow[(\text{deshago})]{}\boxed{y_p=x^2\ln x -2x^2}
+\end{gather*}
+
+\subsection{Solución general completa}
+
+La solución general completa es simplemente la suma de la particular y la de la homogénea asociada.
+\begin{gather*}
+	\boxed{y(x)=C_1e^{-1+\sqrt{2}}+C_2e^{-1-\sqrt{2}}+x^2\ln x -2x^2}
+\end{gather*}
+
+
+
+
+%_________________________________________
+
+%\nocite{*}
+%\printbibliography
+
+%\appendix
+%\textbf{APPENDIX}
+
+\end{document}
