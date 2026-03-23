@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **- ARCHIVO**
+- **- Archivo**
 	- **Bachillerato**
 		- **Física**
 			- [[Campo Eléctrico]]
@@ -125,6 +125,11 @@
 	- **test**
 
 - **Fórmulas**
+
+- **MÉTODOS MATEMÁTICOS I**
+	- [[Flowchart]]
+	- **PEC 1**
+		- **tex**
 
 
 %% End Waypoint %%
