@@ -9,7 +9,7 @@ A-->B;
 
 
 ```mermaid
-flowchart BT;
-A-->B ; C --> D
+flowchart TB;
+-->Exacta
 ```
  
