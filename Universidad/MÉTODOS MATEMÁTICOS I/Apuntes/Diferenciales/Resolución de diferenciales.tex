@@ -55,7 +55,7 @@ geometry={
 
 \renewcommand\thesubsection{\alph{subsection}}
 
-\def\mydate{\leavevmode\hbox{\twodigits\day-\twodigits\month-\year}}
+\def\mydate{\leavevmode\hbox{\twodigits\day-\twodigits\month-\the\year}}
 \def\twodigits#1{\ifnum#1<10 0\fi\the#1}
 
 %\input{colorbox.tex}
