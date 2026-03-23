@@ -39,8 +39,7 @@ geometry={
 \usepackage{adjustbox}
 \usepackage{fancybox}
 \usepackage[T1]{fontenc}
-\usepackage{cascadia-code}
-\renewcommand*\familydefault{\ttdefault}
+\renewcommand*\familydefault{\sfdefault}
 
 
 % Commands
@@ -68,11 +67,12 @@ geometry={
 % Header and footer
 \lhead{\textcolor{gray}{Título}}
 \rhead{\textcolor{gray}{Date: \mydate \hspace{1cm} Page No.: \thepage}}
-%\cfoot{\textcolor{gray}{Footer}}
+\cfoot{\textcolor{gray}{}}
 
 \begin{document}
-\pagenumbering{gobble}
 	
-	\normalfont (...)
+	\section{Resolución}
+
+	test this is a $math=\frac{1}{2\text{txa}}$
 	
 \end{document}
