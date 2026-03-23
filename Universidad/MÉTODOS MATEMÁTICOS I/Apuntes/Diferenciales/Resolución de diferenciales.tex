@@ -1,0 +1,71 @@
+\documentclass{article}
+
+\usepackage[pattern=dot, 
+patternsize=0.2in, 
+textarea,
+geometry={
+	a4paper,
+	left=8mm,
+	right=8mm,
+	top=15mm,
+	bottom=15mm,
+	headsep=10pt,
+	footskip=25pt,
+}
+]{gridpapers}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{fancybox}
+
+
+% Commands
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\let\HeadRule\headrule
+\let\FootRule\footrule
+\renewcommand\headrule{\color{gray}\HeadRule}
+\renewcommand\footrule{\textcolor{gray}{\FootRule}}
+
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+\renewcommand\thesubsection{\alph{subsection}}
+
+%\input{colorbox.tex}
+
+% Document-------------------------------------
+
+%header and footer text
+\lhead{\textcolor{gray}{Prof. Hubert J. Farnsworth}}
+\rhead{\textcolor{gray}{Date: {~~~/~~~/~~~~}; Page No.: {~~~~}}}
+\cfoot{\textcolor{gray}{Department of Theoretical Physics, Mars University}}
+
+\begin{document}
+	
+	~
+	
+\end{document}
