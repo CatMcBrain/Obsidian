@@ -15,7 +15,7 @@
               "state": {
                 "file": "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Resolución de EDO"
@@ -162,23 +162,14 @@
               "icon": "lucide-list",
               "title": "Outline of Resolución de EDO"
             }
-          },
-          {
-            "id": "394e0486651c7e28",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +199,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "394e0486651c7e28",
+  "active": "b6a86df73daec7f5",
   "lastOpenFiles": [
     "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
