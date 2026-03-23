@@ -128,6 +128,8 @@
 
 - **MÉTODOS MATEMÁTICOS I**
 	- **Apuntes**
+		- **Diferenciales**
+
 	- **PEC 1**
 		- **tex**
 
