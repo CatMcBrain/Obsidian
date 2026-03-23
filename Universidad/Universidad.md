@@ -127,6 +127,7 @@
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
+	- **Apuntes**
 	- **PEC 1**
 		- **tex**
 
