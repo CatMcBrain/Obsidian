@@ -1,11 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1774273715.39391 "c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex" "Resolución de diferenciales.pdf" "Resolución de diferenciales" 1774273717.71877 0
+["pdflatex"] 1774273833.46351 "c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex" "Resolución de diferenciales.pdf" "Resolución de diferenciales" 1774273836.27632 0
   "C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map" 1774273002 254341 82216a34381ed656b516adf3fcfdfcde ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1762526899 13326241 f821cd024e12120362e79f3b471952a8 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-ec.enc" 1525740614 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/tfm/public/latex-fonts/lasy6.tfm" 1136765053 520 4889cce2180234b97cad636b6039c722 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm" 1736607165 11580 86fb9f1fbe830bcc3e5ca9d9fb704e6b ""
+  "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/tfm/public/tex-gyre/ec-qhvb.tfm" 1256929440 11796 b7bc3db132e822d2872ea50ba8fa7cc0 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/tfm/public/tex-gyre/ec-qhvr.tfm" 1256929440 12084 374c5b7e91efcc10472ab8e61f66d36b ""
+  "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb" 1256929440 112164 9a008608d864b5b2b3e09f1772eadc4f ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb" 1256929440 110045 c7ff88f51a7375dc708c2420cc515d9e ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/generic/babel/babel.sty" 1761147669 145885 784cdd1ebbc3dbacabd5ee30707617a3 ""
@@ -212,9 +214,9 @@
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "Resolución de diferenciales.aux" 1774273717 251 4a7587932468db316fdad68a6c8c50db "pdflatex"
-  "Resolución de diferenciales.tex" 1774273714 1854 ffabe2cfe393ff39a9657b74da3f10ab ""
-  "c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex" 1774273714 1854 ffabe2cfe393ff39a9657b74da3f10ab ""
+  "Resolución de diferenciales.aux" 1774273835 344 779a17e6c57e70ca5e256e02d017bbc2 "pdflatex"
+  "Resolución de diferenciales.tex" 1774273832 1886 d2891e5a27147819508c505883ae9f4a ""
+  "c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex" 1774273832 1886 d2891e5a27147819508c505883ae9f4a ""
   (generated)
   "Resolución de diferenciales.aux"
   "Resolución de diferenciales.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1002,11 +1002,10 @@ LaTeX Info: Command `\ddddot' is already robust on input line 72.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
  on input line 72.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 13.53603pt on input line 75.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 13.53603pt on input line 75.
 
 
 [1{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-ec.enc}
@@ -1022,17 +1021,17 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 35914 strings out of 468080
- 841460 string characters out of 5421398
+ 35917 strings out of 468080
+ 841497 string characters out of 5421398
  1317082 words of memory out of 5000000
- 63992 multiletter control sequences out of 15000+600000
- 633695 words of font info for 43 fonts, out of 8000000 for 9000
+ 63994 multiletter control sequences out of 15000+600000
+ 639617 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,833b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on "Resolución de diferenciales.pdf" (1 page, 23548 bytes).
+<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb>
+Output written on "Resolución de diferenciales.pdf" (1 page, 42924 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
