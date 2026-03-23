@@ -10,5 +10,6 @@ A-->B;
 
 ```mermaid
 flowchart BT;
-A-->B;
+Exacta<--B & C;
 ```
+ 
