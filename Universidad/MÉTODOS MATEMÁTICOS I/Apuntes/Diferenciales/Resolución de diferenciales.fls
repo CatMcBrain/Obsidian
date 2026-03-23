@@ -337,10 +337,18 @@ INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\varwidth\v
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\varwidth\varwidth.sty
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\fancybox\fancybox.sty
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\fancybox\fancybox.sty
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\ot1ntxtlf.fd
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\base\fontenc.sty
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\base\fontenc.sty
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1minntx.fd
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1minntx.fd
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1minntx.fd
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\cascadia-code\cascadia-code.sty
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\cascadia-code\cascadia-code.sty
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\base\fontenc.sty
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\newtx\t1ntxtlf.fd
 INPUT .\Resolución de diferenciales.aux
 INPUT .\Resolución de diferenciales.aux
 INPUT Resolución de diferenciales.aux
@@ -368,11 +376,8 @@ INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\00miktex\e
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\tex\latex\00miktex\epstopdf-sys.cfg
 OUTPUT Resolución de diferenciales.pdf
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\txmiaX.tfm
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\data\fonts\map\pdftex\pdftex.map
-INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\enc\dvips\newtx\ntx-ec-tlf.enc
 INPUT Resolución de diferenciales.aux
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\type1\public\newtx\ztmr.pfb

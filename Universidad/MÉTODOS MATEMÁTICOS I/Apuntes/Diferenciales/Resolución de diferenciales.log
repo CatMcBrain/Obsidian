@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,53 +861,67 @@ Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \EndVerbatimTokens=\toks60
 \Verbatim@Outfile=\write4
 \Verbatim@Infile=\read5
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+minntx on input line 116.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\t1minntx.fd
+File: t1minntx.fd 2023/09/09 v1.1 font definition file for T1/minntx
 )
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 70.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\ot1ntxtlf.fd
-File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+LaTeX Font Info:    Font shape `T1/minntx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 116.
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/cascadia-code\cascadia-code.sty
+Package: cascadia-code 2023/10/06 (Carl-Clemens Ebinger & autoinst) Style file for CascadiaCode fonts.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
+LaTeX Info: Redefining \textsup on input line 36.
+)
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 72.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\t1ntxtlf.fd
+File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 72.
  (Resolución de diferenciales.aux (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel/locale/es\babel-spanish.tex)
 Package babel Info: Importing data for spanish
 (babel)             from babel-es.ini. Reported on input line 7.
 )
 \openout1 = `"Resolución de diferenciales.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 70.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 70.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 72.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 72.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 70.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 70.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 72.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 70.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 70.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 72.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 70.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 70.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 72.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    ... okay on input line 72.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count372
@@ -967,21 +981,21 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 70.
+(babel)             Reported on input line 72.
 \c@mv@tabular=\count378
 \c@mv@boldtabular=\count379
-LaTeX Info: Command `\dddot' is already robust on input line 70.
-LaTeX Info: Command `\ddddot' is already robust on input line 70.
+LaTeX Info: Command `\dddot' is already robust on input line 72.
+LaTeX Info: Command `\ddddot' is already robust on input line 72.
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 70.
+ on input line 72.
 
 
 
-[1{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}
+[1{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}
 
 ] (Resolución de diferenciales.aux
 LaTeX Info: Redefining \. on input line 7.
@@ -994,15 +1008,15 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 35536 strings out of 468080
- 834952 string characters out of 5421398
+ 35789 strings out of 468080
+ 838741 string characters out of 5421398
  1317062 words of memory out of 5000000
- 63636 multiletter control sequences out of 15000+600000
- 629700 words of font info for 44 fonts, out of 8000000 for 9000
+ 63879 multiletter control sequences out of 15000+600000
+ 630698 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,833b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb>
-Output written on "Resolución de diferenciales.pdf" (1 page, 34600 bytes).
+Output written on "Resolución de diferenciales.pdf" (1 page, 35182 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
