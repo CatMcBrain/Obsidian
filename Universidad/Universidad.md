@@ -127,9 +127,9 @@
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
-	- [[Flowchart]]
 	- **PEC 1**
 		- **tex**
 
+	- [[Resolución de EDO]]
 
 %% End Waypoint %%
