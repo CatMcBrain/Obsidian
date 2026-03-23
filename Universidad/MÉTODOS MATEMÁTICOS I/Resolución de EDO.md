@@ -7,10 +7,6 @@ A-->B;
 
 ```
 
-```mermaid
-flowchart LR
-Start --> Stop
+````mermaid
+graph TD     A[Start] --> B{Is it?};     B -- Yes --> C[OK];     B -- No --> D[KO];     C --> E[End];     D --> E; ```   `
 ```
-
-flowchart TD
-Start --> Stop
