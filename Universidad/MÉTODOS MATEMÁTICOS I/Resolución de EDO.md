@@ -10,6 +10,6 @@ A-->B;
 
 ```mermaid
 flowchart TB;
-No exacta (factor integrante) --> Exacta (integración)
+Lineal (factor integrante) --> Exacta (integración)
 ```
  
