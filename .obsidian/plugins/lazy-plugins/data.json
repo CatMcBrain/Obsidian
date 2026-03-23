@@ -137,6 +137,12 @@
       },
       "tldraw": {
         "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "mermaid-tools": {
+        "startupType": "instant"
       }
     }
   }
