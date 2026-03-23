@@ -154,22 +154,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C Code.md",
+                "file": "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C Code"
+              "title": "Outline of Resolución de EDO"
+            }
+          },
+          {
+            "id": "0ceb5048cfccc1b4",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +204,11 @@
       "soundscapes:Soundscapes: My Music": false,
       "hide-folders:Show hidden folders": false,
       "vscode-editor:Create Code File": true,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b6a86df73daec7f5",
+  "active": "0ceb5048cfccc1b4",
   "lastOpenFiles": [
     "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",

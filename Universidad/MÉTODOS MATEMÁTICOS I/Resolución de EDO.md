@@ -3,6 +3,14 @@ Al resolver se busca dejar una $y(x)$ en función de su **variable independiente
 
 ```graph TB
 
-A-->
+A-->B;
 
 ```
+
+```mermaid
+flowchart LR
+Start --> Stop
+```
+
+flowchart TD
+Start --> Stop
