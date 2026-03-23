@@ -7,7 +7,8 @@ A-->B;
 
 ```
 
+
 ```mermaid
-flowchart TB;
+flowchart BT;
 A-->B;
 ```
