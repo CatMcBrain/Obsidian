@@ -55,7 +55,7 @@ geometry={
 
 \renewcommand\thesubsection{\alph{subsection}}
 
-\def\mydate{\leavevmode\hbox{\twodigits\day-\twodigits\month-\the\year}}
+\def\mydate{\leavevmode\hbox{\twodigits\day/\twodigits\month/\the\year}}
 \def\twodigits#1{\ifnum#1<10 0\fi\the#1}
 
 %\input{colorbox.tex}
@@ -64,7 +64,7 @@ geometry={
 
 %header and footer text
 \lhead{\textcolor{gray}{Título}}
-\rhead{\textcolor{gray}{Date: \mydate ; Page No.: \thepage}}
+\rhead{\textcolor{gray}{Date: \mydate \hspace{1cm} Page No.: \thepage}}
 \cfoot{\textcolor{gray}{Department of Theoretical Physics, Mars University}}
 
 \begin{document}
