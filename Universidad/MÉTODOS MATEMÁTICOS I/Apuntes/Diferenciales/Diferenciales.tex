@@ -1,0 +1,310 @@
+\documentclass{article}
+
+\usepackage[pattern=dot, 
+patternsize=0.2in, 
+textarea,
+geometry={
+	a4paper,
+	left=1.5cm,
+	right=1.5cm,
+	top=15mm,
+	bottom=15mm,
+	headsep=10pt,
+	footskip=25pt,
+}
+]{gridpapers}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage[normalem]{ulem}
+\usepackage{cancel}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,shapes.geometric,positioning,calc}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{fancybox}
+\usepackage[T1]{fontenc}
+\renewcommand*\familydefault{\sfdefault}
+
+
+% Commands
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\let\HeadRule\headrule
+\let\FootRule\footrule
+\renewcommand\headrule{\color{gray}\HeadRule}
+\renewcommand\footrule{\textcolor{gray}{\FootRule}}
+
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\newsavebox\MBox
+\newcommand\Cline[2][red]{{\sbox\MBox{$#2$}%
+  \rlap{\usebox\MBox}\color{#1}\rule[-1.2\dp\MBox]{\wd\MBox}{0.5pt}}}
+
+\renewcommand\theequation{\Alph{equation}}
+
+%\renewcommand\thesubsection{\alph{subsection}}
+
+\def\mydate{\leavevmode\hbox{\twodigits\day/\twodigits\month/\the\year}}
+\def\twodigits#1{\ifnum#1<10 0\fi\the#1}
+
+\newcommand\runinsec{\@startsection {section}{1}{\z@}%
+                                   {3.5ex \@plus 1ex \@minus .2ex}%
+                                   {-1em}%
+                                   {\normalfont\Large\bfseries}}
+\newcommand\aftersec[1]{\begingroup\normalfont\footnotesize #1\endgroup%
+                        \par\nobreak\vspace*{2.3ex}\noindent\ignorespaces}
+
+
+% Header and footer
+\lhead{\textcolor{gray}{MM1 -- \thetitle}}
+\rhead{\textcolor{gray}{Date: \mydate \hspace{1cm} Page No.: \thepage}}
+\cfoot{\textcolor{gray}{\thefooter}}
+
+\input{colorbox.txt}
+
+% Document-------------------------------------
+
+\newcommand{\thetitle}{Resolución de Ecuaciones Diferenciales}
+\newcommand{\thefooter}{}
+
+\begin{document}
+\ \\ \vspace{-0.6cm} 
+{\Huge\textsc{\thetitle}} \vspace{0.3cm}
+\input{tikz.txt}
+
+\begin{wrapfigure}[7]{r}{0.7\textwidth}
+\vspace{-1.66cm}
+\begin{center}
+\begin{tikzpicture}[node distance=1cm]
+
+
+\node [txt] (ex) {$ \left(
+	\begin{array}{l}
+		\text{(Exacta)}\\ \textcolor{gray}{ \sim\text{\small fac. int.}}
+	\end{array}\right)$
+};
+\node [rect, above= of ex] (lin) {Lineal};
+\node[rect,right=of lin, xshift=50px](cla){Clairaut};
+\node[rect,above=of lin,xshift=-2.6cm](ber){Bernoulli};
+\node[rect,above=of lin](ric){Ricatti \\ {\small (+ sol. conocida)}};
+\node[rect,above=of lin,xshift=2.6cm](hom){Homogénea\\ (cocientes)};
+\node[ellip,below=of cla](sol){\textbf{\textsc{Solución}}\\ \textbf{\textsc{General}}} node[below=of sol, yshift=1cm]{(+ Condiciones iniciales)};
+\node [txt, left=of ber, xshift=1cm] (ini) {\textbf{\underline{¿Tipo?:}}};
+
+\draw[arrow] (lin)--(ex) ;
+\draw[arrow] (ber)|-(lin) node[midway,right,yshift=30px] {$v=y^{1-n}$};
+\draw[arrow] (ric)--(lin) node[midway,right,yshift=2px] {$y=y_p+\frac{1}{v}$};
+\draw[arrow] (hom)|-(lin) node[midway,right,yshift=30px] {$v=\frac{y}{x}$};
+\draw[arrow] (cla)--(sol) node[midway,right] {$y'=p$};
+\draw[arrow] (ex)--(sol) node[midway,above] {$\Phi$} node[midway,below] {\textcolor{gray}{(¿separable?)}};
+\draw[tarrow] (lin)--(sol) node[midway, above, sloped]{$\mu (x)$};
+
+\end{tikzpicture}
+\end{center}
+\end{wrapfigure}
+
+\vspace{0.8cm}
+\section{\textsc{Primer orden:}}
+
+Para resolver una \textit{EDO} debemos poner una $y(x)$ en función de su \textbf{variable independiente} y \textbf{constantes}. Para ello se emplean \underline{cambios de variable}, que luego se derivan y sustituyen en la ecuación principal. Existen varios definidos:
+\vspace{10pt}
+
+\subsection{\underline{Lineal} \aftersec{\colorbox{CadetBlue!20}{$\; y'+P(x)y=Q(x)$}}}
+\vspace{-0.7cm}
+Se \textbf{multiplica} toda la ecuación por el factor integrante \colorbox{pink}{$\mu(x)=e^{\int{Pdx}}$} y se resuelve.
+
+\subsection{\underline{Exacta} \aftersec{(cumplen $\frac{\partial P}{\partial y}=\frac{\partial Q}{\partial x}$)}}
+\vspace{-0.6cm}
+\subsubsection{Separables}
+
+Si se pueden \textbf{separar} las variables a cada lado, se puede resolver simplemente \textbf{integrando ambos lados} para obtener la función $y(x)$ .
+
+\subsubsection{No separables}
+
+Hay que usar la propiedad de que, al ser exacta, con forma \underline{$P(x,y)dx+Q(x,y)dy=0$} , existe una función cuya \textbf{derivada} cumple $dF=Pdx+Qdy$, siendo $P$ y $N$ ahora constantes.
+
+\begin{colorboxdef}{Exactas no separables}{gray}
+	Por definición tenemos que $\boxed{P={\partial F}/{\partial x}}$ y $\boxed{Q={\partial F}/{\partial y}}$
+	\begin{itemize}
+	\item Despejamos $\partial F$ de cualquiera e integramos todo para hallar $F$\\
+	$\hookrightarrow$ La \textbf{constante de int.} será $g(x)$ o $g(y)$
+	\item Para hallar la $g$ que nos falta, emplear la otra expresión no usada \textbf{derivando} $\frac{\partial F}{\partial x\, \text{ó} \, \partial y}$ e igualar a la $P\, \text{ó}\, Q$ correspondiente
+	\item \textbf{Susituir} la $g$ hallada en la $F$ obtenida integrando inicialmente $\to$ \underline{\textsc{solución}}
+\end{itemize}
+\end{colorboxdef}
+
+\subsection{\underline{Bernoulli} \aftersec{\colorbox{CadetBlue!20}{$\; y'=P(x)y=Q(x)y^n$}}}
+\vspace{-0.7cm}
+Realizamos un cambio de variable \colorbox{pink}{$v=y^{1-n}$} y \textbf{dividimos o multiplicamos} toda la ecuación para que termine como una \textbf{lineal} en función de $v$ y $v'\, \to$ \textit{resolvemos la Lineal}.
+
+\subsection{\underline{Homogénea} (Cocientes) \aftersec{\colorbox{CadetBlue!20}{$\; y'=f(y/x)\;$} }}
+\vspace{-0.7cm}
+Se hace un cambio de variable \colorbox{pink}{$v=\frac{y}{x}$}
+\vspace{-0.3cm}
+
+\subsection{\underline{Ricatti} \aftersec{\colorbox{CadetBlue!20}{$\; y'=P(x)y^2+Q(x)y+R(x)$} }}
+\vspace{-0.7cm}
+Si se conoce una \textbf{solución particular} ($y_p$), se puede hacer el cambio \colorbox{pink}{$y=y_p+\frac{1}{v}$}
+\vspace{-0.3cm}
+
+\subsection{\underline{Clairaut} \aftersec{\colorbox{CadetBlue!20}{$\; y=xy'+f(y')$}}}
+\vspace{-0.7cm}
+
+Definimos \colorbox{pink}{$y'=p$} y \textbf{derivamos todo} en función de $x$.\\
+$\hookrightarrow$ Acabaremos con una función $A(B)=0$ , que podemos parametrizar: $ \left\{
+	\begin{array}{l}
+		A=0\\
+		B=0
+	\end{array}
+\right. $\\
+$\hookrightarrow$ Una solución nos dará la \underline{general} y con la otra es posible desarrollar las paramétricas y hallar una \underline{singular}.
+
+
+\begin{figure}[h!]
+	\centering
+	\begin{minipage}{.69\textwidth}
+		\section{\textsc{Orden superior:}}
+		\subsection{\underline{Solución General} \hspace{0.5cm} \aftersec{$(Ay''+By'+cY'=g(x))$}}
+\vspace{-0.72cm}
+Es la suma de la solución particular y la de la homogénea asociada: $\boxed{y(x)=y_h+y_p}$ . 
+	\end{minipage}
+	\begin{minipage}{.3\textwidth}
+\raggedright
+\includegraphics[width=\columnwidth]{img-hom/file.pdf}
+	\end{minipage}
+	\end{figure}
+\vspace{-0.8cm}
+
+
+\subsubsection{Homogénea -- \textsc{\normalsize coeficientes constantes}}
+
+Las homogéneas tienen $g(x)=0$, siendo $g(x)$ una función dependiente de $x$ a la derecha de la ecuación.
+
+\begin{colorboxdef}{Solucion \textbf{Homogénea} -- coeficientes \textbf{Constantes}:}{Plum}
+	Tienen la forma: $Ay''+By'+cY'=0$, y se resuelven con su ecuación característica:\\
+	\begin{center}
+		 \underline{$y''=r^2$}\; \underline{$y'=r$}\; \underline{$y=1$}
+	\end{center}
+\vspace{10pt}
+
+	La solución \textbf{homogénea} tendrá forma distinta dependiendo de las raíces halladas:
+	\begin{align*}
+		\left\{
+		\begin{array}{lcr}
+			\text{\textbf{Raíces distintas:} }\; &y=C_1e^{r_1x}+C_2e^{r_2x}\\
+			\text{\textbf{Raiz doble:} }\; &y=C_1e^{rx}+C_2\mathcolor{red}{x}e^{rx}& \text{\textcolor{gray}{(por cada sol. multiplic)}}\\
+			\text{\textbf{Raíces imag.:} }\; &y=e^{\alpha x}(C_1\cos{(\beta x)}+C_2\sin{(\beta x)})& \hspace{20pt} \mathcolor{gray}{(r=\alpha\pm\beta i)}\\
+		\end{array}
+		\right.
+	\end{align*}
+\end{colorboxdef}
+
+\subsubsection{Solución particular}	
+
+Tras obtener la solución de la homogénea asociada, se halla la solución particular:
+\begin{colorboxdef}{Solución \textbf{Particular} -- \textit{Coeficientes indeterminados}}{Plum}
+	Se prueba una forma de $y_p$ según el caso:
+\begin{gather*}
+	\left\{
+	\begin{array}{l}
+		y_p=Ax^2+Bx+C\\
+		y_p=Ae^{2x}\\
+		y_p=A\cos x +B\sin x
+	\end{array}
+	\right.
+\end{gather*}
+\end{colorboxdef}
+
+Si la ecuación tiene varias características, se emplean varios tipos de solución y se \textbf{multiplican} entre ellos. Existe un método universal si el caso no está claro:
+
+\begin{colorboxdef}{Método Universal \textbf{Particular} -- \textit{Variación de parámetros}}{lightgray}
+La $y_p$ tendrá una forma genérica \underline{$y_p=u_1(x)y_1(x)+u_2(x)y_2(x)$} . Se imponen las siguientes condiciones:
+	\begin{gather*}
+	\left\{
+	\begin{array}{l}
+		u_1'y_1+u_2'y_2=0\\
+		u_1'y_1'+u_2'y_2'=g(x)
+	\end{array}
+	\right. \; \text{ y se \textbf{resuelve el sistema.}}
+	\end{gather*}
+\end{colorboxdef}
+
+\subsection{\underline{Coeficientes Variables $\to$ Constantes}}
+
+Cuando los coeficientes \textbf{no son constantes}, es necesario manipular la ecuación y/o realizar \underline{cambios de variable} para conseguir que lo sean.
+
+Por lo general, escogemos un cambio que sepamos que, una vez derivado las veces que sea, va a eliminar un factor de cada coeficiente para acabar simplificando la ecuación. Se emplea la propiedad $\boxed{\frac{dy}{dx}=\frac{dy}{dt}\frac{dt}{dx}}$ , siendo $t$ la variable del cambio. 
+
+$\hookrightarrow$ \textcolor{gray}{Suele ser útil el \underline{$Ln$}, ya que su derivada es $\frac{1}{t'}$, que ayuda a eliminar factores. }
+
+$\hookrightarrow$ \textcolor{gray}{Cuidado con la \underline{regla de la cadena}, ya que: $\; \frac{\partial^2 y}{\partial x^2}=\frac{\partial }{\partial x}\left(\frac{\partial y}{\partial x}\right) = \frac{\partial }{\partial x}
+	\tikz[baseline]{
+		\node(dydt){$\displaystyle \left(\frac{\partial y}{\partial t}\frac{\partial t}{\partial x}\right)$};
+		\node[below=of dydt,yshift=20pt,xshift=85pt,red](dydtAn){$\displaystyle \frac{\partial}{\partial x}\left(\frac{\partial y}{\partial t}\right)=\frac{\partial}{\partial t}\left(\frac{\partial y}{\partial t}\right)\frac{\partial t}{\partial x}=\frac{\partial^2 y}{\partial t^2}\frac{\partial t}{\partial x}$};
+		\draw [->,red] (dydt.south) |- (dydtAn.west) node[midway, left]{\text{\textbf{(r.c. 2)}}};
+		\node[right=of dydt,xshift=-30pt](dydtN){$\displaystyle \xrightarrow[(\text{r. cadena})]{} \left( \Cline[red]{\frac{\partial^2 y}{\partial t^2}\frac{\partial t}{\partial x}} \right)\frac{\partial t}{\partial x} +\frac{\partial y}{\partial t}\frac{\partial^2 t}{\partial x^2}$};
+	}
+	$}
+
+
+\subsubsection{Cauchy-Euler \aftersec{\colorbox{CadetBlue!20}{$\; ax^2y''+bxy'+cy=0$}}}
+\vspace{-0.7cm}
+Las ecuaciones de Cauchy tienen un cambio de variable definido (al igual que \textit{Bernoulli}, \textit{Ricatti}\dots), que puede ayudar a simplificar el caso.
+
+	\begin{itemize}
+	\item Hacemos un cambio de variable \colorbox{pink}{$y=x^r$} y derivamos como sea necesario para \textbf{sustituir}
+	\item Agrupamos, manipulamos\dots para \textbf{resolver} la ecuación y hallar las \textbf{raíces} ($r$)
+	\item Aplicamos soluciones según las raíces \[ \boxed{\left\{
+	\begin{array}{lc}
+		\text{\textbf{Raíces distintas:} }\; &y=C_1x^{r_1}+C_2x^{r_2}\\
+			\text{\textbf{Raiz doble:} }\; &y=C_1x^{r}+C_2x^{r}\mathcolor{red}{\ln x}\\
+			\text{\textbf{Raíces imag.:} }\; &y=x^{\alpha}(C_1\cos{(\beta \ln x)}+C_2\sin{(\beta \ln x)})
+	\end{array}
+	\right. }
+	\]
+	\end{itemize}
+
+
+\subsection{\underline{Reducción de Orden} \aftersec{(solución $y_1$ conocida)}}
+\vspace{-20pt}
+\begin{itemize}
+	\item El cambio de variable $\boxed{y_2=y_1 v(x)}$ reduce el orden en \textbf{1 ud.}
+	\item Derivamos $y'$, $y''$\dots y \textbf{sustituimos} en la principal
+	\item Realizamos el cambio de variable $\boxed{u=v'}$, resultando en una ecuación de $1^{er}$ orden\\
+	$\hookrightarrow$ \textbf{Resolvemos} la ecuación\\
+	$\hookrightarrow$ \textbf{Deshacemos cambio} integrando
+\end{itemize}
+
+\section{\textsc{Herramientas}}
+
+\begin{itemize}
+	\item \textbf{Comprobar si es solución particular:} derivamos las veces necesarias para sustituir en la ecuación principal y ver si se cumple la igualdad.
+	\item \textbf{Condiciones iniciales:} Para hallar las constantes de integración, aplicamos las condiciones iniciales dadas, si hay.
+	\item \textbf{\textsc{Wronskiano}:} si \underline{$W(x_o) \neq 0$} , se sabe que dos soluciones son \textbf{independientes}. \[W(y_1,y_2)(x)=  \left|
+	\begin{array}{cc}
+	y_1&y_2\\y_1'&y_2'
+	\end{array} \right| \]
+\end{itemize}
+
+
+
+
+\end{document}

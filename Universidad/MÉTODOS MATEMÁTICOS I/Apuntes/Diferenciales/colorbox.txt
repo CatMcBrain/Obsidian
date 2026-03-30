@@ -1,0 +1,18 @@
+\usepackage[most]{tcolorbox}
+
+% \begin{colorbox}{title}{color}
+% \begin{definition}{title}
+% \begin{example}{title}
+% \begin{attention}{title}
+
+
+% Basic environnement with a title and a principal color
+
+\newenvironment{colorboxdef}[2]
+  {
+    \begin{tcolorbox}[colback=#2!5!white,colframe=#2!50!black,title=#1]
+  }
+{
+  \end{tcolorbox}
+  }
+  

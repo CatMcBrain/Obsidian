@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  23 MAR 2026 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  27 MAR 2026 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex"
-(c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex
+**"c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Diferenciales.tex"
+(c:/MyPrograms/Obsidian/Life/Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Diferenciales.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\article.cls
@@ -305,6 +305,8 @@ Package: ulem 2019/11/18
 \ULdepth=\dimen267
 ) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/cancel\cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/etoolbox\etoolbox.sty
@@ -344,7 +346,8 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) o
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2083.
 \U@D=\dimen276
 \l@unhyphenated=\language79
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel\txtbabel.def)
+
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count316
 
@@ -370,8 +373,8 @@ Package babel Info: Importing font and identification data for spanish
 \es@quottoks=\toks34
 \es@quotdepth=\count317
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 23.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 23.
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 24.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 24.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\newtxtext.sty
 Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
  `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/xpatch\xpatch.sty (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/l3kernel\expl3.sty
@@ -807,6 +810,12 @@ File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowlength=\dimen349
 \pgfarrowwidth=\dimen350
 \pgfarrowlinewidth=\dimen351
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen352
 \WF@size=\dimen353
@@ -870,83 +879,190 @@ File: t1minntx.fd 2023/09/09 v1.1 font definition file for T1/minntx
 LaTeX Font Info:    Font shape `T1/minntx/m/n' will be
 (Font)              scaled to size 10.0pt on input line 116.
 )
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tex-gyre\t1qhv.fd
-File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
-)
-LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 72.
- (Resolución de diferenciales.aux (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel/locale/es\babel-spanish.tex)
-Package babel Info: Importing data for spanish
-(babel)             from babel-es.ini. Reported on input line 7.
-)
-\openout1 = `"Resolución de diferenciales.aux"'.
-
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 72.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\omlntxmi.fd
-File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxexa.fd
-File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmsntxsy.fd
-File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
-)
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmxntxexx.fd
-File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
-)
-LaTeX Font Info:    ... okay on input line 72.
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count372
-\scratchdimen=\dimen369
-\scratchbox=\box126
-\nofMPsegments=\count373
-\nofMParguments=\count374
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count375
-\MPscratchDim=\dimen370
-\MPnumerator=\count376
-\makeMPintoPDFobject=\count377
-\everyMPtoPDFconversion=\toks62
-) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+\MBox=\box126
+ (colorbox.txt (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/09/09 version 6.8.0 text color boxes
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks61
+\verbatim@line=\toks62
+\verbatim@in@stream=\read6
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box127
+\tcb@upperbox=\box128
+\tcb@lowerbox=\box129
+\tcb@phantombox=\box130
+\c@tcbbreakpart=\count372
+\c@tcblayer=\count373
+\c@tcolorbox@number=\count374
+\l__tcobox_tmpa_box=\box131
+\l__tcobox_tmpa_dim=\dimen369
+\tcb@temp=\box132
+\tcb@temp=\box133
+\tcb@temp=\box134
+\tcb@temp=\box135
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.8.0'
+\c@tcbrastercolumn=\count375
+\c@tcbrasterrow=\count376
+\c@tcbrasternum=\count377
+\c@tcbraster=\count378
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tikzfill\tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box136
+)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.8.0'
+)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
+))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box137
+\tcb@totalupperbox=\box138
+\tcb@totallowerbox=\box139
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.8.0'
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.8.0'
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.8.0'
+\tcbfitdim=\dimen370
+\tcb@lowerfitdim=\dimen371
+\tcb@upperfitdim=\dimen372
+\tcb@cur@hbadness=\count379
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\listings.sty
+\lst@mode=\count380
+\lst@gtempboxa=\box140
+\lst@token=\toks63
+\lst@length=\count381
+\lst@currlwidth=\dimen373
+\lst@column=\count382
+\lst@pos=\count383
+\lst@lostspace=\dimen374
+\lst@width=\dimen375
+\lst@newlines=\count384
+\lst@lineno=\count385
+\lst@maxwidth=\dimen376
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count386
+\lst@skipnumbers=\count387
+\lst@framebox=\box141
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.8.0'
+)
+\c@tcblisting=\count388
+)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listingsutf8\listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)))) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.8.0'
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.8.0'
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.8.0'
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.8.0'
+)))
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/tex-gyre\t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 88.
+ (Diferenciales.aux (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel/locale/es\babel-spanish.tex)
+Package babel Info: Importing data for spanish
+(babel)             from babel-es.ini. Reported on input line 7.
+)
+\openout1 = `Diferenciales.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 88.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 88.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 88.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 88.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 88.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count389
+\scratchdimen=\dimen377
+\scratchbox=\box142
+\nofMPsegments=\count390
+\nofMParguments=\count391
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count392
+\MPscratchDim=\dimen378
+\MPnumerator=\count393
+\makeMPintoPDFobject=\count394
+\everyMPtoPDFconversion=\toks65
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
@@ -988,29 +1104,238 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: floatrow package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 72.
-\c@mv@tabular=\count378
-\c@mv@boldtabular=\count379
-LaTeX Info: Command `\dddot' is already robust on input line 72.
-LaTeX Info: Command `\ddddot' is already robust on input line 72.
+(babel)             Reported on input line 88.
+\c@mv@tabular=\count395
+\c@mv@boldtabular=\count396
+LaTeX Info: Command `\dddot' is already robust on input line 88.
+LaTeX Info: Command `\ddddot' is already robust on input line 88.
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 72.
+ on input line 88.
+
+\c@lstlisting=\count397
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks66
+\inpenc@posthook=\toks67
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 23.38725pt on input line 90.
+LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
+(Font)              scaled to size 23.38725pt on input line 90.
+ (tikz.txt)
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 99.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 99.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 99.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 99.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 6.86201pt on input line 101.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 5.17001pt on input line 101.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.46002pt on input line 101.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 9.40002pt on input line 109.
+LaTeX Font Info:    Font shape `T1/qhv/b/sc' will be
+(Font)              scaled to size 9.40002pt on input line 109.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 13.53603pt on input line 125.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 13.53603pt on input line 125.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 125.
+
+LaTeX Font Info:    Font shape `T1/qhv/b/sc' will be
+(Font)              scaled to size 13.53603pt on input line 125.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 9.40002pt on input line 127.
+
+Underfull \hbox (badness 5741) in paragraph at lines 127--129
+[][]\T1/qhv/m/n/10 Para re-sol-ver una \T1/qhv/m/it/10 EDO \T1/qhv/m/n/10 de-be-
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 127--129
+\T1/qhv/m/n/10 mos po-ner una $\OML/ntxmi/m/it/10 y\LMS/ntxsy/m/n/10 �\OML/ntxmi/m/it/10 x\LMS/ntxsy/m/n/10 �$ \T1/qhv/m/n/10 en fun-ci�n
+ []
 
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 13.53603pt on input line 75.
+(Font)              scaled to size 11.28003pt on input line 130.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 13.53603pt on input line 75.
+(Font)              scaled to size 11.28003pt on input line 130.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 7.52002pt on input line 130.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.0pt on input line 130.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.0pt on input line 130.
+LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
+(Font)              scaled to size 9.40002pt on input line 150.
+<img-hom/file.pdf, id=40, 206.57677pt x 125.81104pt>
+File: img-hom/file.pdf Graphic file (type pdf)
+<use img-hom/file.pdf>
+Package pdftex.def Info: img-hom/file.pdf  used on input line 191.
+(pdftex.def)             Requested size: 153.64644pt x 93.58054pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
 
 
 [1{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-ec.enc}
 
-] (Resolución de diferenciales.aux
+{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+
+[2 <./img-hom/file.pdf>]
+
+[3] (Diferenciales.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 Package cleveref Info: loaded `spanish' language definitions on input line 7.
@@ -1021,17 +1346,17 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 35917 strings out of 468080
- 841497 string characters out of 5421398
- 1317082 words of memory out of 5000000
- 63994 multiletter control sequences out of 15000+600000
- 639617 words of font info for 45 fonts, out of 8000000 for 9000
+ 43604 strings out of 468080
+ 1035006 string characters out of 5421398
+ 1568037 words of memory out of 5000000
+ 71504 multiletter control sequences out of 15000+600000
+ 731356 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,121p,833b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on "Resolución de diferenciales.pdf" (1 page, 42924 bytes).
+ 117i,19n,121p,818b,887s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI5.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI7.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvr.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/tex-gyre/qhvri.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txexs.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txmiaX.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txsys.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb>
+Output written on Diferenciales.pdf (3 pages, 247714 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 144 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 

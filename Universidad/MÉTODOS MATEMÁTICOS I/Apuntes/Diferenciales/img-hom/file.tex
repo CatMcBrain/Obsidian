@@ -1,0 +1,49 @@
+\documentclass[varwidth=\maxdimen]{standalone}
+
+
+\usepackage[normalem]{ulem}
+\usepackage{cancel, xcolor}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,shapes.geometric,positioning,calc}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage[T1]{fontenc}
+
+
+\begin{document}
+\input{tikz.txt}
+% draw -----
+\begin{center}
+\begin{tikzpicture}[node distance=0cm]
+
+\node[rect](var){¿Coef. var.?};
+\node[rect,right=of var,yshift=-0.7cm](ord){¿Red. orden?};
+\node[ellip,right=of ord,yshift=-0.7cm](res){\textsc{Ecuación}\\\textsc{Resoluble}};
+\node[txt,below=of res,yshift=4pt](ej){\colorbox{pink}{$Ay''+By'+C=g(x)$}};
+\node[txt,red,above=of var,xshift=1.5cm](cauchy){\textbf{\underline{Cauchy}}};
+
+\draw[arrow,red] (var)|-(cauchy);
+\draw[arrow,gray] (cauchy)-|(res);
+\draw[arrow] (var)|-(ord);
+\draw[arrow] (ord)|-(res);
+
+\end{tikzpicture}
+\end{center}
+
+% -----------
+
+\end{document}

@@ -1,0 +1,32 @@
+\tikzstyle{rect} = [rectangle, rounded corners, minimum width=2cm, minimum height=1cm,align= center, draw=black]
+\tikzstyle{ellip} = [ellipse, minimum width=2cm, minimum height=1cm,align= center, draw=black, fill=red!5!white]
+\tikzstyle{txt} = [align=center,minimum width=2cm, minimum height=1cm]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{tarrow} = [very thick,red,->,>=stealth]
+
+%\begin{center}
+%\begin{tikzpicture}[node distance=1cm]
+%
+%
+%\node [txt] (ex) {$ \left(
+%	\begin{array}{l}
+%		\text{(Exacta)}\\ \textcolor{gray}{ \sim\text{\small fac. int.}}
+%	\end{array}\right)$
+%};
+%\node [rect, above= of ex] (lin) {Lineal};
+%\node[rect,right=of lin, xshift=50px](cla){Clairaut};
+%\node[rect,above=of lin,xshift=-2.6cm](ber){Bernoulli};
+%\node[rect,above=of lin](ric){Ricatti \\ {\small (+ sol. conocida)}};
+%\node[rect,above=of lin,xshift=2.6cm](hom){Homogénea};
+%\node[diam,below=of cla](sol){\textbf{SOLUCIÓN}\\ \textbf{GENERAL}} node[below=of sol, yshift=1cm]{(+ Condiciones iniciales)};
+%
+%\draw[arrow] (lin)--(ex) ;
+%\draw[arrow] (ber)|-(lin) node[midway,right,yshift=30px] {$v=y^{1-n}$};
+%\draw[arrow] (ric)--(lin) node[midway,right,yshift=2px] {$y=y_p+\frac{1}{v}$};
+%\draw[arrow] (hom)|-(lin) node[midway,right,yshift=30px] {$v=\frac{y}{x}$};
+%\draw[arrow] (cla)--(sol) node[midway,right] {$y'=p$};
+%\draw[arrow] (ex)--(sol) node[midway,above] {$\Phi$} node[midway,below] {\textcolor{gray}{(¿separable?)}};
+%\draw[tarrow] (lin)--(sol) node[midway, above, sloped]{$\mu (x)$};
+%
+%\end{tikzpicture}
+%\end{center}
