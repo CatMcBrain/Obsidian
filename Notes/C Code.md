@@ -101,7 +101,7 @@ int array[n][m]= {{11,12,13},
 				  {31,32,33}};
 // n = rows , m = columns 
 
-printf("%d ", array[0][2]); //coordinates 
+printf("%d ", array[0][2]); //desired coordinates
 ```
 
 # Pointers and memory
