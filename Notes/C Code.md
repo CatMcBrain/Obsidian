@@ -74,7 +74,9 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 
 - Unless you define a **global**, which are defined outside functions.
 
-#### Array
+## Arrays
+
+They store values of the same type:
 ```
 int array[] = {1,2,3} //An array of integers
 char foo[] = {'A','B','C'} //An array of characters
