@@ -79,10 +79,13 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 int array[] = {1,2,3} //An array of integers
 char foo[] = {'A','B','C'} //An array of characters
 
-printf("%d",array[0,2]) // Print first and third number
-print
+printf("%d",array[0]) // Print first number
+printf("%c",foo[1])
+```
+	To reassign values in a position: 
 ```
 
+```
 # Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
