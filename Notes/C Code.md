@@ -94,9 +94,14 @@ int[1]=4
 ```
 
 #### 2D Arrays
-Arrays which contain arrays as their values.
+Arrays which contain arrays as their values. You have to declare either the number of rows or columns to define.
 ```
-int array[n][m]= {{11,12,13},{21,22,23},{31,32,33}}
+int array[n][m]= {{11,12,13},
+				  {21,22,23},
+				  {31,32,33}};
+// n = rows , m = columns 
+
+printf("%d ", array[0][2]); //coordinates 
 ```
 
 # Pointers and memory
