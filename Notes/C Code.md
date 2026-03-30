@@ -92,6 +92,13 @@ int length = sizeof(array[]) / sizeof(array[0])
 ```
 int[1]=4
 ```
+
+#### 2D Arrays
+Arrays which contain arrays as their values.
+```
+int array[n][m]= {{11,12,13},{21,22,23},{31,32,33}}
+```
+
 # Pointers and memory
 
 `*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
