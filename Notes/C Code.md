@@ -82,7 +82,9 @@ char foo[] = {'A','B','C'} //An array of characters
 printf("%d",array[0]) // Print first number
 printf("%c",foo[1])
 
-sizeof(array) //length of array
+//to get the length of an array, we can use sizeof to get size of array full array in bytes and divide it by the size of a single element
+
+int length = sizeof(array[]) / sizeof(array[0])
 ```
 	To reassign values in a position: 
 ```
