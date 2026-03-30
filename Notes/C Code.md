@@ -81,10 +81,12 @@ char foo[] = {'A','B','C'} //An array of characters
 
 printf("%d",array[0]) // Print first number
 printf("%c",foo[1])
+
+sizeof(array) //length of array
 ```
 	To reassign values in a position: 
 ```
-
+int[1]=4
 ```
 # Pointers and memory
 
