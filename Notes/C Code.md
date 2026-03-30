@@ -99,8 +99,8 @@ Arrays which contain arrays as their values. You have to **declare the number of
 int array[n][m!!]= {{11,12,13},
 				  {21,22,23},
 				  {31,32,33}};
-int foo  
-		
+char foo[][wrdLength]= {"Word","foo","thing"}  
+
 // n = rows , m = columns 
 
 printf("%d ",array[0][2]); //desired coordinates
