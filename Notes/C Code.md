@@ -56,7 +56,7 @@ int = whole number (%d)
 float = decimal number (%f)
 double = long float ($lf)
 char = 'single character' (%c)
-char[] = "string" (%s)
+char[] = "string" (%s) //a string is an ARRAY of characters
 bool = true/false //you need <stdbool.h>
 
 MODIFIERS:
@@ -76,9 +76,11 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 
 #### Array
 ```
-int arrray[]= {1,2,3} //An array of integers
+int array[] = {1,2,3} //An array of integers
+char foo[] = {'A','B','C'} //An array of characters
 
-printf("%d",array[0,2])
+printf("%d",array[0,2]) // Print first and third number
+print
 ```
 
 # Pointers and memory
