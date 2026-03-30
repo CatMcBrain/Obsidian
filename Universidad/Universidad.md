@@ -129,10 +129,10 @@
 - **MÉTODOS MATEMÁTICOS I**
 	- **Apuntes**
 		- **Diferenciales**
+			- **img-hom**
 
 	- **PEC 1**
 		- **tex**
 
-	- [[Resolución de EDO]]
 
 %% End Waypoint %%
