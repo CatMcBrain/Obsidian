@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "tldraw:Create new tldrawing": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "cmdr:Git: Commit-and-sync": false,
