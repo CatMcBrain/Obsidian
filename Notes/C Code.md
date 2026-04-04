@@ -126,9 +126,11 @@ struct Name{
 	char foobar[10];
 	int numb;
 	bool isTrue;
-}; //creating the struct and assigning its variables
+}; // Creating the struct and assigning its variables
 
-struct Name foo = {"mhm", 7, }
+\\ Calling
+struct Name foo1 = {"mhm", 7, false};
+printf("%s", foo1.isTrue);
 ```
 
 # Pointers and memory
