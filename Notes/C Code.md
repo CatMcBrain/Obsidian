@@ -132,9 +132,9 @@ struct Name{
 struct Name foo1 = {"mhm", 7, false};
 printf("%s", foo1.isTrue);
 ```
-They can be organized into arrays:
+They can be organized into **arrays**:
 ```
-struct 
+struct Name foos[] = {foo1, foo2, foo3};
 ```
 ##### **Reassigning values**
 ```
