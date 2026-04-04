@@ -377,6 +377,15 @@ void func(int x,char y){
 	}
 ```
 
+#### Dynamic allocation (malloc)
+A function that allows to dynamically allocate memory.
+```
+int number = 0;
+printf("Enter the number of variables needed: ");
+scanf(" %d", &number);
+
+```
+
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
