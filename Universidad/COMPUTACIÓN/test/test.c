@@ -1,12 +1,13 @@
 #include<stdio.h>
 
 void plus(int *n){
-	*n=&n+1 ;
+	(*n)++ ;
 }
+
+int main(){
 
 int age = 0;
 
-int main(){
 	
 	printf("%d\n",age);
 	plus(age);
