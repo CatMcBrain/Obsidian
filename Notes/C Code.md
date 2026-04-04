@@ -394,4 +394,11 @@ printf("%s\n%, name);
 	`char currency[3]="€"`
 
 #### Writing to Files
-There's a p
+There's a prefefined *struct* in C with some functions to read/write files. You have to open the file with **pointers** to edit it:
+```
+FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = read
+
+
+
+fclose(pFile);
+```
