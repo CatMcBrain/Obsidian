@@ -82,9 +82,9 @@ enum Datatype{
 };
 
 enum Datatype foo = A;
-printf("%d", A); //will return 0
+printf("%d", A); //will return 0 if undefined, and B will be 1, C=2, D=3...
 ```
-
+	It makes it more readable as constants 1, 2, 3... are assigned names.
 
 ## Arrays
 
