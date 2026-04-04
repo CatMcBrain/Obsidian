@@ -378,7 +378,7 @@ void func(int x,char y){
 ```
 
 #### Dynamic allocation: malloc()
-A function that allows to dynamically allocate memory. You then free the allocated space with `free()`.
+`malloc()` is a `<stdlib.h>` function that allows to dynamically allocate memory. You then free the allocated space with `free()`.
 ```
 int number = 0;
 printf("Enter the number of variables needed: ");
@@ -390,7 +390,7 @@ char *foo = malloc(number * sizeof(foo));
 
 for(int i=0;i<number;i++){
 	printf{"Enter variable number %d",i};
-	scanf{" %c", }
+	scanf{" %c", &foo[i]};
 }
 
 // ----
