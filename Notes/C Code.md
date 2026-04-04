@@ -17,6 +17,12 @@ int main(int argc, char *argv[])
 - `argv` (argument vector}:
     - `argv[0]` → program name
     - `argv[1]`, `argv[2]`, etc. → passed arguments
+
+#### String to Number
+To pass a **number**, it's needed to convert the string to a number with `atoi()`:
+```
+int num = atoi(argv[1]);
+```
 # Basic packages:
 ```
 #include <stdio.h> //print
