@@ -377,7 +377,7 @@ void func(int x,char y){
 	}
 ```
 
-#### Dynamic allocation (malloc)
+#### Dynamic allocation: malloc()
 A function that allows to dynamically allocate memory. You then free the allocated space with `free()`.
 ```
 int number = 0;
