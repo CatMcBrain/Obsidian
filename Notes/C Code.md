@@ -203,6 +203,13 @@ switch(var){
 // ! = NOT
 ```
 
+#### Ternary operator
+Condensed way to return one value of another based if a condition is **true or false**:
+```
+
+```
+
+
 # Loops
 
 #### While

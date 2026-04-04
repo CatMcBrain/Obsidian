@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
+                "file": "Notes/C Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resolución de EDO"
+              "title": "Outline of C Code"
             }
           }
         ],
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +200,9 @@
   },
   "active": "b6a86df73daec7f5",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.exe",
+    "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.c",
+    "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.synctex(busy)",
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.fls",
@@ -211,8 +213,6 @@
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.synctex.gz",
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.tex",
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales",
-    "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes",
-    "Notes/C Code.md",
     "Categorías/Backup/Love Journal.md",
     "Universidad/Universidad.md",
     "Notes/Notes.md",
