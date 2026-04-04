@@ -10,10 +10,13 @@ int main(){
 ```
 
 ## CMD Arguments
+```
+int main(int argc, char *argv[])
+```
 - `argc` (argument count)
 - `argv` (argument vector}:
-    - `argv[0]` → nombre del programa.
-    - `argv[1]`, `argv[2]`, etc. → argumentos pasados.
+    - `argv[0]` → program name
+    - `argv[1]`, `argv[2]`, etc. → passed arguments
 # Basic packages:
 ```
 #include <stdio.h> //print
