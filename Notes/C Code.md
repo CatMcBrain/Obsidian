@@ -132,7 +132,10 @@ struct Name{
 struct Name foo1 = {"mhm", 7, false};
 printf("%s", foo1.isTrue);
 ```
-They can be organized into arrays
+They can be organized into arrays:
+```
+struct 
+```
 ##### **Reassigning values**
 ```
 struct Name foo1 = {0}; //set all variables to 0

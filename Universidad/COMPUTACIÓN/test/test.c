@@ -8,13 +8,16 @@ struct test{
 
 int main(){
 	
-	struct test foo1 = {0};
-	struct test foo2 = {0};
+	struct test foo1 = {"foo1",1};
+	struct test foo2 = {"foo2",2};
 
 	struct test foos[]= {foo1, foo2};
+	int len=sizeof(foos)/sizeof(foos[0]);
 
-	printf("%s\n",foo1.name);
-	printf("%d",foo1.num);
+	for(int i=0;i<len;i++){
+		printf("%s\n",foos[i].name);
+		printf("%d\n",foos[i].num);
+	};
 
 	return 0;
 }
