@@ -398,7 +398,20 @@ There's a prefefined *struct* in C with some functions to read/write files. You 
 ```
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = read
 
+fprintf
 
+fclose(pFile);
+```
+
+
+##### Returning errors
+```
+FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = 
+
+if(*pfile == NULL){ // file doesn't exist
+	printf("Error opening file");
+	return 1;
+}
 
 fclose(pFile);
 ```
