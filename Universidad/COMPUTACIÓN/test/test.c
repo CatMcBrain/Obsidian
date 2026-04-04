@@ -8,11 +8,9 @@ int age = 0;
 
 int main(){
 	
-	printf("%d\n",age);
-	plus(&age);
-	printf("%d\n",age);
-	plus(&age);
-	printf("%d\n",age);
+	FILE *pFile = fopen("file.txt","w");
 
-	return 0;
+	fprintf(pFile,"hello \n world");
+	
+	fclose(pFile);
 }
