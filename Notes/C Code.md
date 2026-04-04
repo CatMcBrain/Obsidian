@@ -399,7 +399,12 @@ free(foo); // free the data allocated
 foo = NULL; // delete the pointer, as there is no data anymore
 ```
 
-##### ca
+##### calloc()
+This is a similar, safer function that also sets all allocated bytes to 0. It's slower but safer.
+```
+calloc(<var>, <size>);
+```
+
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
