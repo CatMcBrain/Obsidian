@@ -12,7 +12,7 @@ int num =0;
 			res=i%j;
 			if(res==0.0){
 				num++;
-			
+			}	
 		}
 		if(num==2){
 			printf("%d",i);
