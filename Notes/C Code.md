@@ -399,6 +399,7 @@ free(foo); // free the data allocated
 foo = NULL; // delete the pointer, as there is no data anymore
 ```
 
+##### ca
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
