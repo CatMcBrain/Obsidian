@@ -295,6 +295,16 @@ ___
 ___
 # Extras
 
+#### Typedef
+Redefine command names:
+```
+typedef <command> <newname> ;
+
+// Example
+typedef int Number;
+Number x = 1;
+```
+
 #### Empty variable defining
 It's convenient to define our variables even if empty, to avoid errors
 ```
