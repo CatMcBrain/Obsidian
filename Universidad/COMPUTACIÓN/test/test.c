@@ -1,16 +1,16 @@
 #include<stdio.h>
 
-void plus(int *n){
-	(*n)++ ;
-}
-
-int age = 0;
-
 int main(){
 	
-	FILE *pFile = fopen("file.txt","w");
+	FILE *pFile = fopen("file.txt", "r");
 
-	fprintf(pFile,"hello \n world");
-	
-	fclose(pFile);
+char buffer[1024]={0};
+
+	while(fgets(buffer, 1024,pFile) != NULL){
+	printf("%s", buffer);
+	}
+
+fclose(pFile);
+
+	return 0;
 }
