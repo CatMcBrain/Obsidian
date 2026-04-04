@@ -128,7 +128,7 @@ struct Name{
 	bool isTrue;
 }; // Creating the struct and assigning its variables
 
-\\ Calling
+// Calling
 struct Name foo1 = {"mhm", 7, false};
 printf("%s", foo1.isTrue);
 ```
@@ -137,10 +137,11 @@ printf("%s", foo1.isTrue);
 ```
 struct Name foo1 = {0}; //set all variables to 0
 
-foo1.numb = 1
-foo1.isTrue = false
+foo1.numb = 1;
+foo1.isTrue = false;
+strcpy(foobar, "something");
 ```
-
+Notice that to reassign
 
 # Pointers and memory
 
