@@ -173,16 +173,8 @@ int main(){
 }
 ```
 
-*(extra)*
-After setting a pointer px, if you modify using the *"value pointed by"*, it modifies the value of x:
-```
-int *px = &x;
-*px = 6; // x=6
-```
 
-___
-
-To **store a variable** value change permanently with functions, you need to write to its adress
+To **store a variable** value <u>change</u> permanently with commands, you also need to write to its adress
 ```
 int x = 0;
 
@@ -190,7 +182,7 @@ scanf(" %n", &x);
 ```
 	(This is not needed with direct assignation like "x=1")
 
-A string is already a pointer, so you don't need to use the address to persist
+*A string is already a pointer*, so you don't need to use the address to persist
 ```
 char str[8] = ''
 
@@ -400,3 +392,4 @@ printf("%s\n%, name);
 
 €, unlike $, is a string with 3 bytes, not a character. So we need a string to store it:
 	`char currency[3]="€"`
+
