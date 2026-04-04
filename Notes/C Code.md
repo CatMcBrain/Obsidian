@@ -404,21 +404,18 @@ fprintf(*pFile,"%s",text);
 fclose(pFile);
 ```
 
-You write using `fprint(filepointer,"text")`  .
+You write using `fprint(filepointer,"text")` , and you can use *relative paths* to point to the file.
 
 ##### Reading files
-It's needed to set a string variable **buffer** to temporary store some memory
+Instead of using a for loop and printing one character at a time with `i`, it's recommended to set a string variable **buffer** to temporary store some memory in a while loop:
 ```
 FILE *pFile = fopen("file.txt", "r");
 
 char buffer[1024]={0};
 
 	while(fgets(buffer, 1024,pFile) != NULL){
-	PRINTF{}
+	printf{"%s", buffer};
 	}
-
-char text[]="text to be written in my file";
-fprintf(*pFile,"%s",text);
 
 fclose(pFile);
 ```
