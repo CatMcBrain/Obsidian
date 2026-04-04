@@ -386,6 +386,15 @@ scanf(" %d", &number);
 
 char *foo = malloc(number * sizeof(foo));
 
+// ---- example use before freeing
+
+for(int i=0;i<number;i++){
+	printf{"Enter variable number %d",i};
+	scanf{" %c", }
+}
+
+// ----
+
 free(foo); // free the data allocated
 foo = NULL; // delete the pointer, as there is no data anymore
 ```
