@@ -398,12 +398,13 @@ There's a prefefined *struct* in C with some functions to read/write files. You 
 ```
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = read
 
-fprintf
+char text[]="text to be written in my file";
+fprintf(*pFile,"%s",text);
 
 fclose(pFile);
 ```
 
-
+You write using `fprint(filepointer,"text")`  .
 ##### Returning errors
 ```
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = 
