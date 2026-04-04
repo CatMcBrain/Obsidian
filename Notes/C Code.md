@@ -296,13 +296,16 @@ ___
 # Extras
 
 #### Typedef
-Redefine command names:
+Define command names:
 ```
 typedef <command> <newname> ;
 
 // Example
 typedef int Number;
 Number x = 1;
+
+typedef char String[10]; //string with 10 bytes
+String word = "hello";
 ```
 
 #### Empty variable defining
