@@ -141,7 +141,7 @@ foo1.numb = 1;
 foo1.isTrue = false;
 strcpy(foobar, "something");
 ```
-Notice that to reassign
+Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
 
 # Pointers and memory
 
