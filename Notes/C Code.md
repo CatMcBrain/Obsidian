@@ -206,7 +206,14 @@ switch(var){
 #### Ternary operator
 Condensed way to return one value of another based if a condition is **true or false**:
 ```
+int tern = (condition) ? <value if true>:<value if false> ;
 
+// Example
+int x = 1;
+int y = 2;
+
+int comp = (x>y) ? "x is bigger":"y is bigger" ;
+printf("%",)
 ```
 
 
