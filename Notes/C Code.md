@@ -122,7 +122,9 @@ printf("%d ",array[0][2]); //desired coordinates
 
 It's a form of object oriented programming. It's a custom **container**:
 ```
-
+struct Name{
+	char
+};
 ```
 
 # Pointers and memory
