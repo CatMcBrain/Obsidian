@@ -9,7 +9,9 @@ struct test{
 int main(){
 	
 	struct test foo1 = {0};
-	strcpy(foo1.name, "myname");
+	struct test foo2 = {0};
+
+	struct test foos[]= {foo1, foo2};
 
 	printf("%s\n",foo1.name);
 	printf("%d",foo1.num);
