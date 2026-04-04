@@ -406,6 +406,12 @@ fclose(pFile);
 
 You write using `fprint(filepointer,"text")`  .
 
+##### Reading files
+It's needed to set a string variable **buffer** to temporary store some memory
+```
+
+```
+
 ##### Returning errors
 If we return with another code different than 0, the full program will **terminate** with that error code.
 ```
