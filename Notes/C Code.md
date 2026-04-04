@@ -378,12 +378,16 @@ void func(int x,char y){
 ```
 
 #### Dynamic allocation (malloc)
-A function that allows to dynamically allocate memory.
+A function that allows to dynamically allocate memory. You then free the allocated space with `free()`.
 ```
 int number = 0;
 printf("Enter the number of variables needed: ");
 scanf(" %d", &number);
 
+char *foo = malloc(number * sizeof(foo));
+
+free(foo); // free the data allocated
+foo = NULL; // delete the pointer, as there is no data anymore
 ```
 
 #### String newline correction
