@@ -402,13 +402,13 @@ foo = NULL; // delete the pointer, as there is no data anymore
 ##### calloc()
 This is a similar, safer function that also sets all allocated bytes to 0. It's slower but safer.
 ```
-calloc(<var>, <size>);
+calloc(<number>, <size>);
 ```
 
 ##### realloc()
 It allows to resize previously allocated memory.
 ```
-realloc()
+realloc(<pointer>, <bytes>);
 ```
 
 #### String newline correction
