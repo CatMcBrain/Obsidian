@@ -394,7 +394,7 @@ printf("%s\n%, name);
 	`char currency[3]="€"`
 
 #### Writing to Files
-There's a prefefined *struct* in C with some functions to read/write files. You have to open the file with **pointers** to edit it:
+There's a prefefined *struct* in C with some functions to read/write files. You have to open the file with **pointers** to edit it. If the file doesn't exist, it will be created.
 ```
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = read
 
@@ -405,10 +405,11 @@ fclose(pFile);
 ```
 
 You write using `fprint(filepointer,"text")`  .
+
 ##### Returning errors
 If we return with another code different than 0, the full program will **terminate** with that error code.
 ```
-FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = 
+FILE *pFile = fopen("file.txt", "r");
 
 if(*pfile == NULL){ // file doesn't exist
 	printf("Error opening file");
