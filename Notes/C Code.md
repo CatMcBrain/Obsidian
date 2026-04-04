@@ -148,7 +148,7 @@ Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>
 
 # Pointers and memory
 
-`*` defines a pointer and `&` is the address it points to. You need a pointer to point to an address.
+`*` defines a pointer and `&` is the address it points to. *Only a pointer can store an address*. They are use
 
 ```
 int x = 5;
