@@ -1,5 +1,5 @@
 #include<stdio.h>
-// argv[1]= n-ésimo
+#include<stdlib.h>
 
 int main(int argc, char* argv[]){
 
