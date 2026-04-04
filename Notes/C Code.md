@@ -9,6 +9,11 @@ int main(){
 }
 ```
 
+## CMD Arguments
+- `argc` (argument count)
+- `argv` (argument vector}:
+    - `argv[0]` → nombre del programa.
+    - `argv[1]`, `argv[2]`, etc. → argumentos pasados.
 # Basic packages:
 ```
 #include <stdio.h> //print
