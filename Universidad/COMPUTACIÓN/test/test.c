@@ -3,11 +3,9 @@
 int main()
 {
 	
-	int a=0;
-	while(a==0){
-		printf("Eugh\n miau?? \n a a! \n (-) \n mhaw");
-		a=0;
-	}
+	int array[][3]={{1,2},{3,4},{5,6}};
+
+
 	
 	return 0;
 }

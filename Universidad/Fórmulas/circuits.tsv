@@ -12,5 +12,4 @@ Impedancias de Resistencia, Condensador, Bobina	\boxed{Z_R=R}\; \boxed{Z_L=jwL}\
 Período con Velocidad angular	T=\frac{2\pi}{w}	Reminder
 Impedancia: fórmula compleja	\boxed{Z=R+Xj} \\ \small \text{Parte real: R , Parte imaginaria: reactancia (no disipa)}	Basic
 Fasores de V e I	\boxed{V=V_Oe^{j\phi_v}} \; ; \; \boxed{I=I_Oe^{j\phi_i}}
-Potencia compleja general y fórmula Imaginaria	\boxed{S=VI^*}\\ S=VIe^{\phi j}=VI\left( \cos\phi +j\sin\phi \right)\\
-\small \text{P. Activa [W]: } P=\text{Re}(S) \; ; \; \small\text{P. React. [var]: } Q=\text{Im}(S)
+Potencia compleja general y fórmula Imaginaria	\boxed{S=VI^*}\\ S=VIe^{\phi j}=VI\left( \cos\phi +j\sin\phi \right)\\ \small \text{P. Activa [W]: } P=\text{Re}(S) \; ; \; \small\text{P. React. [var]: } Q=\text{Im}(S)	Basic
