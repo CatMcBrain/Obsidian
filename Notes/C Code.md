@@ -84,7 +84,7 @@ enum Datatype{
 enum Datatype foo = A;
 printf("%d", A); //will return 0 if undefined, and B will be 1, C=2, D=3...
 ```
-	It makes it more readable as constants 1, 2, 3... are assigned names.
+	It makes it more readable as it replaces numbers with readable names.
 
 ## Arrays
 
@@ -118,6 +118,12 @@ char foo[][wrdLength]= {"Word","foo","thing"}
 printf("%d ",array[0][2]); //desired coordinates
 ```
 
+# Struct
+
+It's a form of object oriented programming. It's a custom **container**:
+```
+
+```
 
 # Pointers and memory
 
