@@ -405,6 +405,12 @@ This is a similar, safer function that also sets all allocated bytes to 0. It's 
 calloc(<var>, <size>);
 ```
 
+##### realloc()
+It allows to resize previously allocated memory.
+```
+realloc()
+```
+
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
 ```
