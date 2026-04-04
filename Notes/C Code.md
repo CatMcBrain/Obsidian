@@ -409,7 +409,18 @@ You write using `fprint(filepointer,"text")`  .
 ##### Reading files
 It's needed to set a string variable **buffer** to temporary store some memory
 ```
+FILE *pFile = fopen("file.txt", "r");
 
+char buffer[1024]={0};
+
+	while(fgets(buffer, 1024,pFile) != NULL){
+	PRINTF{}
+	}
+
+char text[]="text to be written in my file";
+fprintf(*pFile,"%s",text);
+
+fclose(pFile);
 ```
 
 ##### Returning errors
