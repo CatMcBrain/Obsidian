@@ -6,7 +6,7 @@ int main(){
 float res=0.0;
 int num =0;
 
-	for(int i=1;i<=20;i++){
+	for(int i=1;i<=100;i++){
 		num=0;
 		for(int j=1;j<=i;j++){
 			res=i%j;
@@ -15,7 +15,7 @@ int num =0;
 			}	
 		}
 		if(num==2){
-			printf("%d",i);
+			printf("%d\n",i);
 		}
 	}
 

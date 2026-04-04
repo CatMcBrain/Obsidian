@@ -122,6 +122,8 @@
 		- **tex**
 
 - **COMPUTACIÓN**
+	- **prime numbers**
+
 	- **test**
 
 - **Fórmulas**
