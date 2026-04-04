@@ -406,6 +406,7 @@ fclose(pFile);
 
 You write using `fprint(filepointer,"text")`  .
 ##### Returning errors
+If we return with another code different than 0, the full program will **terminate** with that error code.
 ```
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = 
 
