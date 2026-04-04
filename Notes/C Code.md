@@ -75,9 +75,14 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 - Unless you define a **global**, which are defined outside functions.
 
 #### Enum
-Set of named constants.
+Set of named constants of an user-defined "datatype":
 ```
-enum
+enum Datatype{
+	A, B, C, D
+};
+
+enum Datatype foo = A;
+printf("%d", A); //will return 0
 ```
 
 
