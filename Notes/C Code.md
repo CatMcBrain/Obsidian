@@ -160,7 +160,19 @@ That has set the pointer px to the address of x. If we define an integer variabl
 ```
 int vx = *px; // integer vx is set to the value pointed by px
 ```
-They are used to modify variables between scopes or functions. To **pass refereces to variables**. You first pass
+They are used to modify variables between scopes or functions. To **pass refereces to variables**. You first pass the address to the function and then dereference:
+```
+void plus(int* x){
+	(*x)++;
+}
+
+int main(){
+	int num = 1;
+	plus(&num);
+	return 0;
+}
+```
+
 *(extra)*
 After setting a pointer px, if you modify using the *"value pointed by"*, it modifies the value of x:
 ```
