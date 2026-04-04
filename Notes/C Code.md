@@ -393,3 +393,5 @@ printf("%s\n%, name);
 €, unlike $, is a string with 3 bytes, not a character. So we need a string to store it:
 	`char currency[3]="€"`
 
+#### Writing to Files
+There's a p
