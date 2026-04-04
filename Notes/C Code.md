@@ -212,8 +212,8 @@ int tern = (condition) ? <value if true>:<value if false> ;
 int x = 1;
 int y = 2;
 
-int comp = (x>y) ? "x is bigger":"y is bigger" ;
-printf("%",)
+char comp[] = (x>y) ? "x is bigger":"y is bigger" ;
+printf("%s",comp);
 ```
 
 
