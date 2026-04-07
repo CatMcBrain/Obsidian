@@ -63,10 +63,10 @@ load file.mat
 ```
 
 #### Matrices definidas
-Si ponemos un valor será dimensión, si ponemos dosw,  
+Si ponemos un valor será dimensión, si ponemos dos, será filas, cols: 
 ```
 zeros(d) % matriz de ceros de dimensión d
 ones(m,n) % matriz de unos con [m,n]
 eye(d) % identidad de dimensión d
-
+M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
