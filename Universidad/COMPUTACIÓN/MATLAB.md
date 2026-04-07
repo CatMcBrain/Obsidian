@@ -17,7 +17,7 @@ fprintf("text %f", foo);
 
 ##### Function
 ```
-syms y(x); % declares a y function with variable x
+syms y(x); % declares a y function with variable x (or declares just a variable to solve in Equations)
 
 int(lim_o,lim_f,x);
 diff(x,n); % n is the order of the diff
@@ -76,6 +76,11 @@ eqn = Ax+by + z == C ;
 solve(y,x) % solve equation y for the variable x
 dsolve(y, cond) % solve differential equation
 linsolve(A,B) % solve linear system AX=B
+```
+
+#### Example of equations System
+```
+syms
 ```
 
 ## Plot
