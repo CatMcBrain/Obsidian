@@ -13,6 +13,30 @@ Like in C:
 fprintf("text %f", foo);
 ```
 
+## Functions
+
+#### Operations
+
+```
+int(lim_o,lim_f,x);
+diff(x,n); %n is the order of the diff
+rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
+syms <> 
+```
+
+##### Vector operations
+You can use these on vectors to do them to their elements:
+```
+sum(v);
+mean(v); % Average
+transpose(M); % or M'
+```
+
+#### Conditions 
+```
+isprime(n)  %condición si es primo o no
+```
+
 ## Matrices and Vectors
 
 ```
@@ -35,29 +59,6 @@ v = linspace(1,10,5);
 ```
 M(1,2) % 1st row, 2nd column value
 M(:,1) % all rows, 1st column values 
-```
-
-## Functions
-
-#### Operations
-
-```
-diff(x,n); %n is the order of the diff
-rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
-syms <> 
-```
-
-##### Vector operations
-You can use these on vectors to do them to their elements:
-```
-sum(v);
-mean(v); % Average
-transpose(M); % or M'
-```
-
-#### Conditions 
-```
-isprime(n)  %condición si es primo o no
 ```
 
 ## Ecuaciones
