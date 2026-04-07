@@ -11,7 +11,7 @@ int(lim_o,lim_f,x);
 #### Printing
 Like in C:
 ```
-fprintf("text ")
+fprintf("text %f", foo);
 ```
 
 ## Matrices and Vectors
