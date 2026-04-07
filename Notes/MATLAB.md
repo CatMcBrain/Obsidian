@@ -17,10 +17,10 @@ fprintf("text %f", foo);
 
 ##### Function
 ```
-int(lim_o,lim_f,x);
-diff(x,n); %n is the order of the diff
+syms y(x); % declares a y function with variable x
 
-				(to use with diff, int, subs...)
+int(lim_o,lim_f,x);
+diff(x,n); % n is the order of the diff
 ```
 ##### Vector operations 
 You can use these on vectors to do them to their elements:
