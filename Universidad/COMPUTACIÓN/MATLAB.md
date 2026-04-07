@@ -80,7 +80,13 @@ linsolve(A,B) % solve linear system AX=B
 
 #### Example of equations System
 ```
-syms
+syms x y z ;
+eqn1 = 2*x + y + z == 2;
+eqn2 = -x + y - z == 3;
+eqn3 = x + 2*y + 3*z == -10;
+
+% Convert system to a matrix
+[A]= equationsToMatrix
 ```
 
 ## Plot
