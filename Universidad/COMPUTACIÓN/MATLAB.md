@@ -86,8 +86,8 @@ eqn2 = -x + y - z == 3;
 eqn3 = x + 2*y + 3*z == -10;
 
 % Convert system to a matrix
-A = equationsToMatrix([eqn1,eqn2,eqn3]);
-B = equationsToMatrix([x,y,z]);
+[A,B] = equationsToMatrix([eqn1,eqn2,eqn3],[x,y,z]);
+$
 
 linsolve(A,B);
 ```
