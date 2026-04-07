@@ -122,10 +122,11 @@
 		- **tex**
 
 - **COMPUTACIÓN**
-	- **prime numbers**
+	- **C**
+		- **prime numbers**
 
-	- **test**
-
+	- [[C Code]]
+	- [[MATLAB]]
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
