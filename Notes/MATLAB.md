@@ -14,7 +14,8 @@ Otras funciones para crear vectores son:
 ```
 v= ini:pasos:fin ;
 
-v = linspace(1,10,5); % 5 puntos entre 1 y 10 equiespaciados
+v = linspace(1,10,5); 
+% 5 puntos entre 1 y 10 equiespaciados
 ```
 
 #### Indexing
@@ -25,25 +26,23 @@ M(:,1) % all rows, 1st column values
 
 ## Functions
 
-
-
+#### Operations
 You can use these on vectors to do them to their elements:
 ```
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
 ```
-
 #### Conditions 
 ```
 isprime(n)  %condición si es primo o no
 ```
-
-### Derivadas
+### Diferentials
 ```
 diff(x,n); %n is the order of the diff
 ```
-### Plot
+
+## Plot
 
 ```
 plot(x,y,'r-o'); %Crea una roja con círculos
