@@ -10,15 +10,17 @@ length(v);
 size(M); % [rows,cols]
 ```
 
+Otras funciones para crear vectores son:
+```
+v= ini:pasos:fin ;
+
+v = linspace(1,10,5); % 5 puntos entre 1 y 10 equiespaciados
+```
+
 #### Indexing
 ```
 M(1,2) % 1st row, 2nd column value
 M(:,1) % all rows, 1st column values 
-```
-#### Crear vectores
-
-```
-(ini:pasos:fin);
 ```
 
 ## Operations
@@ -58,4 +60,9 @@ end
 ```
 save file.mat a b % save variables
 load file.mat
+```
+
+#### Matrices definidas
+```
+zeros()
 ```
