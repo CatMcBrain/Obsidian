@@ -40,6 +40,8 @@ You can use these on vectors to do them to their elements:
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
+
+diff(x,n); %n is the order of the diff
 rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
 syms <> 
 ```
@@ -47,9 +49,12 @@ syms <>
 ```
 isprime(n)  %condición si es primo o no
 ```
-### Diferentials
+
+## Ecuaciones
 ```
-diff(x,n); %n is the order of the diff
+Ax+b == c <>
+
+dsolve <>
 ```
 
 ## Plot
