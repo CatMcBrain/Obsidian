@@ -4,7 +4,8 @@
 ## Basic concepts
 ```
 x=1; % must end with ;
-xor <>
+
+xor
 ```
 
 #### Printing
