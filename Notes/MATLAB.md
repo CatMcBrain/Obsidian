@@ -73,7 +73,7 @@ M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
 Ax+b == c <>
 
-dsolve(y, )
+dsolve(y, cond) % solve differential equation
 ```
 
 ## Plot
