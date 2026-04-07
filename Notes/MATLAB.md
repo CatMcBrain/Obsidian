@@ -8,6 +8,12 @@ x=1;
 int(lim_o,lim_f,x);
 ```
 
+#### Printing
+Like in C:
+```
+fprintf("text ")
+```
+
 ## Matrices and Vectors
 
 ```
@@ -36,17 +42,20 @@ M(:,1) % all rows, 1st column values
 
 #### Operations
 
+```
+diff(x,n); %n is the order of the diff
+rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
+syms <> 
+```
+
 ##### Vector operations
 You can use these on vectors to do them to their elements:
 ```
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
-
-diff(x,n); %n is the order of the diff
-rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
-syms <> 
 ```
+
 #### Conditions 
 ```
 isprime(n)  %condición si es primo o no
