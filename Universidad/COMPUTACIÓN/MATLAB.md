@@ -3,10 +3,9 @@
 
 ## Basic concepts
 ```
-x=1; % must end with ;
+x=1; % must end with ";"
 
-% xor
-	case1 || case2 % if they are both true or false, it returns 0, else, returns 1
+xor(case1, case2) % If they are both true or false, it returns 0, else, returns 1
 ```
 
 #### Printing
