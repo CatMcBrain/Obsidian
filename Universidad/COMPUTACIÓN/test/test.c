@@ -1,30 +1,20 @@
 #include<stdio.h>
+int a = 1;
+int res = 0;
 
-void vprint (float a[]){
-	int len = sizeof(a)/sizeof(a[0]);
-	for(int i=0;i<=len;i++){
-		printf("%f ", a[i]);
-	}
-	printf("\n");
+void plus (int x, int y){
+	res=x+y ;
 }
+
 
 int main(){
 
-float a[3]={0};
-float b[3]={0};
-int len = sizeof(a)/sizeof(a[0]);
+	int b = 2;
+	
+	plus(a,b);
 
-for(int i=0;i<len;i++){
-	printf("#%d de matriz a: ",i+1);
-	scanf(" %f", &a[i]);
-}
-for(int i=0;i<len;i++){
-	printf("#%d de matriz b: ",i+1);
-	scanf(" %f", &b[i]);
-}
+	printf("%d\n", res);
 
-vprint(a);
-vprint(b);
 
 return 0;
 }

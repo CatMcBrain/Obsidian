@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C Code.md",
+                "file": "Notes/Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Code"
+              "title": "Temp"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C Code.md",
+                "file": "Notes/Temp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C Code"
+              "title": "Outline of Temp"
             }
           }
         ],
@@ -199,6 +199,10 @@
   },
   "active": "e61f2addba3450c7",
   "lastOpenFiles": [
+    "Notes/Temp.md",
+    "Notes/- binds.md",
+    "Notes/Notes.md",
+    "Notes/C Code.md",
     "Universidad/COMPUTACIÓN/prime numbers/prime.exe",
     "Universidad/COMPUTACIÓN/prime numbers/prime.c",
     "Universidad/COMPUTACIÓN/prime numbers",
@@ -208,13 +212,10 @@
     "Universidad/COMPUTACIÓN/test/file.txt",
     "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.exe",
     "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.c",
-    "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.synctex(busy)",
-    "Universidad/MÉTODOS MATEMÁTICOS I/Apuntes/Diferenciales/Resolución de diferenciales.fls",
     "Categorías/Backup/Love Journal.md",
     "Universidad/Universidad.md",
-    "Notes/Notes.md",
     "Notes/Shopping/Shopping.md",
     "Categorías/Wardrobe/Wardrobe.md",
     "Categorías/Wardrobe/Fragances.md",
@@ -234,7 +235,6 @@
     "Categorías/Games/Games.md",
     "Categorías/Food/Recipes/Tostadas de Papá.md",
     "Categorías/Food/Recipes/Salsa Sour (Padre Estrella).md",
-    "Categorías/Food/Recipes/Tomate Tostadas.md",
     "Attachments/Pasted Image 20251221163949_811.png",
     "Attachments/Pasted Image 20251221135002_866.png",
     "Attachments/{42A1006A-1134-45BA-AC47-01DCEDF0AE6F}.png",
