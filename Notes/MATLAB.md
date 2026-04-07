@@ -1,5 +1,13 @@
 - Variables always start with letters
 - `log()` is the natural log
+
+## Basic
+```
+x=1;
+
+int(lim_o,lim_f,x);
+```
+
 ## Matrices and Vectors
 
 ```
