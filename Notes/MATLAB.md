@@ -1,16 +1,19 @@
 - Variables always start with letters
-## Matrix
+## Matrices and Vectors
 
 ```
-m = [1, 2, 3 ; 4, 5, 6 ] ;
+v
+M = [1, 2, 3 ; 4, 5, 6 ] ;
+
+
 ```
 
 #### Indexing
 ```
-m(1,2) %1st row, 2nd column value
-m
+M(1,2) % 1st row, 2nd column value
+M(:,1) % all rows, 1st column values 
 ```
-### Crear vectores
+#### Crear vectores
 
 ```
 (ini:pasos:fin);
