@@ -35,6 +35,8 @@ M(:,1) % all rows, 1st column values
 ## Functions
 
 #### Operations
+
+##### Vector operations
 You can use these on vectors to do them to their elements:
 ```
 sum(v);
