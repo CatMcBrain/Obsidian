@@ -13,16 +13,16 @@ Like in C:
 fprintf("text %f", foo);
 ```
 
-## Functions
+## Operations
 
-#### Operations
-
+##### Function
 ```
 int(lim_o,lim_f,x);
 diff(x,n); %n is the order of the diff
-syms y(x); % 
 
-##### Vector operations
+				(to use with diff, int, subs...)
+```
+##### Vector operations 
 You can use these on vectors to do them to their elements:
 ```
 sum(v);
