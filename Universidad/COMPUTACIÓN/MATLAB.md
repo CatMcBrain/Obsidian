@@ -89,7 +89,7 @@ polarplot(theta,rho); % Coordenadas polares
 
 #### 3D
 ```
-meshgrid <>
+meshgrid(x,y,z) % Cuadrícula 3D
 ```
 
 ## Loops
