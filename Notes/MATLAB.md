@@ -40,6 +40,7 @@ You can use these on vectors to do them to their elements:
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
+rand(n,2); %n puntos aleatorios entre 0 y 1 <>? 
 ```
 #### Conditions 
 ```
