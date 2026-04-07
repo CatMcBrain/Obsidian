@@ -71,10 +71,11 @@ M(m,n) % cuadrado mágico, suma filas = suma cols
 
 ## Ecuaciones
 ```
-Ax+b == c <>
+eqn = Ax+by + z == C ;
 
 solve(y,x) % solve equation y for the variable x
 dsolve(y, cond) % solve differential equation
+linsolve(A,B) % solve linear system AX=B
 ```
 
 ## Plot
