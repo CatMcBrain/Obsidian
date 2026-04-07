@@ -30,6 +30,7 @@ You can use these on vectors to do them to their elements:
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
+isprime(n)  %condición si es primo o no
 ```
 ### Plot
 
@@ -54,7 +55,11 @@ end
 
 - `pause(<sec>)` is useful to slow down the process to view results before continuing
 
+## Input
 
+```
+x= input("text to prompt");
+```
 
 ## Extra
 
