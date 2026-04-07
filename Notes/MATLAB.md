@@ -23,14 +23,25 @@ M(1,2) % 1st row, 2nd column value
 M(:,1) % all rows, 1st column values 
 ```
 
-## Operations
+## Functions
+
+
 
 You can use these on vectors to do them to their elements:
 ```
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
+```
+
+#### Conditions 
+```
 isprime(n)  %condición si es primo o no
+```
+
+### Derivadas
+```
+diff(x,n); %n is the order of the diff
 ```
 ### Plot
 
