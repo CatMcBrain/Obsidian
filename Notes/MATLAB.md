@@ -1,4 +1,5 @@
 - Variables always start with letters
+- `log()` is the natural log
 ## Matrices and Vectors
 
 ```
@@ -26,10 +27,11 @@ You can use these on vectors to do them to their elements:
 ```
 sum(v);
 mean(v); % Average
-transpose(v); % 
+transpose(M); % or M'
 ```
 ### Plot
 
 ```
 plot(x,y,'r-o'); %Crea una roja con círculos
+xlabel('x'); title('foo');
 ```
