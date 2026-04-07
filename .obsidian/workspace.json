@@ -11,10 +11,14 @@
             "id": "0a413c5bb4e14687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes"
             }
           }
         ]
@@ -194,8 +198,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e61f2addba3450c7",
+  "active": "0a413c5bb4e14687",
   "lastOpenFiles": [
+    "Notes/Temp.csv.md",
+    "Notes/Temp.csv",
+    "Notes/- binds.md",
+    "Notes/Notes.md",
     "Universidad/COMPUTACIÓN/C/test/tempCodeRunnerFile.c",
     "Universidad/COMPUTACIÓN/C/test/test.c",
     "Universidad/COMPUTACIÓN/C/test/test.exe",
@@ -209,11 +217,6 @@
     "Universidad/COMPUTACIÓN/C Code.md",
     "Notes/MATLAB.md",
     "Notes/C Code.md",
-    "Notes/Notes.md",
-    "Notes/Temp.md",
-    "Notes/- binds.md",
-    "Universidad/COMPUTACIÓN/prime numbers/prime.exe",
-    "Universidad/COMPUTACIÓN/prime numbers/prime.c",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
     "Categorías/Backup/Love Journal.md",
     "Universidad/Universidad.md",

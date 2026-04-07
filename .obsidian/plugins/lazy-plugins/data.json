@@ -143,6 +143,9 @@
       },
       "mermaid-tools": {
         "startupType": "instant"
+      },
+      "csv-obsidian": {
+        "startupType": "disabled"
       }
     }
   }
