@@ -40,7 +40,8 @@ You can use these on vectors to do them to their elements:
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
-rand(n,2); %n puntos aleatorios entre 0 y 1 <>? 
+rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
+syms <> 
 ```
 #### Conditions 
 ```
@@ -56,6 +57,8 @@ diff(x,n); %n is the order of the diff
 ```
 plot(x,y,'r-o'); %Crea una roja con círculos
 xlabel('x'); title('foo');
+
+polarplot(x,y); %números polares <>
 ```
 - El comando `hold` nos permite juntar varias gráficas guardando una en memoria
 
