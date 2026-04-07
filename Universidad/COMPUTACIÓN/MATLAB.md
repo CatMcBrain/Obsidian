@@ -87,10 +87,11 @@ eqn3 = x + 2*y + 3*z == -10;
 
 % Convert system to a matrix
 [A,B] = equationsToMatrix([eqn1,eqn2,eqn3],[x,y,z]);
-$
+$automatically creates the matrix to use linsolve
 
 linsolve(A,B);
 ```
+You can also solve it normally by creating `A=[...],  B=[...]` matrices and solving them with `solve(A,varMatrix)` .
 
 ## Plot
 
