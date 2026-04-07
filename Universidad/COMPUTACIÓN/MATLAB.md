@@ -79,10 +79,10 @@ dsolve(y, cond) % solve differential equation
 ## Plot
 
 ```
-plot(x,y,'r-o'); %Crea una roja con círculos
+plot(x,y,'r-o'); % crea línea roja con círculos
 xlabel('x'); title('foo');
 
-polarplot(x,y); %números polares <>
+polarplot(theta,rho); % Coordenadas polares 
 ```
 - El comando `hold` nos permite juntar varias gráficas guardando una en memoria
 

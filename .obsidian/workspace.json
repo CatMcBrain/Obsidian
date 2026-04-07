@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "Universidad/COMPUTACIÓN/MATLAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "MATLAB"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0b5c6f2e6554f68",
@@ -200,20 +201,19 @@
   },
   "active": "0a413c5bb4e14687",
   "lastOpenFiles": [
+    "Notes/Notes.md",
     "Notes/weight.tsv",
     "Notes/weight.csv",
     "Notes/New Text Document.txt",
     "Notes/Temp.csv.md",
     "Notes/Temp.csv",
     "Notes/- binds.md",
-    "Notes/Notes.md",
     "Universidad/COMPUTACIÓN/C/test/tempCodeRunnerFile.c",
     "Universidad/COMPUTACIÓN/C/test/test.c",
     "Universidad/COMPUTACIÓN/C/test/test.exe",
     "Universidad/COMPUTACIÓN/C/test",
     "Universidad/COMPUTACIÓN/C/prime numbers/prime.exe",
     "Universidad/COMPUTACIÓN/C/prime numbers/prime.c",
-    "Universidad/COMPUTACIÓN/C/prime numbers",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Notes/MATLAB.md",
