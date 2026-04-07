@@ -20,7 +20,6 @@ fprintf("text %f", foo);
 ```
 int(lim_o,lim_f,x);
 diff(x,n); %n is the order of the diff
-rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
 syms <> 
 ```
 
@@ -30,6 +29,7 @@ You can use these on vectors to do them to their elements:
 sum(v);
 mean(v); % Average
 transpose(M); % or M'
+rand(n,2); %n puntos aleatorios entre 0 y 1 <>?
 ```
 
 #### Conditions 
@@ -59,6 +59,15 @@ v = linspace(1,10,5);
 ```
 M(1,2) % 1st row, 2nd column value
 M(:,1) % all rows, 1st column values 
+```
+
+#### Matrices definidas
+Si ponemos un valor será dimensión, si ponemos dos, será filas, cols: 
+```
+zeros(d) % matriz de ceros de dimensión d
+ones(m,n) % matriz de unos con [m,n]
+eye(d) % identidad de dimensión d
+M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
 
 ## Ecuaciones
@@ -111,13 +120,4 @@ x= input("text to prompt");
 ```
 save file.mat a b % save variables
 load file.mat
-```
-
-#### Matrices definidas
-Si ponemos un valor será dimensión, si ponemos dos, será filas, cols: 
-```
-zeros(d) % matriz de ceros de dimensión d
-ones(m,n) % matriz de unos con [m,n]
-eye(d) % identidad de dimensión d
-M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
