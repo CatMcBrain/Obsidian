@@ -2,10 +2,11 @@
 ## Matrices and Vectors
 
 ```
-v
+v = [1,2,3,4]
 M = [1, 2, 3 ; 4, 5, 6 ] ;
 
-
+length(v);
+size(M); % [rows,cols]
 ```
 
 #### Indexing
@@ -19,6 +20,14 @@ M(:,1) % all rows, 1st column values
 (ini:pasos:fin);
 ```
 
+## Operations
+
+You can use these on vectors to do them to their elements:
+```
+sum(v);
+mean(v); % Average
+transpose(v); % 
+```
 ### Plot
 
 ```
