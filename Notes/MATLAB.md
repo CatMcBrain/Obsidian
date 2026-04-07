@@ -1,11 +1,10 @@
 - Variables always start with letters
 - `log()` is the natural log
 
-## Basic
+## Basic concepts
 ```
-x=1;
-
-int(lim_o,lim_f,x);
+x=1; % must end with ;
+xor <>
 ```
 
 #### Printing
@@ -26,7 +25,7 @@ size(M); % [rows,cols]
 
 Otras funciones para crear vectores son:
 ```
-v= ini:pasos:fin ;
+v = ini:pasos:fin ;
 
 v = linspace(1,10,5); 
 % 5 puntos entre 1 y 10 equiespaciados
