@@ -8,5 +8,5 @@
 ### Plot
 
 ```
-plot(x,y,'r-o'); %Crea una roja con c
+plot(x,y,'r-o'); %Crea una roja con círculos
 ```
