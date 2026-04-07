@@ -35,3 +35,25 @@ transpose(M); % or M'
 plot(x,y,'r-o'); %Crea una roja con círculos
 xlabel('x'); title('foo');
 ```
+
+## Loops
+
+```
+for i=1:5 %from 1 to 5
+	<code>
+end
+
+if a > b
+	<code>
+else
+	<more code>
+end
+```
+
+## Extra
+
+#### Save/Load
+```
+save file.mat a b % save variables
+load file.mat
+```
