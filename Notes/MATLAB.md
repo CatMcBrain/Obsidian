@@ -38,7 +38,7 @@ isprime(n)  %condición si es primo o no
 plot(x,y,'r-o'); %Crea una roja con círculos
 xlabel('x'); title('foo');
 ```
-
+- El comando `hold` nos permite juntar varias gráficas guardando una en memoria
 ## Loops
 
 ```
