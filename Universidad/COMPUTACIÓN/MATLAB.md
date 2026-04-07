@@ -79,7 +79,8 @@ dsolve(y, cond) % solve differential equation
 ## Plot
 
 ```
-plot(x,y,'r-o'); % crea línea roja con círculos
+% crea línea roja con círculos
+plot(x,y,'r-o'); 
 xlabel('x'); title('foo');
 
 polarplot(theta,rho); % Coordenadas polares 
