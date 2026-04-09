@@ -259,6 +259,8 @@ switch(var){
 // && = AND
 // || = OR
 // ! = NOT
+// ^^ = XOR
+// ~~ = NOT 
 ```
 
 #### Ternary operator
