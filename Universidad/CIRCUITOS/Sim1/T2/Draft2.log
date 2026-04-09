@@ -1,20 +1,3 @@
-LTspice 26.0.1 for Windows
-Circuit: C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim1\T2\Draft2.net
-Start Time: Fri Apr  3 12:34:44 2026
-solver = Normal
-Maximum thread count: 8
-tnom = 27
-temp = 27
-method = trap
-WARNING: Node n002 is floating.
-
-Direct Newton iteration failed to find operating point.
-Starting Gmin stepping
-Gmin stepping succeeded in finding the operating point.
-
-Total elapsed time: 0.099 seconds.
-
-Files loaded:
-C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim1\T2\Draft2.net
-C:\Users\ajers\AppData\Local\LTspice\lib\cmp\standard.dio
-
+C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim1\T2\Draft2.net(2): File not found.
+.include pot.sub
+         ^^^^^^^
