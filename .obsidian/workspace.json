@@ -11,14 +11,12 @@
             "id": "0a413c5bb4e14687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "txt",
               "state": {
-                "file": "Universidad/COMPUTACIÓN/C Code.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/weight.txt"
               },
               "icon": "lucide-file",
-              "title": "C Code"
+              "title": "weight"
             }
           }
         ]
@@ -200,6 +198,8 @@
   },
   "active": "0a413c5bb4e14687",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/C Code.md",
+    "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Notes/Notes.md",
     "Notes/weight.tsv",
@@ -213,8 +213,6 @@
     "Universidad/COMPUTACIÓN/C/test/test.exe",
     "Universidad/COMPUTACIÓN/C/test",
     "Universidad/COMPUTACIÓN/C/prime numbers/prime.exe",
-    "Universidad/COMPUTACIÓN/C/prime numbers/prime.c",
-    "Universidad/COMPUTACIÓN/C Code.md",
     "Notes/MATLAB.md",
     "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
