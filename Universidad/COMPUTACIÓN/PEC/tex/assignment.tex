@@ -1,0 +1,94 @@
+\documentclass[]{article}
+
+%Packages________________
+\usepackage[normalem]{ulem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{cancel}
+\usepackage{parskip}
+\usepackage{caption, subcaption}
+\usepackage[Spanish,es-tabla,es-noshorthands]{babel}
+\usepackage{newtxtext}
+\usepackage[varvw]{newtxmath}
+\usepackage{booktabs, colortbl, bigstrut, multirow, multicol}
+\usepackage{url}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage{floatrow}
+\usepackage{float}
+\usepackage{cancel}
+\usepackage[spanish]{cleveref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,shapes.geometric,positioning,calc}
+\crefname{table}{tabla}{tablas}
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{geometry}
+\usepackage{lipsum}
+\usepackage{fancybox}
+\usepackage[T1]{fontenc}
+\geometry{
+	top=2.4cm,
+	bottom=2.4cm,
+	left=2.3cm,
+	right=2.3cm
+}
+
+\usepackage[
+    backend=biber,
+	citestyle=verbose-ibid,
+    bibstyle=authoryear-icomp,
+    natbib=true,
+    url=true, 
+    doi=true,
+    eprint=false
+]{biblatex}
+
+\addbibresource{ref.bib}
+
+%Commands________________
+\newcommand\hcancel[2][black]{\setbox0=\hbox{$#2$}%strikeout
+\rlap{\raisebox{.45\ht0}{\textcolor{#1}{\rule{\wd0}{1pt}}}}#2} 
+
+\renewcommand\theequation{\Alph{equation}}
+
+\def\mydate{\leavevmode\hbox{\twodigits\day/\twodigits\month/\the\year}}
+\def\twodigits#1{\ifnum#1<10 0\fi\the#1}
+
+\newcommand\runinsec{\@startsection {section}{1}{\z@}%
+                                   {3.5ex \@plus 1ex \@minus .2ex}%
+                                   {-1em}%
+                                   {\normalfont\Large\bfseries}}
+\newcommand\aftersec[1]{\begingroup\normalfont\footnotesize #1\endgroup%
+                        \par\nobreak\vspace*{2.3ex}\noindent\ignorespaces}
+
+%\renewcommand\thesubsection{\alph{subsection}}
+
+% \input{colorbox.txt}
+
+%Titlepage_________________
+\title{\vspace{-1.8cm} Title}
+\author{Álvaro Jerónimo Sánchez}
+\date{}
+
+%Document_____________
+\begin{document}
+\maketitle
+\setcounter{section}{0}
+\renewcommand{\tablename}{Tabla}
+
+
+\section{Ejercicio 1}
+
+Los mecanismos de \textit{reacción-difusión}, propuestos por Alan Turing, explican cómo los patrones presentes en diversos animales son resultado de reacciones entre dos o más sustancias químicas (activador-inhibidor) con pequeñas perturbaciones que acaban causando estructuras periódicas. En este ejercicio se pretende resolver las ecuaciones de dicho modelo creando una red $L \times L$, introduciendo perturbaciones y calculando el \textit{laplaciano} en cada punto discreto; todo a partir de unos parámetros iniciales dados.
+
+%_________________________________________
+
+%\nocite{*}
+%\printbibliography
+
+\appendix
+\textbf{APPENDIX}
+
+\end{document}
