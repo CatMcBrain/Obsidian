@@ -146,6 +146,9 @@
       },
       "csv-obsidian": {
         "startupType": "disabled"
+      },
+      "data-files-editor": {
+        "startupType": "instant"
       }
     }
   }
