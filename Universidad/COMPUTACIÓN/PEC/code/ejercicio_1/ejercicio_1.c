@@ -63,6 +63,22 @@ void fill(float (*ini)[L][L], float fin[L][L]){
 	}
 } 
 
+void filesave(float m[L][L], int count) {
+    char nombre[50] = {'\0'};
+    sprintf(nombre, "u_%d.dat", count); // nombre dinámico
+
+    FILE *f = fopen(nombre, "w");
+
+    for (int i=0; i<L; i++) {
+        for (int j=0; j<L; j++) {
+            fprintf(f, "%f ", m[i][j]);
+        }
+        fprintf(f, "\n");
+    }
+
+    fclose(f);
+}
+
 // -----------------------------------------------------
 
 int main(){
