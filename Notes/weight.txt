@@ -4,3 +4,4 @@ X, WEIGHT, FAST, PEED
 2, 68.8, yes, yes
 3, , yes, no
 4, 68.3, yes, yes
+5, , yes, no

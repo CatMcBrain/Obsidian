@@ -11,12 +11,14 @@
             "id": "b039e5e20bcf4f53",
             "type": "leaf",
             "state": {
-              "type": "txt",
+              "type": "markdown",
               "state": {
-                "file": "Notes/weight.txt"
+                "file": "Categorías/Backup/Love Journal.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "weight"
+              "title": "Love Journal"
             }
           },
           {
@@ -110,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/weight.txt",
+            "file": "Categorías/Backup/Love Journal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,8 +192,9 @@
   },
   "active": "b039e5e20bcf4f53",
   "lastOpenFiles": [
-    "Categorías/Backup/Love Journal.md",
     "Notes/weight.txt",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_1/ejercicio_1.exe",
+    "Categorías/Backup/Love Journal.md",
     "Categorías/Ocio/Crochet/Mochi Cat.md",
     "Notes/C Code.md",
     "Universidad/COMPUTACIÓN/test/tempCodeRunnerFile.c",
