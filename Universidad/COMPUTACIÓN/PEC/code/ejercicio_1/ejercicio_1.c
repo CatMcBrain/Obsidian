@@ -99,7 +99,7 @@ int main(){
 
 	double redu[L][L] = {};
 	double redv[L][L] = {};
-	
+
 
 // inicializo las redes con perturbaciones (ruido Gaussiano)
 for(int i=0; i<L; i++){
