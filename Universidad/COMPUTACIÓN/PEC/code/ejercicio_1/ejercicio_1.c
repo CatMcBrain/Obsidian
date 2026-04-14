@@ -24,8 +24,18 @@ double gauss(double sig){
 }
 
 // Laplaciano para usar en la función del paso temporal
-double laplace(double m[L][L], int a, int b){
-	return  m[a+1][b]+m[a-1][b]+m[a][b+1]+m[a][b-1]-4*m[a][b] ;
+double laplace(double m[L][L], int a, int b, int i, int j){
+	// condiciones de contorno
+	int am = i-1; 
+	int ap= i+1;
+	if(i==0){am = L-1;}
+	if(i==L-1){ap = 0;}
+	int bm = i-1; 
+	int bp= i+1;
+	if(i==0){bm = L-1;}
+	if(i==L-1){bp = 0;}
+
+	return  m[ap][b]+m[am][b]+m[a][bp]+m[a][bm]-4*m[a][b] ;
 }
 
 void timestep(double u[L][L], double v[L][L]){ // 4) Actualización temporal
@@ -103,8 +113,6 @@ for(int i=0; i<L; i++){
 // actualización temporal
 
 timestep(redu, redv);
-
-// <REVISAR contorno>
 
 	return 0;
 }
