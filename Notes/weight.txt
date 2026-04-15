@@ -7,4 +7,4 @@ X, WEIGHT, FAST, PEED
 5, , yes, no
 6, 67.6, no, yes
 7, 68.7, yes, yes
-8, 67.9, yes, yes
+8, 67.9, no, yes
