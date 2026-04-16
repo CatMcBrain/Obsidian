@@ -11,14 +11,12 @@
             "id": "b039e5e20bcf4f53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "txt",
               "state": {
-                "file": "Categorías/Games/MH Rise/Elemental Weaknesses.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/weight.txt"
               },
               "icon": "lucide-file",
-              "title": "Elemental Weaknesses"
+              "title": "weight"
             }
           },
           {
@@ -192,6 +190,7 @@
   },
   "active": "b039e5e20bcf4f53",
   "lastOpenFiles": [
+    "Categorías/Games/MH Rise/Elemental Weaknesses.md",
     "Categorías/Backup/Love Journal.md",
     "Notes/weight.txt",
     "Categorías/Food/Recipes/Salsa Sour (Padre Estrella).md",
