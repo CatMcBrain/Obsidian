@@ -10,4 +10,4 @@ X, WEIGHT, FAST
 8, 67.9, no
 9, 67.7, yes
 10, , no
-11, , yes
+11, , cheat
