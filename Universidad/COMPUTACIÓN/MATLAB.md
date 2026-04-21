@@ -202,4 +202,7 @@ print -djpeg -r200 ’file.jpeg’
 ```
 double(num); % returns a double float
 pi; % is already defined
+simplify(expression); % simplifies algebraic expression
+expand(expression); % expands and operates
+
 ```
