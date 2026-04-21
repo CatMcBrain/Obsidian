@@ -12,6 +12,9 @@ xor(case1, case2) % If they are both true or false, it returns 0, else, returns 
 Like in C:
 ```
 fprintf("text %f", foo);
+
+% Show results rendered
+disp();
 ```
 
 #### Variable collection
