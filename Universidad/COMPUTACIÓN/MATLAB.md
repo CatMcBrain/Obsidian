@@ -31,6 +31,7 @@ syms y(x); % declares a y function with variable x (or declares just a variable 
 
 int(lim_o,lim_f,x);
 diff(x,n); % n is the order of the diff
+gradient(f, [x,y]); % Gradient of the variables choosed for a function
 ```
 ##### Vector operations 
 You can use these on vectors to do them to their elements:
