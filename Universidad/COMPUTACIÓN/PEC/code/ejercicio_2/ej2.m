@@ -12,8 +12,8 @@ end
 exit = 1;
 while exit==1 
     for i=1:10
-        imagesc(redu{i});
+        surf(1:100,1:100,redu{i});
         pause(0.5);
     end
-    exit = input("¿Deseas salir? ()")
+    % exit = input("¿Deseas salir? ()");
 end
