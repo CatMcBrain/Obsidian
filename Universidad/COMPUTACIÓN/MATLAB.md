@@ -118,10 +118,12 @@ polarplot(theta,rho); % Coordenadas polares
 
 #### 3D
 
+*Todos los que tengan `f` delante representan funciones, no datos discretos*
 ```
 fplot3(); % Representar puntos/líneas en 3D
 fmesh(); % Representar malla en 3D
-fsurf(); $
+fsurf(); % Representar superficie en 3D
+fcontour3(); $ Líneas de nivel en 3D
 ```
 ##### Mallas
 ```
