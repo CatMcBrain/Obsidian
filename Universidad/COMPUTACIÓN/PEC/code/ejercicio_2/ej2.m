@@ -9,10 +9,11 @@ for i=0:9
 end
 
 % Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
-
-while 1==1 
+exit = 1;
+while exit==1 
     for i=1:10
         imagesc(redu{i});
         pause(0.5);
     end
+    exit = input("")
 end
