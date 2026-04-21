@@ -5,7 +5,11 @@ amp = readmatrix("../ejercicio_1/amplitud.dat");
 redu = cell(0,9);
 for i=0:9
     filename = sprintf("../ejercicio_1/u_%d.dat",i);
-    redu{i+1} = readmatrix(filename);
+    data = readmatrix(filename);
+    redu{i+1} = data;
+
+   % Buscar valores máx y mín globales
+   vdata = reshape(data, [], 1);
 end
 
 % Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
@@ -15,9 +19,8 @@ while exit==1
     for i=1:10
         surf(1:100,1:100,redu{i});
         view(2); % vista desde arriba en 2D
-        drawn
-        pause(0.2);
+        drawnow;
     end
     end
-    exit = input("¿Deseas salir? (0/1)");
+    % exit = input("¿Deseas salir? (0/1)");
 end
