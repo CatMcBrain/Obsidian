@@ -163,10 +163,11 @@ quiver(); % vectores
 ```
 colorbar; % See colormap used for the mesh
 colormap(name); % Set a custom colormap
-	c = ax.Clim; % shows current limits for colormap
-	ax.Clim = [n,m]; % modifies them
+	c = gca.Clim; % shows current limits for colormap
+	gca.Clim = [n,m]; % modifies them
 ```
-
+- *`gca` is "get current axes"*  
+- you can name a figure window `fig1 = figure `
 ## Loops
 
 ```
