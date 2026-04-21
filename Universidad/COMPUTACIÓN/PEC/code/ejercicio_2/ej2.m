@@ -25,6 +25,6 @@ while 1==1
         colorbar;
         view(2); % vista desde arriba en 2D
         drawnow;
-        pause(0.0001);
+        % pause(0.001);
     end
 end
