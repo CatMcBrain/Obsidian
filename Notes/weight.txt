@@ -1,9 +1,15 @@
 // start	08/04/2026-morning . Been fasting for 2 days, 70 kg init after launch
-X, WEIGHT, FAST, PEED
-1	68.6, cheat, yes
-2, 68.8, yes, yes
-3, , yes, no
-4, 68.3, yes, yes
-5, , yes, no
-6, 67.6, no, yes
-7, 68.7, yes, yes
+X, WEIGHT, FAST
+1	68.6, cheat
+2, 68.8, yes
+3, , yes
+4, 68.3, yes
+5, , yes
+6, 67.6, no
+7, 68.7, yes
+8, 67.9, no
+9, 67.7, yes
+10, , no
+11, , cheat
+12, , yes
+13, 67.9, yes
