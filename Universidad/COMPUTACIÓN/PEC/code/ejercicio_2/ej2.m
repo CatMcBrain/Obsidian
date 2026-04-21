@@ -1,3 +1,4 @@
+clear;
 % Importar datos del ejercicio 1
 time = readmatrix("../ejercicio_1/time.dat");
 amp = readmatrix("../ejercicio_1/amplitud.dat");
@@ -10,9 +11,9 @@ for i=0:9
 
    % Buscar valores máx y mín globales
    vdata = reshape(data, 1, []); %convertir en vector con 1 fila y [] columnas
-   % buscar min/max entre el actual y los nuevos valores
-   umin = min(umin, vdata);
-   umax = max(umax, vdata);
+   % buscar min/max entre el actual y los nuevos valores meidante concatenación
+   umin = min([umin, vdata]);
+   umax = max([umax, vdata]);
 end
 
 % Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
