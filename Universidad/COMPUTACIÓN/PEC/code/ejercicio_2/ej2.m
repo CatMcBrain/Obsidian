@@ -12,6 +12,7 @@ for i=0:9
    % Buscar valores máx y mín globales
    vdata = reshape(data, 1, []); %convertir en vector con 1 fila y [] columnas
    % buscar min/max entre el actual y los nuevos valores meidante concatenación
+   umin = 999 ; umax = 0;
    umin = min([umin, vdata]);
    umax = max([umax, vdata]);
 end
@@ -20,7 +21,7 @@ end
 while 1==1
     for i=1:10
         surf(1:100,1:100,redu{i});
-        clim(umin,umax);
+        gca.clim(umin umax);
         colorbar;
         view(2); % vista desde arriba en 2D
         drawnow;
