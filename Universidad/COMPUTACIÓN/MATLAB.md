@@ -81,15 +81,17 @@ eye(d) % identidad de dimensión d
 M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
 
-## Ecuaciones
+## Funciones
 ```
-
+syms x y z % Crea variables simbólicas
 eqn = Ax+by + z == C ;
 
 solve(y,x) % solve equation y for the variable x
 dsolve(y, cond) % solve differential equation
 linsolve(A,B) % solve linear system AX=B
 ```
+
+Si se quisiese substituir alguna variable, se usa 
 
 #### Example of equations System
 ```
