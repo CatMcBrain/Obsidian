@@ -12,8 +12,7 @@ end
 
 while 1==1 
     for i=1:10
-        for x=1:100
-            
+        surf(redu{i});
         pause(0.5);
     end
 end
