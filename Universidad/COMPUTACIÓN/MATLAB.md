@@ -118,8 +118,12 @@ polarplot(theta,rho); % Coordenadas polares
 
 #### 3D
 ```
-mesh();
-meshgrid(x,y,z) % Cuadrícula 3D
+% Defino una malla
+[X,Y] = meshgrid(x,y) % Cuadrícula 3D
+Z = foo;
+surf
+
+
 surf();
 quiver(); % vectores
 ```
