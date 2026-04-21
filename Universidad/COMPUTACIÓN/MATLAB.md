@@ -131,11 +131,16 @@ for i=1:5 %from 1 to 5
 	<code>
 end
 
+% -------------
+
 if a > b
 	<code>
 else
 	<more code>
 end
+
+% -----------
+ while <>
 ```
 
 - `pause(<sec>)` is useful to slow down the process to view results before continuing
