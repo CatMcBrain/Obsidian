@@ -14,6 +14,12 @@ Like in C:
 fprintf("text %f", foo);
 ```
 
+#### Variable collection
+```
+var = cell(1:5);
+var{1} = foo;
+```
+
 ## Operations
 
 ##### Function
