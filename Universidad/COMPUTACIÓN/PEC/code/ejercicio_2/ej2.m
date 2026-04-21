@@ -1,3 +1,5 @@
+clear;
+
 % Importar datos del ejercicio 1
 time = readmatrix("../ejercicio_1/time.dat");
 amp = readmatrix("../ejercicio_1/amplitud.dat");
