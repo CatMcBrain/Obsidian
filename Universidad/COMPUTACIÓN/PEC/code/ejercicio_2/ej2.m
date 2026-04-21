@@ -14,23 +14,6 @@ while exit==1
     for i=1:10
         imagesc(redu{i});
         pause(0.5);
-    end~% Importar datos del ejercicio 1
-time = readmatrix("../ejercicio_1/time.dat");
-amp = readmatrix("../ejercicio_1/amplitud.dat");
-% Bucle para leer los archivos de la red u
-redu = cell(0,9);
-for i=0:9
-    filename = sprintf("../ejercicio_1/u_%d.dat",i);
-    redu{i+1} = readmatrix(filename);
-end
-
-% Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
-
-while 1==1 
-    for i=1:10
-        [X,Y] = meshgrid(100, 100);
-        Z = redu{i};
-        surf(X,Y,Z);
-        pause(0.5);
     end
+    exit = input("¿Deseas salir? ()")
 end
