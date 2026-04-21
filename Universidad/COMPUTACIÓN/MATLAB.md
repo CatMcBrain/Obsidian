@@ -159,6 +159,12 @@ mesh(); % malla no cuadriculada
 quiver(); % vectores
 ```
 
+##### Color
+```
+colorbar; % See colormap used for the mesh
+colormap(); % Set a custom colormap
+```
+
 ## Loops
 
 ```
