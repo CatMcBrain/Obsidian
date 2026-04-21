@@ -117,6 +117,13 @@ polarplot(theta,rho); % Coordenadas polares
 - El comando `hold` nos permite juntar varias gráficas guardando una en memoria
 
 #### 3D
+
+```
+fplot3(); % Representar puntos/líneas en 3D
+fmesh(); % Representar malla en 3D
+fsurf(); $
+```
+##### Mallas
 ```
 % Defino una malla
 [X,Y] = meshgrid(x,y) % Cuadrícula 3D
@@ -124,6 +131,8 @@ Z = foo;
 surf(X,Y,Z); % mostrar 
 colorbar; % gradiente de colores
 
+% Otros ----
+mesh(); % malla no cuadriculada
 quiver(); % vectores
 ```
 
