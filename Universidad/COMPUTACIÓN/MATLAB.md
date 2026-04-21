@@ -91,13 +91,16 @@ dsolve(y, cond) % solve differential equation
 linsolve(A,B) % solve linear system AX=B
 ```
 
-Si se quisiese substituir alguna variable, se usa `subs()` :
+Si se quisiese substituir alguna variable, se usa `subs()` , o también se puede crear una `matlabFunction`:
 ```
-% ej)
-syms x;
+% ej) --- Subs --- 
+syms x z;
 y = x+1
 
-subs(y, x, 2);
+subs(y, x, 2); % y=3
+
+% --- matlabFunction ---
+syms
 
 ```
 
