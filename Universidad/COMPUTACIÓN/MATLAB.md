@@ -162,7 +162,9 @@ quiver(); % vectores
 ##### Color
 ```
 colorbar; % See colormap used for the mesh
-colormap(); % Set a custom colormap
+colormap(name); % Set a custom colormap
+	c = ax.Clim; % shows current limits for colormap
+	ax.Clim = 
 ```
 
 ## Loops
