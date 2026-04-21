@@ -131,7 +131,7 @@
 		- **code**
 			- **ejercicio_1**
 
-		- **matlab**
+			- **ejercicio_2**
 
 		- **memoria_resultados**
 
