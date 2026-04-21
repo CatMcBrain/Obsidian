@@ -118,7 +118,7 @@ polarplot(theta,rho); % Coordenadas polares
 
 #### 3D
 
-*Todos los que tengan `f` delante representan funciones, no datos discretos*
+*Todos los que tengan `f` delante representan funciones, no datos discretos en forma de matriz*
 ```
 fplot3(); % Representar puntos/líneas en 3D
 fmesh(); % Representar malla en 3D
@@ -173,3 +173,9 @@ x= input("text to prompt");
 save file.mat a b % save variables
 load file.mat
 ```
+
+#### Save graphics
+```
+print -djpeg -r200 ’file.jpeg’
+```
+*Saves current active window in jpg at 200x resolution*
