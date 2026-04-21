@@ -12,9 +12,7 @@ end
 
 while 1==1 
     for i=1:10
-        [X,Y] = meshgrid(100, 100);
-        Z = redu{i};
-        surf(X,Y,Z);
+        imagesc(redu{i});
         pause(0.5);
     end
 end
