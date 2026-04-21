@@ -18,6 +18,8 @@ for i=0:9
 end
 
 
+
+% Loop de la animación
 while 1==1
     for i=1:10
         surf(1:100,1:100,redu{i});
