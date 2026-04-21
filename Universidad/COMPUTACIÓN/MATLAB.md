@@ -121,10 +121,9 @@ polarplot(theta,rho); % Coordenadas polares
 % Defino una malla
 [X,Y] = meshgrid(x,y) % Cuadrícula 3D
 Z = foo;
-surf
+surf(X,Y,Z); % mostrar 
+colorbar; % gradiente de colores
 
-
-surf();
 quiver(); % vectores
 ```
 
