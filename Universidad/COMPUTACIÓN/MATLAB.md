@@ -98,9 +98,13 @@ syms x z;
 y = x+1
 
 subs(y, x, 2); % y=3
+% si fuese más de un valor: subs(y,[x,z],[1,2])
 
 % --- matlabFunction ---
-syms
+syms x z;
+y = matlabFunction(x+z+1);
+
+y(1,2);
 
 ```
 
