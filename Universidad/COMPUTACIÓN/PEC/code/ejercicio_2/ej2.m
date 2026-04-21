@@ -10,11 +10,12 @@ end
 
 % Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
 
-%{
 while 1==1 
     for i=0:9
         x = redu{}
-        [X,Y] = meshgrid(x, y);
+        [X,Y] = meshgrid(100, 100);
+        Z = redu{i};
+        surf(X,Y,Z);
+        pause(0.5);
     end
 end
-%}
