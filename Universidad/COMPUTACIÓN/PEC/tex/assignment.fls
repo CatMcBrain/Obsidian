@@ -463,6 +463,7 @@ INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\new
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
@@ -498,6 +499,13 @@ INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\new
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\vf\public\newtx\ntxsy.vf
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\enc\dvips\newtx\ntx-ot1-tlf.enc
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\txmiaX.tfm
+INPUT C:\MyPrograms\Software\miktex-portable\texmfs\install\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
 INPUT assignment.aux
 INPUT assignment.run.xml
 OUTPUT assignment.run.xml
