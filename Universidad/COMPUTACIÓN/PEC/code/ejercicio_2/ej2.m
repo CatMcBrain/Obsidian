@@ -21,9 +21,10 @@ end
 while 1==1
     for i=1:10
         surf(1:100,1:100,redu{i});
-        gca.Clim = [umin umax];
+        clim([umin umax]);
         colorbar;
         view(2); % vista desde arriba en 2D
         drawnow;
+        pause(0.0001);
     end
 end
