@@ -8,4 +8,4 @@ for i=0:9
     redu{i+1} = readmatrix(filename);
 end
 
-% Valor máximo y mínimo de color
+% Valor máximo y mínimo de color se halla automáticamente en el colormap, lo podemos observar con colorbar
