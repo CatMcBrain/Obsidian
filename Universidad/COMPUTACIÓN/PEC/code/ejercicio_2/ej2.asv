@@ -15,8 +15,9 @@ while exit==1
     for i=1:10
         surf(1:100,1:100,redu{i});
         view(2); % vista desde arriba en 2D
-        drawnow;
+        drawn
+        pause(0.2);
     end
     end
-    % exit = input("¿Deseas salir? (0/1)");
+    exit = input("¿Deseas salir? (0/1)");
 end
