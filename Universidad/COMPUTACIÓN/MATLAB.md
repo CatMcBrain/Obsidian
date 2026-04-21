@@ -203,7 +203,8 @@ print -djpeg -r200 ’file.jpeg’
 double(num); % returns a double float
 pi; % is already defined
 simplify(expression); % simplifies algebraic expression
-	assume(x, 'real)
+	assume(x, 'real'); % assume something for simplification
 expand(expression); % expands and operates
-factor
+factor(expression); % factorizes irreducible
+taylor(f(x),x,0,'Order',3) % taylor centrado en x=0 de orden 3
 ```
