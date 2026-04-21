@@ -1,2 +1,2 @@
-data = readmatriX('test.dat');
+data = readmatrix('test.dat');
 data;
