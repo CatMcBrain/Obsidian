@@ -197,3 +197,9 @@ load file.mat
 print -djpeg -r200 ’file.jpeg’
 ```
 *Saves current active window in jpg at 200x resolution*
+
+#### Misc
+```
+double(num); % returns a double float
+pi; % is already defined
+```
