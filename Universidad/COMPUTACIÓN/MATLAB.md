@@ -83,6 +83,7 @@ M(m,n) % cuadrado mágico, suma filas = suma cols
 
 ## Ecuaciones
 ```
+
 eqn = Ax+by + z == C ;
 
 solve(y,x) % solve equation y for the variable x
