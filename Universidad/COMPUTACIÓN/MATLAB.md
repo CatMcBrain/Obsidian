@@ -118,7 +118,10 @@ polarplot(theta,rho); % Coordenadas polares
 
 #### 3D
 ```
+mesh();
 meshgrid(x,y,z) % Cuadrícula 3D
+surf();
+quiver(); % vectores
 ```
 
 ## Loops
