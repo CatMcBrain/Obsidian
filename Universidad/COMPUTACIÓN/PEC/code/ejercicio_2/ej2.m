@@ -9,7 +9,9 @@ for i=0:9
     redu{i+1} = data;
 
    % Buscar valores máx y mín globales
-   vdata = reshape(data, [], 1); %convertir en vector 
+   vdata = reshape(data, 1, []); %convertir en vector con 1 fila y [] columnas
+   % buscar min/max entre el actual y los nuevos valores
+   umin = min(umin, vdata);
 end
 
 % Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
