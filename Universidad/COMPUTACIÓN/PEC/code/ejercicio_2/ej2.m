@@ -13,7 +13,7 @@ exit = 1;
 while exit==1 
     for i=1:10
         surf(1:100,1:100,redu{i});
-        pause(0.5);
+        pause(3);
     end
     % exit = input("¿Deseas salir? ()");
 end
