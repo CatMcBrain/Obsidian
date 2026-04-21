@@ -8,3 +8,4 @@ for i=0:9
     redu{i+1} = readmatrix(filename);
 end
 
+% Valor máximo y mínimo de color

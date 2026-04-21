@@ -62,6 +62,8 @@ v = ini:pasos:fin ;
 
 v = linspace(1,10,5); 
 % 5 puntos entre 1 y 10 equiespaciados
+v = logspace();
+% espaciados logarítmicamente, para frecuencias/potencias de 10
 ```
 
 #### Indexing
