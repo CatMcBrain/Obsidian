@@ -8,4 +8,10 @@ for i=0:9
     redu{i+1} = readmatrix(filename);
 end
 
-% Valor máximo y mínimo de color se halla automáticamente en el colormap, lo podemos observar con colorbar
+% Valor máximo y mínimo de color se halla automáticamente en el colormap <?>, lo podemos observar con colorbar
+
+while 1==1 
+    for i=0:9
+        [X,Y] = meshgrid()
+    end
+end
