@@ -91,7 +91,15 @@ dsolve(y, cond) % solve differential equation
 linsolve(A,B) % solve linear system AX=B
 ```
 
-Si se quisiese substituir alguna variable, se usa 
+Si se quisiese substituir alguna variable, se usa `subs()` :
+```
+% ej)
+syms x;
+y = x+1
+
+subs(y, x, 2);
+
+```
 
 #### Example of equations System
 ```
