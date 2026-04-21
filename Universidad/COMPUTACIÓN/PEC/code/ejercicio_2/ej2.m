@@ -1,5 +1,3 @@
-clear;
-
 % Importar datos del ejercicio 1
 time = readmatrix("../ejercicio_1/time.dat");
 amp = readmatrix("../ejercicio_1/amplitud.dat");
@@ -14,7 +12,9 @@ end
 
 while 1==1 
     for i=1:10
-        surf(redu{i});
+        [X,Y] = meshgrid(100, 100);
+        Z = redu{i};
+        surf(X,Y,Z);
         pause(0.5);
     end
 end
