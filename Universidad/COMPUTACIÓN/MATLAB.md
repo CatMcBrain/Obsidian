@@ -219,4 +219,5 @@ simplify(expression); % simplifies algebraic expression
 expand(expression); % expands and operates
 factor(expression); % factorizes irreducible
 taylor(f(x),x,0,'Order',3) % taylor centrado en x=0 de orden 3
+pause(sec); % pausa la ejecución n segundos. útil para animaciones
 ```
