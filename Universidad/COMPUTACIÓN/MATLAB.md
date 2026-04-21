@@ -19,8 +19,8 @@ disp();
 
 #### Variable collection
 ```
-var = cell(1:5);
-var{1} = foo;
+var = cell(0:4);
+var{1} = foo; % accesses first index, in this case, 0
 ```
 
 ## Operations

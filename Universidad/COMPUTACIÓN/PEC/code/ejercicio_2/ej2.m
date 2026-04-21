@@ -10,4 +10,5 @@ for i=0:9
 end
 %}
 
-redu{0} = readmatrix("../ejercicio_1/u_0.dat");
+redu{1} = readmatrix("../ejercicio_1/u_0.dat");
+redu{2} = 21;
