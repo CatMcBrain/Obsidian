@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/COMPUTACIÓN/C Code.md",
+                "file": "Universidad/COMPUTACIÓN/MATLAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Code"
+              "title": "MATLAB"
             }
           }
         ],
@@ -214,21 +214,23 @@
   },
   "active": "712235502e703c32",
   "lastOpenFiles": [
-    "Universidad/COMPUTACIÓN/MATLAB.md",
-    "Universidad/COMPUTACIÓN/C Code.md",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/2026-04-21 21-01-27.png",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/ej2.asv",
     "Notes/weight.txt",
+    "Universidad/COMPUTACIÓN/MATLAB.md",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/ej2.m",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/test.dat",
+    "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2",
+    "Universidad/COMPUTACIÓN/PEC/code/matlab/ej2.m",
+    "Universidad/COMPUTACIÓN/PEC/code/matlab/test.dat",
+    "Universidad/COMPUTACIÓN/PEC/code/matlab",
+    "Universidad/COMPUTACIÓN/PEC/matlab/test.dat",
+    "Universidad/COMPUTACIÓN/PEC/matlab/New Text Document.txt",
+    "Universidad/COMPUTACIÓN/C Code.md",
     "Notes/Notes.md",
-    "Notes/weight.tsv",
-    "Notes/weight.csv",
-    "Notes/New Text Document.txt",
     "Notes/Temp.csv.md",
-    "Notes/Temp.csv",
     "Notes/- binds.md",
-    "Universidad/COMPUTACIÓN/C/test/tempCodeRunnerFile.c",
-    "Universidad/COMPUTACIÓN/C/test/test.c",
-    "Universidad/COMPUTACIÓN/C/test/test.exe",
-    "Universidad/COMPUTACIÓN/C/test",
-    "Universidad/COMPUTACIÓN/C/prime numbers/prime.exe",
     "Notes/MATLAB.md",
     "Notes/C Code.md",
     "Universidad/MÉTODOS MATEMÁTICOS I/Resolución de EDO.md",
@@ -257,7 +259,6 @@
     "Attachments/Pasted Image 20251212192854_485.png",
     "Attachments/{BAD01910-1F3C-4E87-8FBA-B09658C903FA}.png",
     "Attachments/{F9B2DC8A-A0E9-47D8-BD7E-DB35A304EB4D}.png",
-    "Attachments/fases-de-la-meiosis.webp",
-    "Attachments/Pasted Image 20251129222143_650.png"
+    "Attachments/fases-de-la-meiosis.webp"
   ]
 }

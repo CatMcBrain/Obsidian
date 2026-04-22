@@ -81,11 +81,17 @@
 
 \section{Ejercicio 1}
 
+\subsection{Matriz}
+
 Los mecanismos de \textit{reacción-difusión}, propuestos por Alan Turing, explican cómo los patrones presentes en diversos animales son resultado de reacciones entre dos o más sustancias químicas (activador-inhibidor) con pequeñas perturbaciones que acaban causando estructuras periódicas. En este ejercicio se pretende resolver las ecuaciones de dicho modelo creando una red $L \times L$, introduciendo perturbaciones y calculando el \textit{laplaciano} en cada punto discreto; todo a partir de unos parámetros iniciales dados.
 
 (...)
 
 Se ha generado el ruido gaussiano aplicando la transformada de Box-Muller, cuya fórmula es: 
+
+\subsection{Amplitud}
+
+Para hallar la amplitud, se calcula el promedio de $(u-u0)^2$ para cada timestep, siendo u el valor de cada punto de la red en ese timestep, y u0 el valor fijo inicial sin las perturbaciones (a+b)
 
 %_________________________________________
 

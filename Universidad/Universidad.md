@@ -127,6 +127,16 @@
 
 	- [[C Code]]
 	- [[MATLAB]]
+	- **PEC**
+		- **code**
+			- **ejercicio_1**
+
+			- **ejercicio_2**
+
+		- **memoria_resultados**
+
+		- **tex**
+
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
