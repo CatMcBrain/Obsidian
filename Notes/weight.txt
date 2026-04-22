@@ -15,3 +15,4 @@ X, WEIGHT, FAST
 13, 67.9, yes
 14, , yes
 15, , yes
+16, , no

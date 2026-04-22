@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **- Archivo**
+- **- ARCHIVO**
 	- **Bachillerato**
 		- **Física**
 			- [[Campo Eléctrico]]
