@@ -1,4 +1,4 @@
-clear;
+clear
 % Importar datos del ejercicio 1
 time = readmatrix("../ejercicio_1/time.dat");
 amp = readmatrix("../ejercicio_1/amplitud.dat");
@@ -20,21 +20,38 @@ end
 % ----------------------------
 
 % Amplitud
+%se han elegido los límites de la gráfica para la sección exponencial
+X = time(1400:12000);
+Y = log(amp(1400:12000));
 
+% (figura separada)
+f1 =figure('WindowStyle','normal'); ax1 = axes(f1);
+f2 = figure('WindowStyle','normal'); ax2 = axes(f2);
 
-
+% ajuste lineal
+figure(f1);
+xlim([1400 12000]);
+syms x;
+fit = polyfit(X,Y,1);
+y = fit(1)*x+fit(2) ;
+hold (ax1, 'on'); % combinar gráficas
+scatter(ax1, X,Y,'Marker', '.', 'MarkerEdgeColor',"#b7d4f7"); %transparente
+fplot(ax1, y, 'r');
+text(6900,1.5,sprintf('A(t) = %f t + %f', fit(1),fit(2)));
+text(7700,1, sprintf('\\lambda = %f', fit(1)));
+hold (ax1, 'off');
 
 % ----------------------------
 
 % Loop de la animación
-figure; % (figura separada)
-while 1==1
+figure(f2);
+while true
     for i=1:10
-        surf(1:100,1:100,redu{i});
-        clim([umin umax]);
-        colorbar;
-        view(2); % vista desde arriba en 2D
+        surf(ax2 ,1:100,1:100,redu{i});
+        clim(ax2, [umin umax]);
+        colorbar(ax2);
+        view(ax2,2); % vista desde arriba en 2D
         drawnow;
-        pause(0.01)
+        pause(0.01);
     end
 end

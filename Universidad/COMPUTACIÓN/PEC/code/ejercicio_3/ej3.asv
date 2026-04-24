@@ -1,0 +1,9 @@
+clear
+a=0.1;
+b=0.9; 
+u0 = a+b;
+v0 = b/(a+b)^2;
+
+% Jacobiano
+J = [-1+2*u0*v0, u0^2; -2*u0*v0, -u0^2];
+display(eig(J)); % Autovalores 

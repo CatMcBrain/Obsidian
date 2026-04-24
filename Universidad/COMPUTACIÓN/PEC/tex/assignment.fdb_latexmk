@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber assignment"] 0 "assignment.bcf" "assignment.bbl" "assignment" 0 0
+["biber assignment"] 0 "assignment.bcf" "assignment.bbl" "assignment" 1777053702.4929 0
   "assignment.bcf" 0 -1 0 "pdflatex"
   "ref.bib" 0 -1 0 ""
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1776195725.56329 "c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÓN/PEC/tex/assignment.tex" "assignment.pdf" "assignment" 1776195729.26156 0
+["pdflatex"] 1777053696.97768 "c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÓN/PEC/tex/assignment.tex" "assignment.pdf" "assignment" 1777053702.49644 0
   "C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map" 1774273002 254341 82216a34381ed656b516adf3fcfdfcde ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1762526899 13326241 f821cd024e12120362e79f3b471952a8 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -263,11 +263,11 @@
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/MyPrograms/Software/miktex-portable/texmfs/install/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "assignment.aux" 1776195728 579 7add97ff23722f29d5168c6a8db690a9 "pdflatex"
+  "assignment.aux" 1777053700 771 00f13ada3023353d1172b94d52bfc127 "pdflatex"
   "assignment.bbl" 0 -1 0 "biber assignment"
-  "assignment.run.xml" 1776195728 2453 88da3e7711a91a1c6a890403ef9437fe "pdflatex"
-  "assignment.tex" 1776195716 3056 0184dc721da0a7264c71e9842428aea5 ""
-  "c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÓN/PEC/tex/assignment.tex" 1776195716 3056 0184dc721da0a7264c71e9842428aea5 ""
+  "assignment.run.xml" 1777053700 2453 88da3e7711a91a1c6a890403ef9437fe "pdflatex"
+  "assignment.tex" 1777053687 4874 f900d22eac93496c70b4fad5f957cd6a ""
+  "c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÓN/PEC/tex/assignment.tex" 1777053687 4874 f900d22eac93496c70b4fad5f957cd6a ""
   (generated)
   "assignment.aux"
   "assignment.bcf"

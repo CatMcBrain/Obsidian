@@ -93,6 +93,36 @@ Se ha generado el ruido gaussiano aplicando la transformada de Box-Muller, cuya 
 
 Para hallar la amplitud, se calcula el promedio de $(u-u0)^2$ para cada timestep, siendo u el valor de cada punto de la red en ese timestep, y u0 el valor fijo inicial sin las perturbaciones (a+b)
 
+\section{matlab 2}
+
+en grafica log, una recta diagonal representa crecimiento exponencial. Inicialmente, hay una caida vertical... 
+
+%%%
+1. La caída vertical inicial (tapprox0)
+Esta caída brusca ocurre porque tu ruido inicial es "ruido blanco" puro, que contiene todas las frecuencias espaciales imaginables.
+
+    Explicación: Muchas de esas frecuencias son estables, lo que significa que la difusión las "borra" casi instantáneamente.
+    Resultado: La amplitud A(t) cae rápidamente al principio mientras el sistema "limpia" el ruido innecesario y se queda solo con los modos que realmente pueden crecer.
+
+2. La subida "diagonal" (entre 0 y 150 s / paso 15.000)
+Dices que es "más diagonal que exponencial", pero recuerda: en una gráfica logarítmica, una línea diagonal representa un crecimiento exponencial.
+
+    Significado: Esta es la fase de crecimiento lineal de la inestabilidad. Aquí es donde se cumple la relación $\partial u~e\lambda t$.
+    Acción para el Ejercicio 2.2: Este es precisamente el intervalo que debes usar para hacer tu ajuste con polyfit. La pendiente de esa ``diagonal'' es el valor de $\lambda$ que te pide el ejercicio.
+
+3. La curva se vuelve horizontal (entre 150 y 200 s / paso 20.000)
+El hecho de que la pendiente disminuya hasta hacerse horizontal indica que el sistema ha llegado a la saturación.
+
+    Explicación: Las perturbaciones no pueden crecer infinitamente debido a los términos no lineales de las ecuaciones (u2v).
+    Resultado: El sistema ha alcanzado un estado final donde las manchas o rayas ya están totalmente formadas y son estables en el tiempo. La amplitud deja de cambiar porque el patrón ya no crece más, solo se mantiene.
+%%%
+
+
+\section{matlab 3}
+
+el tipo de punto fijo es un foco, ya que ambas partes reales de los autovalores son negativas.
+
+
 %_________________________________________
 
 %\nocite{*}
