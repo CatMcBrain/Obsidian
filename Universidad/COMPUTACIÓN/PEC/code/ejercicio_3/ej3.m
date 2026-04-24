@@ -19,9 +19,9 @@ end
 % Evolución de las perturbaciones M(k)
 kval = linspace(0,2,600);
 eigM = 0:length(kval);
-hold on;
+
 for i=1:length(kval)
     k=kval(i);
     M = J-[Du*k^2, 0; 0, Dv*k^2];
-    eigM(i) = eig(M);
+    eigM(i) = real(max(eig(M)));
 end
