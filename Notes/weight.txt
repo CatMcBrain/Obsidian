@@ -22,4 +22,4 @@ X, WEIGHT, FAST
 20, , no
 21, 68.1, no
 22, , no
-24, , n9
+24, , no
