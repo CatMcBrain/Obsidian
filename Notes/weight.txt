@@ -23,3 +23,4 @@ X, WEIGHT, FAST
 21, 68.1, no
 22, , no
 24, , no
+25, , no
