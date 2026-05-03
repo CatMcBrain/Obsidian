@@ -26,3 +26,4 @@ X, WEIGHT, FAST
 25, , no
 26, , no
 27, , no
+28, , yes
