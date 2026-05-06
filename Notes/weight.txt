@@ -28,3 +28,5 @@ X, WEIGHT, FAST
 27, , no
 28, , cheat
 29, , yes
+30, , yes
+31, , yes
