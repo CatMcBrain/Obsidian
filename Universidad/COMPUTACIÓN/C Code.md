@@ -176,9 +176,7 @@ int vx = *px; // integer vx is set to the value pointed by px
 ```
 They are used to modify variables between scopes or functions. To **pass refereces to variables**. You first pass the address to the function and then dereference:
 ```
-void plus(int* x){
-	(*x)++;
-}
+
 
 int main(){
 	int num = 1;
