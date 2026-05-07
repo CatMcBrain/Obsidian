@@ -51,3 +51,18 @@ v = Vo*(1-(r/R)^2);
 Q = int(v*2*pi*r,r)
 ```
 falta evaluar límites: `int(v*2*pi*r,r,0,R)`
+
+b) Incompleto
+```
+syms u L;
+f=2*pi*u*diff(v,r);
+S=2*pi*R*L;
+F=S*f;
+disp(F)
+```
+falta sustituir r=R: `f = subs(f,r,R); % (línea2|3)`
+
+c) Bien
+```
+
+```
