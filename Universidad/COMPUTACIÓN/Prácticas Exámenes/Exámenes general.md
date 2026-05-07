@@ -163,3 +163,19 @@ ylabel('V (mV)');
 
 axis([0 23 -1 1]); % [xo xf yo yf]
 ```
+
+## Ej 3
+Con ayuda
+```
+syms g k h positive;
+w = sqrt(g*k*tanh(k*h));
+vg = diff(w,k);
+vg = simplify(vg)
+  
+vg0 = limit(vg,k,0)
+vg1 = 1/2 *limit(diff(vg,k,2),k,0)
+
+tay = taylor(vg,k,0)
+```
+
+## Ej 4

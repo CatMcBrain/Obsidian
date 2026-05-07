@@ -41,7 +41,7 @@ If used with matrices, it will do element by element unless the size doesnt matc
 syms y(x); % declares a y function with variable x (or declares just a variable to solve in Equations)
 
 int(lim_o,lim_f,x);
-diff(x,n); % n is the order of the diff
+diff(f,x,n); % df/dx. Order n
 gradient(f, [x,y]); % Gradient of the variables choosed for a f
 taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3
 limit(f,x, n) % limit of f when x tends to n
@@ -226,7 +226,7 @@ print -djpeg -r200 ’file.jpeg’
 double(num); % returns a double float
 pi; % is already defined
 simplify(expression); % simplifies algebraic expression
-	assume(x, 'real'); % assume something for simplification
+assume(x, 'real'); % assume something for simplification
 expand(expression); % expands and operates
 factor(expression); % factorizes irreducible
 
