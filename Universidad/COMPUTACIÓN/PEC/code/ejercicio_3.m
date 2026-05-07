@@ -18,10 +18,17 @@ end
 
 % Evolución de las perturbaciones M(k)
 kval = linspace(0,2,600);
-eigM = 0:length(kval);
+eigM = 1:length(kval);
 
 for i=1:length(kval)
     k=kval(i);
     M = J-[Du*k^2, 0; 0, Dv*k^2];
     eigM(i) = real(max(eig(M)));
 end
+
+hold on;
+ind = find(eigM==max(eigM),1,'last'); % hallar último índice correspondiente del valor máximo
+plot(kval, eigM); % relación de dispersión
+text(0.6,0.2,sprintf('kmax = %f', kval(ind)));  % kmax en el que la dispersión es máxima
+plot(kval(ind), eigM(ind),'o');
+hold off;

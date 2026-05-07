@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>assignment.bcf</file>
+      <file>memoria_resultados.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>assignment.bbl</file>
+      <file>memoria_resultados.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -67,19 +67,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>assignment</infile>
+      <infile>memoria_resultados</infile>
     </cmdline>
     <input>
-      <file>assignment.bcf</file>
+      <file>memoria_resultados.bcf</file>
     </input>
     <output>
-      <file>assignment.bbl</file>
+      <file>memoria_resultados.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>assignment.bbl</file>
+      <file>memoria_resultados.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>assignment.bcf</file>
+      <file>memoria_resultados.bcf</file>
     </requires>
     <requires type="editable">
       <file>ref.bib</file>

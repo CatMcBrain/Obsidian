@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  24 APR 2026 20:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4 Portable) (preloaded format=pdflatex 2025.11.7)  28 APR 2026 13:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÃ“N/PEC/tex/assignment.tex
-(c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÃ“N/PEC/tex/assignment.tex
+**c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÃ“N/PEC/tex/memoria_resultados.tex
+(c:/MyPrograms/Obsidian/Life/Universidad/COMPUTACIÃ“N/PEC/tex/memoria_resultados.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
 \c@section=\count276
@@ -130,8 +130,8 @@ Package babel Info: Importing font and identification data for spanish
 \es@quottoks=\toks19
 \es@quotdepth=\count291
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 10.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 10.
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 11.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 11.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\newtxtext.sty
 Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
  `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/xpatch\xpatch.sty (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/l3kernel\expl3.sty
@@ -863,7 +863,7 @@ LaTeX Font Info:    Trying to load font information for T1+minntx on input line 
 File: t1minntx.fd 2023/09/09 v1.1 font definition file for T1/minntx
 )
 LaTeX Font Info:    Font shape `T1/minntx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 116.
+(Font)              scaled to size 12.0pt on input line 116.
 ) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -1099,73 +1099,116 @@ Package biblatex Info: ... and expl3
 (biblatex)             setting 'casechanger=expl3'.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/biblatex\blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+)) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\listings.sty
+\lst@mode=\count501
+\lst@gtempboxa=\box126
+\lst@token=\toks61
+\lst@length=\count502
+\lst@currlwidth=\dimen369
+\lst@column=\count503
+\lst@pos=\count504
+\lst@lostspace=\dimen370
+\lst@width=\dimen371
+\lst@newlines=\count505
+\lst@lineno=\count506
+\lst@maxwidth=\dimen372
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count507
+\lst@skipnumbers=\count508
+\lst@framebox=\box127
+) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
-LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 76.
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/dirtree\dirtree.sty
+Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/dirtree\dirtree.tex `dirtree' v0.32, 2012/12/11 (jcc)
+\DT@offset=\dimen373
+\DT@width=\dimen374
+\DT@sep=\dimen375
+\DT@all=\dimen376
+\DT@rulewidth=\dimen377
+\DT@dotwidth=\dimen378
+\DTbaselineskip=\dimen379
+\DT@counti=\count509
+\DT@countii=\count510
+\DT@countiii=\count511
+\DT@countiv=\count512
+\DT@indent=\dimen380
+\DT@parskip=\dimen381
+\DT@baselineskip=\dimen382
+)
+File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
+)
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 76.
+(Font)              scaled to size 12.0pt on input line 89.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count501
-\@quotereset=\count502
-(assignment.aux (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel/locale/es\babel-spanish.tex)
+\@quotelevel=\count513
+\@quotereset=\count514
+(memoria_resultados.aux (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/generic/babel/locale/es\babel-spanish.tex)
 Package babel Info: Importing data for spanish
 (babel)             from babel-es.ini. Reported on input line 6.
 )
-\openout1 = `assignment.aux'.
+\openout1 = `memoria_resultados.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 76.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 76.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 89.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 76.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 89.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 76.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 89.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 76.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 76.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 89.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    ... okay on input line 89.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count503
-\scratchdimen=\dimen369
-\scratchbox=\box126
-\nofMPsegments=\count504
-\nofMParguments=\count505
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count506
-\MPscratchDim=\dimen370
-\MPnumerator=\count507
-\makeMPintoPDFobject=\count508
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count515
+\scratchdimen=\dimen383
+\scratchbox=\box128
+\nofMPsegments=\count516
+\nofMParguments=\count517
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count518
+\MPscratchDim=\dimen384
+\MPnumerator=\count519
+\makeMPintoPDFobject=\count520
+\everyMPtoPDFconversion=\toks63
 ) (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1176,20 +1219,21 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: floatrow package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 76.
-LaTeX Info: Redefining \% on input line 76.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 76.
-\c@mv@tabular=\count509
-\c@mv@boldtabular=\count510
-LaTeX Info: Command `\dddot' is already robust on input line 76.
-LaTeX Info: Command `\ddddot' is already robust on input line 76.
+(babel)             Reported on input line 89.
+\c@mv@tabular=\count521
+\c@mv@boldtabular=\count522
+LaTeX Info: Command `\dddot' is already robust on input line 89.
+LaTeX Info: Command `\ddddot' is already robust on input line 89.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 76.
+ on input line 89.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1199,23 +1243,23 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(65.44142pt, 483.41216pt, 65.44142pt)
-* v-part:(T,H,B)=(68.28644pt, 658.39711pt, 68.28644pt)
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=483.41216pt
-* \textheight=658.39711pt
-* \oddsidemargin=-6.82857pt
-* \evensidemargin=-6.82857pt
-* \topmargin=-40.98355pt
+* \textwidth=443.57848pt
+* \textheight=556.47656pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1238,145 +1282,277 @@ File: spanish.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `assignment.bcf'.
+\openout5 = `memoria_resultados.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'assignment.bbl' not found.
+Package biblatex Info: ... file 'memoria_resultados.bbl' not found.
 
-No file assignment.bbl.
-Package biblatex Info: Reference section=0 on input line 76.
-Package biblatex Info: Reference segment=0 on input line 76.
+No file memoria_resultados.bbl.
+Package biblatex Info: Reference section=0 on input line 89.
+Package biblatex Info: Reference segment=0 on input line 89.
+\c@lstlisting=\count523
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 77.
+(Font)              scaled to size 20.74pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 90.
 (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 90.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 77.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 90.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 90.
  (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.8pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 90.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 82.
+(Font)              scaled to size 10.95pt on input line 90.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 82.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 84.
+(Font)              scaled to size 12.0pt on input line 94.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.0pt on input line 86.
+(Font)              scaled to size 12.0pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 7.3pt on input line 86.
+(Font)              scaled to size 8.8pt on input line 96.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 5.5pt on input line 86.
+(Font)              scaled to size 6.6pt on input line 96.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 105.
+ (C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/newtx\t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 105.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 108.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 17.28pt on input line 108.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 110.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 130.
 
 
 [1
 
-{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}] (assignment.aux
+{C:/MyPrograms/Software/miktex-portable/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
+
+[2{C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+<final.png, id=20, 494.3268pt x 312.2064pt>
+File: final.png Graphic file (type png)
+<use final.png>
+Package pdftex.def Info: final.png  used on input line 168.
+(pdftex.def)             Requested size: 252.84148pt x 159.69002pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.95pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.0pt on input line 169.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.1pt on input line 169.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on input line 173.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on input line 173.
+
+<graph.png, id=21, 492.8814pt x 312.2064pt>
+File: graph.png Graphic file (type png)
+<use graph.png>
+Package pdftex.def Info: graph.png  used on input line 183.
+(pdftex.def)             Requested size: 151.75179pt x 96.1208pt.
+File: graph.png Graphic file (type png)
+<use graph.png>
+Package pdftex.def Info: graph.png  used on input line 183.
+(pdftex.def)             Requested size: 151.75179pt x 96.1208pt.
+<graph_complete.png, id=22, 481.8pt x 325.6968pt>
+File: graph_complete.png Graphic file (type png)
+<use graph_complete.png>
+Package pdftex.def Info: graph_complete.png  used on input line 186.
+(pdftex.def)             Requested size: 151.75179pt x 102.58012pt.
+File: graph_complete.png Graphic file (type png)
+<use graph_complete.png>
+Package pdftex.def Info: graph_complete.png  used on input line 186.
+(pdftex.def)             Requested size: 151.75179pt x 102.58012pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[3 <./final.png (PNG copy)>]
+
+[4 <./graph.png (PNG copy)> <./graph_complete.png (PNG copy)>]
+<barrido.png, id=29, 490.4724pt x 312.6882pt>
+File: barrido.png Graphic file (type png)
+<use barrido.png>
+Package pdftex.def Info: barrido.png  used on input line 219.
+(pdftex.def)             Requested size: 252.84148pt x 161.19127pt.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 221.
+
+Missing character: There is no á in font ntx-Regular-tlf-ot1!
+
+LaTeX Warning: Command \' invalid in math mode on input line 221.
+
+Missing character: There is no á in font ntx-Regular-tlf-ot1!
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.0pt on input line 238.
+
+LaTeX Warning: Command \' invalid in math mode on input line 238.
+
+Missing character: There is no á in font ntx-Regular-tlf-ot1!
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 238.
+(C:\MyPrograms\Software\miktex-portable\texmfs\install\tex/latex/txfonts\t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/it' in size <12> not available
+(Font)              Font shape `T1/txtt/m/sl' tried instead on input line 238.
+
+
+[5 <./barrido.png (PNG copy)>] (memoria_resultados.aux
 LaTeX Info: Redefining \sptext on input line 6.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
@@ -1386,22 +1562,22 @@ Package cleveref Info: loaded `spanish' language definitions on input line 6.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package logreq Info: Writing requests to 'assignment.run.xml'.
-\openout1 = `assignment.run.xml'.
+Package logreq Info: Writing requests to 'memoria_resultados.run.xml'.
+\openout1 = `memoria_resultados.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43208 strings out of 468080
- 990089 string characters out of 5421398
- 1995091 words of memory out of 5000000
- 71209 multiletter control sequences out of 15000+600000
- 678051 words of font info for 105 fonts, out of 8000000 for 9000
+ 45067 strings out of 468080
+ 1016537 string characters out of 5421398
+ 2023581 words of memory out of 5000000
+ 73026 multiletter control sequences out of 15000+600000
+ 709990 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,101p,1248b,2044s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txsys.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmri.pfb>
-Output written on assignment.pdf (1 page, 120963 bytes).
+ 99i,18n,101p,1256b,2046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/NewTXMI7.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/txfonts/t1xtt.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/txfonts/t1xtt.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txexs.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txmiaX.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/txsys.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmb.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmbi.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmr.pfb><C:/MyPrograms/Software/miktex-portable/texmfs/install/fonts/type1/public/newtx/ztmri.pfb>
+Output written on memoria_resultados.pdf (5 pages, 512948 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

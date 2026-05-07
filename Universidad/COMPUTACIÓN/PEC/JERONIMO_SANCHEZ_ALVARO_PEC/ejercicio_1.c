@@ -17,11 +17,11 @@ const int archStep = 2000; // paso temporal de cada archivo nuevo
 const double sigma = 1e-3; // para obtener valores de ruido del orden pedido
 
 double random(){
-	double a = 0.000000;
-	while(a==0.000000){ // evitar logaritmo de 0
-	a = (double)rand() / RAND_MAX ;
+	double n = 0.000000;
+	while(n==0.000000){ // evitar logaritmo de 0
+	n = (double)rand() / RAND_MAX ;
 	}
-	return a;
+	return n;
 }
 
 double gauss(double sig){
@@ -102,7 +102,7 @@ void timestep(double u[L][L], double v[L][L]){ // 4) Actualización temporal
 	
 	int currNum = 0; // número de archivo
 	int currStep = 0; 
-	
+
 	for(int t=1; t<=T/dt; t++){ // paso del tiempo desde t = 1
 
 		// Cálculo de la amplitud cada paso de tiempo
@@ -154,11 +154,10 @@ for(int i=0; i<L; i++){
 // actualización temporal
 timestep(redu, redv);
 
-FILE *f = fopen("time.dat", "w");
-
-for(int i =0; i<=(int)(T/dt);i++){
-	fprintf(f, "%d\n", i);
-}
+FILE *f = fopen("time.dat", "w");	
+	for(int i=0; i<=T/dt; i++){
+		fprintf(f,"%d ",i);
+	}
 
 fclose(f);
 

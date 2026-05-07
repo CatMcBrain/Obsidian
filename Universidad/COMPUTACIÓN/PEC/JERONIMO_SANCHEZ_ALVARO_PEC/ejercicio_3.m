@@ -10,7 +10,7 @@ v0 = b/(a+b)^2;
 J = [-1+2*u0*v0, u0^2; -2*u0*v0, -u0^2];
 fprintf('Los autovalores son:');
 display(eig(J)); % Autovalores
-if all(real(eig(J))) < 0
+if real(eig(J)) < 0
     fprintf('Los valores reales son negativos.'); %foco
 else
     fprintf('Los valores reales son positivos.');
@@ -18,11 +18,17 @@ end
 
 % Evolución de las perturbaciones M(k)
 kval = linspace(0,2,600);
-eigM = 0:length(kval);
-hold on;
+eigM = 1:length(kval);
+
 for i=1:length(kval)
     k=kval(i);
     M = J-[Du*k^2, 0; 0, Dv*k^2];
     eigM(i) = real(max(eig(M)));
-    pl
 end
+
+hold on;
+ind = find(eigM==max(eigM),1,'last'); % hallar último índice correspondiente del valor máximo
+plot(kval, eigM); % relación de dispersión
+text(0.6,0.2,sprintf('kmax = %f', kval(ind)));  % kmax en el que la dispersión es máxima
+plot(kval(ind), eigM(ind),'o');
+hold off;
