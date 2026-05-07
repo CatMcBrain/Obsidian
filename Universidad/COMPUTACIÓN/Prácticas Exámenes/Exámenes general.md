@@ -142,4 +142,24 @@ int main (){
 }
 ```
 
-## Ej 
+## Ej 2
+Con ayuda
+```
+x=0:0.01:25;
+v = sin(x);
+
+
+hold on;
+plot(x,v,'k');  
+
+% Líneas verticales
+xline(10, 'k--');
+xline(13, 'k--');  
+
+% Etiquetas
+title('Experimento 1');
+xlabel('t (ms)');
+ylabel('V (mV)');  
+
+axis([0 23 -1 1]); % [xo xf yo yf]
+```
