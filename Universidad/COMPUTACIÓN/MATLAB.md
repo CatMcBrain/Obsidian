@@ -30,7 +30,8 @@ If used with matrices, it will do element by element unless the size doesnt matc
 "." ~ for each element of this do...
 
 % example
-[1,1;1,1] .
+[1,1;1,1] .* [1,2;3,4] = [1,2;3,4]
+[1,1;1,1] .* [1,2] = [1,2;1,2]
 ```
 
 ## Operations
