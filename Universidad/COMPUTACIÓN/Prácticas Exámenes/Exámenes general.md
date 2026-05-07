@@ -111,3 +111,33 @@ int main(){
 	return 0;
 }
 ```
+
+# 24J1
+
+## Ej 2 - C
+
+```
+#include<stdio.h>
+#include<math.h>
+ 
+float res[3] ={0};
+  
+void op(float a[3], float b[3], float (*c)[3]){
+    for(int i=0;i<3; i++){
+        (*c)[i] = a[i]*b[i];
+    }
+}
+  
+int main (){
+  
+    float n[3] = {1,2,3};
+    float m[3] = {4,5,6};
+  
+    op(n,m,&res);
+    for(int i=0;i<3;i++){
+        printf("%f ", res[i]);
+    }
+  
+    return 0;
+}
+```
