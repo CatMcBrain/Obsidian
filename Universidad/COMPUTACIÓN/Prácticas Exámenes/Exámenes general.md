@@ -43,3 +43,8 @@ int main(){
 
 ## Ej 3 - MAT
 
+```
+syms r Vo R;
+v = Vo*(1-(r/R)^2);
+Q = int(v+2*pi*r,r)
+```
