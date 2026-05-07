@@ -184,7 +184,7 @@ void plus(int* x){
 	(*x)++;
 }
 
-// for structs, instead of *s = foo, we do ~ s -> foo ~ to point
+// for structs, instead of *s.A = foo, we do ~ s -> A = foo ~ to point
 
 int main(){
 	int num = 1;
