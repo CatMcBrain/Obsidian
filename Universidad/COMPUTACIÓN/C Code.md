@@ -151,7 +151,7 @@ They can be organized into **arrays**:
 struct Name foos[] = {foo1, foo2, foo3};
 ```
 ##### **Reassigning values**
-```
+```c
 struct Name foo1 = {0}; //set all variables to 0
 
 foo1.numb = 1;
@@ -168,18 +168,18 @@ Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>
 
 `*` defines a pointer and `&` is the address it points to. *Only a pointer can store an address*.
 
-```
+```c
 int x = 5;
 int * px = &x; // integer pointer (*) named "px" is set to address (&) of "x"
 ```
 
 That has set the pointer px to the address of x. If we define an integer variable like `vx= *px`, it will read the value of the address pointed by px, as it's equivalent to `* &x`
 
-```
+```c
 int vx = *px; // integer vx is set to the value pointed by px
 ```
 They are used to modify variables between scopes or functions. To **pass refereces to variables**. You first pass the address to the function and then dereference:
-```
+```c
 void plus(int* x){
 	(*x)++;
 }
@@ -195,7 +195,7 @@ int main(){
 
 
 To **store a variable** value <u>change</u> permanently with commands, you also need to write to its adress
-```
+```c
 int x = 0;
 
 scanf(" %n", &x);
@@ -203,7 +203,7 @@ scanf(" %n", &x);
 	(This is not needed with direct assignation like "x=1")
 
 *A string is already a pointer*, so you don't need to use the address to persist
-```
+```c
 char str[8] = ''
 
 fgets(str, sizeof(str), stdin);
@@ -213,7 +213,7 @@ fgets(str, sizeof(str), stdin);
 # Math functoins
 
 The package `<math.h>` gives us some functions:
-```
+```c
 sqrt(n); // square root
 pow(n,pot); // elevate n to pot
 round(n); ceil(n); floor(n); // round\round up\round down
@@ -227,7 +227,7 @@ sin(n); cos(n); tan(n); // trigonometry (n in radians)
 # Conditionals
 
 #### If / Else
-```
+```c
 if (condition){
 	... ;
 }
@@ -243,7 +243,7 @@ else{
 
 #### Switch
 It checks if a variable is equal to 1, 2, ... (**use *break***)
-```
+```c
 int var = 0;
 
 switch(var){
@@ -261,17 +261,17 @@ switch(var){
 ```
 
 #### Logical Operators
-```
-// && = AND
-// || = OR
-// ! = NOT
-// ^^ = XOR
-// ~~ = NOT 
+```c
+&& = AND
+|| = OR
+! = NOT
+^^ = XOR
+~~ = NOT 
 ```
 
 #### Ternary operator
 Condensed way to return one value of another based if a condition is **true or false**:
-```
+```c
 int tern = (condition) ? <value if true>:<value if false> ;
 
 // Example
@@ -287,14 +287,14 @@ printf("%s",comp);
 
 #### While
 The loop will start and continue until some condition is met. *This is useful to verify correct user input before proceeding*.
-```
+```c
 while(condition){
 	... ;
 }
 ```
 
 A variation of this is a `do{} while{}` loop, which checks if the conditions are met **at the end of each iteration**:
-```
+```c
 do{
 	// what to do
 } while(condition);
@@ -302,7 +302,7 @@ do{
 
 #### For
 Repeats some code a limited amount of times
-```
+```c
 // for(initial condition; continue until; increment)
 
 for(i =0; i < 10; i+=1){
@@ -311,7 +311,7 @@ for(i =0; i < 10; i+=1){
 ```
 
 *You can add a "sleep" timer between iterations with the packages*:
-```
+```c
 #include <windows.h> //for Windows
 #include <unistd.h> //for Linux or Mac
 
@@ -321,7 +321,7 @@ Sleep(1000)  //time in ms
 
 #### Sequence breaking
 There are commands that alter the sequences of a loop *(can be used in a nested `if`, as it would only affect the outside loops)*
-```
+```c
 break \\ fully break out of a loop
 continue \\ skip current cycle and continue loop
 ```
@@ -329,7 +329,7 @@ continue \\ skip current cycle and continue loop
 # Functions
 
 They are created outside `main`. `void` just "inputs" the code, does not return variables:
-```
+```c
 void function(int var1, char var2){ 
 	... ;
 }
