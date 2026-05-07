@@ -64,5 +64,10 @@ falta sustituir r=R: `f = subs(f,r,R); % (línea2|3)`
 
 c) Bien
 ```
-
+A=pi*R^2;
+P=F/A;
+disp(P)
 ```
+
+## Ej 4 - C
+
