@@ -157,6 +157,10 @@ struct Name foo1 = {0}; //set all variables to 0
 foo1.numb = 1;
 foo1.isTrue = false;
 strcpy(foobar, "something");
+
+// assign various
+
+foo1 = {}
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
 
@@ -176,7 +180,11 @@ int vx = *px; // integer vx is set to the value pointed by px
 ```
 They are used to modify variables between scopes or functions. To **pass refereces to variables**. You first pass the address to the function and then dereference:
 ```
+void plus(int* x){
+	(*x)++;
+}
 
+// for structs, instead of *s = foo, we do ~ s -> foo ~ to point
 
 int main(){
 	int num = 1;
