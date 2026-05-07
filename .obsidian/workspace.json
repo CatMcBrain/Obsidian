@@ -35,7 +35,8 @@
               "title": "Exámenes general"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,12 +214,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "712235502e703c32",
+  "active": "f39cc666a9d6b5bb",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes",
-    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/2026-04-21 21-01-27.png",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/ej2.asv",

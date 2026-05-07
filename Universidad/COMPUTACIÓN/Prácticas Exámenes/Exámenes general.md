@@ -39,3 +39,6 @@ int main(){
 
 ## Ej 2 - MAT
 
+3D Plot. Skipped.
+
+#
