@@ -489,6 +489,44 @@ if(*pfile == NULL){ // file doesn't exist
 fclose(pFile);
 ```
 
+## Random numbers in C with `srand`  
+  
+```c  
+#include <stdio.h>  
+#include <stdlib.h>  
+#include <time.h>  
+  
+int main() {  
+srand(time(NULL)); // seed random generator  
+  
+int r = rand(); // random integer  
+printf("%d\n", r);  
+  
+int x = rand() % 10; // random number 0–9  
+printf("%d\n", x);  
+  
+return 0;  
+}  
+```  
+  
+### Notes  
+- `rand()` generates a pseudo-random integer.  
+- `srand(seed)` initializes the sequence.  
+- `time(NULL)` gives a different seed each run.  
+- Call `srand()` **once** at program start.  
+  
+### Random number in a range  
+  
+```c  
+rand() % (max - min + 1) + min  
+```  
+  
+Example for numbers 5–15:  
+  
+```c  
+int n = rand() % 11 + 5;  
+```
+
 #### Cheatsheet for Libraries
 
 | Header      | Use it for                                           | Common functions / types                             |
