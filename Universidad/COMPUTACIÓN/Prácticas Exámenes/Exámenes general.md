@@ -71,3 +71,43 @@ disp(P)
 
 ## Ej 4 - C
 
+Con ayuda.
+```
+#include<stdio.h>
+#include<math.h>
+
+struct SComplex{
+	double A,B;
+};
+typedef struct SComplex Complex;
+
+Complex x1 = {0,0} ;
+Complex x2 = {0,0} ;
+
+void solve(double a, double b, double c, Complex *s1, Complex *s2){
+	double delta = b*b - 4*a*c;
+	if(delta>=0){
+		s1->A = -b/(2*a) + sqrt(delta)/(2*a);
+		s2->A = -b/(2*a) - sqrt(delta)/(2*a);
+	} else{
+		s1->A = -b/(2*a) ;
+		s1->B = sqrt(-delta)/(2*a);
+		s2->A = -b/(2*a) ;
+		s2->B = - sqrt(-delta)/(2*a);
+	}
+	
+}
+
+int main(){
+
+	double a = 2;
+	double b = 4;
+	double c = 10;
+
+	solve(a,b,c,&x1,&x2);
+
+	printf("x1: %lf + i%lf \n x2: %lf + i%lf", x1.A,x1.B,x2.A,x2.B);
+
+	return 0;
+}
+```
