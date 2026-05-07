@@ -488,3 +488,12 @@ if(*pfile == NULL){ // file doesn't exist
 
 fclose(pFile);
 ```
+
+#### Cheatsheet for Libraries
+| Library    | Use it for                                           | Common functions                         |
+| ---------- | ---------------------------------------------------- | ---------------------------------------- |
+| `stdio.h`  | Input/output and files                               | `printf`, `scanf`, `fopen`, `fgets`      |
+| `stdlib.h` | Memory, conversions, random numbers, program control | `malloc`, `free`, `rand`, `atoi`, `exit` |
+| `string.h` | String and memory operations                         | `strlen`, `strcpy`, `strcmp`, `memcpy`   |
+| `math.h`   | Mathematical functions                               | `sqrt`, `pow`, `sin`, `cos`, `log`       |
+| `time.h`   | Dates, time, timers                                  | `time`, `clock`, `difftime`, `localtime` |
