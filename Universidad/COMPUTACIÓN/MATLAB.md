@@ -43,7 +43,8 @@ syms y(x); % declares a y function with variable x (or declares just a variable 
 int(lim_o,lim_f,x);
 diff(x,n); % n is the order of the diff
 gradient(f, [x,y]); % Gradient of the variables choosed for a f
-limit(f, n); % limit of f(x) when x -> n
+taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3
+limit(f,x, n) % limit of f when x tends to n
 ```
 ##### Vector operations 
 You can use these on vectors to do them to their elements:
@@ -228,6 +229,6 @@ simplify(expression); % simplifies algebraic expression
 	assume(x, 'real'); % assume something for simplification
 expand(expression); % expands and operates
 factor(expression); % factorizes irreducible
-taylor(f(x),x,0,'Order',3) % taylor centrado en x=0 de orden 3
+
 pause(sec); % pausa la ejecución n segundos. Útil para animaciones
 ```
