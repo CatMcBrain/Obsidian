@@ -179,3 +179,5 @@ tay = taylor(vg,k,0)
 ```
 
 ## Ej 4
+
+Skip
