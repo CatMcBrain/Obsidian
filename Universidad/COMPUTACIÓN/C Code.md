@@ -345,7 +345,7 @@ int main(){
 ```
 
 If you want a function to return a value/result as an "output" after ending:
-```
+```c
 int function(int x){
 	... ;
 	return result;
@@ -363,7 +363,7 @@ ___
 
 #### Typedef
 Define command names:
-```
+```c
 typedef <command> <newname> ;
 
 // Example
@@ -376,7 +376,7 @@ String word = "hello";
 
 #### Empty variable defining
 It's convenient to define our variables even if empty, to avoid errors
-```
+```c
 int num = 0;
 float fl = 0.0;
 char ch = '\0'; //null
@@ -386,7 +386,7 @@ char str[] = ""; //empty string
 #### Function prototypes
 To have neater code, sometime's it's desired to have your functions after `main(){}`, but they won't work there, as they are defined after being called inside `main`.
 To be able to do this, you can **predefine** said function before `main`, stating only its name and input variables (and a `;`), and then place its whole definition after `main`:
-```
+```c
 void func(int x,char y);
 
 int main(){
@@ -401,7 +401,7 @@ void func(int x,char y){
 
 #### Dynamic allocation: malloc()
 `malloc()` is a `<stdlib.h>` function that allows to dynamically allocate memory. You then free the allocated space with `free()`.
-```
+```c
 int number = 0;
 printf("Enter the number of variables needed: ");
 scanf(" %d", &number);
@@ -423,7 +423,7 @@ foo = NULL; // delete the pointer, as there is no data anymore
 
 ##### calloc()
 This is a similar, safer function that also sets all allocated bytes to 0. It's slower but safer.
-```
+```c
 calloc(<number>, <size>);
 ```
 
@@ -435,7 +435,7 @@ realloc(<pointer>, <bytes>);
 
 #### String newline correction
 When printing a string with `fgets`, a newline is included because it reads our `"Enter"` as input, to fix it we need a package:
-```
+```c
 #include <string.h>
 
 fgets(data, sizeof(data), stdin);
@@ -451,7 +451,7 @@ printf("%s\n%, name);
 
 #### Writing to Files
 There's a prefefined *struct* in C with some functions to read/write files. You have to open the file with **pointers** to edit it. If the file doesn't exist, it will be created.
-```
+```c
 FILE *pFile = fopen("<FILENAME.txt>", "w"); // w = write , r = read
 
 char text[]="text to be written in my file";
@@ -464,7 +464,7 @@ You write using `fprint(filepointer,"text")` , and you can use *relative paths* 
 
 ##### Reading files
 Instead of using a for loop and printing one character at a time with `i`, it's recommended to set a string variable **buffer** to temporary store some memory in a while loop:
-```
+```c
 FILE *pFile = fopen("file.txt", "r");
 
 char buffer[1024]={0};
@@ -478,7 +478,7 @@ fclose(pFile);
 
 ##### Returning errors
 If we return with another code different than 0, the full program will **terminate** with that error code.
-```
+```c
 FILE *pFile = fopen("file.txt", "r");
 
 if(*pfile == NULL){ // file doesn't exist
@@ -508,13 +508,7 @@ printf("%d\n", x);
 return 0;  
 }  
 ```  
-  
-### Notes  
-- `rand()` generates a pseudo-random integer.  
-- `srand(seed)` initializes the sequence.  
-- `time(NULL)` gives a different seed each run.  
-- Call `srand()` **once** at program start.  
-  
+
 ### Random number in a range  
   
 ```c  
