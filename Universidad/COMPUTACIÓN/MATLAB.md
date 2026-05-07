@@ -6,8 +6,6 @@
 x=1; % must end with ";"
 % sin() , cos() Are defined
 
-"." ~ for each element of this do...
-
 xor(case1, case2) % If they are both true or false, it returns 0, else, returns 1
 ```
 
@@ -24,6 +22,15 @@ disp();
 ```
 var = cell(0:4);
 var{1} = foo; % accesses first index, in this case, 0
+```
+
+#### Dot. Element operator
+If used with matrices, it will do element by element unless the size doesnt match, in which case it will expand and repeat the same operation:
+```
+"." ~ for each element of this do...
+
+% example
+[1,1;1,1] .
 ```
 
 ## Operations
