@@ -160,7 +160,7 @@ strcpy(foobar, "something");
 
 // assign various
 
-foo1 = {}
+foo1 = {"hi", 2, false};
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
 
