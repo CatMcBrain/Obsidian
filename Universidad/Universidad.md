@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **- ARCHIVO**
+- **- Archivo**
 	- **Bachillerato**
 		- **Física**
 			- [[Campo Eléctrico]]
@@ -129,14 +129,13 @@
 	- [[MATLAB]]
 	- **PEC**
 		- **code**
-			- **ejercicio_1**
 
-			- **ejercicio_2**
-
-		- **memoria_resultados**
+		- **JERONIMO_SANCHEZ_ALVARO_PEC**
 
 		- **tex**
 
+	- **Prácticas Exámenes**
+		- [[Exámenes general]]
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
