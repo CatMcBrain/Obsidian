@@ -50,7 +50,4 @@ syms r Vo R;
 v = Vo*(1-(r/R)^2);
 Q = int(v*2*pi*r,r)
 ```
-falta evaluar límites:
-```
-
-```
+falta evaluar límites: `int(v*2*pi*r,r,0,R)`
