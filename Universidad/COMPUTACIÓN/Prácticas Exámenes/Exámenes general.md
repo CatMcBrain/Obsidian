@@ -3,6 +3,7 @@
 
 ## Ej 1b - C
 
+Bien
 ```
 #include<stdio.h>
 #include<stdlib.h>
@@ -43,8 +44,13 @@ int main(){
 
 ## Ej 3 - MAT
 
+a) Incompleto
 ```
 syms r Vo R;
 v = Vo*(1-(r/R)^2);
-Q = int(v+2*pi*r,r)
+Q = int(v*2*pi*r,r)
+```
+falta evaluar límites:
+```
+
 ```
