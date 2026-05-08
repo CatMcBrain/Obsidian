@@ -203,7 +203,16 @@ axis equal; % Both axis will be of the same scale
 
 ##### Line style
 ```
-"--" 
+% Forma ~
+"-" % Contínua
+"--" % Discontínua
+":" % Puntos
+
+% Estilo ~
+"k" % Black
+"r" % Red
+"b" % Blue
+ 
 ```
 ## Loops
 
