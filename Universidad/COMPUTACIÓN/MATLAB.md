@@ -53,6 +53,10 @@ sum(v);
 mean(v); % Average
 transpose(M); % or M'
 rand(m,n); % Generates matrix of rand numbers between 0 and 1
+
+inv % Inverse matrix
+det % Determinant
+eig % Eigenvalues
 ```
 
 #### Conditions 
@@ -143,6 +147,8 @@ You can also solve it normally by creating `A=[...],  B=[...]` matrices and solv
 % crea línea roja con círculos
 plot(x,y,'r-o'); 
 xlabel('x'); title('foo');
+
+// plot crea grafico a partir de valores. fplot lo crea y grafica función directamente
 
 polarplot(theta,rho); % Coordenadas polares 
 ```

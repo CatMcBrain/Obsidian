@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f39cc666a9d6b5bb",
+  "active": "712235502e703c32",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
-    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/2026-04-21 21-01-27.png",
