@@ -154,9 +154,10 @@ polarplot(theta,rho); % Coordenadas polares
 ```
 - El comando `hold` nos permite juntar varias gráficas guardando una en memoria
 
-##### Histogram (bars)
+##### 2D
 ```
 histogram(dat,nbar); % Grafica de barras con un número de barras determinado
+imagesc(dat); % Mapa de calor
 ```
 
 #### 3D
