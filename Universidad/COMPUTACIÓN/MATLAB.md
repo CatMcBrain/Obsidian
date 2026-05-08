@@ -202,6 +202,7 @@ axis equal; % Both axis will be of the same scale
 ```
 
 ##### Line style
+It can be written together like `plot(x,y,"k--")`
 ```
 % Forma ~
 "-" % Contínua
@@ -270,4 +271,6 @@ randn(n,m); % matriz n m de números aleatorios de dist normal
 randn(size(vec)) %genera un vector de un tamaño
 
 pause(sec); % pausa la ejecución n segundos. Útil para animaciones
+
+peaks(n); % example heatmap with n peaks
 ```
