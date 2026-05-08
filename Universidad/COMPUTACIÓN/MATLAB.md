@@ -33,7 +33,7 @@ If used with matrices, it will do element by element unless the size doesnt matc
 [1,1;1,1] .* [1,2;3,4] = [1,2;3,4]
 [1,1;1,1] .* [1,2] = [1,2;1,2]
 ```
-
+Must use 
 ## Operations
 
 ##### Function
