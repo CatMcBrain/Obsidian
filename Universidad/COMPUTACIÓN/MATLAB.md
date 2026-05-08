@@ -216,7 +216,8 @@ It can be written together like `plot(x,y,"k--")`
 "b" % Blue
 
 % Superficies ~
-("FaceAlpha",0.5) % Transparencia
+surf(...,"FaceAlpha",0.5) % Transparencia
+shading interp; % Suavizado
  
 ```
 ## Loops
