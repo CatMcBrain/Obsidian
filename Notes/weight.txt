@@ -31,3 +31,4 @@ X, WEIGHT, FAST
 30, , yes
 31, , cheat
 32, 67.6, no
+33, 67.2, yes
