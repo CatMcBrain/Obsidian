@@ -156,7 +156,7 @@ polarplot(theta,rho); % Coordenadas polares
 
 ##### Histogram (bars)
 ```
-histogram(dat,nbar); % Grafica de barras con 
+histogram(dat,nbar); % Grafica de barras con un número de barras determinado
 ```
 
 #### 3D
@@ -199,7 +199,11 @@ title("Title"); % Title of graph
 xlim([-1 5]); % Axis limits
 grid on; % Grid
 axis equal; % Both axis will be of the same scale
+```
 
+##### Line style
+```
+"--" 
 ```
 ## Loops
 
