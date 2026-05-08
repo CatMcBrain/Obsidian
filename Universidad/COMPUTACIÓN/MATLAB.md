@@ -76,7 +76,7 @@ size(M); % [rows,cols]
 
 Otras funciones para crear vectores son:
 ```
-v = ini:pasos:fin ;
+v = ini:pasos:fin ; % va sumando de paso en paso
 
 v = linspace(1,10,5); 
 % 5 puntos entre 1 y 10 equiespaciados
@@ -148,7 +148,7 @@ You can also solve it normally by creating `A=[...],  B=[...]` matrices and solv
 plot(x,y,'r-o'); 
 xlabel('x'); title('foo');
 
-// plot crea grafico a partir de valores. fplot lo crea y grafica función directamente
+// plot crea grafico a partir de valores. fplot lo crea y grafica función dir
 
 polarplot(theta,rho); % Coordenadas polares 
 ```
