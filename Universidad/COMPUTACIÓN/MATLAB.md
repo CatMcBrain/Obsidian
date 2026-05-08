@@ -248,7 +248,8 @@ expand(expression); % expands and operates
 simplify(expression); % simplifies algebraic expression
 factor(expression); % factorizes irreducible
 
-randn()
+randn(n,m); % matriz n m de números aleatorios de dist normal
+randn(size(vec)) %genera un vector de un tamaño
 
 pause(sec); % pausa la ejecución n segundos. Útil para animaciones
 ```
