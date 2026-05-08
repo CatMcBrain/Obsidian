@@ -33,7 +33,7 @@ If used with matrices, it will do element by element unless the size doesnt matc
 [1,1;1,1] .* [1,2;3,4] = [1,2;3,4]
 [1,1;1,1] .* [1,2] = [1,2;1,2]
 ```
-Must use 
+Must use in all **non matrix** operations. 
 ## Operations
 
 ##### Function
@@ -192,7 +192,8 @@ xlabel("nameX"); % Axis name
 title("Title"); % Title of graph
 
 xlim([-1 5]); % Axis limits
-grid on; %Cuadrícula
+grid on; % Grid
+axis equal; % Both axis will be of the same scale
 
 ```
 ## Loops
