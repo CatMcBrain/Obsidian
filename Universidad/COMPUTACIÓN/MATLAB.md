@@ -202,7 +202,7 @@ grid on; % Grid
 axis equal; % Both axis will be of the same scale
 ```
 
-##### Line style
+##### Plot style
 It can be written together like `plot(x,y,"k--")`
 ```
 % Forma ~
@@ -210,10 +210,13 @@ It can be written together like `plot(x,y,"k--")`
 "--" % Discontínua
 ":" % Puntos
 
-% Estilo ~
+% Color ~
 "k" % Black
 "r" % Red
 "b" % Blue
+
+% Superficies ~
+("FaceAlpha",0.5) % Transparencia
  
 ```
 ## Loops
