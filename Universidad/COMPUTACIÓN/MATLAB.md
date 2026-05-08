@@ -148,7 +148,7 @@ You can also solve it normally by creating `A=[...],  B=[...]` matrices and solv
 plot(x,y,'r-o'); 
 xlabel('x'); title('foo');
 
-// plot crea grafico a partir de valores. fplot lo crea y grafica función dir
+// plot crea grafico a partir de valores. fplot lo crea y grafica funciones sin valores de x
 
 polarplot(theta,rho); % Coordenadas polares 
 ```
