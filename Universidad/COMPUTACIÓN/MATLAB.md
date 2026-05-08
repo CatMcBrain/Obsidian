@@ -186,7 +186,15 @@ colormap(name); % Set a custom colormap
 - *`gca` is "get current axes"*  
 - you can name a figure window `fig1 = figure `
 
+##### Graph customization
+```matlab
+xlabel = 
+ylabel = 
+title = 
 
+xlim([-1 5]); % limites del eje
+
+```
 ## Loops
 
 ```
