@@ -188,11 +188,11 @@ colormap(name); % Set a custom colormap
 
 ##### Graph customization
 ```matlab
-xlabel = 
-ylabel = 
-title = 
+xlabel("nameX"); % Axis name
+title("Title"); % Title of graph
 
-xlim([-1 5]); % limites del eje
+xlim([-1 5]); % Axis limits
+grid on; %Cuadrícula
 
 ```
 ## Loops
