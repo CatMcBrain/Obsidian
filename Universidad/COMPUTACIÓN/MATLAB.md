@@ -7,6 +7,8 @@ x=1; % must end with ";"
 % sin() , cos() Are defined
 
 xor(case1, case2) % If they are both true or false, it returns 0, else, returns 1
+
+clf(fig); % clear figure
 ```
 
 #### Printing
@@ -158,6 +160,7 @@ polarplot(theta,rho); % Coordenadas polares
 ```
 histogram(dat,nbar); % Grafica de barras con un número de barras determinado
 imagesc(dat); % Mapa de calor
+stairs(x,y,...); % "Escaleras" de 90 grados
 ```
 
 #### 3D
