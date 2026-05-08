@@ -185,6 +185,8 @@ colormap(name); % Set a custom colormap
 ```
 - *`gca` is "get current axes"*  
 - you can name a figure window `fig1 = figure `
+
+
 ## Loops
 
 ```
