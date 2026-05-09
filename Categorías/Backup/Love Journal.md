@@ -24,7 +24,7 @@ Fuimos a muchos sitios, visitamos una "islita" con marea baja, dimos paseos y, e
 
 El día siguiente su hermana nos llevó al establo, donde conocí a Peto. Ese día fuimos las dos de la mano, y ya se sentía familiar. Lo pasé muy bien y luego comimos todos en un McDonalds, antes de ir al tren de vuelta. Y en la estación, esperando al tren, me aferré a ella y me derrumbé. No me quería ir por nada del mundo. Ella me abrazó y me consoló con muchas cosas, y al final me pidió salir conmigo, y quedar eventualmente en Madrid. Le dije que sí desesperadamente como si mi vida dependiese de ello, y ese punto marca nuestro **Aniversario Cero**.
 
-Antes de que el tren partiese me miró por la ventana con la sonrisa más bonita que he visto en mi vida. No es exageración cuando la califico así, nunca he visto nada igual. Sentí tanto amor en esa mirada y sonrisa, y aún la tengo grabada en mi cabeza. La imagen exacta.
+Antes de que el tren partiese me miró por la ventana con la sonrisa más bonita que he visto en mi vida. No es exageración cuando la califico así, nunca he visto nada igual. Sentí tanto amor en esa mirada y sonrisa, y aún la tengo grabada en mi cabeza. La imagen exacta. Tenía la cabeza ligeramente inclinada hacia un lado, mirándome a los ojos y hablándome con la mirada desde detrás de las gafas, con una sonrisa ancha y con los bordes de la boca ligeramente subidos hacia arriba. Tenía las mejillas tensas, y era una sonrisa muy "adulta", dulce, y la de mi mujer para toda la vida. Nos ví juntas para siempre desde entonces.
 
 ## Primer año (23/12/2024-2025)
 
