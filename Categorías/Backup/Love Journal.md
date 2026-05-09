@@ -75,4 +75,5 @@ Está Estrella aqui (17/03/2026).
 Se fue hace unas semanas y volverá a final de mes justo en mi semana de finales. Esto es un resumen, pero tras luchar mucho, conseguimos adelantar la cita a Noviembre de estr año, estoy ecstática.
 
 ```
+Cita confirmada en HOSPITAL UNIVERSITARIO RAMON Y CAJAL el 12/11/2026 a las 9:00. -1D5. Si no puede acudir llame por favor al 917059100
 ```
