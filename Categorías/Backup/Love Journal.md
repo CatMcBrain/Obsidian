@@ -67,4 +67,5 @@ Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero 
 Está Estrella aqui (17/03/2026). 
 - Vamos a jugar a fila filo (las arañitas)
       0- 3 (gana amor). 2-3 (gana amor)
-    ñ
+
+Se fue hace unas semanas y volverá a final de mes justo en mi semana de finales. Esto es un resumen, pero tras luchar mucho, conseguimos adelantar la cita a Noviembre de estr año, estoy ecstática.
