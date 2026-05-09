@@ -1,4 +1,4 @@
-
+**Yo:** 2 años de química. 2-3 meses exp laboratorio
 ### Prefacio
 
 La primera vez que supe de su existencia fue en una quedada con Elena en Faunia, para ver a Sara en su trabajo, y yo estaba muy nerviosa y tontita cuando hablé con ella en el grupo de whatsapp que se creó (ahora está abandonado).
