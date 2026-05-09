@@ -64,8 +64,15 @@ Acabo de ir al médico (11 Mar) y me llamará el endocrino cuando sea para mi pr
 
 Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero morir pero me salvan familia, amigos y Estrella. Tengo miedo de cambiar más sin hormonas, no quiero ser un puto ogro. Rompería un plato o algo pero no quiero causar más problemas, voy a seguir con circuitos.
 
+```
+Cita confirmada en HOSPITAL CLINICO SAN CARLOS el 28/09/2027 a las 8:30. H0S165 - PUERTA I BAJA SUR SALA-B165. Si no puede acudir llame por favor al 917059100
+```
+
 Está Estrella aqui (17/03/2026). 
 - Vamos a jugar a fila filo (las arañitas)
       0- 3 (gana amor). 2-3 (gana amor)
 
 Se fue hace unas semanas y volverá a final de mes justo en mi semana de finales. Esto es un resumen, pero tras luchar mucho, conseguimos adelantar la cita a Noviembre de estr año, estoy ecstática.
+
+```
+```
