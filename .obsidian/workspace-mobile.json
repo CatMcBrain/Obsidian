@@ -37,14 +37,12 @@
             "id": "22c704ca8222e594",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "txt",
               "state": {
-                "file": "Categorías/Backup/Love Journal.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/weight.txt"
               },
               "icon": "lucide-file",
-              "title": "Love Journal"
+              "title": "weight"
             }
           }
         ],
@@ -205,9 +203,9 @@
   },
   "active": "22c704ca8222e594",
   "lastOpenFiles": [
+    "Categorías/Backup/Love Journal.md",
     "Categorías/Ocio/Viajes.md",
     "Categorías/Food/Annotations.md",
-    "Categorías/Backup/Love Journal.md",
     "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/test.dat",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/ej2.m",
