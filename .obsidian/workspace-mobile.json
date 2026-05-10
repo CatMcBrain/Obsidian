@@ -37,14 +37,12 @@
             "id": "22c704ca8222e594",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "txt",
               "state": {
-                "file": "Universidad/COMPUTACIÓN/MATLAB.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/weight.txt"
               },
               "icon": "lucide-file",
-              "title": "MATLAB"
+              "title": "weight"
             }
           }
         ],
@@ -125,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Universidad/COMPUTACIÓN/MATLAB.md",
+            "file": "Notes/weight.txt",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,6 +203,7 @@
   },
   "active": "22c704ca8222e594",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Notes/weight.txt",
     "Categorías/Backup/Love Journal.md",
     "Categorías/Ocio/Viajes.md",
