@@ -37,12 +37,14 @@
             "id": "22c704ca8222e594",
             "type": "leaf",
             "state": {
-              "type": "txt",
+              "type": "markdown",
               "state": {
-                "file": "Notes/weight.txt"
+                "file": "Categorías/Backup/Love Journal.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "weight"
+              "title": "Love Journal"
             }
           }
         ],
@@ -203,8 +205,9 @@
   },
   "active": "22c704ca8222e594",
   "lastOpenFiles": [
-    "Universidad/COMPUTACIÓN/MATLAB.md",
+    "Categorías/Backup/Heart.md",
     "Notes/weight.txt",
+    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Categorías/Backup/Love Journal.md",
     "Categorías/Ocio/Viajes.md",
     "Categorías/Food/Annotations.md",
@@ -238,7 +241,6 @@
     "Notes/Food/Food.md",
     "Notes/Ocio/Crochet/Mochi Cat.md",
     "Notes/Ocio/Ocio.md",
-    "Home/Mochi Cat.md",
     "Attachments/20250712_220147.jpg",
     "Attachments/Pasted image 20250703161230.png",
     "Notes/Images/v1-cipher-build-v0-7fnz0a45wmte1.png",
