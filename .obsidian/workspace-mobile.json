@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categorías/Ocio/Viajes.md",
+                "file": "Categorías/Backup/Love Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viajes"
+              "title": "Love Journal"
             }
           }
         ],
@@ -205,9 +205,9 @@
   },
   "active": "22c704ca8222e594",
   "lastOpenFiles": [
+    "Categorías/Ocio/Viajes.md",
     "Categorías/Food/Annotations.md",
     "Categorías/Backup/Love Journal.md",
-    "Categorías/Ocio/Viajes.md",
     "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/test.dat",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/ej2.m",
