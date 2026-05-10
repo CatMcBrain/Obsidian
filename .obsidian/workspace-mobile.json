@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categorías/Backup/Love Journal.md",
+                "file": "Categorías/Backup/Heart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Love Journal"
+              "title": "Heart"
             }
           }
         ],
@@ -205,10 +205,10 @@
   },
   "active": "22c704ca8222e594",
   "lastOpenFiles": [
+    "Categorías/Backup/Love Journal.md",
     "Categorías/Backup/Heart.md",
     "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/MATLAB.md",
-    "Categorías/Backup/Love Journal.md",
     "Categorías/Ocio/Viajes.md",
     "Categorías/Food/Annotations.md",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/test.dat",

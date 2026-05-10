@@ -78,3 +78,7 @@ Se fue hace unas semanas y volverá a final de mes justo en mi semana de finales
 Cita confirmada en HOSPITAL UNIVERSITARIO RAMON Y CAJAL el 12/11/2026 a las 9:00. -1D5. Si no puede acudir llame por favor al 917059100
 ```
 
+11/05/2026
+Siento que estoy de vuelta. Siento que he roto la cadena de procrastinar y he traído a mi yo real de vuelta, la estudiante de la UAM. Ayer en batería reflexioné sentada bajo la lluvia y me busqué dentro de mi subsconsciente. Me encontré, y me traje de vuelta. Me siento mejor, me ha estado cundiendo y me siento viva, y estudiante de nuevo. 
+
+Me ha recordado mucho a "Aemath" de WuWa, un personaje al que traen de vuelta desde la "muerte". Conecto mucho con ella y me veo reflejada en ella. Me siento mejor conmigo.
