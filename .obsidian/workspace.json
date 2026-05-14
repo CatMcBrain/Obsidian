@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "712235502e703c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/COMPUTACIÓN/MATLAB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATLAB"
-            }
-          },
-          {
-            "id": "9c530315e3154e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorías/Shopping/Shopping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shopping"
-            }
-          },
-          {
             "id": "f39cc666a9d6b5bb",
             "type": "leaf",
             "state": {
@@ -63,8 +35,7 @@
               "title": "Exámenes general"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,11 +212,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9c530315e3154e26",
+  "active": "621bb92d98c9f4c7",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
+    "Categorías/Shopping/Shopping.md",
     "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/MATLAB.md",
-    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
@@ -270,7 +242,6 @@
     "Categorías/Wardrobe/Wardrobe.md",
     "Categorías/Wardrobe/Fragances.md",
     "Categorías/Shopping/Shop.md",
-    "Categorías/Shopping/Shopping.md",
     "Categorías/Shopping/Rebuy.md",
     "Categorías/Shopping/Gifts.md",
     "Categorías/Ocio/Crochet/Mochi Cat.md",
