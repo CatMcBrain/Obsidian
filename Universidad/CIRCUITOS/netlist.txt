@@ -1,11 +1,15 @@
-# Qucs 0.0.19  C:/MyPrograms/Obsidian/Life/Universidad/CIRCUITOS/Sim1/qucs/2-1.sch
+# Qucs 0.0.19  C:/Users/ajers/Downloads/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/tst.sch
 
-R:RG _net0 _net1 R="50 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
-Vdc:V1 _net0 gnd U="24 V"
-R:R3 _net2 gnd R="10 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
-R:R1 gnd _net3 R="6 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
-R:R2 _net2 _net3 R="4 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
-IProbe:iL _net2 _net2
-L:L gnd _net2 L="5 mH" I=""
-Switch:S1 _net1 _net3 init="on" time="[1 ms]" Ron="1p" Roff="1e12" Temp="26.85" MaxDuration="1e-6" Transition="spline"
-.TR:TR1 Type="lin" Start="0" Stop="10 ms" Points="201" IntegrationMethod="Trapezoidal" Order="2" InitialStep="1 ns" MinStep="1e-16" MaxIter="150" reltol="0.001" abstol="1 pA" vntol="1 uV" Temp="26.85" LTEreltol="1e-3" LTEabstol="1e-6" LTEfactor="1" Solver="CroutLU" relaxTSR="no" initialDC="yes" MaxStep="0"
+.Def:Z_Diodes_1N750 _net0 _net1
+      Diode:D1 _net0 _net1 Is="1E-11" N="1.27" Rs="9.066" Cj0="4.351E-10" Vj="0.75" M="0.33" Fc="0.5" Tt="5E-8" Bv="4.519" Ibv="0.01" Af="1" Kf="0"
+    .Def:End
+  
+
+Sub:D1 gnd _net0 Type="Z_Diodes_1N750"
+VProbe:Pr1 _net0 gnd
+IProbe:Pr2 _net1 _net0
+Vdc:V1 _net2 gnd U="volt"
+R:R1 _net2 _net1 R="500 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
+.DC:DC1 Temp="26.85" reltol="0.001" abstol="1 pA" vntol="1 uV" saveOPs="no" MaxIter="150" saveAll="no" convHelper="none" Solver="CroutLU"
+.SW:SW1 Sim="DC1" Type="lin" Param="volt" Start="-40" Stop="10" Points="501"
+Eqn:rz y="ddx(Pr1.V,Pr2.I)" Export="yes"

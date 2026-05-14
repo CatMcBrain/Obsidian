@@ -1,0 +1,48 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim2\Diodo\ej2.1.net
+Start Time: Mon May 11 22:05:49 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.step vin=-4
+.step vin=-4.2
+.step vin=-4.4
+.step vin=-4.6
+.step vin=-4.8
+.step vin=-5
+Total elapsed time: 0.554 seconds.
+
+Files loaded:
+C:\MyPrograms\Obsidian\Life\Universidad\CIRCUITOS\Sim2\Diodo\ej2.1.net
+C:\Users\ajers\AppData\Local\LTspice\lib\cmp\standard.dio
+
+
+Measurement: vz10
+  step	V(z) 	at
+     1	0.776071112389	5.776071019
+     2	0.776071112389	5.776071019
+     3	0.776071112389	5.776071019
+     4	0.776071112389	5.776071019
+     5	0.776071112389	5.776071019
+     6	0.776071112389	5.776071019
+
+Measurement: vz20
+  step	V(z) 	at
+     1	0.797407615758	10.7974075174
+     2	0.797407615758	10.7974075174
+     3	0.797407615758	10.7974075174
+     4	0.797407615758	10.7974075174
+     5	0.797407615758	10.7974075174
+     6	0.797407615758	10.7974075174
+
+Measurement: vz30
+  step	V(z) 	at
+     1	0.810811651909	15.810811601
+     2	0.810811651909	15.810811601
+     3	0.810811651909	15.810811601
+     4	0.810811651909	15.810811601
+     5	0.810811651909	15.810811601
+     6	0.810811651909	15.810811601
