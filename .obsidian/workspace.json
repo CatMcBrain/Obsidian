@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "9c530315e3154e26",
+            "type": "leaf",
+            "state": {
+              "type": "txt",
+              "state": {
+                "file": "Notes/weight.txt"
+              },
+              "icon": "lucide-file",
+              "title": "weight"
+            }
+          },
+          {
             "id": "f39cc666a9d6b5bb",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +240,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "712235502e703c32",
+  "active": "9c530315e3154e26",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/C Code.md",
-    "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/2026-04-21 21-01-27.png",
