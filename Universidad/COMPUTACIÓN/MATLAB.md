@@ -11,6 +11,8 @@ mod(a,m); %resto de a entre m
 xor(case1, case2) % If they are both true or false, it returns 0, else, returns 1
 
 clf(fig); % clear figure
+
+% indices start at 1
 ```
 
 #### Printing
