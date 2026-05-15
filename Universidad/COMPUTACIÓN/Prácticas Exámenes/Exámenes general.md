@@ -276,3 +276,79 @@ disp(res)
 
 ## Ej 5
 
+```
+#include<stdio.h>
+
+#include<math.h>
+
+const float k = 9e9 ;
+
+  
+
+// xc = posicion x del punto estudiado. x_i = posicion x cada carga. N = numero de cargas (para el loop)
+
+  
+
+void campo_plano(int N, float q[], float x[], float y[], float xc, float yc, float (*E)[]){
+
+    for(int i=0; i<N; i++){
+
+        float r[2] = {xc-x[i],yc-y[i]};
+
+        float modr = sqrt(r[0]*r[0]+r[1]*r[1]);
+
+        (*E)[0] += k*q[i]*r[0]/(modr*modr*modr);
+
+        (*E)[1] += k*q[i]*r[1]/(modr*modr*modr);
+
+    }
+
+}
+
+  
+
+int main(){
+
+  
+
+    int N = 3;
+
+  
+
+    float q[] = { 2e-6, -1e-6, 3e-6 };
+
+  
+
+    float x[] = { 0.0, 2.0, -1.0 };
+
+  
+
+    float y[] = { 0.0, 1.0, 2.0 };
+
+  
+
+    float xc = 1.0;
+
+    float yc = 1.5;
+
+  
+
+    float E[2] = {0};
+
+  
+
+    campo_plano(N, q, x, y, xc, yc, &E);
+
+  
+
+    printf("Ex = %e\n", E[0]);
+
+    printf("Ey = %e\n", E[1]);
+
+  
+  
+
+    return 0;
+
+}
+```
