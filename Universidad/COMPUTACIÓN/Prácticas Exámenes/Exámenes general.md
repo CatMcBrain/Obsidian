@@ -183,3 +183,53 @@ tay = taylor(vg,k,0)
 Skip
 
 # EX Ejemplo
+
+## Ej 2
+
+```
+clf;
+
+  
+
+% Dummy Data
+
+t = linspace(0,12,100);
+
+w = 2*pi; phi = pi/2;
+
+  
+
+experimento  = NaN(1,length(t));
+
+for i=1:length(t)
+
+    if mod(i,11) == 0
+
+    experimento(i) = rand*4-2;
+
+    end
+
+end
+
+  
+
+% Actual code
+
+  
+
+hold on;
+
+plot(t, sin(w*t+phi), 'k-', 'DisplayName','sin(w*t+phi)');
+
+ylabel('x(cm)');
+
+xlabel('t(s)');
+
+title('Resultado del ejercicio 5');
+
+scatter(t,experimento, 'DisplayName','Experimento');
+
+legend show;
+
+hold off;
+```
