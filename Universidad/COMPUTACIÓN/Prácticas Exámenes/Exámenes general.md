@@ -184,7 +184,9 @@ Skip
 
 # EX Ejemplo
 
-## Ej 2
+## Ej 3
+
+replicar gráfica
 
 ```
 clf;
@@ -233,3 +235,44 @@ legend show;
 
 hold off;
 ```
+
+## Ej 4
+
+replicar operaciones simbólicas
+
+```
+syms vo a t xo v x;
+
+vt = vo + a*t;
+
+xt = xo + int(vt, t, 0, t);
+
+  
+
+disp(xt)
+
+  
+
+td = (v-vo)/a;
+
+xv= subs(xt,t,td);
+
+  
+
+xv = simplify(xv);
+
+  
+
+disp(xv)
+
+  
+
+res = solve(x==xv, v);
+
+  
+
+disp(res)
+```
+
+## Ej 5
+
