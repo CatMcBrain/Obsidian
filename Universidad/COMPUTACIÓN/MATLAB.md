@@ -46,7 +46,7 @@ Must use in all **non matrix** operations.
 ```
 syms y(x); % declares a y function with variable x (or declares just a variable to solve in Equations)
 
-int(lim_o,lim_f,x);
+int(expr, var, lim_o,lim_f);
 diff(f,x,n); % df/dx. Order n
 gradient(f, [x,y]); % Gradient of the variables choosed for a f
 taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3

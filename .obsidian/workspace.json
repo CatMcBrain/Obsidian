@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "646e3b23a4bd8fb9",
+  "active": "9f0de43eb9c0d1b7",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/C Code.md",
-    "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Categorías/Backup/Love Journal.md",
     "Categorías/Shopping/Shopping.md",
     "Notes/weight.txt",
