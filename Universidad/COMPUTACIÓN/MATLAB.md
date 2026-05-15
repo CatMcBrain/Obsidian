@@ -212,7 +212,7 @@ grid on; % Grid
 axis equal; % Both axis will be of the same scale
 
 legend show;
-	% add 'DisplayName' to your plot() of the functions you want the name of in the legend
+	% add plot(..., 'DisplayName', 'myname') for the functions you want the name of in the legend
 ```
 
 ##### Plot style
