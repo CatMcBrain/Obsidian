@@ -208,6 +208,9 @@ title("Title"); % Title of graph
 xlim([-1 5]); % Axis limits
 grid on; % Grid
 axis equal; % Both axis will be of the same scale
+
+legend show;
+	% add 'DisplayName' to your plot() of the functions you want the name of in the legend
 ```
 
 ##### Plot style
