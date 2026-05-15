@@ -75,6 +75,7 @@ v = [1,2,3,4]
 M = [1, 2, 3 ; 4, 5, 6 ] ;
 
 M(2) = 2;
+e = NaN(1,5); % creates empty matriz from 1 to 5
 
 length(v);
 size(M); % [rows,cols]
