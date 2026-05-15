@@ -74,6 +74,8 @@ isprime(n)  %condición si es primo o no
 v = [1,2,3,4]
 M = [1, 2, 3 ; 4, 5, 6 ] ;
 
+M(2) = 2;
+
 length(v);
 size(M); % [rows,cols]
 ```
