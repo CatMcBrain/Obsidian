@@ -68,8 +68,9 @@ Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero 
 Cita confirmada en HOSPITAL CLINICO SAN CARLOS el 28/09/2027 a las 8:30. H0S165 - PUERTA I BAJA SUR SALA-B165. Si no puede acudir llame por favor al 917059100
 ```
 
-Acabé diciendo por el grupo lo del retraso de la cita y lo mal que estaba por ello, sin contar de qué era, obviamente. Con razón, algunas se asustaron un poco pensando que era alguna enfermedad grave o que me estaba muriendo, y la verdad es que fue inesperado para mí. Suena extremo o feo, pero no me había imaginado que les podría afectar tanto que me muriese o que les importase tanto, aunque luego sé qu
+Acabé diciendo por el grupo lo del retraso de la cita y lo mal que estaba por ello, sin contar de qué era, obviamente. Con razón, algunas se asustaron un poco pensando que era alguna enfermedad grave o que me estaba muriendo, y la verdad es que fue inesperado para mí. Suena extremo o feo, pero no me había imaginado que les podría afectar tanto que me muriese o que les importase tanto, aunque luego en el fondo sé que sí. Mi corazón dió un vuelco cuando las vi preocuparse tanto y hasta Sara dijo que se puso a llorar del miedo de si iba a morir. Lo siento muchísimo por ellas, pero es algo que me impactó y me hizo reflexionar mucho; e igual me hacía falta darme cuenta de lo que importaba. Aún a veces no puedo evitar pensar que ellas tienen su propia vida juntas en La Peseta, y yo soy ocasional o secundaria, pero sé que ellas no lo ven así. Las quiero mucho.
 
+## 17/03/2026
 Está Estrella aqui (17/03/2026). 
 - Vamos a jugar a fila filo (las arañitas)
       0- 3 (gana amor). 2-3 (gana amor)
