@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,14 +227,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "646e3b23a4bd8fb9",
+  "active": "9f0de43eb9c0d1b7",
   "lastOpenFiles": [
-    "Categorías/Backup/Love Journal.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
+    "Notes/weight.txt",
+    "Categorías/Backup/Love Journal.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Categorías/Shopping/Shopping.md",
-    "Notes/weight.txt",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/simul.png",
     "Universidad/COMPUTACIÓN/PEC/code/ejercicio_2/2026-04-21 21-01-27.png",
