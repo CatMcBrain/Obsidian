@@ -68,7 +68,7 @@ Me acaban de dar cita para septiembre de 2027 en el clínico san carlos, quiero 
 Cita confirmada en HOSPITAL CLINICO SAN CARLOS el 28/09/2027 a las 8:30. H0S165 - PUERTA I BAJA SUR SALA-B165. Si no puede acudir llame por favor al 917059100
 ```
 
-A
+Acabé diciendo por el grupo lo del retraso de la cita y lo mal que estaba por ello, 
 
 Está Estrella aqui (17/03/2026). 
 - Vamos a jugar a fila filo (las arañitas)
