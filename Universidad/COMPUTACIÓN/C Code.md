@@ -239,6 +239,7 @@ else{
 }
 
 // conditions: a == b , a >= b, a=='t' ...
+// if((foo)&&(foobar))
 ```
 
 #### Switch
