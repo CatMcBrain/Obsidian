@@ -181,10 +181,13 @@ fcontour3(); $ Líneas de nivel en 3D
 ```
 ##### Mallas
 ```
-% Defino una malla
+%% Defino una malla
 [X,Y] = meshgrid(x,y) % Cuadrícula 3D
-Z = foo;
+	% x, y son vectores que definen los limites de la malla (eg. x=0:0.1:10)	
+
+Z = <zdata>;
 surf(X,Y,Z); % mostrar 
+
 colorbar; % gradiente de colores
 
 % Otros ----
