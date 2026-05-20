@@ -186,12 +186,12 @@ fcontour3(); $ Líneas de nivel en 3D
 	% x, y son vectores que definen los limites de la malla (eg. x=0:0.1:10)	
 
 Z = <zdata>;
-surf(X,Y,Z); % mostrar 
+mesh(X,Y,Z); % mostrar 
 
 colorbar; % gradiente de colores
 
 % Otros ----
-mesh(); % malla no cuadriculada
+surf(); % malla con red "rellena" por superficie
 quiver(); % vectores
 ```
 
