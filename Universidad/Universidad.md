@@ -114,12 +114,22 @@
 	- **PEC1**
 		- **tex**
 
-	- **Sim1**
-		- **T1**
+	- **Sims**
+		- **Sim1**
+			- **tex**
 
-		- **T2**
+		- **Sim2**
+			- **Diodo**
 
-		- **tex**
+			- **tex**
+				- **img**
+
+		- **SimEXTRA**
+			- **T1**
+
+			- **T2**
+
+			- **tex**
 
 - **COMPUTACIÓN**
 	- **C**
@@ -136,6 +146,7 @@
 
 	- **Prácticas Exámenes**
 		- [[Exámenes general]]
+	- [[Untitled]]
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
@@ -145,6 +156,8 @@
 
 	- **PEC 1**
 		- **tex**
+
+	- **PEC2**
 
 
 %% End Waypoint %%
