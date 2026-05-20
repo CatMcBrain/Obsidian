@@ -136,6 +136,7 @@
 		- **prime numbers**
 
 	- [[C Code]]
+	- [[Cheatsheet]]
 	- [[MATLAB]]
 	- **PEC**
 		- **code**
@@ -146,7 +147,6 @@
 
 	- **Prácticas Exámenes**
 		- [[Exámenes general]]
-	- [[Untitled]]
 - **Fórmulas**
 
 - **MÉTODOS MATEMÁTICOS I**
