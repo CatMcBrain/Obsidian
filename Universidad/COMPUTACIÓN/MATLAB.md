@@ -214,6 +214,8 @@ xlim([-1 5]); % Axis limits
 grid on; % Grid
 axis equal; % Both axis will be of the same scale
 
+xline(xvalue); % Vertical line on point x
+
 legend show;
 	% add plot(..., 'DisplayName', 'myname') for the functions you want the name of in the legend
 ```
