@@ -352,3 +352,46 @@ int main(){
 
 }
 ```
+
+### ej disco
+
+```
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+  
+// N puntos aleatorios en un disco de radio 1 con masa homogenea y calcular momento de inercia alrededor de su centro a partir de sus posicones
+  
+const float M = 10;
+  
+float m_i_MC(int N){
+    float I = 0;
+    float x[N];
+    float y[N];
+    int count = 0;
+    // se generan números aleatorios del 0 al 1:
+    while(count<N){
+        x[count] = (rand()%300-100)*0.01;
+        y[count] = (rand()%300-100)*0.01;
+        if (x[count]*x[count]+y[count]*y[count] <= 1){
+            printf("[%f,%f], ",x[count],y[count]);
+            count += 1;
+        }
+    }
+    for(int i=0;i<N;i++){
+        I+= (M/N)*(x[i]*x[i]+y[i]*y[i]);
+    }
+    return I;
+}
+  
+int main(int argc, char *argv[]){
+  
+    srand(time(NULL));
+  
+    float I = m_i_MC(30);
+    printf("\n%f",I);
+  
+    return 0;
+}
+```
+
