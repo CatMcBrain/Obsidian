@@ -48,5 +48,6 @@ syms a b c positive;
 ## Gráficas
 
 ```
-
+view(3) % View in 3D
+colormap("grey")
 ```
