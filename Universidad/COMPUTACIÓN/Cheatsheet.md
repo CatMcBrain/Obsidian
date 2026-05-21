@@ -18,7 +18,7 @@ int num = atoi(argv[1]);
 
 # MATLAB
 
-
+## Operaciones
 
 ```
 diff(f,x,n); % df/dx (order n)
@@ -27,3 +27,8 @@ taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3
 limit(f,x, n) % limit of f when x tends to n
 ```
 
+## Syms
+Declarar que son positivas en caso de que sean variables físicas;
+```
+syms a b c positive;
+```
