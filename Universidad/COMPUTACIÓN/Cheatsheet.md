@@ -17,7 +17,14 @@ int num = atoi(argv[1]);
 
 ## Random numbers within Range
 ```
-#include
+#include<stdlib.h>
+#include<time.h>
+
+int main(){
+	srand(time(NULL));
+	
+	float a = rand()%(max + 1 - min) +min;
+}
 ```
 
 # MATLAB
