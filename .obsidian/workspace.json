@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9f0de43eb9c0d1b7",
+  "active": "621bb92d98c9f4c7",
   "lastOpenFiles": [
     "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Cheatsheet.md",
