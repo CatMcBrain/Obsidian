@@ -14,3 +14,10 @@ To pass a **number**, it's needed to convert the string to a number with `atoi()
 ```
 int num = atoi(argv[1]);
 ```
+
+
+# MATLAB
+
+```
+diff(f,x,n); % df/dx
+```
