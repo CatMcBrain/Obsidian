@@ -23,7 +23,7 @@ int num = atoi(argv[1]);
 ```
 diff(f,x,n); % df/dx (order n)
 
-taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3
+taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3 (orden 3 es hasta x^2, ya que uno es x^0)
 limit(f,x, n) % limit of f when x tends to n
 ```
 
