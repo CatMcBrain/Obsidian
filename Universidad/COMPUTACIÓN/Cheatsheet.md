@@ -23,7 +23,8 @@ int num = atoi(argv[1]);
 int main(){
 	srand(time(NULL));
 	
-	float a = rand()%(max + 1 - min) +min;
+	float a = rand()/max // int de 0 a max de 1 en 1
+	// + LIM MINIMO: rand()%(max + 1 - min) +min;
 }
 ```
 
