@@ -19,7 +19,7 @@ int num = atoi(argv[1]);
 # MATLAB
 
 ```
-diff(f,x,n); % df/dx
+diff(f,x,n); % df/dx (order n)
 
 taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3
 limit(f,x, n) % limit of f when x tends to n
