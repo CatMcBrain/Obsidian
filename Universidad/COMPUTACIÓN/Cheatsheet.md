@@ -44,3 +44,9 @@ Declarar que son positivas en caso de que sean variables físicas;
 ```
 syms a b c positive;
 ```
+
+## Gráficas
+
+```
+
+```

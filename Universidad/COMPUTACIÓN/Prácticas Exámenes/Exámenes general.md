@@ -398,42 +398,23 @@ int main(int argc, char *argv[]){
 ### Ej grafica
 ```
 x = -2:0.1:2;
-
 y = -2:0.1:2;
 
-  
-
 [X,Y] = meshgrid(x,y);
-
   
-
 Z = X.^2/4 - Y.^2/9;
-
 Z0 = zeros(41);
-
   
-
 hold on
-
   
-
 surf(X,Y,Z)
-
 surf(X,Y,Z0)
-
   
-
 legend('geometria','z=0')
-
   
-
 xlabel('x')
-
 ylabel('y')
-
 zlabel('z')
-
 colormap("gray")
-
 view(3)
 ```
