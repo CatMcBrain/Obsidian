@@ -267,6 +267,11 @@ x= input("text to prompt");
 ```
 
 ## Functions
+```
+function output = functionName(input)  
+	% code here  
+end
+```
 ## Extra
 
 #### Save/Load
