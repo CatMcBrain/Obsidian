@@ -108,7 +108,7 @@ eye(d) % identidad de dimensión d
 M(m,n) % cuadrado mágico, suma filas = suma cols
 ```
 
-## Funciones
+## Equations
 ```
 syms x y z % Crea variables simbólicas
 eqn = Ax+by + z == C ;
@@ -266,7 +266,7 @@ end
 x= input("text to prompt");
 ```
 
-# 
+## Functions
 ## Extra
 
 #### Save/Load
