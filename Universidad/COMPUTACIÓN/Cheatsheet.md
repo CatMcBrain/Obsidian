@@ -28,6 +28,50 @@ int main(){
 }
 ```
 
+## Struct
+
+It's a form of object oriented programming. It's a custom **container**. A "variable" with several variables inside.
+```
+struct Name{
+	char foobar[10];
+	int numb;
+	bool isTrue;
+}; // Creating the struct and assigning its variables
+
+// Calling
+struct Name foo1 = {"mhm", 7, false};
+printf("%s", foo1.isTrue);
+```
+They can be organized into **arrays**:
+```
+struct Name foos[] = {foo1, foo2, foo3};
+```
+### Reassigning values**
+```c
+struct Name foo1 = {0}; //set all variables to 0
+
+foo1.numb = 1;
+foo1.isTrue = false;
+strcpy(foobar, "something");
+
+// assign various
+
+foo1 = {"hi", 2, false};
+```
+Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
+#### Typedef
+Define command names:
+```c
+typedef <command> <newname> ;
+
+// Example
+typedef int Number;
+Number x = 1;
+
+typedef char String[10]; //string with 10 bytes
+String word = "hello";
+```
+
 # MATLAB
 
 ## Operaciones

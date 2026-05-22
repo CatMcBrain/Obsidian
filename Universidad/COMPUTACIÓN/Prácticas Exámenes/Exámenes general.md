@@ -419,4 +419,21 @@ colormap("gray")
 view(3)
 ```
 
-## Ej MATLAB función ma
+## Ej MATLAB función matriz
+
+```
+function B = fillmat(N)
+    B = zeros(N);
+  
+    for i=1:N
+        B(1,i) = N+1-i;
+    end
+  
+    for j=2:N;
+        B(j,j-1) = 1;
+    end
+  
+end
+  
+fillmat(10)
+```
