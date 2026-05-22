@@ -51,3 +51,11 @@ syms a b c positive;
 view(3) % View in 3D
 colormap("grey")
 ```
+
+## Functions
+```
+function out = functionName(input)  
+	out = (...)
+	% code here
+end
+```
