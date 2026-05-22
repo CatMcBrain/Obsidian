@@ -46,7 +46,7 @@ They can be organized into **arrays**:
 ```
 struct Name foos[] = {foo1, foo2, foo3};
 ```
-### Reassigning values**
+#### Reassigning values
 ```c
 struct Name foo1 = {0}; //set all variables to 0
 
@@ -59,7 +59,7 @@ strcpy(foobar, "something");
 foo1 = {"hi", 2, false};
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
-#### Typedef
+#### **Typedef**
 Define command names:
 ```c
 typedef <command> <newname> ;
