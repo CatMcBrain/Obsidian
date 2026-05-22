@@ -63,7 +63,8 @@
               "title": "MATLAB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,11 +241,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0492f51c29cf0a24",
+  "active": "621bb92d98c9f4c7",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
     "Universidad/COMPUTACIÓN/Cheatsheet.md",
-    "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/Universidad.md",
     "Notes/weight.txt",
