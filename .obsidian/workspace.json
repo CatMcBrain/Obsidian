@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,12 +241,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "621bb92d98c9f4c7",
+  "active": "df96ae15ddd732af",
   "lastOpenFiles": [
+    "Universidad/COMPUTACIÓN/Cheatsheet.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
     "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
-    "Universidad/COMPUTACIÓN/Cheatsheet.md",
     "Universidad/Universidad.md",
     "Notes/weight.txt",
     "Categorías/Backup/Love Journal.md",

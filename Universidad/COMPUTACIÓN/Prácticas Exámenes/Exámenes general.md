@@ -418,3 +418,5 @@ zlabel('z')
 colormap("gray")
 view(3)
 ```
+
+## Ej MATLAB función ma
