@@ -39,6 +39,12 @@ taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3 (orden 3 es hasta x^
 limit(f,x, n) % limit of f when x tends to n
 ```
 
+#### Matrix indexing
+```
+M(1,2) % 1st row, 2nd column value
+M(:,1) % all rows, 1st column values 
+```
+
 ## Syms
 Declarar que son positivas en caso de que sean variables físicas;
 ```
