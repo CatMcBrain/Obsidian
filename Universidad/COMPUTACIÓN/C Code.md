@@ -91,7 +91,10 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 #### Ternary operator and booleans
 It's a compact if/else checking if something is true, it's useful with bools for outputs:
 ```
+bool isTrue = false;
 
+char str[]  = isTrue ? "true" : 
+printf("%s", isTrue);
 ```
 #### Enum
 Set of named constants of an user-defined "datatype":
