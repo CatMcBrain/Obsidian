@@ -93,8 +93,8 @@ It's a compact if/else checking if something is true, it's useful with bools for
 ```
 bool isTrue = false;
 
-char str[]  = isTrue ? "true" : 
-printf("%s", isTrue);
+char str[]  = isTrue ? "true" : "false";
+printf("%s", str);
 ```
 #### Enum
 Set of named constants of an user-defined "datatype":
