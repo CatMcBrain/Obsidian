@@ -160,9 +160,23 @@ strcpy(foobar, "something");
 
 // assign various
 
-foo1 = {"hi", 2, false};
+foo1 = {"hi", 2, false}; //
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
+
+##### Typedef renaming
+You can rename a struct with typedef, and you wont need to say "struct" when defining one of its time, but instead treat it as a normal type (like int, float...):
+```
+struct foo{
+	int A;
+	float B;
+};
+typedef foo foobar;
+
+// <main>
+
+foobar Name = {1,2.3};
+```
 
 # Pointers and memory
 

@@ -63,8 +63,7 @@
               "title": "Exámenes general"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +241,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "df96ae15ddd732af",
+  "active": "0492f51c29cf0a24",
   "lastOpenFiles": [
-    "Universidad/COMPUTACIÓN/Cheatsheet.md",
     "Universidad/COMPUTACIÓN/MATLAB.md",
-    "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/COMPUTACIÓN/Prácticas Exámenes/Exámenes general.md",
+    "Universidad/COMPUTACIÓN/Cheatsheet.md",
+    "Universidad/COMPUTACIÓN/C Code.md",
     "Universidad/Universidad.md",
     "Notes/weight.txt",
     "Categorías/Backup/Love Journal.md",
