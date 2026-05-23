@@ -30,7 +30,7 @@ int main(){
 
 ## Struct
 
-It's a form of object oriented programming. It's a custom **container**. A "variable" with several variables inside.
+It's a form of "object oriented programming". It's a custom **container**. A "variable" with several variables inside.
 ```c
 struct Name{
 	char foobar[10];
@@ -40,37 +40,48 @@ struct Name{
 
 // Calling
 struct Name foo1 = {"mhm", 7, false};
-printf("%s", foo1.isTrue);
+printf("%d", foo1.isTrue);
 ```
 They can be organized into **arrays**:
 ```
 struct Name foos[] = {foo1, foo2, foo3};
 ```
-#### Reassigning values
+##### **Reassigning values**
 ```c
 struct Name foo1 = {0}; //set all variables to 0
 
 foo1.numb = 1;
 foo1.isTrue = false;
-strcpy(foobar, "something");
+strcpy(foo1.foobar, "something");
 
 // assign various
 
-foo1 = {"hi", 2, false};
+struct Name foo1 = {"hi", 2, false}; 
+// cannot be done after first assignment, it must be done separately like above. If so, it must be done like this:
+foo1 = (struct Name){"hi",2,false};
+// or 
+foo1 = (struct Name){
+	.foobar = "hi",
+	.numb = 2,
+	.isTrue = false,
+}
 ```
-Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
-#### **Typedef**
-Define command names:
-```c
-typedef <command> <newname> ;
+Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`. You can also, full redefine the struct like  in `foo1 = (struct Name){...}`
 
-// Example
-typedef int Number;
-Number x = 1;
-
-typedef char String[10]; //string with 10 bytes
-String word = "hello";
+##### Typedef renaming
+You can rename a struct with typedef, and you wont need to say "struct" when defining one of its time, but instead treat it as a normal type (like int, float...):
 ```
+struct foo{
+	int A;
+	float B;
+};
+typedef struct foo foobar;
+
+// <main>
+
+foobar Name = {1,2.3};
+```
+
 
 # MATLAB
 

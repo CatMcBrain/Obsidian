@@ -71,7 +71,7 @@ float = decimal number (%f)
 double = long float ($lf)
 char = 'single character' (%c)
 char[] = "string" (%s) //a string is an ARRAY of characters
-bool = true/false //you need <stdbool.h>
+bool = true/false () //you need <stdbool.h>
 
 MODIFIERS:
 	%.2f : number of decimals
@@ -134,7 +134,7 @@ printf("%d ",array[0][2]); //desired coordinates
 
 # Struct
 
-It's a form of object oriented programming. It's a custom **container**. A "variable" with several variables inside.
+It's a form of "object oriented programming". It's a custom **container**. A "variable" with several variables inside.
 ```c
 struct Name{
 	char foobar[10];
@@ -165,9 +165,9 @@ struct Name foo1 = {"hi", 2, false};
 foo1 = (struct Name){"hi",2,false};
 // or 
 foo1 = (struct Name){
-	.foobar = "hi";
-	.numb = 2;
-	.isTrue = false;
+	.foobar = "hi",
+	.numb = 2,
+	.isTrue = false,
 }
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`. You can also, full redefine the struct like  in `foo1 = (struct Name){...}`
@@ -179,7 +179,7 @@ struct foo{
 	int A;
 	float B;
 };
-typedef foo foobar;
+typedef struct foo foobar;
 
 // <main>
 
