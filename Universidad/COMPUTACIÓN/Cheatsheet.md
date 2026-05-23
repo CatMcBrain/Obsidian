@@ -82,6 +82,14 @@ typedef struct foo foobar;
 foobar Name = {1,2.3};
 ```
 
+#### Ternary operator and booleans
+It's a compact if/else checking if something is true, it's useful with bools for outputs:
+```
+bool isTrue = false;
+
+char str[]  = isTrue ? "true" : "false";
+printf("%s", str);
+```
 
 # MATLAB
 
