@@ -144,7 +144,7 @@ struct Name{
 
 // Calling
 struct Name foo1 = {"mhm", 7, false};
-printf("%s", foo1.isTrue);
+printf("%d", foo1.isTrue);
 ```
 They can be organized into **arrays**:
 ```
@@ -156,11 +156,11 @@ struct Name foo1 = {0}; //set all variables to 0
 
 foo1.numb = 1;
 foo1.isTrue = false;
-strcpy(foobar, "something");
+strcpy(foo1.foobar, "something");
 
 // assign various
 
-foo1 = {"hi", 2, false}; 
+struct Name foo1 = {"hi", 2, false}; 
 // cannot be done after first assignment, it must be done separately like above. If so, it must be done like this:
 foo1 = (struct Name){"hi",2,false};
 // or 
