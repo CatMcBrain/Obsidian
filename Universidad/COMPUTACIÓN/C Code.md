@@ -88,9 +88,10 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 
 - Unless you define a **global**, which are defined outside functions.
 
-#### Booleans
+#### Ternary operator and booleans
+It's a compact if/else checking if something is true, it's useful with bools for outputs:
 ```
-// If you want 
+
 ```
 #### Enum
 Set of named constants of an user-defined "datatype":
