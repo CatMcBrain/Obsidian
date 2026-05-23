@@ -31,7 +31,7 @@ int main(){
 ## Struct
 
 It's a form of object oriented programming. It's a custom **container**. A "variable" with several variables inside.
-```
+```c
 struct Name{
 	char foobar[10];
 	int numb;
