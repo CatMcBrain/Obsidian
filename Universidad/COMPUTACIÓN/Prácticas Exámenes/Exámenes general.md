@@ -437,3 +437,41 @@ end
   
 fillmat(10)
 ```
+
+## Implementar rotación con struct
+```
+#include<stdio.h>
+#include<math.h>
+  
+struct Vector3d {
+    double x,y,z;
+};
+
+void rot(double theta, struct Vector3d *v){
+    double R[3][3] = {{1,0,0},{0,cos(theta),-sin(theta)},{0,sin(theta),cos(theta)}}
+    double vec[3] = {(*v).x, (*v).y, (*v).z};
+    (*v).x = 0
+    (*v).y = 0;
+    (*v).z = 0;
+    for(int i=0; i<3;i++){
+            (*v).x += R[0][i]*vec[i];
+            (*v).y += R[1][i]*vec[i];
+            (*v).z += R[2][i]*vec[i];
+    }
+}
+  
+int main(int argc, char *argv[]){
+  
+    struct Vector3d v = {1,2,3};
+    double theta = 3.14/3;
+  
+    rot(theta, &v);
+  
+    printf("%lf ", v.x);
+    printf("%lf ", v.y);
+    printf("%lf ", v.z);
+
+
+    return 0;
+}
+```
