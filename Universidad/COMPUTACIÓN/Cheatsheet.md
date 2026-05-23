@@ -96,7 +96,10 @@ syms a b c positive real;
 ```
 
 ### isAlways
-Checks if a condition is met matematically and outputs logical 1 or 0
+Checks if a condition is met matematically and outputs logical 1 or 0:
+```
+isAlways(cond)
+```
 
 ## Gráficas
 
