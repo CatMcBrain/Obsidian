@@ -135,7 +135,7 @@ printf("%d ",array[0][2]); //desired coordinates
 # Struct
 
 It's a form of object oriented programming. It's a custom **container**. A "variable" with several variables inside.
-```
+```c
 struct Name{
 	char foobar[10];
 	int numb;
@@ -162,13 +162,19 @@ strcpy(foobar, "something");
 
 foo1 = {"hi", 2, false}; 
 // cannot be done after first assignment, it must be done separately like above. If so, it must be done like this:
-foo1 = (struct Name){"hi",w,false};
+foo1 = (struct Name){"hi",2,false};
+// or 
+foo1 = (struct Name){
+	.foobar = "hi";
+	.numb = 2;
+	.isTrue = false;
+}
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`. You can also, full redefine the struct like  in `foo1 = (struct Name){...}`
 
 ##### Typedef renaming
 You can rename a struct with typedef, and you wont need to say "struct" when defining one of its time, but instead treat it as a normal type (like int, float...):
-```c
+```
 struct foo{
 	int A;
 	float B;
