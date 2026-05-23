@@ -71,7 +71,7 @@ float = decimal number (%f)
 double = long float ($lf)
 char = 'single character' (%c)
 char[] = "string" (%s) //a string is an ARRAY of characters
-bool = true/false () //you need <stdbool.h>
+bool = true/false (%d) //you need <stdbool.h>
 
 MODIFIERS:
 	%.2f : number of decimals
@@ -88,6 +88,10 @@ Each variable exists within a scope *"{}"*, and you can't reuse a variable name 
 
 - Unless you define a **global**, which are defined outside functions.
 
+#### Booleans
+```
+// If you want 
+```
 #### Enum
 Set of named constants of an user-defined "datatype":
 ```
