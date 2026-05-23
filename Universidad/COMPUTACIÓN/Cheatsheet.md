@@ -90,9 +90,9 @@ M(:,1) % all rows, 1st column values
 ```
 
 ## Syms
-Declarar que son positivas en caso de que sean variables físicas;
+Declarar que son positivas/reales en caso de que sean variables físicas;
 ```
-syms a b c positive;
+syms a b c positive real;
 ```
 
 ## Gráficas
