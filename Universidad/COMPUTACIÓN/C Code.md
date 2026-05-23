@@ -160,13 +160,15 @@ strcpy(foobar, "something");
 
 // assign various
 
-foo1 = {"hi", 2, false}; //
+foo1 = {"hi", 2, false}; 
+// cannot be done after first assignment, it must be done separately like above. If so, it must be done like this:
+foo1 = (Name){"hi,}
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
 
 ##### Typedef renaming
 You can rename a struct with typedef, and you wont need to say "struct" when defining one of its time, but instead treat it as a normal type (like int, float...):
-```
+```c
 struct foo{
 	int A;
 	float B;
