@@ -162,7 +162,7 @@ strcpy(foobar, "something");
 
 foo1 = {"hi", 2, false}; 
 // cannot be done after first assignment, it must be done separately like above. If so, it must be done like this:
-foo1 = (Name){"hi,}
+foo1 = (struct Name){"hi",w,false};
 ```
 Notice that to reassign **strings** it's needed to use `strcpy` from `<string.h>`.
 
