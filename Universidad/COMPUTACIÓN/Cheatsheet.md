@@ -109,3 +109,9 @@ function out = functionName(input)
 	% code here
 end
 ```
+
+## Printing
+Like in C:
+```
+fprintf("text %f", foo);
+```
