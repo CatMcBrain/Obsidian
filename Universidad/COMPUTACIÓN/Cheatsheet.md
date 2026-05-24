@@ -144,7 +144,7 @@ set(gca, 'xticklabel', arrayOfLabels);
 #### Scatter
 ```
 scatter(x,y,size,color,'filled')
-% size  defined by data 
+% size and color defined by data 
 ```
 
 ## Functions
@@ -166,6 +166,6 @@ fprintf("text %f", foo);
 % Minimum and index
 [ymin yind] = min(y)
 
-rand
+rand()
 randn()
 ```
