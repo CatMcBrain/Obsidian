@@ -140,3 +140,9 @@ Like in C:
 ```
 fprintf("text %f", foo);
 ```
+
+### Misc
+```
+% Minimum and index
+[ymin yind] = min(y)
+```
