@@ -152,6 +152,8 @@ text(x, y, 'text')
 histogram(data, n) % number of bins
 pie(data) % piechart
 
+axis equal (equal axis)
+
 % Bar chart 
 bar(data);
 set(gca, 'xticklabel', arrayOfLabels);
