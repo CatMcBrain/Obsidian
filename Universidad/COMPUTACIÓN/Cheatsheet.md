@@ -125,6 +125,7 @@ isAlways(cond)
 ```
 view(3) % View in 3D
 colormap("grey")
+clrbar = colorbar() % to be able to make a legend
 
 % Text on Graph
 text(x, y, 'text')
@@ -139,7 +140,11 @@ bar(data);
 set(gca, 'xticklabel', arrayOfLabels);
 ```
 
-#### Sc
+#### Scatter
+```
+scatter(x,y,size,color,'filled')
+% size defined by data and color 
+```
 
 ## Functions
 ```
