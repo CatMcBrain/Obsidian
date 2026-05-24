@@ -150,6 +150,7 @@ fprintf("text %f", foo);
 text(x, y, 'text')
 
 histogram(data, n) % number of bins
+pie(data) % piechart
 
 % Bar chart 
 bar(data);
