@@ -178,6 +178,6 @@ fprintf("text %f", foo);
 % Minimum and index
 [ymin yind] = min(y)
 
-randn(n) % devuelve matriz nxn aleatoriade dist normal. Si se omite el "()", da un escalar
+randn(n) % devuelve matriz nxn aleatoria de dist normal (0 con desviacion tipica 1). % Si se omite el "()", da un escalar
 rand() % igual pero de dist. uniforme entre (0,1)
 ```
