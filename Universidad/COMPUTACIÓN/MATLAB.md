@@ -26,7 +26,7 @@ disp();
 
 #### Variable collection
 ```
-var = cell(0:4);
+var = cell(0:4); % cell array is a multi data array {1,2,3; 'text', rand()}
 var{1} = foo; % accesses first index, in this case, 0
 ```
 

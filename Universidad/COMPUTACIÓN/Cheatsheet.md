@@ -102,6 +102,15 @@ taylor(f,x,0,'Order',3) % taylor centrado en x=0 de orden 3 (orden 3 es hasta x^
 limit(f,x, n) % limit of f when x tends to n
 ```
 
+## Matrices
+
+```
+
+
+length(v);
+size(M); % [rows,cols]
+```
+
 #### Matrix indexing
 ```
 M(1,2) % 1st row, 2nd column value
