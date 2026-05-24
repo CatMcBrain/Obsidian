@@ -125,6 +125,7 @@ isAlways(cond)
 ```
 view(3) % View in 3D
 colormap("grey")
+
 clrbar = colorbar() % to be able to make a legend
 
 % Text on Graph
@@ -143,7 +144,7 @@ set(gca, 'xticklabel', arrayOfLabels);
 #### Scatter
 ```
 scatter(x,y,size,color,'filled')
-% size defined by data and color 
+% size  defined by data 
 ```
 
 ## Functions
@@ -165,5 +166,6 @@ fprintf("text %f", foo);
 % Minimum and index
 [ymin yind] = min(y)
 
-
+rand
+randn()
 ```
