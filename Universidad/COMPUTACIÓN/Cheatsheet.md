@@ -125,7 +125,21 @@ isAlways(cond)
 ```
 view(3) % View in 3D
 colormap("grey")
+
+% Text on Graph
+text(x, y, 'text')
+
+histogram(data, n) % number of bins
+pie(data) % piechart
+
+axis equal (equal axis)
+
+% Bar chart 
+bar(data);
+set(gca, 'xticklabel', arrayOfLabels);
 ```
+
+#### Sc
 
 ## Functions
 ```
@@ -146,15 +160,5 @@ fprintf("text %f", foo);
 % Minimum and index
 [ymin yind] = min(y)
 
-% Text on Graph
-text(x, y, 'text')
 
-histogram(data, n) % number of bins
-pie(data) % piechart
-
-axis equal (equal axis)
-
-% Bar chart 
-bar(data);
-set(gca, 'xticklabel', arrayOfLabels);
 ```
