@@ -149,5 +149,9 @@ fprintf("text %f", foo);
 % Text on Graph
 text(x, y, 'text')
 
-histogram(data, n) % number of bars
+histogram(data, n) % number of bins
+
+% Bar chart 
+bar(data);
+set(gca, 'xticklabel', arrayOfLabels);
 ```
