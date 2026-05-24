@@ -145,4 +145,7 @@ fprintf("text %f", foo);
 ```
 % Minimum and index
 [ymin yind] = min(y)
+
+% Text on Graph
+text(x, y, 'text')
 ```
