@@ -148,4 +148,6 @@ fprintf("text %f", foo);
 
 % Text on Graph
 text(x, y, 'text')
+
+histogram(data, n) % number of bars
 ```
