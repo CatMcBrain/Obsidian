@@ -125,8 +125,10 @@ isAlways(cond)
 ```
 view(3) % View in 3D
 colormap("grey")
+grid on
 
-clrbar = colorbar() % to be able to make a legend
+clrbar = colorbar() % to be able to make a legend:
+ylabel(clrbar, 'title')
 
 % Text on Graph
 text(x, y, 'text')
