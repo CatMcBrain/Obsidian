@@ -105,7 +105,8 @@ limit(f,x, n) % limit of f when x tends to n
 ## Matrices
 
 ```
-
+M(:,1) % all rows, 1st column values 
+% M(:) lists all matrix values as a vector 
 
 length(v);
 size(M); % [rows,cols]
@@ -178,5 +179,5 @@ fprintf("text %f", foo);
 [ymin yind] = min(y)
 
 rand()
-randn()
+randn(n) % de
 ```
